@@ -7,7 +7,6 @@ character5: FORGIVE ME.
 
 [Page 02.png]
 character4: UNCLE.
-NARRATION: SFX: AH HA HA HA HA
 
 [Page 03.png]
 character24: KAYO!

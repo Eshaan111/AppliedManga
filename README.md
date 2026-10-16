@@ -23,7 +23,7 @@ Before Magi, I tried direct Qwen transcripts, separate YOLO bubbles, Paddle OCR,
 - **Frozen DINO narration head:** I caught more narration, but also labelled too much speech as narration.
 - **Frozen Magi narration MLP:** I got too many false narration labels.
 - **Multimodal narration Transformer:** I thought combining visuals, DeBERTa semantics, geometry and positional context would be a big breakthrough. But when I checked the pages, the contour approach gave me better results, so I kept that instead.
-- **Padded-DINO narration:** I added surrounding visuals; the untuned repeated-seed result did not improve.
+- **Padded-DINO narration:** I added more of the surrounding image, but did not get an improvement in the untuned repeated-seed runs.
 - **Bubble-crop and DeBERTa tuning:** I added more context, but preferred the contour results when checking pages myself.
 - **Qwen role LoRA:** I got too few usable outputs; I do not have confirmed completed runs for the balanced/visual variants.
 - **Manga109 association head:** I set up training, but do not have a verified trained head.
@@ -31,9 +31,9 @@ Before Magi, I tried direct Qwen transcripts, separate YOLO bubbles, Paddle OCR,
 - **Contour/context MLP:** I missed too many narration examples.
 - **Contour CatBoost:** I caught more narration, but still had too many false positives.
 
-I kept the two-block crop checkpoint. The [experiment guide](FINETUNING-EXPERMENTS/README.md) has more detail, including which runs were unfinished. EntityClustering was for inspecting the pipeline, not another model I trained.
+I kept the two-block crop checkpoint. I recorded more detail, including unfinished runs, in the [experiment guide](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/README.md). EntityClustering was for inspecting the pipeline, not another model I trained.
 
-While looking for other character models, I later found [Re:Cognize](https://github.com/eternal-f1ame/Re-Cognize), which evaluates MagiV2 alongside other backbones. Its [paper, Section 4 and Tables 12–14](https://arxiv.org/html/2609.34032v1) reports limited gains from encoder-side adaptation. On Re:Verse, released MagiV2 scored 84.2 mAP / 91.0 Rank-1; fine-tuning scored 84.7 / 91.7, and adding memory scored 84.8 / 90.1. After seeing that, I decided I should probably stop spending so much time looking for gains from more fine-tuning and focus on grouping and speaker assignment. Fine-tuning did help a little in their tests, and their baseline trains a BNNeck with the backbone frozen, unlike my crop-block tuning. I still kept my two-block checkpoint.
+While looking for other character models, I later found [Re:Cognize](https://github.com/eternal-f1ame/Re-Cognize), which evaluates MagiV2 alongside other backbones. In its [paper, Section 4 and Tables 12–14](https://arxiv.org/html/2609.34032v1), I found that adapting the encoder only gave small improvements. On Re:Verse, released MagiV2 scored 84.2 mAP / 91.0 Rank-1; fine-tuning scored 84.7 / 91.7, and adding memory scored 84.8 / 90.1. After seeing that, I decided I should probably stop spending so much time looking for gains from more fine-tuning and focus on grouping and speaker assignment. Fine-tuning did help a little in their tests, and their baseline trains a BNNeck with the backbone frozen, unlike my crop-block tuning. I still kept my two-block checkpoint.
 
 ## What slowed me down
 
@@ -43,7 +43,7 @@ I used frozen encoders, small classifiers, LoRA and cached features to keep expe
 
 **Getting enough labelled examples was another challenge.** There were 80 development sequences, with relatively few narration examples. Some validation sets contained only 12 or 13 narration examples, making the metrics sensitive to a handful of mistakes.
 
-The supplied images and transcripts were useful. Box-level training also needed text-to-transcript matches, visible-speaker links and appearance identities. I built these labels using OCR matching, existing model links and manual checks. That took extra work, and I could not confidently label every example.
+I could use the supplied images and transcripts, but training on individual boxes also needed matches between boxes and transcript lines, links to visible speakers, and labels showing which character crops were the same person. I built these labels using OCR matching, existing model links and manual checks. That took extra work, and I could not confidently label every example.
 
 That limited how much I could try, although it does not explain away the mistakes still in the pipeline.
 
@@ -72,58 +72,67 @@ flowchart TD
     T --> R
     R --> K["Raw transcript and audits"]
     K --> L["Optional final Gemma OCR correction"]
-    L --> M["Final transcript JSONL"]
+    L --> Z["Final SFX text filter"]
+    Z --> M["Final transcript JSONL"]
 ```
 
-[run_sequence_inference.py](Final-Pipeline-Code-Inference/run_sequence_inference.py) selects test or development from TaskData/sequences.json. Reference labels are not inference input.
+I run [run_sequence_inference.py](Magi%20-----%20FINAL%20PIPELINE/Final-Pipeline-Code-Inference/run_sequence_inference.py) with the test or development split from TaskData/sequences.json. I do not pass reference labels into inference.
 
 ## How the pieces came together
 
 Once I had Magi detections and Paddle OCR, I could recover text, but not yet a reliable transcript. Watermarks, links, sound effects and drawing details also became OCR. Before deciding who said something, I needed to decide whether it belonged in the transcript at all.
 
-I compared dictionary checks, statistical gibberish detection and OCR agreement. Names, reactions and noisy lettering made these unreliable. That led me to local **Gemma 3 4B IT**, given one box's Paddle text and examples of Text versus Artifact. It sees neither the image nor neighboring dialogue at this stage. Punctuation-only Paddle text is kept directly; empty-Paddle boxes can use Magi punctuation only when the bubble-region check supports it. Ordinary Magi words are not a fallback. Unexpected Gemma answers stay for review.
+I compared dictionary checks, statistical gibberish detection and OCR agreement. Names, reactions and noisy lettering made these unreliable. That led me to local **Gemma 3 4B IT**. I give it one box's Paddle text and examples of Text versus Artifact, without the image or neighboring dialogue. I keep punctuation-only Paddle text directly. If Paddle finds nothing, I only use Magi punctuation when the bubble-region check supports it; I do not fall back to ordinary Magi words. I keep unexpected Gemma answers for review.
 
 This gave me a cleaner set of text boxes, but exposed another problem: **one connected speech bubble could become several detections and separate transcript lines**. I started inspecting contours to understand which fragments belonged together. Individual enclosing boundaries were useful, but faint lines and connected bubbles often prevented a complete outline.
 
-So I stopped requiring a perfect outline just to group the text. Overlapping original YOLO rectangles become grouping candidates when at least one individual boundary remains unresolved; verified neighbors can join. Padding alone cannot create an overlap. I match those candidates to surviving Magi/Paddle texts, preserve their IDs and concatenate them in Magi reading order. Unmatched text stays separate, and every surviving box must appear exactly once. A closed merged outline is not required. [contour_grouping.py](Final-Pipeline-Code-Inference/contour_grouping.py) records the members and reasons.
+So I stopped requiring a perfect outline just to group the text. I consider overlapping original YOLO rectangles when I cannot find an individual boundary for at least one member; already verified neighbors can join too. I do not count overlaps created only by padding. I match those candidates to surviving Magi/Paddle texts, preserve their IDs and concatenate them in Magi reading order. I leave unmatched text separate and make sure every surviving box appears exactly once. I do not require a closed outline around the merged group. [contour_grouping.py](Magi%20-----%20FINAL%20PIPELINE/Final-Pipeline-Code-Inference/contour_grouping.py) records the members and reasons.
 
 **While working on joined bubbles, I noticed something else:** many narration lines had no surrounding bubble, or sat inside a square or rectangular caption. The contours I was already examining for grouping could also provide evidence about speech versus narration.
 
-I had already tried learning that distinction. My [multimodal narration model](FINETUNING-EXPERMENTS/NarrationImbalanceTraining/README.md) combined Magi text-object visual features, **DeBERTa semantics from the previous two same-page OCR boxes plus the target**, normalized geometry and tail features. I fused these into 256 dimensions, added learned sequence-position and page embeddings, and used a two-layer Transformer to classify all boxes in a three-page sequence together. Because narration was less common, I sampled whole narration-containing sequences more often and used class-balanced weighted cross-entropy, with effective-number weights calculated from the training split only. I also tried repeated seeds and Optuna. Later variants added padded DINO crops and bubble-crop visuals.
+I had already tried learning that distinction. My [multimodal narration model](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/NarrationImbalanceTraining/README.md) combined Magi text-object visual features, **DeBERTa semantics from the previous two same-page OCR boxes plus the target**, normalized geometry and tail features. I fused these into 256 dimensions, added learned sequence-position and page embeddings, and used a two-layer Transformer to classify all boxes in a three-page sequence together. Because narration was less common, I sampled whole narration-containing sequences more often and used class-balanced weighted cross-entropy, with effective-number weights calculated from the training split only. I also tried repeated seeds and Optuna. Later variants added padded DINO crops and bubble-crop visuals.
 
 **I thought this multimodal narration Transformer would be a big breakthrough:** it had visual features, text semantics, layout and context together. But even with all that information, I was not happy with some of the predictions when I looked through the pages. **The contour approach gave me better results in those page checks**, and I could see why a decision was made, so that is what I kept. I did not run a comparison that proves contours beat every model. I also did not want to just call everything SPOKEN: that might score reasonably on common cases, but it would miss the point of detecting narration.
 
-I expanded YOLO crops by about **20% per side** and measured the surrounding white or solid-color region, excluding text rectangles from color measurements. Meaningful white-region curves or supported expressive sharp shapes support SPOKEN; supported straight sides and perpendicular corners support NARRATED. Strong curves can override a box-like interpretation. Weak or missing evidence currently falls back to NARRATED, with review flags where applicable.
+I expanded YOLO crops by about **20% per side** and measured the surrounding white or solid-color region, excluding text rectangles from color measurements. I use meaningful curves around a white region, or supported expressive sharp shapes, as evidence for SPOKEN. I use straight sides and perpendicular corners as evidence for NARRATED. Strong curves can override a box-like shape. If the evidence is weak or missing, my current rule falls back to NARRATED and flags uncertain cases for review.
 
-This required more care than simply finding a closed contour. Crop edges are not drawn boundaries, faint cases can receive a retry, and clipped or rectangular speech bubbles remain difficult. A Magi text-to-tail link forces SPOKEN, but does not identify the person speaking. [contour_narrator2.py](Final-Pipeline-Code-Inference/contour_narrator2.py) implements these checks, including region inspection after grouping.
+I had to be careful here: a crop edge is not a drawn bubble boundary. I retry faint cases, but clipped or rectangular speech bubbles still cause trouble. I label text with a Magi text-to-tail link as SPOKEN, although the tail link alone does not tell me who said it. [contour_narrator2.py](Magi%20-----%20FINAL%20PIPELINE/Final-Pipeline-Code-Inference/contour_narrator2.py) implements these checks, including region inspection after grouping.
 
-With text retained, fragments joined and roles assigned, I could return to **who was speaking**. Magi supplies the original text-character links. My retained checkpoint changes the final two character crop-encoder blocks, not the detector or association head; those features support cross-page identity matching. Narrated groups become NARRATION. Spoken groups use a consistent linked entity, while missing or conflicting links become UNKNOWN. IDs remain sequence-local. Joining text does not prove a shared speaker: 16 of 186 merged groups aligned to multiple reference speakers and need image review.
+With text retained, fragments joined and roles assigned, I could return to **who was speaking**. I use Magi's original text-character links. My retained checkpoint changes the final two character crop-encoder blocks, not the detector or association head. I use those features to match appearances across pages. I assign narrated groups to NARRATION and spoken groups to a consistent linked entity; missing or conflicting links become UNKNOWN. I restart the IDs for each sequence. I also keep an eye on joined text: in the earlier development analysis, 16 of 186 merged groups aligned to multiple reference speakers, so I would check those images before assuming the grouping was right.
 
 Finally, joined entries sometimes exposed OCR noise that was harder to notice in isolated fragments. I added a separate Gemma call to correct each final entry without speaker IDs. I tried different prompts and input/output examples: the artifact step covers dialogue to keep, artifacts to remove, SFX, non-SFX reactions, names, numbers and punctuation; the cleanup step covers OCR noise to remove and valid text to preserve. I keep raw and cleaned transcripts, original OCR and deletion reasons because either step can still make mistakes, and later contours cannot restore a deleted box.
 
+I also added a final export check that removes an entire entry if its text contains `SFX`, ignoring case. It runs after cleanup even when I reuse cached results. I keep the original OCR and the filter decisions in the audit files.
+
 ## Current results and what they show
 
-All 80 development sequences completed. These are development results, not independent final-test results; development data also supported earlier training and tuning.
+I completed all 80 development sequences. I used development data for earlier training and tuning too, so I do not treat these scores as an independent final-test result.
 
 | Metric | Result |
 | --- | ---: |
-| Text order score | 0.902258 |
+| Text order score | 0.908677 |
 | Matched token coverage | 0.923951 |
 | Speaker accuracy on matched text | 0.638956 |
-| Joint F1 | 0.600417 |
-| Balanced joint F1 | 0.390426 |
+| Joint F1 | 0.602112 |
+| Balanced joint F1 | 0.394984 |
+
+**Overpredicting narration is another reason my speaker accuracy is low.** When I label a spoken line as NARRATION, it loses speaker credit even if I recovered the text correctly: the scorer cannot map NARRATION to a character. I would make reducing those false narration labels a major next fix, alongside more consistent character clustering. I do not expect either change alone to explain or fix every speaker error.
 
 **The main issue I noticed was character clustering.** Text could be linked to the right character crop, but different appearances of the same person sometimes ended up under different entity IDs. So even when the original text-to-character association was right, the final transcript treated that person as multiple speakers. This is why I would focus next on clustering before replacing the association method.
 
-**This directly hurts balanced joint F1:** the scorer can match only one predicted entity to each reference speaker. Splitting one person into several entities makes some correctly linked text count as wrongly attributed, and the extra entities also lower the balanced score. Simply using a different character number is fine; using inconsistent IDs for the same person is the problem. This explains how the clustering failures I observed can compound, although the formula alone does not measure how much of the total error they caused.
+**I checked how this hurts balanced joint F1:** the scorer can match only one predicted entity to each reference speaker. Splitting one person into several entities makes some correctly linked text count as wrongly attributed, and the extra entities also lower the balanced score. Simply using a different character number is fine; using inconsistent IDs for the same person is the problem. That explains how the clustering failures I noticed can compound. I still cannot use the formula alone to say exactly how much of the total error came from clustering.
 
-[METRICS.md](METRICS.md) explains the calculations. The [score report](score.json) and [predictions](submission_outputs/inference_development/predictions.jsonl) remain available.
+[METRICS.md](Magi%20-----%20FINAL%20PIPELINE/METRICS.md) explains the calculations. The latest [score report](Magi%20-----%20FINAL%20PIPELINE/submission_outputs/inference_development/score_results.json) and [predictions](Magi%20-----%20FINAL%20PIPELINE/submission_outputs/inference_development/predictions.jsonl) remain available.
 
-The pipeline is better at recovering the text than figuring out who said it. Balanced joint F1 makes that clearer: getting one character's long conversation right does not make up for missing other characters or inventing extra speaker groups.
+I am getting better text recovery than speaker assignment. Balanced joint F1 makes that clearer: getting one character's long conversation right does not make up for missing other characters or inventing extra speaker groups.
 
-The [error analysis](submission_outputs/inference_development/analysis/speaker_error_summary.json) found 170 surplus labels across 79 speaker-scored sequences, and 29 of 272 known reference identities with zero identity F1. About 73% of wrong matched-token attribution weight involved spoken identity, and 25% involved speech labelled narration. Narration appeared in 63 predicted sequences versus 14 reference sequences.
+In my [earlier development error analysis](Magi%20-----%20FINAL%20PIPELINE/submission_outputs/inference_development/analysis/speaker_error_summary.json), I found 170 extra labels across 79 speaker-scored sequences, and 29 of 272 known reference identities with zero identity F1. About 73% of the wrongly attributed matched-token weight involved spoken identity, and 25% involved speech labelled narration. I predicted narration in 63 sequences, compared with 14 reference sequences. These figures are from before the final SFX filter, not a fresh analysis of the scores above.
 
-The clustering problems I noticed are therefore my first target for improvement. I would still check the original speaker links separately, since association mistakes can also happen. The final Gemma cleanup slightly improved both joint metrics.
+The clustering problems I noticed are therefore my first target for improvement. I would still check the original speaker links separately, since association mistakes can also happen. In that earlier comparison, I saw a small improvement in both joint metrics after Gemma cleanup.
+
+Because narration labels were so rare, a simple model that called every box SPOKEN could look good on majority-heavy metrics. I did not want to stop there: I wanted to actually try detecting narration, even if that meant dealing with a harder problem and making mistakes along the way. That baseline would still be useful to measure, but I have not established that it beats this pipeline, especially on balanced joint F1.
+
+Looking through the test outputs, I also noticed **too much text being labelled NARRATION**. I tried several machine-learning approaches before sticking with contour heuristics, because I preferred their results in the pages I checked. Looking back, I think relying on those heuristics was a weak choice for uncertain cases: a missing or unclear bubble region can fall back to narration even when the text is spoken. I would now make a better learned speech/narration model a major priority, ideally combining contour evidence with visual features, text semantics and layout. I expect that could improve the scores, but I would need to test it rather than assume the gain.
 
 ## What I would try next
 
@@ -137,21 +146,23 @@ I already have useful inputs: text context, character crops, positions, bubbles,
 
 **For text assignment, I would try a small model that scores possible matches.** First, bubble-to-text matching could use how much text lies inside each region and whether another bubble fits better. Then text-to-character matching could use Magi scores where available, positions, panels, crop features and tail direction when a reliable tip can be measured. A tail tells me something is spoken, not who said it. Nearby dialogue could help too, but I would not assume consecutive lines have the same speaker. Joined text would keep its original links so conflicting speakers stay visible.
 
+**I would also try fine-tuning Gemma, or a Llama model, with better labelled examples.** For artifact filtering, I would use reviewed Text/Artifact labels covering SFX, human reactions, names, punctuation and watermarks. For OCR cleanup, I would use noisy-text/corrected-text pairs that preserve meaning and valid words. I would keep these two tasks separate and test on sequences excluded from training. Gemma currently uses prompts and examples only; I have not trained a Llama model for this pipeline.
+
 I would start with cached features and small models to keep this manageable. I would keep the deletion and OCR-edit logs, and check any promising change on data I did not use to choose it.
 
 ## Code and resources
 
-The [batch guide](Final-Pipeline-Code-Inference/README_BATCH_INFERENCE.md) covers running, caches and shared model loading. The [notebook](Final-Pipeline-Code-Inference/pipelineArtifactContourFullInference.ipynb) lets me look through the results.
+I put the running, cache and shared-model details in the [batch guide](Magi%20-----%20FINAL%20PIPELINE/Final-Pipeline-Code-Inference/README_BATCH_INFERENCE.md). I use the [notebook](Magi%20-----%20FINAL%20PIPELINE/Final-Pipeline-Code-Inference/pipelineArtifactContourFullInference.ipynb) to look through the results.
 
-I use pretrained [Magi V2](https://huggingface.co/ragavsachdeva/magiv2), [Gemma](https://huggingface.co/google/gemma-3-4b-it), [YOLO bubbles](https://huggingface.co/PSImera/manga_bubbles_detect) and Paddle [detection](https://huggingface.co/PaddlePaddle/PP-OCRv5_server_det)/[recognition](https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec), plus my two-block character checkpoint. Weights remain separate.
+I use pretrained [Magi V2](https://huggingface.co/ragavsachdeva/magiv2), [Gemma](https://huggingface.co/google/gemma-3-4b-it), [YOLO bubbles](https://huggingface.co/PSImera/manga_bubbles_detect) and Paddle [detection](https://huggingface.co/PaddlePaddle/PP-OCRv5_server_det)/[recognition](https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec), plus my two-block character checkpoint. I keep the pretrained weights separate from the code.
 
-My checkpoint is under FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads2 and requires the matching Magi base. I run score.py separately.
+I include my checkpoint and its [usage guide](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads2/README.md) in the repository. It requires the matching Magi base. I run score.py separately.
 
-I renamed folders after the completed run, so the helper-folder settings and old absolute paths still need updating before another run. Workflow tests passed using stubs and saved data; I have not yet measured the GPU speedup or checked numerical agreement on a real GPU run. The inference code and saved results are separate from this documentation.
+After renaming the folders, I updated the batch worker to find its helpers and reuse matching caches from the earlier location. I checked that with six CPU-only workflow tests and saved cache examples. I have not measured the GPU speedup or done a real-GPU comparison between the old and shared-model runners. The notebook and older example configs still have local paths that need checking on another machine.
 
 ## Model links
 
-These are the models behind the final pipeline and the other experiments. A link here does not mean I kept it or completed training with it.
+I used or looked into these models across the pipeline and experiments. I have noted where I only downloaded a model or could not confirm a completed run.
 
 | Model | Link | Where I used it |
 | --- | --- | --- |
@@ -183,10 +194,10 @@ The [panel-order estimator](https://github.com/manga109/panel-order-estimator) w
 
 ### Models I trained locally
 
-These do not have published Hugging Face checkpoints. The folders contain the code and describe the matching base models; generated weights may be excluded from Git.
+I have not published these checkpoints on Hugging Face. I keep their code and base-model details in the experiment folders. I include the selected two-block checkpoint in Git; other generated weights may be ignored.
 
-- Character features: [projection MLP](FINETUNING-EXPERMENTS/charSimilarityMLP/), [residual projection](FINETUNING-EXPERMENTS/charSimResidual/), [one-block Magi tuning](FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads/), and [two-block Magi tuning, kept in the pipeline](FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads2/).
-- Narration models: [DINO head](FINETUNING-EXPERMENTS/isNarratorText/), [Magi head](FINETUNING-EXPERMENTS/isNarratorTextMagi/), [multimodal Transformer](FINETUNING-EXPERMENTS/NarrationImbalanceTraining/), [padded-DINO version](FINETUNING-EXPERMENTS/NarrationImbalanceTrainingPaddedBox/), and [bubble-crop version](FINETUNING-EXPERMENTS/NarrationModelwBubbles/).
-- Other learned tests: [QuoteCaster fine-tuning](FINETUNING-EXPERMENTS/QuoteCaster_Finetuning/), [contour MLP](FINETUNING-EXPERMENTS/ContourNarrationMLP/), and [contour CatBoost](FINETUNING-EXPERMENTS/ContourNarrationCatBoost/).
-- Adapter experiments: Qwen transcript/association and InternVL adapters are in the pre-Magi archive; the [Qwen role experiment](FINETUNING-EXPERMENTS/TextRoleVL/) is in this project. They need their matching base model above. Some runs were unfinished.
-- [Manga109 association head](FINETUNING-EXPERMENTS/Manga109Association/): training code prepared, but no trained checkpoint verified.
+- Character features: [projection MLP](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/charSimilarityMLP/), [residual projection](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/charSimResidual/), [one-block Magi tuning](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads/), and [two-block Magi tuning, kept in the pipeline](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads2/).
+- Narration models: [DINO head](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/isNarratorText/), [Magi head](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/isNarratorTextMagi/), [multimodal Transformer](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/NarrationImbalanceTraining/), [padded-DINO version](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/NarrationImbalanceTrainingPaddedBox/), and [bubble-crop version](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/NarrationModelwBubbles/).
+- Other learned tests: [QuoteCaster fine-tuning](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/QuoteCaster_Finetuning/), [contour MLP](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/ContourNarrationMLP/), and [contour CatBoost](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/ContourNarrationCatBoost/).
+- Adapter experiments: Qwen transcript/association and InternVL adapters are in the pre-Magi archive; the [Qwen role experiment](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/TextRoleVL/) is in this project. They need their matching base model above. Some runs were unfinished.
+- [Manga109 association head](Magi%20-----%20FINAL%20PIPELINE/FINETUNING-EXPERMENTS/Manga109Association/): training code prepared, but no trained checkpoint verified.

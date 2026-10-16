@@ -51,11 +51,11 @@ class WorkflowTests(unittest.TestCase):
                 continue
             normalized = RemoveLoadingWrappers().visit(copy.deepcopy(after[name]))
             self.assertEqual(ast.dump(node), ast.dump(normalized), name)
-        cache_after=copy.deepcopy(after['cached_stage'])
-        payload_branch=next(node for node in cache_after.body if isinstance(node,ast.If) and ast.unparse(node.test)=='payload is None')
-        guard=payload_branch.body.pop(0)
-        self.assertIn('ALLOWED_STAGES',ast.unparse(guard.test))
-        self.assertEqual(ast.dump(before['cached_stage']),ast.dump(NormalizeCacheLogging().visit(cache_after)))
+        # Cache compatibility now also handles the known folder rename.
+        cache_source=ast.unparse(after['cached_stage'])
+        self.assertIn("digest(candidate['data']) == candidate['data_hash']",cache_source)
+        self.assertIn('ALLOWED_STAGES',cache_source)
+        self.assertIn('normalize_cache_paths',cache_source)
         def assignments(path):
             output = {}
             for node in ast.parse(path.read_text(encoding='utf-8-sig')).body:
@@ -65,6 +65,38 @@ class WorkflowTests(unittest.TestCase):
                             output[target.id] = ast.dump(node.value)
             return output
         self.assertEqual(assignments(BASELINE), assignments(CURRENT))
+
+    def test_folder_rename_cache_reuse_keeps_integrity_checks(self):
+        import hashlib
+        from datetime import datetime,timezone
+        nodes=functions(CURRENT)
+        names=['digest','write_json','normalize_cache_paths','cached_stage','stage_ref']
+        ns=dict(Path=Path,json=json,hashlib=hashlib,datetime=datetime,timezone=timezone,
+                json_ready=lambda value:value,MAGI_ROOT=ROOT.parent,
+                cache_message=lambda *args:None)
+        exec(compile(ast.Module(body=[nodes[name] for name in names],type_ignores=[]),'cache_test','exec'),ns)
+        inputs=dict(sequence_id='example',pages=[dict(sha256='same-image')])
+        old_settings=dict(checkpoint=dict(path=str(ROOT.parent.parent/'Magi'/'weights.pt'),sha256='same-weights'))
+        settings=ns['normalize_cache_paths'](old_settings)
+        payload=dict(signature=ns['digest'](dict(inputs=inputs,algorithm_version=1,settings=old_settings)),
+                     data=[dict(text='HELLO')],created_at='saved')
+        payload['data_hash']=ns['digest'](payload['data'])
+        manifest=dict(stages=dict(embeddings=dict(settings=old_settings,algorithm_version=1)))
+        with tempfile.TemporaryDirectory() as tmp:
+            folder=Path(tmp)
+            (folder/'embeddings.json').write_text(json.dumps(payload),encoding='utf-8')
+            ns.update(INPUTS=inputs,STAGE_VERSIONS={'embeddings':1},CACHE_DIR=folder,
+                      MANIFEST_PATH=folder/'manifest.json',manifest=manifest,
+                      FORCE={'embeddings':False},ALLOWED_STAGES=set())
+            def forbidden():raise AssertionError('Unexpected inference')
+            self.assertEqual(ns['cached_stage']('embeddings',settings,forbidden),payload['data'])
+            self.assertEqual(ns['stage_ref']('embeddings')['signature'],payload['signature'])
+            self.assertEqual(ns['cached_stage']('embeddings',settings,forbidden),payload['data'])
+            changed=copy.deepcopy(settings);changed['checkpoint']['sha256']='different-weights'
+            with self.assertRaises(RuntimeError):ns['cached_stage']('embeddings',changed,forbidden)
+            damaged=copy.deepcopy(payload);damaged['data_hash']='wrong'
+            (folder/'embeddings.json').write_text(json.dumps(damaged),encoding='utf-8')
+            with self.assertRaises(RuntimeError):ns['cached_stage']('embeddings',settings,forbidden)
 
     def test_raw_transcript_and_routing_on_saved_data(self):
         outputs = next((ROOT/'cache_artifact_contour_full_inference').glob('*/*/outputs'), None)

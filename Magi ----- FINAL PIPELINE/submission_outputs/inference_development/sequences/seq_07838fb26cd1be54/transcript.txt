@@ -1,7 +1,6 @@
 [Page 01.png]
 character4: COLE:
 character5: THAT WAS...
-NARRATION: SFX: SCREECH
 character5: JUST A RAT.
 character3: SHEESH THAT SCARED ME.
 character2: COME TO THINK OF IT...

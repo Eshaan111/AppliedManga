@@ -1417,5 +1417,9 @@
     },
     "changed_entries": 7,
     "raw_export": "transcript_raw.jsonl"
+  },
+  "final_sfx_filter": {
+    "rule": "case-insensitive substring SFX",
+    "removed_entries": 0
   }
 }

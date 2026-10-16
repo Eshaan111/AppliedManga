@@ -2,13 +2,13 @@
   "sequence_id": "seq_cd727990f22c777b",
   "split": "development",
   "images": [
-    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_cd727990f22c777b\\01.png",
-    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_cd727990f22c777b\\02.png",
-    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_cd727990f22c777b\\03.png"
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\development\\images\\seq_cd727990f22c777b\\01.png",
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\development\\images\\seq_cd727990f22c777b\\02.png",
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\development\\images\\seq_cd727990f22c777b\\03.png"
   ],
-  "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi",
-  "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\cache_batch_artifact_contour",
-  "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\submission_outputs\\inference_development\\sequences\\seq_cd727990f22c777b",
+  "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+  "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+  "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_development\\sequences\\seq_cd727990f22c777b",
   "clean_transcript": true,
   "force": false
 }

@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-10-16T11:10:24.560209+00:00",
+  "started_at": "2026-10-16T15:39:37.207106+00:00",
   "split": "development",
-  "manifest": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\sequences.json",
+  "manifest": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\sequences.json",
   "selected_ids": [
     "seq_2032620aa4e4ac7f",
     "seq_952f154fb1505883",
@@ -84,7 +84,7 @@
     "seq_5f9ee35846b7e635",
     "seq_41d68dfc426cc19e"
   ],
-  "worker_sha256": "bacd6b0bec33c28ae2d0d8e02e71f572b9c41417d359a6b2b2cc4bb4662aeef2",
+  "worker_sha256": "a30e48f78e3a969baeaf7b86c50d32e3225cf1fcefb69283f1bfae679444918b",
   "scheduler_sha256": "70e35cd78e63f904660cc1866d858c65d4725e8a9898b9547db030220702105a",
   "execution": "shared_models_by_stage",
   "helper_sha256": {
@@ -177,6 +177,6 @@
     "seq_41d68dfc426cc19e"
   ],
   "failed_sequence": null,
-  "predictions": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\submission_outputs\\inference_development\\predictions.jsonl",
-  "finished_at": "2026-10-16T12:25:57.517761+00:00"
+  "predictions": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_development\\predictions.jsonl",
+  "finished_at": "2026-10-16T15:57:10.731726+00:00"
 }

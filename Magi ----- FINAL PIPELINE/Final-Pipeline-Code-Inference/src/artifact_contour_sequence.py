@@ -246,6 +246,19 @@ PAGE_METADATA = [dict(name=p.name, sha256=file_hash(p), width=image.shape[1], he
                  for p, image in zip(PAGE_FILES, chapter_pages)]
 INPUTS = dict(sequence_id=SEQUENCE_ID, split=SPLIT, pages=PAGE_METADATA,
               preprocessing='grayscale_then_RGB')
+# Folder renames must not discard complete caches for identical ordered page content.
+matching_scopes=[]
+for candidate in (CACHE_ROOT/SEQUENCE_ID).glob('*/manifest.json'):
+    try:
+        saved=json.loads(candidate.read_text(encoding='utf-8'))
+        if saved.get('inputs')==INPUTS:
+            matching_scopes.append((len(saved.get('stages',{})),candidate.parent.name,candidate.parent))
+    except (ValueError,OSError):
+        pass
+if matching_scopes:
+    CACHE_DIR=max(matching_scopes)[2]
+    print('Matching page-content cache:',CACHE_DIR)
+
 MODEL_INFO = model_fingerprint()
 if ASSOCIATION_HEAD_PATH is not None:
     MODEL_INFO['association_head_sha256'] = file_hash(ASSOCIATION_HEAD_PATH)
@@ -276,15 +289,38 @@ def stage_ref(name):
     return dict(signature=entry['signature'], data_hash=entry['data_hash'])
 
 
+def normalize_cache_paths(value):
+    # Only the known project/helper folder rename is equivalent; other settings stay strict.
+    if isinstance(value,dict):return {key:normalize_cache_paths(item) for key,item in value.items()}
+    if isinstance(value,list):return [normalize_cache_paths(item) for item in value]
+    if isinstance(value,str):
+        old_root=str(MAGI_ROOT.parent/'Magi').replace('\\','/')
+        current_root=str(MAGI_ROOT).replace('\\','/')
+        path=value.replace('\\','/')
+        if path.startswith(old_root+'/'):path=current_root+path[len(old_root):]
+        if path.startswith(current_root+'/'):
+            return path.replace('/paddleOCR-Magi/','/Final-Pipeline-Code-Inference/')
+    return value
+
+
 def cached_stage(name, settings, compute):
     signature = digest(dict(inputs=INPUTS, algorithm_version=STAGE_VERSIONS[name], settings=settings))
     path = CACHE_DIR / f'{name}.json'
     payload = None
+    stored_settings = settings
     if path.exists() and not FORCE[name]:
         try:
             candidate = json.loads(path.read_text(encoding='utf-8'))
-            if candidate['signature'] == signature and digest(candidate['data']) == candidate['data_hash']:
+            old_entry=manifest['stages'].get(name,{})
+            old_settings=old_entry.get('settings')
+            renamed_signature=digest(dict(inputs=INPUTS,algorithm_version=STAGE_VERSIONS[name],settings=old_settings))
+            renamed_match=(old_settings is not None
+                and old_entry.get('algorithm_version')==STAGE_VERSIONS[name]
+                and candidate['signature']==renamed_signature
+                and normalize_cache_paths(old_settings)==normalize_cache_paths(settings))
+            if (candidate['signature'] == signature or renamed_match) and digest(candidate['data']) == candidate['data_hash']:
                 payload = candidate
+                if candidate['signature'] != signature:stored_settings=old_settings
         except (ValueError, KeyError, OSError):
             pass
     if payload is None:
@@ -297,8 +333,8 @@ def cached_stage(name, settings, compute):
         write_json(path, payload)
     else:
         cache_message('HIT', name)
-    manifest['stages'][name] = dict(file=path.name, signature=signature,
-                                  data_hash=payload['data_hash'], settings=settings,
+    manifest['stages'][name] = dict(file=path.name, signature=payload['signature'],
+                                  data_hash=payload['data_hash'], settings=stored_settings,
                                   algorithm_version=STAGE_VERSIONS[name], created_at=payload['created_at'])
     write_json(MANIFEST_PATH, manifest)
     return payload['data']
@@ -1220,8 +1256,25 @@ for original_page,cleaned_page in zip(raw_transcript['pages'],cleaned_transcript
     assert len(original_page)==len(cleaned_page)
     assert [r['speaker'] for r in original_page]==[r['speaker'] for r in cleaned_page]
     assert all(set(r)=={'speaker','text'} for r in cleaned_page)
-# Final transcript filenames now contain the cleaned text in the original labels.jsonl schema.
-transcript=copy.deepcopy(cleaned_transcript)
+def filter_final_sfx(source):
+    # Apply after cleanup, including when the cleaned transcript came from cache.
+    filtered=copy.deepcopy(source);removed=[]
+    for page_index,page in enumerate(filtered['pages']):
+        kept=[]
+        for row_index,row in enumerate(page):
+            if 'sfx' in row['text'].casefold():
+                removed.append(dict(page_index=page_index,row_index=row_index,
+                    speaker=row['speaker'],text=row['text'],reason='final text contains SFX'))
+            else:
+                kept.append(row)
+        filtered['pages'][page_index]=kept
+    return filtered,removed
+
+
+# Final transcript files exclude entire entries containing SFX (case-insensitive).
+transcript,sfx_removed=filter_final_sfx(cleaned_transcript)
+write_json(OUTPUT_DIR/'transcript_sfx_filter_audit.json',sfx_removed)
+print('Final SFX filter:',len(sfx_removed),'entries removed')
 write_json(OUTPUT_DIR/'transcript.json',transcript)
 (OUTPUT_DIR/'transcript.jsonl').write_text(json.dumps(transcript,ensure_ascii=False)+'\n',encoding='utf-8')
 lines=[]
@@ -1235,6 +1288,7 @@ write_json(OUTPUT_DIR/'transcript_cleanup_audit.json',gemma_cleanup['audit'])
 metadata=json.loads((OUTPUT_DIR/'run_metadata.json').read_text(encoding='utf-8'))
 metadata['transcript_cleanup']=dict(model=GEMMA_IDENTITY,stage=stage_ref('gemma_transcript'),
     changed_entries=sum(row['changed'] for row in gemma_cleanup['audit']),raw_export='transcript_raw.jsonl')
+metadata['final_sfx_filter']=dict(rule='case-insensitive substring SFX',removed_entries=len(sfx_removed))
 metadata['stages']=manifest['stages']
 write_json(OUTPUT_DIR/'run_metadata.json',metadata)
 print('Gemma cleanup:',len(gemma_cleanup['audit']),'entries;',sum(r['changed'] for r in gemma_cleanup['audit']),'changed')

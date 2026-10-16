@@ -98,7 +98,7 @@
     "confidence": 0.25
   },
   "character_checkpoint": {
-    "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2\\magi_crop_last_2_blocks.pt",
+    "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2\\magi_crop_last_2_blocks.pt",
     "sha256": "7625eacf104d44ececb33ac7f3157487a5dd3ee474e2532a1a1f0b812b8848ff",
     "epoch": 20,
     "trained_blocks": 2
@@ -114,12 +114,12 @@
   "dependencies": {
     "helpers": [
       {
-        "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\contour_narrator2.py",
+        "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\contour_narrator2.py",
         "sha256": "d3762e035328fa996247aad9583ac6dc600c61c5d360788d5f99f0f8e7ad6a0b",
         "role": "background regions and SPOKEN/NARRATED"
       },
       {
-        "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\contour_grouping.py",
+        "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\contour_grouping.py",
         "sha256": "bfeac1c6433f3e6490e18bc61e472485eab9907511ccfc0d4de6ac9c0224f971",
         "role": "individual boundaries, faint retry and overlap groups"
       }
@@ -174,7 +174,7 @@
         ]
       },
       "character_checkpoint": {
-        "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2\\magi_crop_last_2_blocks.pt",
+        "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2\\magi_crop_last_2_blocks.pt",
         "sha256": "7625eacf104d44ececb33ac7f3157487a5dd3ee474e2532a1a1f0b812b8848ff",
         "epoch": 20,
         "trained_blocks": 2
@@ -267,12 +267,12 @@
     },
     "cache_policy": "Read/write CACHE_ROOT only; no external cache discovery",
     "input_images": [
-      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_e8b4f75454f9491f\\01.png",
-      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_e8b4f75454f9491f\\02.png",
-      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_e8b4f75454f9491f\\03.png"
+      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\development\\images\\seq_e8b4f75454f9491f\\01.png",
+      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\development\\images\\seq_e8b4f75454f9491f\\02.png",
+      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\development\\images\\seq_e8b4f75454f9491f\\03.png"
     ]
   },
-  "manifest": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\cache_batch_artifact_contour\\seq_e8b4f75454f9491f\\67795d45e8c1ecdf\\manifest.json",
+  "manifest": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour\\seq_e8b4f75454f9491f\\67795d45e8c1ecdf\\manifest.json",
   "stages": {
     "magi_raw": {
       "file": "magi_raw.json",
@@ -1417,5 +1417,9 @@
     },
     "changed_entries": 5,
     "raw_export": "transcript_raw.jsonl"
+  },
+  "final_sfx_filter": {
+    "rule": "case-insensitive substring SFX",
+    "removed_entries": 0
   }
 }
