@@ -97,3 +97,6 @@ Thumbs.db
 
 # Keep final test predictions and score.py reports here, outside caches/training runs.
 # No blanket *.json, *.jsonl, *.csv or outputs/ exclusion is intentional.
+
+# Keep only the final two-block character checkpoint in Git.
+!/FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads2/magi_crop_last_2_blocks.pt
