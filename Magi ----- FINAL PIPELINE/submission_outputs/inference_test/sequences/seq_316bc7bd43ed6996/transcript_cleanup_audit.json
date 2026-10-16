@@ -1,0 +1,353 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "WON'T QUIT.",
+    "cleaned_text": "WON'T QUIT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": ".TH-THATS RIGHT, SORRY FOR SAYING SOMETHING WEIRD..",
+    "cleaned_text": ".THATS RIGHT, SORRY FOR SAYING SOMETHING WEIRD..",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "AHA HAHA!",
+    "cleaned_text": "AHA HAHA!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character9",
+    "raw_text": "??",
+    "cleaned_text": "??",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "UNKNOWN",
+    "raw_text": "OH MAN, THAT HAIR- STYLE IS GREAT! SERI- OusLY LOVELY!",
+    "cleaned_text": "OH MAN, THAT HAIR-STYLE IS GREAT! SERI-OUSLY LOVELY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character5",
+    "raw_text": "!?",
+    "cleaned_text": "!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character5",
+    "raw_text": "MU- TSUKI- KUN..? TOORU... WHAT'RE yOu DOING ..!?",
+    "cleaned_text": "MU- TSUKI- KUN..? TOORU... WHAT\u2019RE YOU DOING ..!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character5",
+    "raw_text": "AND YOURE STYLISH SO FASH TOQ ONABLE",
+    "cleaned_text": "AND YOU\u2019RE STYLISH SO FASHIONABLE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "I ALSO WANT TO EARN MONEY ANL BECOME LKE THAT.",
+    "cleaned_text": "I ALSO WANT TO EARN MONEY AND BECOME LIKE THAT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "IS HE DRUNK?",
+    "cleaned_text": "IS HE DRUNK?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character3",
+    "raw_text": "MAMAN.",
+    "cleaned_text": "MAMAN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 11,
+    "speaker": "character4",
+    "raw_text": "SAIKO- CHAN?",
+    "cleaned_text": "SAIKO- CHAN?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 12,
+    "speaker": "character1",
+    "raw_text": "IT SEEMS MUCCHANKO HAS BEEN DRINKING SOMETHING.",
+    "cleaned_text": "IT SEEMS MUCCHANKO HAS BEEN DRINKING SOMETHING.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 13,
+    "speaker": "character1",
+    "raw_text": "He reeks of alcohol.",
+    "cleaned_text": "He reeks of alcohol.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 14,
+    "speaker": "character1",
+    "raw_text": "WHAA !?",
+    "cleaned_text": "WHAA !?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 15,
+    "speaker": "character11",
+    "raw_text": "so THAT'S THE REASON FOR THAT DARING APPROACH WAIT, HE'S STILL A BIT UNDERAGE, ISN'T HE.\u2026! WHAT IS HE DOING..?",
+    "cleaned_text": "SO THAT\u2019S THE REASON FOR THAT DARING APPROACH WAIT, HE\u2019S STILL A BIT UNDERAGE, ISN\u2019T HE.\u2026! WHAT IS HE DOING..?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 16,
+    "speaker": "NARRATION",
+    "raw_text": "HE'S COMING THIS wAy!?",
+    "cleaned_text": "HE\u2019S COMING THIS WAY!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "SENSEI !! I WAS INVITED BY HER FOR A \"PART-TIME JOB\" JUST NOW...",
+    "cleaned_text": "SENSEI !! I WAS INVITED BY HER FOR A \u201cPART-TIME JOB\u201d JUST NOW...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": ".!",
+    "cleaned_text": ".!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "I ALSO PER- FECTLY GOT THE CONTACT ADDRESS FROM HER! WITH THIS, WE CAN INFILTRATE THEM AFTER ALL.\u2026",
+    "cleaned_text": "I ALSO PERFECTLY GOT THE CONTACT ADDRESS FROM HER! WITH THIS, WE CAN INFILTRATE THEM AFTER ALL\u2026.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character24",
+    "raw_text": "YOU DID IT, TOO- RU!",
+    "cleaned_text": "YOU DID IT, TOO- RU!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character24",
+    "raw_text": "HEH HEH HEH.",
+    "cleaned_text": "HEH HEH HEH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character4",
+    "raw_text": "MU- CCHAN... BUT... WELL THEN, PM GOING TO DANCE. A victory dance!",
+    "cleaned_text": "MU- CCHAN... BUT... WELL THEN, PM GOING TO DANCE. A victory dance!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "UNKNOWN",
+    "raw_text": "AH, WHY?",
+    "cleaned_text": "AH, WHY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "I'LL GO A- LONG.",
+    "cleaned_text": "I'LL GO ALONG.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "HEY, COME HERE, SAIKO!!",
+    "cleaned_text": "HEY, COME HERE, SAIKO!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "\"",
+    "cleaned_text": "\"",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character4",
+    "raw_text": "JEEZ",
+    "cleaned_text": "JEEZ",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "NARRATION",
+    "raw_text": "....",
+    "cleaned_text": "....",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "NARRATION",
+    "raw_text": "SHI- RAZU- KUN,",
+    "cleaned_text": "SHI- RAZU- KUN,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 13,
+    "speaker": "UNKNOWN",
+    "raw_text": "GO, GO, HERE WE GO.",
+    "cleaned_text": "GO, GO, HERE WE GO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 14,
+    "speaker": "UNKNOWN",
+    "raw_text": "SAIKO, YOUR DANCE IS OLD AS BALLS!!",
+    "cleaned_text": "SAIKO, YOUR DANCE IS OLD AS BALLS!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 15,
+    "speaker": "NARRATION",
+    "raw_text": "MY MEMO\u2014 RIES RE\u2014 TURNED LOOK, LOOK. HOW AM !!?",
+    "cleaned_text": "MY MEMO\u2014 RIES RETURNED LOOK, LOOK. HOW AM !!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 16,
+    "speaker": "character20",
+    "raw_text": "YOU'RE DOING A GREAT BOX, MUCCHAN!",
+    "cleaned_text": "YOU\u2019RE DOING A GREAT BOX, MUCCHAN!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 17,
+    "speaker": "character20",
+    "raw_text": "TOORU... COME BACK HERE!!",
+    "cleaned_text": "TOORU... COME BACK HERE!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "Haise wonder if I will die.",
+    "cleaned_text": "Haise wonder if I will die.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character38",
+    "raw_text": "...I want to remember",
+    "cleaned_text": "...I want to remember",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "...you guys",
+    "cleaned_text": "...you guys",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "\u2014HUH..?",
+    "cleaned_text": "\u2014HUH...?",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

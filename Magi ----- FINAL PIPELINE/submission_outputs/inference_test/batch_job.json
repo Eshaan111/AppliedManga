@@ -1,0 +1,215 @@
+{
+  "sequences": [
+    {
+      "sequence_id": "seq_6b18300406fa878f",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_6b18300406fa878f\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_6b18300406fa878f\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_6b18300406fa878f\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_6b18300406fa878f",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_c780ac6d1dbd1242",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_c780ac6d1dbd1242\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_c780ac6d1dbd1242\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_c780ac6d1dbd1242\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_c780ac6d1dbd1242",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_5303b549f62e9d3f",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_5303b549f62e9d3f\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_5303b549f62e9d3f\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_5303b549f62e9d3f\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_5303b549f62e9d3f",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_d455cfd18edfb0ba",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_d455cfd18edfb0ba\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_d455cfd18edfb0ba\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_d455cfd18edfb0ba\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_d455cfd18edfb0ba",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_e04ef3d20fd0baa8",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_e04ef3d20fd0baa8\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_e04ef3d20fd0baa8\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_e04ef3d20fd0baa8\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_e04ef3d20fd0baa8",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_6aa313a0c0fa1c39",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_6aa313a0c0fa1c39\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_6aa313a0c0fa1c39\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_6aa313a0c0fa1c39\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_6aa313a0c0fa1c39",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_32c47ca11b40ca8a",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_32c47ca11b40ca8a\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_32c47ca11b40ca8a\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_32c47ca11b40ca8a\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_32c47ca11b40ca8a",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_81b1782990ab7950",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_81b1782990ab7950\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_81b1782990ab7950\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_81b1782990ab7950\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_81b1782990ab7950",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_14469aeb38963085",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_14469aeb38963085\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_14469aeb38963085\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_14469aeb38963085\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_14469aeb38963085",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_e9ffbb64217c2fed",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_e9ffbb64217c2fed\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_e9ffbb64217c2fed\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_e9ffbb64217c2fed\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_e9ffbb64217c2fed",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_316bc7bd43ed6996",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_316bc7bd43ed6996\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_316bc7bd43ed6996\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_316bc7bd43ed6996\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_316bc7bd43ed6996",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_cf7df70d4bba5da5",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_cf7df70d4bba5da5\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_cf7df70d4bba5da5\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_cf7df70d4bba5da5\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_cf7df70d4bba5da5",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_e456a0394af99570",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_e456a0394af99570\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_e456a0394af99570\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_e456a0394af99570\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_e456a0394af99570",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_c5622aca7487a661",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_c5622aca7487a661\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_c5622aca7487a661\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_c5622aca7487a661\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_c5622aca7487a661",
+      "clean_transcript": true,
+      "force": false
+    },
+    {
+      "sequence_id": "seq_75aeca6c7131544b",
+      "split": "test",
+      "images": [
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_75aeca6c7131544b\\01.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_75aeca6c7131544b\\02.png",
+        "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_75aeca6c7131544b\\03.png"
+      ],
+      "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+      "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+      "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_75aeca6c7131544b",
+      "clean_transcript": true,
+      "force": false
+    }
+  ],
+  "status_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\stage_status.json"
+}

@@ -1,0 +1,463 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "THIS IS THE CLUB WHERE NUTCRACKER HAS BEEN APPEAR- ING RECENTLY...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "LOOKS KINDA FUN, DOESN'T IT?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T3",
+        "PG1:T5"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "BLOOD 13",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "SHALL",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "AH",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T9",
+      "box_ids": [
+        "PG1:T9"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "IT",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:M2",
+      "box_ids": [
+        "PG1:T11",
+        "PG1:T12"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "COULD INSPIRE SOCIAL AGORA- PHOBIA... SENSEI, HAVE YOU EVER BEEN TO A PLACE LIKE THIS BEFORE..?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T13",
+      "box_ids": [
+        "PG1:T13"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "T/N: Hidden meaning: re-approach, there are also the puns \"Afro\" and \"blood shall overflow\".",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:M3",
+      "box_ids": [
+        "PG1:T14",
+        "PG1:T15"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "I DID AN INVESTIGATION WITH AKIRA-SAN IN A PLACE LIKE THIS ONCE. I DESPER- ATELY STOPPED AKIRA-SAN WHEN SHE SAID \"ONLY ONE DRINK\".\u2026.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T16",
+      "box_ids": [
+        "PG1:T16"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "HEY...",
+      "needs_review": true
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:M2",
+      "box_ids": [
+        "PG2:T3",
+        "PG2:T6"
+      ],
+      "speaker": "E21",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DO ALL OF US... NO, DO ONLY I FEEL FUCKING OUT OF PLACE HERE..?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M4",
+      "box_ids": [
+        "PG2:T4",
+        "PG2:T5"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "NO, NO, YOU LOOK CU-.. PPFFT.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:M3",
+      "box_ids": [
+        "PG2:T7",
+        "PG2:T8"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEY NOW. WATCH YOUR LANGUAGE, SHII-CHAN.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M5",
+      "box_ids": [
+        "PG2:T9",
+        "PG2:T10"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "BUT .\u2026!! THERE AIN'T A HUGE WO- MAN LIKE THIS ANY- WHERE AROUND...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T11",
+      "box_ids": [
+        "PG2:T11"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "This is absolutely strange!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T12",
+      "box_ids": [
+        "PG2:T12"
+      ],
+      "speaker": "E23",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "PLEASE THINK OF THE TALL GIRLS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T13",
+      "box_ids": [
+        "PG2:T13"
+      ],
+      "speaker": "E20",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "LIKE A DELMO.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T14",
+      "box_ids": [
+        "PG2:T14"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "T/N:SAIKO SWITCHES AROUND THE HIRAGANA OF \"MODEL\". -MIGHT BE A REFERENCE OF MR. CHILDREN'S",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T15",
+        "PG2:T16",
+        "PG2:T17"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "RATHER, SAIKO, you BITCH, THE DIF- FERENCE IN TOORU AND ME IS WEIRD AIN'T IT !!? You did mine sloppily!!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T18",
+      "box_ids": [
+        "PG2:T18"
+      ],
+      "speaker": "E22",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NO WAY, WHEN THE MATERIALS ARE GOOD, ONE IS BOUND TO BE EN- THUSIASTIC!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T20",
+      "box_ids": [
+        "PG2:T20"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "I's Your. just",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T21",
+      "box_ids": [
+        "PG2:T21"
+      ],
+      "speaker": "E22",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "\"\u2022.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T22",
+      "box_ids": [
+        "PG2:T22"
+      ],
+      "speaker": "E22",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAT- CHU sAy!?",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND WHAT'S UP WITH you, SASSAN!!? yOu DID IT ON youR OWN!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WE HAVE TO SUCK IT UP.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "earned it from a book.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Is now Sasako.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:M2",
+      "box_ids": [
+        "PG3:T5",
+        "PG3:T7",
+        "PG3:T8"
+      ],
+      "speaker": "E18",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WE'RE GOING TO MAKE UP FOR OUR FAILURE THE OTHER DAY. Set yourself Set yourself free. ...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Urie!..why at a time like this.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T9",
+        "PG3:T10"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "SINCE PEOPLE WILL BE LOOK- ING AT YOUR FACE, IT'S MORE AMUSING IF YOU HAVE THAT HEAVY MAKE\u2014 UP ON... YOU WON'T BE FOUND OUT, SQUAD LEADER.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T11",
+      "box_ids": [
+        "PG3:T11"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OkAy, 1 UNDER- STAND!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T12",
+      "box_ids": [
+        "PG3:T12"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "'An undercover investigation\"?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T13",
+      "box_ids": [
+        "PG3:T13"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AH, HE ACCEPTED IT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T14",
+      "box_ids": [
+        "PG3:T14"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ON NUT'S \"INGREDI- ENTS LIST\".",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T15",
+      "box_ids": [
+        "PG3:T15"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Yeah.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M3",
+      "box_ids": [
+        "PG3:T16",
+        "PG3:T17"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THERE ARE TARGETS WITH AN EXTREMELY HIGH LEVEL OF DIFFICULTY AND THERE ARE ALSO TARGETS THAT ARE EASY.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M4",
+      "box_ids": [
+        "PG3:T18",
+        "PG3:T19"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HOWEVER, THERE ARE A CONSIDER- ABLE NUMBER OF REQUESTS FOR TEENAGE TO 20S AGED \"FEMALES\".",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M5",
+      "box_ids": [
+        "PG3:T20",
+        "PG3:T21"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I THINK, THEY ARE PERHAPS BEING LINED UP AS THE AUCTION'S OPEN- ING GOODS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T22",
+      "box_ids": [
+        "PG3:T22"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Itseemsof theseitems.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T23",
+      "box_ids": [
+        "PG3:T23"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Nutcrackerhasn't yetreachedthe quotashe was given.",
+      "needs_review": false
+    }
+  ]
+]

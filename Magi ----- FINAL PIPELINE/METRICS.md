@@ -162,7 +162,7 @@ The analysis found 272 known sequence-local reference identities, 29 with zero i
 
 So I recovered most of the text, but still struggled to give it consistent speaker identities. Approximately 72.7% of the wrongly attributed aligned-token weight is wrong spoken identity, 24.7% is speech called narration, and 2.5% is narration called speech. These percentages describe the combined wrongly attributed token weight, not the way the final sequence averages are calculated. The [per-identity table](submission_outputs/inference_development/analysis/per_identity_f1.csv) has the counts and F1 values.
 
-The saved analysis checks the four token/speaker scores against the official functions. It reads text order from the saved report instead of recalculating character edit distance. I have not changed score.py, the predictions or score.json while editing these guides.
+The saved analysis checks the four token/speaker scores against the official functions. It reads text order from the saved report instead of recalculating character edit distance. The scorer, predictions and score.json are kept separately from this guide.
 
 ## What I would check next
 

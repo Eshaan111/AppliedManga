@@ -1,0 +1,263 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character7",
+    "raw_text": "FOR SAIKO-CHAN, WHO RECEIVED THE QS SURGERY WITHOUT HER OWN VOLITION, WHO BECAME AN INVESTIGATOR WITHOUT ANY INTENTION OF DOING SO, AND WHO CAN'T BRING OUT ANY MOTIVATION,",
+    "cleaned_text": "FOR SAIKO-CHAN, WHO RECEIVED THE SURGERY WITHOUT HER OWN VOLITION, WHO BECAME AN INVESTIGATOR WITHOUT ANY INTENTION OF DOING SO, AND WHO CAN'T BRING OUT ANY MOTIVATION,",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character7",
+    "raw_text": "I CAN'T HELP BUT THINK HOW IT'D BE TO FORCE ANYMORE THAN THIS ON HER...",
+    "cleaned_text": "I CAN'T HELP BUT THINK HOW IT'D BE TO FORCE ANYMORE THAN THIS ON HER...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character7",
+    "raw_text": "WHAT A HORRIBLE PARENT...",
+    "cleaned_text": "WHAT A HORRIBLE PARENT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character7",
+    "raw_text": "JUST BECAUSE YOU HAVE PAR- ENTS DOESN'T MEAN YOU'LL BE HAPPY, HUH?",
+    "cleaned_text": "JUST BECAUSE YOU HAVE PARENTS DOESN'T MEAN YOU'LL BE HAPPY, HUH?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character7",
+    "raw_text": "SHE'S THE ONLY ONE OF US WHO'S GOT EVEN ONE OF HER PARENTS AROUND.",
+    "cleaned_text": "SHE\u2019S THE ONLY ONE OF US WHO\u2019S GOT EVEN ONE OF HER PARENTS AROUND.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "SEEMS URIE AIN'T GOT EITHER OF HIS.",
+    "cleaned_text": "SEEMS URIE AIN'T GOT EITHER OF HIS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character6",
+    "raw_text": "AS FOR TOORU... HIS WHOLE FAMILY WAS KILLED BY A GHOUL.",
+    "cleaned_text": "AS FOR TOORU... HIS WHOLE FAMILY WAS KILLED BY A GHOUL.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character8",
+    "raw_text": "ME TOO... MY FATHER WAS LIKE THAT.",
+    "cleaned_text": "ME TOO... MY FATHER WAS LIKE THAT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character8",
+    "raw_text": ".\u2026.AND MY MOM IS PROBABLY AROUND SOMEWHERE.",
+    "cleaned_text": "\u2026.AND MY MOM IS PROBABLY AROUND SOMEWHERE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character28",
+    "raw_text": "BUT, SEEING THAT SHE HAS \"THAT FAMILY\" DON'T YOU THINK SHE SHOULD WORK MORE!?",
+    "cleaned_text": "BUT, SEEING THAT SHE HAS \u201cTHAT FAMILY\u201d DON\u2019T YOU THINK SHE SHOULD WORK MORE!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character23",
+    "raw_text": "ALL SHE EVER DOES IS LAZE AROUND!",
+    "cleaned_text": "ALL SHE EVER DOES IS LAZE AROUND!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character7",
+    "raw_text": "IF SHE'S GOT MONEY PROBLEMS THEN SHE SHOULD WORK AND EARN A LIVING...",
+    "cleaned_text": "IF SHE\u2019S GOT MONEY PROBLEMS THEN SHE SHOULD WORK AND EARN A LIVING...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character7",
+    "raw_text": "THEN SHE SHOULD CUT TIES WITH HER MOM AFTER A WHILE, AIN'T THAT RIGHT?",
+    "cleaned_text": "THEN SHE SHOULD CUT TIES WITH HER MOM AFTER A WHILE, AIN'T THAT RIGHT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character7",
+    "raw_text": "...THAT'S PROBABLY TRUE.",
+    "cleaned_text": "...THAT'S PROBABLY TRUE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character7",
+    "raw_text": "AIN'T IT .!",
+    "cleaned_text": "AIN'T IT.!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character7",
+    "raw_text": "You are different from Saiko and us, aren't you?",
+    "cleaned_text": "You are different from Saiko and us, aren't you?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "It's notabout whetheryou \"haveordon't haveparents",
+    "cleaned_text": "It's not about whether you \"have\" or \"don't have parents.\u201d",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "you \"don't know any- thing\"",
+    "cleaned_text": "you \u201cdon't know anything\u201d",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "If that were me,I'd be...",
+    "cleaned_text": "If that were me, I'd be...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "NARRATION",
+    "raw_text": "scared shitless.",
+    "cleaned_text": "scared shitless.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "UNKNOWN",
+    "raw_text": "...UH\u2014",
+    "cleaned_text": "...UH\u2014",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "character20",
+    "raw_text": "\u2014HM, SASSAN...",
+    "cleaned_text": "\u2014HM, SASSAN...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character35",
+    "raw_text": "IF YOUR MEMORIES RETURNED\u2026.",
+    "cleaned_text": "IF YOUR MEMORIES RETURNED\u2026.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character31",
+    "raw_text": "...WOULD YOU.. QUIT BEING AN INVESTIGATOR?",
+    "cleaned_text": "...WOULD YOU.. QUIT BEING AN INVESTIGATOR?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character31",
+    "raw_text": "....",
+    "cleaned_text": "....",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "WHAT? WOULD YOU BE LONELY? Squad leader-",
+    "cleaned_text": "WHAT? WOULD YOU BE LONELY? Squad leader-",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "UNKNOWN",
+    "raw_text": "NO!!",
+    "cleaned_text": "NO!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character35",
+    "raw_text": "IF YOU WEREN'T AROUND ANYMORE, THAT DUMBASS URIE WOULD BE COCKY..",
+    "cleaned_text": "IF YOU WEREN'T AROUND ANYMORE, THAT DUMBASS URIE WOULD BE COCKY.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character35",
+    "raw_text": "HAHA, THAT'S TRUE.",
+    "cleaned_text": "HAHA, THAT\u2019S TRUE.",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

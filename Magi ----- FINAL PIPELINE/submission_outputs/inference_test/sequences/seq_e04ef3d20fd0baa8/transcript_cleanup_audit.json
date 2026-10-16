@@ -1,0 +1,74 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "AH.. AHH..",
+    "cleaned_text": "AH.. AHH..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "PLEASE FORGIVE ME.",
+    "cleaned_text": "PLEASE FORGIVE ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "MIZUE- SAMA!",
+    "cleaned_text": "MIZUE- SAMA!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "TAMAKI...",
+    "cleaned_text": "TAMAKI...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "HHOW...",
+    "cleaned_text": "HHOW...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character7",
+    "raw_text": "MIZUE?",
+    "cleaned_text": "MIZUE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "EEll!",
+    "cleaned_text": "EEll!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "SFX: Agggghhhhhh",
+    "cleaned_text": "SFX: Agggghhhhhh",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

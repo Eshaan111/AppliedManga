@@ -1,0 +1,39 @@
+{
+  "sequence_id": "seq_6aa313a0c0fa1c39",
+  "pages": [
+    [
+      {
+        "speaker": "NARRATION",
+        "text": "GO AWAY!"
+      },
+      {
+        "speaker": "character1",
+        "text": "MIZUE- SAMA?"
+      }
+    ],
+    [
+      {
+        "speaker": "character3",
+        "text": "I'LL..."
+      },
+      {
+        "speaker": "character3",
+        "text": "I'LL DO ANYTHING TO ATONE!"
+      },
+      {
+        "speaker": "character4",
+        "text": "NOT GOOD!"
+      }
+    ],
+    [
+      {
+        "speaker": "character9",
+        "text": "WHAT?!"
+      },
+      {
+        "speaker": "character6",
+        "text": "EEEE!"
+      }
+    ]
+  ]
+}

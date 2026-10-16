@@ -1,0 +1,155 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "BARK!",
+    "cleaned_text": "BARK!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "HEY",
+    "cleaned_text": "HEY",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "HACHI- KEN- KUN! ARE YOU FEELING BETTER?",
+    "cleaned_text": "HACHI- KEN- KUN! ARE YOU FEELING BETTER?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "YEAH",
+    "cleaned_text": "YEAH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "CAME BY TO GET HIS THINGS TODAY.",
+    "cleaned_text": "CAME BY TO GET HIS THINGS TODAY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "OH... I SEE.",
+    "cleaned_text": "OH... I SEE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "HE TOLD ME THAT YOUR FAMLY WAS THE CO-SIGNER WHEN HIS DAD TOOK OUT HIS LOAN.",
+    "cleaned_text": "HE TOLD ME THAT YOUR FAMILY WAS THE CO-SIGNER WHEN HIS DAD TOOK OUT HIS LOAN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "THAT'S WHY... HE SAID HE HAS TO DROP OUT TO WORK.",
+    "cleaned_text": "THAT\u2019S WHY... HE SAID HE HAS TO DROP OUT TO WORK.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "I TOLD HIM NOT TO WORRY ABOUT US, BUT YOU KNOW ICHIRO- CHAN.",
+    "cleaned_text": "I TOLD HIM NOT TO WORRY ABOUT US, BUT YOU KNOW ICHIRO- CHAN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "HE'S JUST TOO STUB- BORN.",
+    "cleaned_text": "HE'S JUST TOO STUBBORN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "IF HE ALREADY EXPLAINED EVERYTHING, THAT MAKES THIS EASIER. THAT'S JUST THE WAY THINGS ARE..",
+    "cleaned_text": "IF HE ALREADY EXPLAINED EVERYTHING, THAT MAKES THIS EASIER. THAT\u2019S JUST THE WAY THINGS ARE..",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "so LET'S JUST NOT TALK ABOUT THIS ANY- MORE, OKAY?",
+    "cleaned_text": "SO LET\u2019S JUST NOT TALK ABOUT THIS ANY MORE, OKAY?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "JUST FORGET ABOUT IT.",
+    "cleaned_text": "JUST FORGET ABOUT IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "MI...",
+    "cleaned_text": "MI...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "LET GO OF THE REINS.",
+    "cleaned_text": "LET GO OF THE REINS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "I DON'T WANT YOU TO BE BUR DENED BY THIS.",
+    "cleaned_text": "I DON'T WANT YOU TO BE BURDENED BY THIS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "...IG IDIOT. YOU CAN'T TELL ME HOW I'M AL- LOWED TO FEEL ABOUT THIS...",
+    "cleaned_text": "...IG IDIOT. YOU CAN'T TELL ME HOW I'M AL-LOWED TO FEEL ABOUT THIS...",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

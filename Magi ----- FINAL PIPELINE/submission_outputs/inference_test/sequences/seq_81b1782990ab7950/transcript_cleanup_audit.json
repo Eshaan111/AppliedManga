@@ -1,0 +1,362 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "THIS IS THE CLUB WHERE NUTCRACKER HAS BEEN APPEAR- ING RECENTLY...",
+    "cleaned_text": "THIS IS THE CLUB WHERE NUTCRACKER HAS BEEN APPEARING RECENTLY...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "UNKNOWN",
+    "raw_text": "LOOKS KINDA FUN, DOESN'T IT?",
+    "cleaned_text": "LOOKS KINDA FUN, DOESN'T IT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "BLOOD 13",
+    "cleaned_text": "BLOOD 13",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "SHALL",
+    "cleaned_text": "SHALL",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "UNKNOWN",
+    "raw_text": "AH",
+    "cleaned_text": "AH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "UNKNOWN",
+    "raw_text": "IT",
+    "cleaned_text": "IT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "UNKNOWN",
+    "raw_text": "COULD INSPIRE SOCIAL AGORA- PHOBIA... SENSEI, HAVE YOU EVER BEEN TO A PLACE LIKE THIS BEFORE..?",
+    "cleaned_text": "COULD INSPIRE SOCIAL AGORA- PHOBIA... SENSEI, HAVE YOU EVER BEEN TO A PLACE LIKE THIS BEFORE..?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "UNKNOWN",
+    "raw_text": "T/N: Hidden meaning: re-approach, there are also the puns \"Afro\" and \"blood shall overflow\".",
+    "cleaned_text": "T/N: Hidden meaning: re-approach, there are also the puns \"Afro\" and \"blood shall overflow\".",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "UNKNOWN",
+    "raw_text": "I DID AN INVESTIGATION WITH AKIRA-SAN IN A PLACE LIKE THIS ONCE. I DESPER- ATELY STOPPED AKIRA-SAN WHEN SHE SAID \"ONLY ONE DRINK\".\u2026.",
+    "cleaned_text": "I DID AN INVESTIGATION WITH AKIRA-SAN IN A PLACE LIKE THIS ONCE. I DESPERATELY STOPPED AKIRA-SAN WHEN SHE SAID \"ONLY ONE DRINK\".\u2026.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "UNKNOWN",
+    "raw_text": "HEY...",
+    "cleaned_text": "HEY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character21",
+    "raw_text": "DO ALL OF US... NO, DO ONLY I FEEL FUCKING OUT OF PLACE HERE..?",
+    "cleaned_text": "DO ALL OF US... NO, DO ONLY I FEEL FUCKING OUT OF PLACE HERE?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "NO, NO, YOU LOOK CU-.. PPFFT.",
+    "cleaned_text": "NO, NO, YOU LOOK CU--PPFT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character24",
+    "raw_text": "HEY NOW. WATCH YOUR LANGUAGE, SHII-CHAN.",
+    "cleaned_text": "HEY NOW. WATCH YOUR LANGUAGE, SHII-CHAN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "BUT .\u2026!! THERE AIN'T A HUGE WO- MAN LIKE THIS ANY- WHERE AROUND...",
+    "cleaned_text": "BUT\u2026!! THERE AIN\u2019T A HUGE WOMAN LIKE THIS ANYWHERE AROUND...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "This is absolutely strange!!",
+    "cleaned_text": "This is absolutely strange!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character23",
+    "raw_text": "PLEASE THINK OF THE TALL GIRLS.",
+    "cleaned_text": "PLEASE THINK OF THE TALL GIRLS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character20",
+    "raw_text": "LIKE A DELMO.",
+    "cleaned_text": "LIKE A DELMO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "T/N:SAIKO SWITCHES AROUND THE HIRAGANA OF \"MODEL\". -MIGHT BE A REFERENCE OF MR. CHILDREN'S",
+    "cleaned_text": "T/N:SAIKO SWITCHES AROUND THE HIRAGANA OF \u201cMODEL\u201d-MIGHT BE A REFERENCE OF MR. CHILDREN\u2019S",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "RATHER, SAIKO, you BITCH, THE DIF- FERENCE IN TOORU AND ME IS WEIRD AIN'T IT !!? You did mine sloppily!!",
+    "cleaned_text": "RATHER, SAIKO, you BITCH, THE DIFFERENCE IN TOURU AND ME IS WEIRD AIN'T IT !!? You did mine sloppily!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character22",
+    "raw_text": "NO WAY, WHEN THE MATERIALS ARE GOOD, ONE IS BOUND TO BE EN- THUSIASTIC!",
+    "cleaned_text": "NO WAY, WHEN THE MATERIALS ARE GOOD, ONE IS BOUND TO BE EN-THUSIASTIC!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "NARRATION",
+    "raw_text": "I's Your. just",
+    "cleaned_text": "I's Your. just",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "character22",
+    "raw_text": "\"\u2022.",
+    "cleaned_text": "\"\u2022.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "character22",
+    "raw_text": "WHAT- CHU sAy!?",
+    "cleaned_text": "WHAT- CHU SAY!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character24",
+    "raw_text": "AND WHAT'S UP WITH you, SASSAN!!? yOu DID IT ON youR OWN!",
+    "cleaned_text": "AND WHAT\u2019S UP WITH YOU, SASSAN!!? YOU DID IT ON YOUR OWN!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character24",
+    "raw_text": "WE HAVE TO SUCK IT UP.",
+    "cleaned_text": "WE HAVE TO SUCK IT UP.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "earned it from a book.",
+    "cleaned_text": "earned it from a book.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "Is now Sasako.",
+    "cleaned_text": "Is now Sasako.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character18",
+    "raw_text": "WE'RE GOING TO MAKE UP FOR OUR FAILURE THE OTHER DAY. Set yourself Set yourself free. ...",
+    "cleaned_text": "WE'RE GOING TO MAKE UP FOR OUR FAILURE THE OTHER DAY. Set yourself Set yourself free. ...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "Urie!..why at a time like this.",
+    "cleaned_text": "Urie!..why at a time like this.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "SINCE PEOPLE WILL BE LOOK- ING AT YOUR FACE, IT'S MORE AMUSING IF YOU HAVE THAT HEAVY MAKE\u2014 UP ON... YOU WON'T BE FOUND OUT, SQUAD LEADER.",
+    "cleaned_text": "SINCE PEOPLE WILL BE LOOKING AT YOUR FACE, IT\u2019S MORE AMUSING IF YOU HAVE THAT HEAVY MAKE\u2014 UP ON... YOU WON\u2019T BE FOUND OUT, SQUAD LEADER.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character24",
+    "raw_text": "OkAy, 1 UNDER- STAND!!",
+    "cleaned_text": "Okay, 1 UNDERSTAND!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "'An undercover investigation\"?",
+    "cleaned_text": "'An undercover investigation'?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character24",
+    "raw_text": "AH, HE ACCEPTED IT.",
+    "cleaned_text": "AH, HE ACCEPTED IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character24",
+    "raw_text": "ON NUT'S \"INGREDI- ENTS LIST\".",
+    "cleaned_text": "ON NUT'S \"INGREDI-ENTS LIST\".",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "NARRATION",
+    "raw_text": "Yeah.",
+    "cleaned_text": "Yeah.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 12,
+    "speaker": "character24",
+    "raw_text": "THERE ARE TARGETS WITH AN EXTREMELY HIGH LEVEL OF DIFFICULTY AND THERE ARE ALSO TARGETS THAT ARE EASY.",
+    "cleaned_text": "THERE ARE TARGETS WITH AN EXTREMELY HIGH LEVEL OF DIFFICULTY AND THERE ARE ALSO TARGETS THAT ARE EASY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 13,
+    "speaker": "character24",
+    "raw_text": "HOWEVER, THERE ARE A CONSIDER- ABLE NUMBER OF REQUESTS FOR TEENAGE TO 20S AGED \"FEMALES\".",
+    "cleaned_text": "HOWEVER, THERE ARE A CONSIDERABLE NUMBER OF REQUESTS FOR TEENAGE TO 20S AGED \u201cFEMALES\u201d.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 14,
+    "speaker": "character24",
+    "raw_text": "I THINK, THEY ARE PERHAPS BEING LINED UP AS THE AUCTION'S OPEN- ING GOODS.",
+    "cleaned_text": "I THINK, THEY ARE PERHAPS BEING LINED UP AS THE AUCTION\u2019S OPENING GOODS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 15,
+    "speaker": "NARRATION",
+    "raw_text": "Itseemsof theseitems.",
+    "cleaned_text": "It seems of these items.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 16,
+    "speaker": "NARRATION",
+    "raw_text": "Nutcrackerhasn't yetreachedthe quotashe was given.",
+    "cleaned_text": "Nutcrackerhasn't yet reached the quotashe was given.",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

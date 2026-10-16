@@ -88,7 +88,7 @@ def load_model_once(name, factory):
 # --- Notebook inference cell 4 ---
 # Local resource paths: these are the only model/checkpoint resources required.
 MAGI_ROOT=Path(BATCH_SETTINGS['magi_root'])
-PIPELINE_ROOT=MAGI_ROOT/'paddleOCR-Magi'
+PIPELINE_ROOT=Path(__file__).resolve().parents[1]
 # Model source: https://huggingface.co/ragavsachdeva/magiv2
 MODEL_PATH=Path('C:/MODELS/magiv2')
 # Model source: https://huggingface.co/google/gemma-3-4b-it

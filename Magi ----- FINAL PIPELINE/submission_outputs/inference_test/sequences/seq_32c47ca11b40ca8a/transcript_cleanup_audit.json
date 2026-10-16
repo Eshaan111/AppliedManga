@@ -1,0 +1,47 @@
+[
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character6",
+    "raw_text": "MIZUE- SAMA!",
+    "cleaned_text": "MIZUE- SAMA!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character12",
+    "raw_text": "GET BACK!",
+    "cleaned_text": "GET BACK!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character6",
+    "raw_text": "MOVE AWAY!",
+    "cleaned_text": "MOVE AWAY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character8",
+    "raw_text": "AGH!",
+    "cleaned_text": "AGH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "DAMN IT.",
+    "cleaned_text": "DAMN IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

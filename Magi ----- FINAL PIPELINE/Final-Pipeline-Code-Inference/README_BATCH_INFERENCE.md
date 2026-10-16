@@ -1,6 +1,6 @@
 # Batch sequence inference (.py)
 
-Entry point: [run_sequence_inference.py](run_sequence_inference.py). This processes the selected split from `Magi/TaskData/sequences.json`, using its sequence IDs and ordered image paths. It never reads reference labels for inference and does not run scoring. The selected artifact + contour notebook is unchanged.
+Entry point: [run_sequence_inference.py](run_sequence_inference.py). This processes the selected split from `Magi/TaskData/sequences.json`, using its sequence IDs and ordered image paths. It never reads reference labels for inference and does not run scoring. The notebook version includes the interactive viewers.
 
 ## Run
 
@@ -60,11 +60,11 @@ Default own stage caches are at `paddleOCR-Magi/cache_batch_artifact_contour/<se
 
 A failed sequence/stage stops the batch, records the phase and sequence in stage_status.json, and leaves any previous combined prediction file untouched. No empty placeholder transcript is invented. Per-sequence logs/exports and stage caches remain available for diagnosis and reruns.
 
-## Implementation and preservation
+## How the runner works
 
 [The worker](src/artifact_contour_sequence.py) contains readable plain Python extracted from the current notebook's inference cells, including the latest numeric-preservation cleanup examples. It imports the same contour helpers from the parent folder. It does not read/execute the notebook at runtime. Original function bodies and prediction settings are preserved; input/resource/output plumbing is configurable, tables/viewers are omitted, and a shared-stage scheduler reuses each model across sequences while rebuilding sequence-specific state.
 
-The runner now uses one batch process, with model work scheduled by stage. It does not load models for every sequence. Prior per-sequence behavior is preserved under LegacyMagiPipelines for regression comparison. A fresh namespace/image set is created per sequence per phase, so entities, OCR context and reading order do not cross sequences. Prior completed stages are read from validated caches; if a prior stage is missing/stale during a later phase, the batch stops rather than silently rerunning it with the wrong model state. The worker is a snapshot; future changes to notebook inference/prompt code must also be applied to this worker. Its header records the source notebook hash, and each batch records the worker/helper hashes.
+The runner uses one batch process, with model work scheduled by stage. It does not load models for every sequence. Prior per-sequence behavior is preserved under LegacyMagiPipelines for regression comparison. A fresh namespace/image set is created per sequence per phase, so entities, OCR context and reading order do not cross sequences. Prior completed stages are read from validated caches; if a prior stage is missing/stale during a later phase, the batch stops rather than silently rerunning it with the wrong model state. The worker is a snapshot; future changes to notebook inference/prompt code must also be applied to this worker. Its header records the source notebook hash, and each batch records the worker/helper hashes.
 
 ## Score later
 
@@ -78,7 +78,7 @@ Test labels are not currently provided, so test predictions can be exported but 
 
 ## Verification performed
 
-Python syntax checks; exact AST comparison of all 34 copied inference functions against the notebook; a dry-run selection of all 15 test sequences; and two-sequence batch tests with a stub worker using the official schema loader. Tests also rejected duplicate sequence IDs, missing images and incorrect page counts, and confirmed a failed run preserves a previous combined export. No real model inference, training or accuracy scoring was run while creating these files.
+Python syntax checks; exact AST comparison of all 34 copied inference functions against the notebook; a dry-run selection of all 15 test sequences; and two-sequence batch tests with a stub worker using the official schema loader. Tests also rejected duplicate sequence IDs, missing images and incorrect page counts, and confirmed a failed run preserves a previous combined export. These are implementation checks, not a real-model inference comparison or an accuracy benchmark.
 
 
 ## Shared-model schedule and workflow tests
@@ -105,4 +105,8 @@ Run the CPU-only regression tests from Magi:
 
 Five tests passed. They verify unchanged prediction-function ASTs after removing only loading wrappers, identical prompts/thresholds and cache validation, saved-example transcript/member-speaker routing parity, original-detection-before-patching order, model factory counts, sequential-versus-staged fixture output equality, cache-only reruns, force behavior, missing-prior-stage rejection, and preservation of an existing combined export after failure.
 
-Tests use stubs and saved data. No real GPU inference or real-model numerical parity run has been performed, so they cannot guarantee bitwise equality of GPU outputs or rule out every third-party model-state issue. The existing notebook and contour helpers were not modified. Per-sequence logs remain under sequences/<sequence_id>/inference.log; stage_status.json reports shared-stage progress/failure.
+Tests use stubs and saved data. No real GPU inference or real-model numerical parity run has been performed, so they cannot guarantee bitwise equality of GPU outputs or rule out every third-party model-state issue. Per-sequence logs remain under sequences/<sequence_id>/inference.log; stage_status.json reports shared-stage progress/failure.
+
+## Current folder names
+
+The code now lives under `Magi ----- FINAL PIPELINE/Final-Pipeline-Code-Inference/`. The earlier commands and some runtime defaults above use the old folder names from the saved run. Update those paths before rerunning; see the [folder-name note](README_ARTIFACT_CONTOUR_FULL_INFERENCE.md#folder-name-note). The root [requirements.txt](../../requirements.txt) records the current local dependencies.

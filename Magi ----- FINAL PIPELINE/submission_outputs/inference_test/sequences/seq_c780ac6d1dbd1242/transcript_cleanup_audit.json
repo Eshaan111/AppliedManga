@@ -1,0 +1,209 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "THIS IS GOING TO END UP AFFECTING THEIR BUSINESS AS WELL. THAT'S WHY, EVEN IF IT'S ONLY A LITTLE, I HAVE TO HELP PAY BACK WHAT WE OWE AS FAST AS WE CAN.",
+    "cleaned_text": "THIS IS GOING TO END UP AFFECTING THEIR BUSINESS AS WELL. THAT'S WHY, EVEN IF IT'S ONLY A LITTLE, I HAVE TO HELP PAY BACK WHAT WE OWE AS FAST AS WE CAN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "AH...",
+    "cleaned_text": "AH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "IF ANYBODY WERE TO GET HURT BECAUSE OF SOMETHING THEY DID FOR ME, I'D FEEL AWFUL ABOUT",
+    "cleaned_text": "IF ANYBODY WERE TO GET HURT BECAUSE OF SOMETHING THEY DID FOR ME, I'D FEEL AWFUL ABOUT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "OUR FARM IS PRETTY FAR UP IN THE MOUNTAINS, SO THE LAND ISN'T VERY EASY TO GROW ON. EVEN IF WE TRIED TO SELL IT ALL OFF, WE WOULDN'T MAKE MUCH. OUR COWS ARE PRETTY OLD AS WELL, SO I DOUBT THEY WOULD SELL FOR MUCH EITHER.",
+    "cleaned_text": "OUR FARM IS PRETTY FAR UP IN THE MOUNTAINS, SO THE LAND ISN'T VERY EASY TO GROW ON. EVEN IF WE TRIED TO SELL IT ALL OFF, WE WOULDN'T MAKE MUCH. OUR COWS ARE PRETTY OLD AS WELL, SO I DOUBT THEY WOULD SELL FOR MUCH EITHER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "I WANT MY LITTLE SISTERS TO BE ABLE To GO TO COLLEGE..",
+    "cleaned_text": "I WANT MY LITTLE SISTERS TO BE ABLE TO GO TO COLLEGE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "SO I'M GOING TO WORK.",
+    "cleaned_text": "SO I\u2019M GOING TO WORK.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "WHAT ABOUT ALL YOUR DREAMS!? ARE YOU JUST G0ING TO GIVE UP!?",
+    "cleaned_text": "WHAT ABOUT ALL YOUR DREAMS!? ARE YOU JUST GOING TO GIVE UP!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "YOU'VE WORKED SO HARD TO GET THIS FAR!!",
+    "cleaned_text": "YOU'VE WORKED SO HARD TO GET THIS FAR!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "YOU'RE RIGHT \u2022 \u2022 \u2022 BASE- BALL... TAKING OVER THE FARM..",
+    "cleaned_text": "YOU\u2019RE RIGHT \u2022 \u2022 \u2022 BASE- BALL... TAKING OVER THE FARM..",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "IVE LOST EVERY- THING.",
+    "cleaned_text": "IVE LOST EVERY- THING.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "BUT THAT CAN'T BE HELPED.",
+    "cleaned_text": "BUT THAT CAN'T BE HELPED.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "THIS IS THE LAST OF IT.",
+    "cleaned_text": "THIS IS THE LAST OF IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "GOOD AFTER- NOON.",
+    "cleaned_text": "GOOD AFTERNOON.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character6",
+    "raw_text": "OH, HACHI- KEN-KUN!",
+    "cleaned_text": "OH, HACHI-KEN-KUN!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "LONG TIME NO SEE!",
+    "cleaned_text": "LONG TIME NO SEE!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character6",
+    "raw_text": "WHY AREN'T YOU IN CLASS?",
+    "cleaned_text": "WHY AREN'T YOU IN CLASS?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "HE'S BEEN FAKING SICK.",
+    "cleaned_text": "HE\u2019S BEEN FAKING SICK.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character9",
+    "raw_text": "I THOU- GHT HE MIGHT BE.",
+    "cleaned_text": "I THOUGHT HE MIGHT BE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character6",
+    "raw_text": "THANK YOU FOR THAT BACON YOU SENT US!",
+    "cleaned_text": "THANK YOU FOR THAT BACON YOU SENT US!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character6",
+    "raw_text": "IT WAS REALLY GOOD!",
+    "cleaned_text": "IT WAS REALLY GOOD!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character3",
+    "raw_text": "AH",
+    "cleaned_text": "AH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character3",
+    "raw_text": "THANK you...",
+    "cleaned_text": "THANK YOU...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character6",
+    "raw_text": "HACHI- KEN-KUN... BE SURE TO FINISH SCHOOL, OKAY?",
+    "cleaned_text": "HACHI- KEN-KUN... BE SURE TO FINISH SCHOOL, OKAY?",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

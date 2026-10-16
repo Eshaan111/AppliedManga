@@ -1,60 +1,64 @@
-# Core numerical / ML
-numpy
-pandas
-scikit-learn
-matplotlib
-tqdm
-pyyaml
+# Root requirements: Applied-Task/requirements.txt
+# Covers the final Magi pipeline, notebook viewers and common fine-tuning experiments.
+# Python 3.11. Versions below were read from the local godfather.venv environment.
+# This is a dependency snapshot, not a verified fresh-install lockfile.
+#
+# Install GPU frameworks FIRST using their platform/CUDA-specific instructions:
+# PyTorch: https://pytorch.org/get-started/locally/
+# Local versions: torch 2.14.0+cu126, torchvision 0.29.0+cu126.
+# Paddle GPU: https://www.paddlepaddle.org.cn/install/quick
+# Local version: paddlepaddle-gpu 3.2.0. The pipeline requires CUDA-enabled Paddle.
+# GPU frameworks are deliberately not installed by this file: preserve the chosen CUDA builds.
+# From Applied-Task, after installing the CUDA frameworks:
+#   python -m pip install -r requirements.txt
+# Keep the Torch import before Paddle in the Windows pipeline.
+#
+# Only one OpenCV distribution is listed because both variants provide cv2.
+# Model weights, datasets and local model paths are separate from Python dependencies.
+# Older archived experiments may need additional packages listed in their notebooks.
+# Install archive-specific extras only when needed: easyocr, pytesseract, trl,
+# rapidfuzz, gibberish-detector, nltk and pyspellchecker. See each notebook.
 
-# PyTorch stack
-# Install torch/torchvision separately using the command matching your CUDA version:
-# https://pytorch.org/get-started/locally/
-torch
-torchvision
+# Numerical and image processing
+numpy==1.26.4
+pandas==3.0.6
+scipy==1.17.1
+pillow==11.3.0
+opencv-contrib-python==4.10.0.84
+matplotlib==3.11.2
+tqdm==4.70.1
+pyyaml==6.0.2
 
-# Hugging Face / VLM
-transformers
-accelerate
-datasets
-tokenizers
-safetensors
-sentencepiece
-huggingface_hub
+# Magi and Hugging Face models
+transformers==4.57.6
+tokenizers==0.22.2
+accelerate==1.15.0
+bitsandbytes==0.50.2  # Gemma 4-bit loading in the final pipeline
+huggingface-hub==0.36.2
+safetensors==0.8.0
+sentencepiece==0.2.2
+timm==1.0.30
+einops==0.8.2
+pulp==3.3.2
+shapely==2.1.2
+networkx==3.6.1
 
-# Fine-tuning / PEFT
-peft
-trl
-bitsandbytes
+# OCR and bubble detection
+paddleocr==3.7.0
+paddlex==3.7.2
+ultralytics==8.4.163
 
-# Image / CV
-pillow
-opencv-python
-scikit-image
+# Notebook viewers and notebook helpers
+ipython==9.17.1
+ipykernel==6.31.0
+ipywidgets==8.1.9
+jupyterlab==4.6.4
+nbformat==5.11.1
+nbclient==0.11.0
 
-# OCR options
-paddleocr
-easyocr
-pytesseract
-
-# Detection / embeddings / utilities
-ultralytics
-timm
-
-# Structured data / validation
-pydantic
-jsonschema
-
-# Experimentation
-tensorboard
-mlflow
-
-# Notebook / dev
-jupyter
-ipykernel
-nbformat
-rich
-
-# Optional but useful
-einops
-rapidfuzz
-networkx
+# Common fine-tuning experiments
+scikit-learn==1.9.1
+datasets==3.6.0
+peft==0.21.0
+optuna==5.0.0
+catboost==1.2.10

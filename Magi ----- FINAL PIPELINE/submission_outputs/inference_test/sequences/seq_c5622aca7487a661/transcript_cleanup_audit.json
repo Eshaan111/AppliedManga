@@ -1,0 +1,101 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "He can't hear it.",
+    "cleaned_text": "He can't hear it.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character9",
+    "raw_text": "DID HE GET HIM !?",
+    "cleaned_text": "DID HE GET HIM!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character8",
+    "raw_text": "NO. CLOSE.",
+    "cleaned_text": "NO. CLOSE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character7",
+    "raw_text": "HAAH.",
+    "cleaned_text": "HAAH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character7",
+    "raw_text": "I must keep this distance.",
+    "cleaned_text": "I must keep this distance.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character5",
+    "raw_text": "Just enough distance so that he can't touch me.",
+    "cleaned_text": "Just enough distance so that he can't touch me.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character5",
+    "raw_text": "My fight is there!",
+    "cleaned_text": "My fight is there!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "DOES IT",
+    "cleaned_text": "DOES IT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "SNOW THIS MUCH EVERY YEAR IN THE CAPITAL?",
+    "cleaned_text": "SNOW THIS MUCH EVERY YEAR IN THE CAPITAL?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character7",
+    "raw_text": "SAA AAA AAH",
+    "cleaned_text": "SAA AAA AAH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "Can't you hear it, Denshi chiro?",
+    "cleaned_text": "Can't you hear it, Denshi chiro?",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

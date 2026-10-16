@@ -1,0 +1,31 @@
+{
+  "status": "complete",
+  "phase": "transcript_cleanup",
+  "sequence_id": null,
+  "completed_phases": [
+    "magi_raw",
+    "embeddings",
+    "paddle",
+    "artifacts",
+    "entities_and_bubbles",
+    "contour_and_routing",
+    "transcript_cleanup"
+  ],
+  "completed_in_phase": [
+    "seq_6b18300406fa878f",
+    "seq_c780ac6d1dbd1242",
+    "seq_5303b549f62e9d3f",
+    "seq_d455cfd18edfb0ba",
+    "seq_e04ef3d20fd0baa8",
+    "seq_6aa313a0c0fa1c39",
+    "seq_32c47ca11b40ca8a",
+    "seq_81b1782990ab7950",
+    "seq_14469aeb38963085",
+    "seq_e9ffbb64217c2fed",
+    "seq_316bc7bd43ed6996",
+    "seq_cf7df70d4bba5da5",
+    "seq_e456a0394af99570",
+    "seq_c5622aca7487a661",
+    "seq_75aeca6c7131544b"
+  ]
+}

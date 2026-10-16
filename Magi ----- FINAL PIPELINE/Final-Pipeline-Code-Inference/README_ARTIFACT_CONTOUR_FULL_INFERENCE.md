@@ -1,23 +1,21 @@
-# Artifact + contour full inference: implementation and submission guide
+# Artifact + contour full inference: how it works
 
-Reviewed on 2026-10-15. This is the consolidated guide to `pipelineArtifactContourFullInference.ipynb`, its dependencies, concepts, caches, exports, and possible improvements. It describes the user's selected submission baseline; it does not claim a measured accuracy advantage over every experiment.
-
-**The existing notebook, contour helpers, weights and prediction outputs were left unchanged during this review.** Proposed improvements below are not implemented in the baseline. No development ground-truth labels, scoring run, model inference or training were used for this review.
+This is the detailed guide to the pipeline I kept: its inputs, models, contour checks, character matching, caches and outputs. The [main README](../README.md) explains how I got here, and the [batch guide](README_BATCH_INFERENCE.md) covers the Python runner. Ideas under future work are separate from the current implementation.
 
 ## 1. Files and what to preserve
 
-All paths below are relative to `C:/Users/ESHAAN/BYTE/Applied-Task/Magi/`, unless absolute.
+Project paths below are relative to `Magi ----- FINAL PIPELINE/` inside the Applied-Task repository, unless marked absolute.
 
 | File | Purpose |
 | --- | --- |
-| `paddleOCR-Magi/pipelineArtifactContourFullInference.ipynb` | Current complete inference entry point; run top to bottom |
-| `paddleOCR-Magi/contour_narrator2.py` | Background-region extraction, shape measurements and spoken/narrated decisions |
-| `paddleOCR-Magi/contour_grouping.py` | Individual outlines, faint retries and overlap merge candidates |
-| `paddleOCR-Magi/PIPELINE_ARTIFACT_CONTOUR_DEPENDENCIES.json` | Static resource/helper list and code provenance |
-| `paddleOCR-Magi/PIPELINE_ARTIFACT_CONTOUR_FULL_INFERENCE.md` | Earlier standalone Mermaid diagram; consolidated diagram is below |
-| This README | Single human-readable explanation and improvement plan |
-| `paddleOCR-Magi/pipeline_review/audit_saved_outputs.py` | Separate saved-output inspection; no model loading or prediction edits |
-| `paddleOCR-Magi/pipeline_review/saved_output_audit.json` | Results of this review's one saved-run audit |
+| `Final-Pipeline-Code-Inference/pipelineArtifactContourFullInference.ipynb` | Current complete inference entry point; run top to bottom |
+| `Final-Pipeline-Code-Inference/contour_narrator2.py` | Background-region extraction, shape measurements and spoken/narrated decisions |
+| `Final-Pipeline-Code-Inference/contour_grouping.py` | Individual outlines, faint retries and overlap merge candidates |
+| `Final-Pipeline-Code-Inference/PIPELINE_ARTIFACT_CONTOUR_DEPENDENCIES.json` | Static resource/helper list and code provenance |
+| `Final-Pipeline-Code-Inference/PIPELINE_ARTIFACT_CONTOUR_FULL_INFERENCE.md` | Earlier standalone Mermaid diagram; consolidated diagram is below |
+| This README | Detailed pipeline explanation and possible next steps |
+| `Final-Pipeline-Code-Inference/pipeline_review/audit_saved_outputs.py` | Separate saved-output inspection; no model loading or prediction edits |
+| `Final-Pipeline-Code-Inference/pipeline_review/saved_output_audit.json` | Historical saved-output audit |
 | `TaskData/score.py` | Exact JSONL validator and evaluation definition |
 
 `pipelineContourFullInference.ipynb`, `ArtifactGemmaTest.ipynb` and the older `pipelineFULL_INFERENCE.ipynb` are code origins, not runtime notebook dependencies. Relevant functions were copied into the current notebook. Keep both contour Python files together: the narrator helper imports its sibling grouping file.
@@ -26,7 +24,7 @@ All paths below are relative to `C:/Users/ESHAAN/BYTE/Applied-Task/Magi/`, unles
 
 Use the existing kernel at `C:/Users/ESHAAN/BYTE/godfather.venv/Scripts/python.exe`. Import Torch before Paddle on this Windows setup. The current notebook requires CUDA for Magi, Paddle and Gemma; changing DEVICE to CPU does not make the whole pipeline run on CPU.
 
-Required packages include torch, torchvision, transformers, accelerate, bitsandbytes, paddlepaddle-gpu, paddleocr, paddlex, ultralytics, scipy, opencv-python, numpy, pandas, Pillow, matplotlib and IPython. ipywidgets provides the interactive viewers. Retain the working CUDA/package versions rather than blindly upgrading for submission. The notebook records some package versions per run; a future submission package should also capture the full working environment and CUDA details.
+Required packages include torch, torchvision, transformers, accelerate, bitsandbytes, paddlepaddle-gpu, paddleocr, paddlex, ultralytics, scipy, opencv-python, numpy, pandas, Pillow, matplotlib and IPython. ipywidgets provides the interactive viewers. The root [requirements.txt](../../requirements.txt) records the local package versions and explains the separate CUDA framework setup. A clean installation has not yet been tested.
 
 | Resource | Current configured location | Role |
 | --- | --- | --- |
@@ -41,7 +39,7 @@ All resource paths are configurable in the notebook's local-resource settings ce
 
 The character checkpoint is a required model resource, not a reusable data cache. Its metadata and original Magi weight hashes are checked. The original Magi detector and text-character association head remain active: `ASSOCIATION_HEAD_PATH=None`. The notebook does not fine-tune them at inference time.
 
-DeBERTa, DINO, QuoteCaster, the earlier learned narration Transformer, the contour MLP and CatBoost are **not used in this baseline**. The bubble detector is an existing checkpoint; this review does not infer its training provenance from its filename.
+DeBERTa, DINO, QuoteCaster, the earlier learned narration Transformer, the contour MLP and CatBoost are **not used in this baseline**. I use the pretrained bubble checkpoint linked in the model table below.
 
 ## 3. Inputs and run order
 
@@ -155,7 +153,7 @@ Optional Gemma cleanup runs on each final entry's text after grouping and speake
 Own cache layout:
 
 ```text
-paddleOCR-Magi/cache_artifact_contour_full_inference/
+Final-Pipeline-Code-Inference/cache_artifact_contour_full_inference/
   <sequence_id>/<hash_of_ordered_image_paths>/
     manifest.json
     magi_raw.json
@@ -213,7 +211,7 @@ Detailed group/box exports retain original OCR even after final transcript clean
 
 Practical implications: a correct bubble cannot compensate for deleted dialogue; fluent rewritten dialogue can reduce text fidelity; a wrong merge can assign multiple speakers' words to one identity; a correct OCR line can still have the wrong speaker. Schema validation alone proves none of these are accurate.
 
-No development score was computed in this review.
+The [metrics guide](../METRICS.md) explains the completed development scores and how inconsistent character IDs affect balanced joint F1.
 
 ## 8. Checks performed without ground truth or inference
 
@@ -229,42 +227,35 @@ The separate audit inspected the one saved run for `seq_2fae297a18af2a57`, scope
 | Noncontiguous merged members | None flagged in this run |
 | Final OCR cleanup | 6 changed entries; 1 numeric-preservation flag |
 
-Concrete cleanup flag:
-
-```text
-RAW:   I'M TAKING OHT 17O GRAND tO COVER YOUR LOAN AND INTEREST PAYMENTS.
-FINAL: I’M TAKING TO GRAND TO COVER YOUR LOAN AND INTEREST PAYMENTS.
-```
-
-The amount-like token was lost. No reference transcript is needed to identify that loss of information; determining the exact correct amount still requires the image. A separate synthetic numeric guard detects `17O -> TO`, while permitting the candidate OCR-confusion repair `17O -> 170`. This guard is a review heuristic, not a proven correction model, and has not been added to the pipeline.
+The historical audit flagged a cleanup edit that changed a number-like token. I keep raw and cleaned text for checking these edits. A separate numeric-change check is an inspection tool, not an active correction rule in the pipeline.
 
 Pure-function checks also confirmed: empty Paddle plus an ordinary Magi sentence is deleted; empty Paddle plus Magi `...` takes the punctuation fallback; I and 0 go to Gemma rather than a hard single-character deletion rule. Tilde-only strings are not protected by the Python punctuation check because Unicode classifies tilde as a symbol, and therefore go to Gemma. The three cached watermark deletions and the fourth empty-Paddle deletion were logged, not evaluated against GT.
 
-This is one historical saved run. Its outputs may predate current notebook edits; the audit records the current notebook checksum without claiming those outputs were regenerated from it. There is no accuracy/generalization claim from these counts. Static helper hashes matched their files at review time.
+This table describes one historical saved run, not the full development evaluation. It checks file structure and decisions, not prediction accuracy. The saved files were not regenerated for this documentation.
 
 Reproduce the audit from the Magi directory, using PowerShell:
 
 ```powershell
 & C:/Users/ESHAAN/BYTE/godfather.venv/Scripts/python.exe `
-  paddleOCR-Magi/pipeline_review/audit_saved_outputs.py `
-  paddleOCR-Magi/cache_artifact_contour_full_inference/seq_2fae297a18af2a57/a922ef5f36d9a3aa/outputs `
-  --report paddleOCR-Magi/pipeline_review/saved_output_audit.json
+  Final-Pipeline-Code-Inference/pipeline_review/audit_saved_outputs.py `
+  Final-Pipeline-Code-Inference/cache_artifact_contour_full_inference/seq_2fae297a18af2a57/a922ef5f36d9a3aa/outputs `
+  --report Final-Pipeline-Code-Inference/pipeline_review/saved_output_audit.json
 ```
 
 The audit reads saved predictions and imports the schema loader from score.py. It never calls evaluate(), reads labels.jsonl, loads model weights, or edits prediction files. Its default schema check expects three pages.
 
 ## 9. Improvement candidates, kept outside the baseline
 
-These are engineering hypotheses supported by code inspection, the saved-run audit and primary documentation. No accuracy gain is claimed. Start with a separate experiment/candidate export; keep the current notebook as the submission reference.
+These are things I could try next, not changes already made to the pipeline. I would compare them separately before replacing the current version.
 
 | Priority | Candidate | Reason and smallest useful test |
 | --- | --- | --- |
-| 1 | Guard final OCR correction | The saved amount loss is concrete. Compare raw and proposed edits; flag changed digit-bearing tokens, names, negation and large deletions. Revert or queue uncertain edits; preserve raw output. The included numeric flag is a prototype only. Do not assume a simple edit-distance threshold protects meaning. |
+| 1 | Guard final OCR correction | Compare raw and proposed edits; flag changed digit-bearing tokens, names, negation and large deletions. Revert or queue uncertain edits; preserve raw output. The included numeric flag is a prototype only. Do not assume a simple edit-distance threshold protects meaning. |
 | 2 | Retry OCR failures before deletion | Errors, invalid crops and genuine empty recognition currently reach the same empty-Paddle path. Retry operational failures first; separately test scale/contrast/inversion variants only for empty/low-confidence crops. Never treat failed inference as evidence of an artifact. Do not blindly restore Magi text: the saved empty case is highly repetitive/noisy. |
 | 3 | Keep OCR line geometry | Paddle currently recognizes each crop independently, so overlapping Magi crops may capture neighboring letters or lines. Preserve Paddle polygons and assign detected lines to original Magi regions by deterministic coverage/center ownership. Review boundary-spanning lines rather than deleting duplicate words globally. Genuine repetitions must remain. |
 | 4 | Make artifact policy consistent | Test I, A, 0, unfamiliar names, Japanese names, punctuation, screams, SFX, codes and multiline dialogue in a separate policy fixture. Resolve prompt/example conflicts deliberately; keep identical inputs stable and all decisions auditable. |
 | 5 | Restrict classifier answer format | Limit Gemma completion to token sequences for Text/Artifact or score the complete two label sequences. Handle multi-token labels and termination properly. This reduces malformed answers, not wrong classifications; use a calibrated review policy if abstention is required. |
-| 6 | Audit merge safety and order | Continue merging without requiring a closed merged outline, as requested. Flag proposals with conflicting character entities, unrelated panels or interleaved non-member text indices. Preserve every original member ID and text in sidecars. Splitting a suspicious group is an experiment, not an automatic baseline change. |
+| 6 | Audit merge safety and order | Keep grouping separate from recovery of a perfectly closed merged outline. Flag proposals with conflicting character entities, unrelated panels or interleaved non-member text indices. Preserve every original member ID and text in sidecars. Splitting a suspicious group is an experiment, not an automatic baseline change. |
 | 7 | Separate extraction uncertainty from narrator evidence | Failed/leaking extraction currently defaults to NARRATED. Internally distinguish “caption evidence” from “unknown shape.” Examine clipped-page bubbles and faint outlines separately; keep tail override policy explicit. Do not claim every rectangle is narration or every missing outline is an artifact. |
 | 8 | Improve unresolved identity handling cautiously | Tail-forced groups may still be unassociated, as in the saved run. Compare existing original candidate links and explicit tail geometry in a separate audit; neither nearest-character guessing nor text semantics alone reliably establishes a speaker. Cross-page greedy matching can be compared with globally optimal assignment, but identical pair scores do not guarantee better identities. |
 | 9 | Harden batch export and reproducibility | Verify expected sequence IDs/pages, reject duplicate IDs and invalid/empty entries, write UTF-8 atomically, and keep per-sequence sidecars. Pin packages, preprocessing, model hashes and helper code. Run failures must be surfaced rather than silently exporting partial sequences. |
@@ -277,43 +268,21 @@ Research details:
 
 Suggested next experiment: **guarded cleanup plus OCR-failure retries**, independently switchable in a new notebook/file. These address direct output-loss mechanisms before adding another model. Review image-linked raw/candidate text, deletion reasons, changed numbers, retained boxes, grouping membership and speaker conflicts. Such checks can detect mechanical regressions without development scores; human review or later held-out evaluation is still needed to demonstrate accuracy gains.
 
-## 10. Later code.py submission design
+## 10. Batch entry point and possible later packaging
 
-The current notebook is not yet a standalone batch `code.py`. The intended conversion should preserve its behavior first, then test improvements separately:
+[run_sequence_inference.py](run_sequence_inference.py) already runs the pipeline over a split from TaskData/sequences.json. It uses the Python worker and shared-model scheduler described in the [batch guide](README_BATCH_INFERENCE.md); the notebook is not executed at runtime. Scoring is a separate step.
 
-```text
-code.py
-  discover three ordered image paths per sequence
-  load configured local resources
-  predict_sequence(page_paths, sequence_id, resources, cache_dir)
-    same Magi -> Paddle -> Gemma artifact -> contour/group/role pipeline
-    same character embeddings/entities and original association routing
-    same optional final correction
-  validate exact output schema and expected sequence coverage
-  write one sequence object per line to predictions.jsonl
-  keep detailed audits outside predictions.jsonl
-```
+A later code.py entry point could wrap this same flow. It would need the two contour helpers, model resources and environment setup. It should preserve page order, reset entity IDs between sequences, validate each output and report failures instead of substituting empty transcripts. Reference labels define the format and support evaluation; they are not inference input.
 
-Proposed interface, not implemented here:
-
-```python
-predict_sequence(page_paths, sequence_id, resources, cache_dir) -> transcript
-```
-
-Reference `development/labels.jsonl` supplies the **format and optional later evaluation**, never model input. The goal is to predict a new file such as `predictions.jsonl` from images; do not overwrite the development labels. A batch wrapper should read the provided image/sequence manifest, process each sequence once, and write exactly the requested sequence IDs. No dummy empty predictions for failed sequences should be silently substituted.
-
-Package the two contour helpers, required model/checkpoint directories and a working environment specification alongside code.py. Origin notebooks and old experiment caches need not ship. Own-cache creation must work from scratch; in-memory model reuse between sequences can reduce repeated loading, but sequence IDs/entities and per-sequence state must reset. Viewers should be optional and headless execution should not depend on ipywidgets.
-
-Batch extraction is now implemented separately as [run_sequence_inference.py](run_sequence_inference.py) plus its plain-Python worker. See [batch inference instructions](README_BATCH_INFERENCE.md). The notebook remains unchanged; scoring remains a separate step.
-
+The notebook keeps the viewers for inspection. The batch runner runs without them. Both create their own stage caches rather than depending on an old experiment's caches.
 
 ## 11. GitHub source, model links and checkpoint hosting
 
-The project root `.gitignore` excludes environments, secrets, weight/feature binaries, training-run directories, input page directories/reference labels and stage-cache internals. It deliberately does not ignore JSON/JSONL/CSV or outputs directories globally. Final predictions and score reports remain uploadable. In the current cache tree, transcript.jsonl, transcript_raw.jsonl, predictions.jsonl, predicted_labels.jsonl, submission.jsonl and conventional score JSON filenames are explicitly retained. Other cache internals remain ignored.
+The repository root is Applied-Task. Its `.gitignore` excludes environments, secrets, weight/feature binaries, most training-run contents, input images/reference labels and stage-cache internals. The selected two-block character checkpoint and small experiment summaries are explicit exceptions. It deliberately does not ignore JSON/JSONL/CSV or outputs directories globally. Final predictions and score reports remain uploadable. In the current cache tree, transcript.jsonl, transcript_raw.jsonl, predictions.jsonl, predicted_labels.jsonl, submission.jsonl and conventional score JSON filenames are explicitly retained. Other cache internals remain ignored.
 
-Use `Magi/submission_outputs/` for the eventual final test predictions and score.py report. Files there can use any sensible JSONL/JSON/CSV names without being hidden by a cache directory rule. This does not move or change any current output and does not create predictions or scores. Existing experiment-local .gitignore files may still exclude their own caches; the dedicated submission folder avoids that ambiguity. Git ignore rules do not remove files already tracked in an existing repository.
+Use `Magi ----- FINAL PIPELINE/submission_outputs/` for final predictions and score.py reports. Files there can use any sensible JSONL/JSON/CSV names without being hidden by a cache directory rule. Existing experiment-local .gitignore files may still exclude their own caches; the dedicated submission folder avoids that ambiguity. Git ignore rules do not remove files already tracked in an existing repository.
 
-Model-source links have also been added as comments beside resource settings and loading calls in the final notebook. Computation is unchanged.
+Model-source links are also listed beside resource settings in the notebook.
 
 | Resource | Hugging Face source |
 | --- | --- |
@@ -322,40 +291,32 @@ Model-source links have also been added as comments beside resource settings and
 | Bubble YOLO, bubbles_detect.pt | [PSImera/manga_bubbles_detect](https://huggingface.co/PSImera/manga_bubbles_detect) |
 | Paddle detector | [PaddlePaddle/PP-OCRv5_server_det](https://huggingface.co/PaddlePaddle/PP-OCRv5_server_det) |
 | Paddle English recognizer | [PaddlePaddle/en_PP-OCRv5_mobile_rec](https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec) |
-| Our fine-tuned character checkpoint | Not uploaded yet; based on the Magi V2 source above |
+| Fine-tuned character checkpoint | [Checkpoint and usage guide](../FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads2/README.md); requires Magi V2 |
 
-The bubble repository publishes the same filename and architecture used here; this review verified the source page, not a remote/local byte-for-byte weight comparison. The local bubble SHA256 is `8f953bce05813fa68c9c99d487cb7c6a4fd38bb827ac5ab4bca042b209a0f744`.
+The bubble repository provides the checkpoint used by this pipeline. The local bubble SHA256 is `8f953bce05813fa68c9c99d487cb7c6a4fd38bb827ac5ab4bca042b209a0f744`.
 
-### Where our trained weights should go
+### The character checkpoint
 
-Keep code, notebook, small configuration/parameter JSON files, training descriptions and final submission outputs on GitHub. Put our trained binary checkpoint in a Hugging Face **model** repository. One possible repository name is `<your-hf-username>/magi-character-crop-two-blocks`; it is a suggestion, not an existing published URL.
+I keep `magi_crop_last_2_blocks.pt` with the project, with an exact exception in the ignore rules. Other weight files and training tensors remain excluded. The [short usage guide](../FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads2/README.md) explains the Magi V2 dependency, epoch 20, entity threshold 0.82 and loading order.
 
-For the final pipeline, upload:
+This checkpoint updates only the final two character crop-encoder blocks. The pipeline checks its base-file hashes and runs original Magi detections and links before applying it. It does not replace the full Magi model.
 
-```text
-magi_crop_last_2_blocks.pt
-README.md                    # model card: base model, trained blocks, loading and use
-inference_settings.json      # epoch 20, entity threshold 0.82 and matching base model revision
-SHA256SUMS.txt                # uploaded checkpoint and required base files
-```
-
-The checkpoint is a partial update to the character crop encoder, not a standalone replacement for the full Magi model. Its model card should explain that the original Magi V2 files are required, how the existing notebook patches the final two blocks, and which base file hashes are expected. Keep the existing binary format; the inference code already loads it. Record applicable base-model terms in the model card rather than assigning an unrelated license to derived weights.
-
-Hugging Face supports custom checkpoint files, configuration files and model cards; the upload does not need to be a Transformers-compatible complete model. Create a model repository at [huggingface.co/new](https://huggingface.co/new), then use Files and versions -> Add file -> Upload files. After upload, add its real URL beside CHECKPOINT_PATH and in this table. No remote repository or upload has been performed by this change. See [Hugging Face model upload documentation](https://huggingface.co/docs/hub/models-uploading).
-
-Pretrained Gemma, Paddle, Magi and YOLO resources should retain their upstream links rather than being copied into the GitHub source repository. External dependency installation and automatic downloads remain a later task.
-
+Pretrained Gemma, Paddle, Magi and YOLO weights stay outside the code repository; their upstream links are in the table above and the [complete model list](../README.md#model-links).
 
 ## 12. Archived Magi pipelines
 
-Older notebooks, contour/artifact tests, previous pipeline guides and their caches now live in [LegacyMagiPipelines](LegacyMagiPipelines/README.md). The active notebook, contour_narrator2.py, contour_grouping.py, this guide, dependency JSON, flowchart, pipeline_review and cache_artifact_contour_full_inference remain directly in paddleOCR-Magi. The active notebook and its helper code are byte-for-byte unchanged by this relocation. Inline-code origin notebooks are historical provenance only and now point into the archive; they are not executed at runtime.
+Older notebooks, contour/artifact tests, previous pipeline guides and their caches now live in [LegacyMagiPipelines](LegacyMagiPipelines/README.md). The active notebook, contour_narrator2.py, contour_grouping.py, this guide, dependency JSON, flowchart, pipeline_review and cache_artifact_contour_full_inference remain directly in Final-Pipeline-Code-Inference. Inline-code origin notebooks are historical provenance only and now point into the archive; they are not executed at runtime.
 
 
 ## 13. Batch sequence inference
 
-Use [run_sequence_inference.py](run_sequence_inference.py) with `--split test` or `--split development`. It reads ordered images from TaskData/sequences.json and writes complete schema-validated predictions to submission_outputs/inference_<split>/predictions.jsonl. It does not read labels.jsonl or perform scoring. [README_BATCH_INFERENCE.md](README_BATCH_INFERENCE.md) covers options, caches, logs and the later score.py command. The headless Python snapshot lives in src/artifact_contour_sequence.py; the existing notebook and contour helper code were not modified.
+Use [run_sequence_inference.py](run_sequence_inference.py) with `--split test` or `--split development`. It reads ordered images from TaskData/sequences.json and writes complete schema-validated predictions to submission_outputs/inference_<split>/predictions.jsonl. It does not read labels.jsonl or perform scoring. [README_BATCH_INFERENCE.md](README_BATCH_INFERENCE.md) covers options, caches, logs and the later score.py command. The headless Python snapshot lives in src/artifact_contour_sequence.py; the notebook provides the interactive version of the same pipeline.
 
 
 ## 14. Shared-model batch scheduling
 
-The batch runner now processes the same sequence stages across all selected sequences with shared model lifetimes; see [batch scheduling and regression checks](README_BATCH_INFERENCE.md#shared-model-schedule-and-workflow-tests). Original Magi results for every sequence finish before any fine-tuned crop patch is applied. Paddle, artifact Gemma, YOLO, contour/routing and cleanup Gemma retain their original per-sequence order. The notebook and helper prediction code remain unchanged. Five CPU-only regression tests passed; no real GPU inference/numerical parity claim is made.
+The batch runner now processes the same sequence stages across all selected sequences with shared model lifetimes; see [batch scheduling and regression checks](README_BATCH_INFERENCE.md#shared-model-schedule-and-workflow-tests). Original Magi results for every sequence finish before any fine-tuned crop patch is applied. Paddle, artifact Gemma, YOLO, contour/routing and cleanup Gemma retain their original per-sequence order. Five CPU-only regression tests passed using stubs and saved data. A real GPU comparison has not been run.
+
+## Folder-name note
+
+The repository folders were renamed after the saved run. Some notebook, worker and model-config defaults still contain the earlier Magi/paddleOCR-Magi paths. Those settings need updating before another inference run. This documentation cleanup does not change runtime code.

@@ -1,0 +1,448 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WON'T QUIT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": ".TH-THATS RIGHT, SORRY FOR SAYING SOMETHING WEIRD..",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AHA HAHA!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "??",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T5",
+        "PG1:T6"
+      ],
+      "speaker": null,
+      "speaker_status": "conflicting_entities",
+      "text_role": "SPOKEN",
+      "text": "OH MAN, THAT HAIR- STYLE IS GREAT! SERI- OusLY LOVELY!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M2",
+      "box_ids": [
+        "PG1:T8",
+        "PG1:T9"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "MU- TSUKI- KUN..? TOORU... WHAT'RE yOu DOING ..!?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND YOURE STYLISH SO FASH TOQ ONABLE",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M3",
+      "box_ids": [
+        "PG1:T11",
+        "PG1:T12"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "I ALSO WANT TO EARN MONEY ANL BECOME LKE THAT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T14",
+      "box_ids": [
+        "PG1:T14"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "IS HE DRUNK?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T15",
+      "box_ids": [
+        "PG1:T15"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "MAMAN.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T16",
+      "box_ids": [
+        "PG1:T16"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SAIKO- CHAN?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T17",
+      "box_ids": [
+        "PG1:T17"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT SEEMS MUCCHANKO HAS BEEN DRINKING SOMETHING.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T18",
+      "box_ids": [
+        "PG1:T18"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "He reeks of alcohol.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T19",
+      "box_ids": [
+        "PG1:T19"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAA !?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M4",
+      "box_ids": [
+        "PG1:T20",
+        "PG1:T21"
+      ],
+      "speaker": "E11",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "so THAT'S THE REASON FOR THAT DARING APPROACH WAIT, HE'S STILL A BIT UNDERAGE, ISN'T HE.\u2026! WHAT IS HE DOING..?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T22",
+      "box_ids": [
+        "PG1:T22"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "HE'S COMING THIS wAy!?",
+      "needs_review": true
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:M2",
+      "box_ids": [
+        "PG2:T1",
+        "PG2:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SENSEI !! I WAS INVITED BY HER FOR A \"PART-TIME JOB\" JUST NOW...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": ".!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M3",
+      "box_ids": [
+        "PG2:T4",
+        "PG2:T5"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I ALSO PER- FECTLY GOT THE CONTACT ADDRESS FROM HER! WITH THIS, WE CAN INFILTRATE THEM AFTER ALL.\u2026",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU DID IT, TOO- RU!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T8",
+      "box_ids": [
+        "PG2:T8"
+      ],
+      "speaker": "E24",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEH HEH HEH.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M4",
+      "box_ids": [
+        "PG2:T9",
+        "PG2:T10",
+        "PG2:T11"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "MU- CCHAN... BUT... WELL THEN, PM GOING TO DANCE. A victory dance!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T12",
+      "box_ids": [
+        "PG2:T12"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "AH, WHY?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T13",
+      "box_ids": [
+        "PG2:T13"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "I'LL GO A- LONG.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T14",
+      "box_ids": [
+        "PG2:T14"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEY, COME HERE, SAIKO!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T15",
+      "box_ids": [
+        "PG2:T15"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "\"",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T16",
+      "box_ids": [
+        "PG2:T16"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "JEEZ",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T17",
+      "box_ids": [
+        "PG2:T17"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "....",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T18",
+      "box_ids": [
+        "PG2:T18"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "SHI- RAZU- KUN,",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T19",
+      "box_ids": [
+        "PG2:T19"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "GO, GO, HERE WE GO.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:M5",
+      "box_ids": [
+        "PG2:T20",
+        "PG2:T22"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "SAIKO, YOUR DANCE IS OLD AS BALLS!!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T23",
+        "PG2:T24",
+        "PG2:T25"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "MY MEMO\u2014 RIES RE\u2014 TURNED LOOK, LOOK. HOW AM !!?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T26",
+      "box_ids": [
+        "PG2:T26"
+      ],
+      "speaker": "E20",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU'RE DOING A GREAT BOX, MUCCHAN!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T27",
+      "box_ids": [
+        "PG2:T27"
+      ],
+      "speaker": "E20",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "TOORU... COME BACK HERE!!",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Haise wonder if I will die.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E38",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...I want to remember",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "...you guys",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "\u2014HUH..?",
+      "needs_review": false
+    }
+  ]
+]

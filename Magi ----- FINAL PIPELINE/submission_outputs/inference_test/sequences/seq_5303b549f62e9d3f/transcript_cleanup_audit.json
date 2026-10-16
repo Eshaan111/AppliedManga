@@ -1,0 +1,146 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "TAKE CARE.",
+    "cleaned_text": "TAKE CARE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character8",
+    "raw_text": "BE SURE TO DROP BY FROM TIME TO TIME.",
+    "cleaned_text": "BE SURE TO DROP BY FROM TIME TO TIME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character6",
+    "raw_text": "THANK YOU FOR EVERY- THING.",
+    "cleaned_text": "THANK YOU FOR EVERYTHING.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "DON'T GIVE ME THAT LOOK.",
+    "cleaned_text": "DON'T GIVE ME THAT LOOK.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character5",
+    "raw_text": "IF YOU KEEP WORRY- ING ABOUT OTHERS SO MUCH, YOU AREN'T GOING TO LIVE VERY LONG.",
+    "cleaned_text": "IF YOU KEEP WORRYING ABOUT OTHERS SO MUCH, YOU AREN'T GOING TO LIVE VERY LONG.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character5",
+    "raw_text": "THINGS LIKE THIS HAPPEN ALL THE TIME.",
+    "cleaned_text": "THINGS LIKE THIS HAPPEN ALL THE TIME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "UNKNOWN",
+    "raw_text": "IVE ALREADY COME TO ACCEPT IT. SO JUST LET IT BE, ALREADY.",
+    "cleaned_text": "IVE ALREADY COME TO ACCEPT IT. SO JUST LET IT BE, ALREADY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "DON'T GIVE ME THAT CRAP, YOU IDIOT",
+    "cleaned_text": "DON'T GIVE ME THAT CRAP, YOU IDIOT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "TRYING TO ACT ALL COOL AND COMPOSED BECAUSE YOUVE AC- CEPTED THE REALITY OF THINGS.",
+    "cleaned_text": "TRYING TO ACT ALL COOL AND COMPOSED BECAUSE YOU\u2019VE ACCEPTED THE REALITY OF THINGS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "PUTTING ON A FAKE SMILE AND ACTING LIKE YOU'RE FINE...",
+    "cleaned_text": "PUTTING ON A FAKE SMILE AND ACTING LIKE YOU\u2019RE FINE...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "EVERY LAST ONE OF you...",
+    "cleaned_text": "EVERY LAST ONE OF you...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "ALL YOU EVER SAY IS, \"THAT'S HOW THINGS ARE,\" OR \"IT CAN'T BE HELPED.\"",
+    "cleaned_text": "ALL YOU EVER SAY IS, \"THAT'S HOW THINGS ARE,\" OR \"IT CAN'T BE HELPED.\"",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character4",
+    "raw_text": "EVEN THOUGH YOU'RE BOILING OVER ON THE INSIDE!!",
+    "cleaned_text": "EVEN THOUGH YOU\u2019RE BOILING OVER ON THE INSIDE!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character4",
+    "raw_text": "STOP SPITTING OUT THAT BULLSHIT SO EASILY!!",
+    "cleaned_text": "STOP SPITTING OUT THAT BULLSHIT SO EASILY!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "BECAUSE I ABSOLUTELY HATE IT WHEN YOU SAY CRAP LIKE THAT!!",
+    "cleaned_text": "BECAUSE I ABSOLUTELY HATE IT WHEN YOU SAY CRAP LIKE THAT!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "Yezo Agricultural High School Residence Halls",
+    "cleaned_text": "Yezo Agricultural High School Residence Halls",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

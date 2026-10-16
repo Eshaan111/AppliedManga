@@ -1,0 +1,14 @@
+{
+  "sequence_id": "seq_316bc7bd43ed6996",
+  "split": "test",
+  "images": [
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_316bc7bd43ed6996\\01.png",
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_316bc7bd43ed6996\\02.png",
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\TaskData\\test\\images\\seq_316bc7bd43ed6996\\03.png"
+  ],
+  "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE",
+  "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\Final-Pipeline-Code-Inference\\cache_batch_artifact_contour",
+  "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi ----- FINAL PIPELINE\\submission_outputs\\inference_test\\sequences\\seq_316bc7bd43ed6996",
+  "clean_transcript": true,
+  "force": false
+}

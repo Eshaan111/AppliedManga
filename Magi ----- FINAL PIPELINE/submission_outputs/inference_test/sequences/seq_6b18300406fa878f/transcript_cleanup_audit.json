@@ -1,0 +1,245 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "0O",
+    "cleaned_text": "0O",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "TOSS",
+    "cleaned_text": "TOSS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "AOYAMA KOMABA OMORI",
+    "cleaned_text": "AOYAMA KOMABA OMORI",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "TOSS",
+    "cleaned_text": "TOSS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "TOSS",
+    "cleaned_text": "TOSS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "I WAS RIGHT.",
+    "cleaned_text": "I WAS RIGHT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "WHAT !?",
+    "cleaned_text": "WHAT!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "WHY AREN'T YOu IN CLASS, HACHI- KEN!?",
+    "cleaned_text": "WHY AREN'T YOU IN CLASS, HACHI-KEN!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "FAKED BEING SICK TO SKIP OUT.",
+    "cleaned_text": "FAKED BEING SICK TO SKIP OUT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "you FAKED WHY YOu!",
+    "cleaned_text": "YOU FAKED WHY YOU!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "IT HELPS TO BE SUCH A STRAIGHT ARROW NORMALLY. NOBODY DOUBTS YOU AT TIMES LIKE THIS. AND I'M NOT SKIPPING MUCH, SO CATCHING UP ON STUDIES WILL BE EASY.",
+    "cleaned_text": "IT HELPS TO BE SUCH A STRAIGHT-ARROW NORMALLY. NOBODY DOUBTS YOU AT TIMES LIKE THIS. AND I'M NOT SKIPPING MUCH, SO CATCHING UP ON STUDIES WILL BE EASY.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "I FIGURED THAT YOU MIGHT TRY AND SNEAK IN HERE TO GET YOUR STUFF WHEN NOBODY WAS AROUND, SO I WAITED FOR YOU TO SHOW UP AND I WAS RIGHT!",
+    "cleaned_text": "I FIGURED THAT YOU MIGHT TRY AND SNEAK IN HERE TO GET YOUR STUFF WHEN NOBODY WAS AROUND, SO I WAITED FOR YOU TO SHOW UP AND I WAS RIGHT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "Ku ku ku ku...",
+    "cleaned_text": "Ku ku ku ku...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "Uperation: Hachiken's Ambush",
+    "cleaned_text": "OPERATION: Hachiken's Ambush",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "Grr...",
+    "cleaned_text": "Grr...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character2",
+    "raw_text": "ARE YOU REALLY DROP- PING OUT?",
+    "cleaned_text": "ARE YOU REALLY DROP-PING OUT?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "character1",
+    "raw_text": "YEAH. I ALREADY TALKED TO ALL THE TEACHERS ABOUT IT.",
+    "cleaned_text": "YEAH. I ALREADY TALKED TO ALL THE TEACHERS ABOUT IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "character2",
+    "raw_text": "BUT... WHY ARE YOU DROP- PING OUT?",
+    "cleaned_text": "BUT... WHY ARE YOU DROP-PING OUT?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "DIDN'T THE TEACHER EXPLAIN IT ALREADY? WE CAN'T PAY OFF OUR DEBTS, SO WE LOST THE FARM. I'M DROP- PING OUT TO WORK.",
+    "cleaned_text": "DIDN'T THE TEACHER EXPLAIN IT ALREADY? WE CAN'T PAY OFF OUR DEBTS, SO WE LOST THE FARM. I'M DROPPING OUT TO WORK.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "BUT YOUR MOM STILL WANTS YOU TO FINISH HIGH SCHOOL, DOESN'T SHE!?",
+    "cleaned_text": "BUT YOUR MOM STILL WANTS YOU TO FINISH HIGH SCHOOL, DOESN'T SHE!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "WHY ARE YOU BEING SO STUBBORN ABOUT WORKING?",
+    "cleaned_text": "WHY ARE YOU BEING SO STUBBORN ABOUT WORKING?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "I HAVE TO WORK TO SAVE UP SOME MONEY.. IF I DON'T, I'LL CAUSE TROUBLE FOR AKI'S FAMILY.",
+    "cleaned_text": "I HAVE TO WORK TO SAVE UP SOME MONEY.. IF I DON'T, I'LL CAUSE TROUBLE FOR AKI'S FAMILY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "THOUGH I ALREADY HAVE, TO BE COMPLETELY HONEST.",
+    "cleaned_text": "THOUGH I ALREADY HAVE, TO BE COMPLETELY HONEST.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "AKI'S FAMILY? Why IS THAT?",
+    "cleaned_text": "AKI'S FAMILY? Why IS THAT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "\u2022..",
+    "cleaned_text": "\u2022..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "WHEN MY OLD MAN TOOK OUT HIS LOAN TO EXPAND THE FARM,",
+    "cleaned_text": "WHEN MY OLD MAN TOOK OUT HIS LOAN TO EXPAND THE FARM,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "HE ASKED THEM TO BE HIS CO- SIGNER.",
+    "cleaned_text": "HE ASKED THEM TO BE HIS CO-SIGNER.",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

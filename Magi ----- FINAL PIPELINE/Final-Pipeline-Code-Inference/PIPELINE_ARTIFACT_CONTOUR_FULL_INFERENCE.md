@@ -29,4 +29,4 @@ flowchart TD
     U -.-> F
 ```
 
-Only the new notebook's own caches are reused. Dependencies and hashes are exported. No labels, learned narration classifier, other notebook execution or legacy cache discovery is required.
+Only the notebook's own stage caches are reused. Dependencies and hashes are exported. No labels, learned narration classifier, other notebook execution or legacy cache discovery is required.

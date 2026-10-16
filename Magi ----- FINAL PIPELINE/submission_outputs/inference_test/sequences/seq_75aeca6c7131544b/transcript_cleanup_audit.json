@@ -1,0 +1,110 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "Why don't I end it?",
+    "cleaned_text": "Why don't I end it?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "STOP!",
+    "cleaned_text": "STOP!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "STOP RIGHT THERE!",
+    "cleaned_text": "STOP RIGHT THERE!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "HAAH.",
+    "cleaned_text": "HAAH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "HAH.",
+    "cleaned_text": "HAH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "YOU CAN DO IT!",
+    "cleaned_text": "YOU CAN DO IT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character10",
+    "raw_text": "YOU'RE PRESSU- RING HIM!",
+    "cleaned_text": "YOU\u2019RE PRESSURING HIM!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "::?",
+    "cleaned_text": "::?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "IT'S FINE TO RUN AWAY,",
+    "cleaned_text": "IT\u2019S FINE TO RUN AWAY,",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character15",
+    "raw_text": "IF YOU DON'T WANT TO FIGHT THE DUEL,",
+    "cleaned_text": "IF YOU DON'T WANT TO FIGHT THE DUEL,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "\u2022\u2022\u2022\u2022\u2022\u2022",
+    "cleaned_text": "\u2022\u2022\u2022\u2022\u2022\u2022",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "A sword is just a sharp tool solely for killing.",
+    "cleaned_text": "A sword is just a sharp tool solely for killing.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

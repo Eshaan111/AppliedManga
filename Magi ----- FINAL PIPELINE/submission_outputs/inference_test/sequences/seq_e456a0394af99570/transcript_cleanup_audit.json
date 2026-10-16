@@ -1,0 +1,83 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "I FEARED NOTHING. I HAD NOTHING TO LOSE. YET I HAD MY FIGHTING SPIRIT.",
+    "cleaned_text": "I FEARED NOTHING. I HAD NOTHING TO LOSE. YET I HAD MY FIGHTING SPIRIT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "THE SPIRIT TO CHALLENGE THE YOSHI- OKA AND A QUICK TEMPER.",
+    "cleaned_text": "THE SPIRIT TO CHALLENGE THE YOSHI-OKA AND A QUICK TEMPER.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "THAT TOUGHENED ME UP, SHARPENED ME UP.",
+    "cleaned_text": "THAT TOUGHENED ME UP, SHARPENED ME UP.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "YOU WERE ABLE TO STEP INTO THAT PART OF MY LIFE NICELY, DENSHI- CHIRO.",
+    "cleaned_text": "YOU WERE ABLE TO STEP INTO THAT PART OF MY LIFE NICELY, DENSHI-CHIRO.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "I LAY RESTLESS FOR 3 DAYS AND 3 NIGHTS.",
+    "cleaned_text": "I LAY RESTLESS FOR 3 DAYS AND 3 NIGHTS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "IT'S BEEN A YEAR SINCE THEN.",
+    "cleaned_text": "IT\u2019S BEEN A YEAR SINCE THEN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "YOU'RE HALF A STEP FUR- THER AWAY NOW... COMPARED TO BACK THEN.",
+    "cleaned_text": "YOU\u2019RE HALF A STEP FURTHER AWAY NOW... COMPARED TO BACK THEN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "YOU CANNOT KILL ME.",
+    "cleaned_text": "YOU CANNOT KILL ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "SHALL WE CALL OFF THIS DUEL?",
+    "cleaned_text": "SHALL WE CALL OFF THIS DUEL?",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "DO YOU RECOGNIZE ANYONE?",
+    "cleaned_text": "DO YOU RECOGNIZE ANYONE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "NICO- NEE-SAN, IS THAT THE RUMORED ONE? THE RUMORED ONE?",
+    "cleaned_text": "NICO- NEE-SAN, IS THAT THE RUMORED ONE? THE RUMORED ONE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "...HAISE- KUN,",
+    "cleaned_text": "...HAISE- KUN,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "HE'S COME. HE'S HERE.",
+    "cleaned_text": "HE\u2019S COME. HE\u2019S HERE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character5",
+    "raw_text": "THE AT- MOSPHERE AROUND HIM HAS CHANGED, AND FURTHER- MORE, HE'S WEARING GIRL'S CLOTHES.",
+    "cleaned_text": "THE ATMOSPHERE AROUND HIM HAS CHANGED, AND FURTHERMORE, HE\u2019S WEARING GIRL\u2019S CLOTHES.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character5",
+    "raw_text": "HE LOOKS LIKE KANEKI- SAMA.",
+    "cleaned_text": "HE LOOKS LIKE KANEKI- SAMA.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character4",
+    "raw_text": "...BUT",
+    "cleaned_text": "...BUT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character4",
+    "raw_text": "HE'S LIKE \"CAREFREE\" OR LIKE \"FLUFFY\".",
+    "cleaned_text": "HE'S LIKE \"CAREFREE\" OR LIKE \"FLUFFY\".",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "UNKNOWN",
+    "raw_text": "DOESN'T THAT HAPPY LOOKING FACE PISS YOU OFF?",
+    "cleaned_text": "DOESN'T THAT HAPPY LOOKING FACE PISS YOU OFF?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "UNKNOWN",
+    "raw_text": "SHOULD IT?",
+    "cleaned_text": "SHOULD IT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character4",
+    "raw_text": "YEAH!",
+    "cleaned_text": "YEAH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character8",
+    "raw_text": "KANEKI-SAMA'S AGONIZED, WRITHING FORM AS HE WAS COM- PLETELY SUBMERGED IN THE BOG OF TRAGEDY WAS BEAUTIFUL..",
+    "cleaned_text": "KANEKI-SAMA'S AGONIZED, WRITHING FORM AS HE WAS COMPLETELY SUBMERGED IN THE BOG OF TRAGEDY WAS BEAUTIFUL.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character8",
+    "raw_text": "BUT THAT GUY IS",
+    "cleaned_text": "BUT THAT GUY IS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "LIKE THE \"I WILL NOT LOSE TO TRAGEDY!\" TYPE.",
+    "cleaned_text": "LIKE THE \"I WILL NOT LOSE TO TRAGEDY!\" TYPE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "3",
+    "cleaned_text": "3",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "IT'S SUCH A LAME GROOVE. Roma feels s",
+    "cleaned_text": "IT\u2019S SUCH A LAME GROOVE. Roma feels s",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character4",
+    "raw_text": "HE SHOULD HURRY UP AND SURREN- DER THAT BODY",
+    "cleaned_text": "HE SHOULD HURRY UP AND SURRENDER THAT BODY",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character4",
+    "raw_text": "AND RETURN THAT BEAUTIFUL WHITE KANEKI BACK TO ME... AH,",
+    "cleaned_text": "AND RETURN THAT BEAUTIFUL WHITE KANEKI BACK TO ME... AH,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character7",
+    "raw_text": "IT'D BE OKAY IF HAISE DIED, RIGHT?",
+    "cleaned_text": "IT\u2019D BE OKAY IF HAISE DIED, RIGHT?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character6",
+    "raw_text": "...UJEEZ.",
+    "cleaned_text": "...UJEEZ.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character6",
+    "raw_text": "YOU REALLY DO WHATEVER YOU FEEL LIKE... .\u2026.BUT...",
+    "cleaned_text": "YOU REALLY DO WHATEVER YOU FEEL LIKE... \u2026.BUT...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character6",
+    "raw_text": "THE FORM OF SPILLING WINE... IS ALSO BEAUTI- FUL...",
+    "cleaned_text": "THE FORM OF SPILLING WINE... IS ALSO BEAUTIFUL...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "character6",
+    "raw_text": "THE NEXT AUCTION... NNFF...",
+    "cleaned_text": "THE NEXT AUCTION...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "IT SEeMs WE'll Get TO SEE SOME INTERESTING THINGS, DOESN'T IT---7",
+    "cleaned_text": "IT SEEMS WE\u2019LL GET TO SEE SOME INTERESTING THINGS, DOESN\u2019T IT---7",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "SIT.",
+    "cleaned_text": "SIT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "Washuu Matsuri (29) [Associate Special Class Investigator] 179 cm 79kg",
+    "cleaned_text": "Washuu Matsuri (29) [Associate Special Class Investigator] 179 cm 79kg",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

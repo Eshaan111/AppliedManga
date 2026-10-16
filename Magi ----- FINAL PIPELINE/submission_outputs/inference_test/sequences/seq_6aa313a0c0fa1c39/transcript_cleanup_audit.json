@@ -1,0 +1,65 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "GO AWAY!",
+    "cleaned_text": "GO AWAY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "MIZUE- SAMA?",
+    "cleaned_text": "MIZUE- SAMA?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "I'lL...",
+    "cleaned_text": "I'LL...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "I'LL DO ANYTHING TO ATONE!",
+    "cleaned_text": "I'LL DO ANYTHING TO ATONE!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "NOT GOOD!",
+    "cleaned_text": "NOT GOOD!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character9",
+    "raw_text": "WHAT?!",
+    "cleaned_text": "WHAT?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character6",
+    "raw_text": "EEEE!",
+    "cleaned_text": "EEEE!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]
