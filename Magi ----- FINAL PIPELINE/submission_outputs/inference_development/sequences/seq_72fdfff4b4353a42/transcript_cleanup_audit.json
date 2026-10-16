@@ -1,0 +1,263 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "THEY SAY THAT IF A BOY AND GIRL GO TO SEE THIS MOVIE TOGETHER, THEY'RE GUARANTEED TO START DATING!",
+    "cleaned_text": "THEY SAY THAT IF A BOY AND GIRL GO TO SEE THIS MOVIE TOGETHER, THEY'RE GUARANTEED TO START DATING!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "WH... WHAT!?",
+    "cleaned_text": "WH... WHAT!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "OH? PRESI- DENT,",
+    "cleaned_text": "OH? PRESI- DENT,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "WERE YOU",
+    "cleaned_text": "WERE YOU",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "ABOUT TO INVITE ME TO GO WITH YOU?",
+    "cleaned_text": "ABOUT TO INVITE ME TO GO WITH YOU?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "A MOVIE THAT MAKES BOYS AND GIRLS WHO SEE IT START DATING...",
+    "cleaned_text": "A MOVIE THAT MAKES BOYS AND GIRLS WHO SEE IT START DATING...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "ARE YOU",
+    "cleaned_text": "ARE YOU",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "on.",
+    "cleaned_text": "on.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "GOING TO SAY THAT WE SHOULD SEE IT?",
+    "cleaned_text": "GOING TO SAY THAT WE SHOULD SEE IT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character4",
+    "raw_text": "WOULDN'T THAT BE THE SAME AS...",
+    "cleaned_text": "WOULDN'T THAT BE THE SAME AS...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character3",
+    "raw_text": "A CONFES- SION!?",
+    "cleaned_text": "A CONFESSION!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 11,
+    "speaker": "NARRATION",
+    "raw_text": "SHIROGANE REALIZES THE DILEMMA HE IS IN!!",
+    "cleaned_text": "SHIROGANE REALIZES THE DILEMMA HE IS IN!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "IN MATTERS OF LOVE, THERE IS AN ABSOLUTE RULE THAT \"THE ONE WHO FALLS IN LOVE LOSES!!\"",
+    "cleaned_text": "IN MATTERS OF LOVE, THERE IS AN ABSOLUTE RULE THAT \u201cTHE ONE WHO FALLS IN LOVE LOSES!!\u201d",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "IN OTHER WORDS, \"THE ONE WHO CONFESSES LOSES!!\"",
+    "cleaned_text": "IN OTHER WORDS, \"THE ONE WHO CONFESSES LOSES!!\"",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "BOTH PARTIES, WITH THEIR INCREDIBLE PRIDE, REFUSE TO ALLOW THEMSELVES TO BE THE ONE TO CONFESS!!",
+    "cleaned_text": "BOTH PARTIES, WITH THEIR INCREDIBLE PRIDE, REFUSE TO ALLOW THEMSELVES TO BE THE ONE TO CONFESS!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "WHAT SHOULD I DO.\u2026? IS MY ONLY OPTION TO TRY AND TRICK HER TO GET OUT OF IT...",
+    "cleaned_text": "WHAT SHOULD I DO.\u2026? IS MY ONLY OPTION TO TRY AND TRICK HER TO GET OUT OF IT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "FOR EXAMPLE..",
+    "cleaned_text": "FOR EXAMPLE..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "DO.\u2026 DO YOU WANT TO GO SELL THE TICKETS WITH ME?",
+    "cleaned_text": "DO.\u2026 DO YOU WANT TO GO SELL THE TICKETS WITH ME?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "OH?",
+    "cleaned_text": "OH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "YOU SEEM RATHER FLUSTERED..",
+    "cleaned_text": "YOU SEEM RATHER FLUSTERED..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "HOW CUTE...",
+    "cleaned_text": "HOW CUTE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "I WILL NOT!!",
+    "cleaned_text": "I WILL NOT!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "I WILL NOT RUN FROM THIS!!",
+    "cleaned_text": "I WILL NOT RUN FROM THIS!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "YOU WILL BE THE ONE TO FLEE, SHINOMIYA!!",
+    "cleaned_text": "YOU WILL BE THE ONE TO FLEE, SHINOMIYA!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "YES, I WAS GOING TO INVITE YOU, SHINOMIYA.",
+    "cleaned_text": "YES, I WAS GOING TO INVITE YOU, SHINOMIYA.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "I DON'T BELIEVE IN SUCH RUMORS,",
+    "cleaned_text": "I DON'T BELIEVE IN SUCH RUMORS,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "AND I WAS UNDER THE IMPRESSION THAT YOU DIDN'T EITHER.",
+    "cleaned_text": "AND I WAS UNDER THE IMPRESSION THAT YOU DIDN'T EITHER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "WELL, SHINOMIYA?",
+    "cleaned_text": "WELL, SHINOMIYA?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "DO YOU WANT TO SEE THIS MOVIEWITH ME?",
+    "cleaned_text": "DO YOU WANT TO SEE THIS MOVIE WITH ME?",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

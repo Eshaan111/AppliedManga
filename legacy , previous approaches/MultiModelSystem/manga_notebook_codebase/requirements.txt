@@ -1,0 +1,5 @@
+-r requirements-ocr.txt
+# Optional data inspection and joining notebooks:
+jupyter
+nbformat
+matplotlib

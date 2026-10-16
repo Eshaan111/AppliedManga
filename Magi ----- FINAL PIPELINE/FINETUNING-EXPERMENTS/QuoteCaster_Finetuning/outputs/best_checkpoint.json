@@ -1,0 +1,16 @@
+{
+  "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\QuoteCaster_Finetuning\\outputs\\checkpoints\\best",
+  "epoch": 8,
+  "metrics": {
+    "triplet_accuracy": 0.5709111674842163,
+    "pairwise_auc": 0.5709225101490036,
+    "margin_satisfaction": 0.43793490440048666,
+    "positive_mean": 2.8843551953633626,
+    "negative_mean": 2.962445839246114,
+    "positive_median": 2.9261095841725666,
+    "negative_median": 3.055484986305237,
+    "sequences_evaluated": 16,
+    "triplet_sequences": 14,
+    "auc_sequences": 14
+  }
+}

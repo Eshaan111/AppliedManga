@@ -1,0 +1,267 @@
+{
+  "sequence_id": "seq_032cbb4dc8686963",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "I mean..."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "You're the only one"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "who's ever seen me like this."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "TH..."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "THE ONLY ONE...?"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "So I can't ask anyone else."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "IT HAS TO BE YOU..."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "I..."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "UM..."
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "ER..."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "Uh..."
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "WOW..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "THEN..."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Just this once..."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "You will!?"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Chika Fujiwara"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Was the kind of girl who could not say no to someone counting on her!!"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "!"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "I got a live one."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "Let's start by having you touch him with your bare hands."
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "........"
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "Look, isn't he cute?"
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "You almost can't imagine eating him."
+    },
+    {
+      "id": "PG2:T12",
+      "page": 2,
+      "text": "...Are you sure?"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "It won't bite off my finger?"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Do you think all fish are pinahas?"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "AWAH!"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "hill- eeek!"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "wow..."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "I'm seeing a whole different side of you now..."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "!?"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Come on, like this!"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "Let you try"
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "THAT'S NOT SO SCARY, IS IT?"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T12",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T10",
+      "tail_id": "PG3:TAIL4"
+    }
+  ]
+}

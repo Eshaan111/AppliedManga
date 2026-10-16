@@ -1,0 +1,48 @@
+[
+  {
+    "sequence_id": "seq_098e260f231aa789",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 7,
+    "text_id": "T8",
+    "box": [
+      103.65403747558594,
+      1232.3162841796875,
+      134.1608428955078,
+      1262.78125
+    ],
+    "text": "S...",
+    "entity_id": "E5",
+    "entity_ids": [
+      "E5"
+    ],
+    "character_links": [
+      {
+        "character_index": 11,
+        "character_id": "PG3:C12",
+        "entity_id": "E5"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG3:T8",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.08,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "So... I'm not sure if I'm a fan of the",
+    "paddle_text": "S...",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  }
+]

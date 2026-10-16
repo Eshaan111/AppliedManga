@@ -1,0 +1,200 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "YOU LOOK TIRED. HOW 'BOUT GET SOME COFFEE?",
+    "cleaned_text": "YOU LOOK TIRED. HOW \u2018BOUT GET SOME COFFEE?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "NAW, IT'S COOL. GONNA TAKE A LITTLE NAP INSTEAD",
+    "cleaned_text": "NAW, IT\u2019S COOL. GONNA TAKE A LITTLE NAP INSTEAD",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "GUESS I'LL BE ON MY WAY THEN.",
+    "cleaned_text": "GUESS I'LL BE ON MY WAY THEN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "THANKS SKIP. I REALLY APPRE--",
+    "cleaned_text": "THANKS SKIP. I REALLY APPRE--",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "WHAT'S UP, ASH?",
+    "cleaned_text": "WHAT\u2019S UP, ASH?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "HM? NOTHING...",
+    "cleaned_text": "HM? NOTHING...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "HEY, COFFEE'S ON ME, THEN.",
+    "cleaned_text": "HEY, COFFEE\u2019S ON ME, THEN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "ALL RIGHT.",
+    "cleaned_text": "ALL RIGHT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "UM.",
+    "cleaned_text": "UM.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "ABOUT THIS TROUBLE WITH DINO..?",
+    "cleaned_text": "ABOUT THIS TROUBLE WITH DINO?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "I DID HEAR SOMETHIN. HEAR IT WAS ACTUALLY ARTHUR WHO GAVE 'EM THE WORD.",
+    "cleaned_text": "I DID HEAR SOMETHING. HEAR IT WAS ACTUALLY ARTHUR WHO GAVE \u2018EM THE WORD.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "THAT'S WHAT I FIGURED.",
+    "cleaned_text": "THAT\u2019S WHAT I FIGURED.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "SOONER OR LATER, I'M GOING TO HAVE TO SETTLE WITH HIM.",
+    "cleaned_text": "SOONER OR LATER, I'M GOING TO HAVE TO SETTLE WITH HIM.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "YOU STACKIN' UP ENEMIES IN THE FAMILY, ASH.",
+    "cleaned_text": "YOU STACKIN' UP ENEMIES IN THE FAMILY, ASH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "YOU SURE ABOUT ALL THIS?",
+    "cleaned_text": "YOU SURE ABOUT ALL THIS?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "NO",
+    "cleaned_text": "NO",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "SEE YOU LATER, SKIP.",
+    "cleaned_text": "SEE YOU LATER, SKIP.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "PAPA.",
+    "cleaned_text": "PAPA.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "WHAT?",
+    "cleaned_text": "WHAT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "APPRECIATE IT IF YOU COULD OPEN THE DOOR A BIT MORE GENTLY.",
+    "cleaned_text": "APPRECIATE IT IF YOU COULD OPEN THE DOOR A BIT MORE GENTLY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "DON'T WANT TO DISTURB MY ORCHIDS",
+    "cleaned_text": "DON'T WANT TO DISTURB MY ORCHIDS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "N-NEVER MIND THAT!",
+    "cleaned_text": "N-NEVER MIND THAT!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

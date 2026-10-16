@@ -1,0 +1,40 @@
+[
+  {
+    "sequence_id": "seq_b8b5563330fdc89d",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 1,
+    "text_id": "T2",
+    "box": [
+      432.6955871582031,
+      325.1805725097656,
+      592.2238159179688,
+      421.8487548828125
+    ],
+    "text": "WAD",
+    "entity_id": null,
+    "entity_ids": [],
+    "character_links": [],
+    "association_status": "unassociated",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T2",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.2857142857142857,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "We've",
+    "paddle_text": "WAD",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  }
+]

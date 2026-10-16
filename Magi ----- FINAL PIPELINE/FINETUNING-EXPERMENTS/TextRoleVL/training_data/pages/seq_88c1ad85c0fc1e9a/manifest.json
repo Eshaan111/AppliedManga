@@ -1,0 +1,246 @@
+{
+  "sequence_id": "seq_88c1ad85c0fc1e9a",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Come."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Let's talk in the den."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "WELL?"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "A DRINK, THEN?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Booze at this time of day?"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "It's not \"Booze.\" It's a cocktail. My newest connection."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "HAVE A SEAT."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "You add lemon juice and a dash of ginger to a base of vodka."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "The achievement here is in the proper- tions."
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "Please try it. I hope it's to your liking."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "..."
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "Why did you put those two up to that...?"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "And... why didn't I tell you...? Well, Ash, I wouldn't think it necessary to trouble you with a matter so trivial."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "You call killing a man TRIVA??!"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Kishhhh!"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Wham"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Papa?!"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "It's nothing."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Angie, Toussaint, you boys stay in the next room."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "CALM YOURSELF, ASH."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "IF I'VE PUT YOU OUT IN ANY WAY, APOLOGIZE."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "I hope you don't think that I take your position lightly."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "That's not what I'm talking about."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Fulin??"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "WE HAD AN AGREE- MENT!"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "You promised not to use my boys to kill!"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "The CIRCUM- STANCES WERE EXTRA- ORDINARY. ANYWAY, HE WASN'T A MEMBER OF THE SYNDICATE."
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Just a very tiny mouse that wanted stepping."
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "A chore for pocket money, as it were."
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "THAT'S WHY I'M SURFRISED YOU EVEN CAME TO KNOW ABOUT IT."
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "THEY'D BEEN ACTING STRANGE LATELY, SO I WAS KEEPING TABS."
+    },
+    {
+      "id": "PG3:T12",
+      "page": 3,
+      "text": "ONCE AGAIN, I'VE UNDER- ESTIMATED YOU."
+    },
+    {
+      "id": "PG3:T13",
+      "page": 3,
+      "text": "AND YET I'VE KNOWN FROM THE START YOU WERE BORN TO LEAD."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T12",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T11",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T12",
+      "tail_id": "PG3:TAIL3"
+    }
+  ]
+}

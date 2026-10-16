@@ -1,0 +1,251 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU GUYS GROUPIES, TOO?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "RELAX... IJUST CAME TO TALK.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NOT TO PICK A FIGHT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E6",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "PAPA.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ASH IS HERE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "COME IN.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHY, GOOD MORNING, ASH.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T11",
+      "box_ids": [
+        "PG1:T11"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU KNOW, |THOUGHT YOU MIGHT COME BUT I WASN'T EXPECTING YOU QUITE SO EARLY",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "IWAS JUST HAVING BREAK- FAST.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "WOULD YOU CARE TO JOIN ME?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NO, THANKS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ARE YOU SURE? THE BACON'S WONDERFUL. A FARM IN SURRY.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I DIDN'T COME ALL THE WAY OUT HERE TO EAT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "YOU CAN TAKE IT AWAY. I'M DONE.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T8",
+      "box_ids": [
+        "PG2:T8"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I'VE TOLD YOU BEFORE. KEEP YOUR HANDS OUT OF YOUR POCKETS WHEN YOU TALK TO ME.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "TAKE OFF HIS VEST",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ICAN DO IT MY- SELF.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU CAN'T RELAX UNTIL YOU'VE COMPLETELY STRIPPED ME?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "HA, HA.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T5",
+        "PG3:T6"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NOTHING LIKE THAT. IT'S JUST A POLICY OF MINE.",
+      "needs_review": false
+    }
+  ]
+]

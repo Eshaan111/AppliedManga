@@ -1,0 +1,239 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ahh...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEY...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "h-h-help me...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T11",
+      "box_ids": [
+        "PG1:T11"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "-",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "ARE YOU...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NO. YOU'RE DEFINITELY NOT ALL RIGHT.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "here... in my hand.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAT...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "forty-two westwood, Los Angeles..",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E6",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "go see... banana fish...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAT DID YOU SAY?!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "LITTLE STAR",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T5",
+      "box_ids": [
+        "PG3:T5"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HOW DO YOU KNOW... WHO ARE YOU?!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEY!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T7",
+      "box_ids": [
+        "PG3:T7"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "--RAN THIS WAY!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T8",
+      "box_ids": [
+        "PG3:T8"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HERE!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T9",
+      "box_ids": [
+        "PG3:T9"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T10",
+      "box_ids": [
+        "PG3:T10"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "..UH.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T11",
+      "box_ids": [
+        "PG3:T11"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "LITTLE STAR",
+      "needs_review": false
+    }
+  ]
+]

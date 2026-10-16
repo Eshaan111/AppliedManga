@@ -1,0 +1,230 @@
+{
+  "sequence_id": "seq_c2de6cb4b3c91103",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "You guys groupies, too?"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "RELAX... I JUST CAME TO TALK."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "not to pick a fight."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "..."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "PAPA."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Ash is here."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "..."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "COME IN."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Kliik"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "Why, good morning, Ash."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "You know, i 7#0647 you might come, but i wasn't expecting you quite so early."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "I WAS JUST HAVING BREAK- FAST."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Would you CARE to join me?"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "No, thanks."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "ARE YOU SURE? THE BACON'S WONDERFUL. A FARM IN SURRY."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "I DIDN'T COME ALL THE WAY OUT HERE TO EAT."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "You can take it away. I'm done."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Ash."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "I've told you before. Keep your hands out of your pockets when you talk to me."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Take off his vest."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "1 CAN DO IT MY- SELF."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "You can't relax until you've completely stripped me?"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Ha, ha."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "nothing like that."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "It's just a policy of mine."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL3"
+    }
+  ]
+}

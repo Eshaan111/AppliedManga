@@ -1,0 +1,155 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "ahh- hh-hhh.",
+    "cleaned_text": "ahh- hh-hhh.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "ahh",
+    "cleaned_text": "ahh",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "ahh",
+    "cleaned_text": "ahh",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "ahh",
+    "cleaned_text": "ahh",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "ahh",
+    "cleaned_text": "ahh",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "ahh",
+    "cleaned_text": "ahh",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "ahh",
+    "cleaned_text": "ahh",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character5",
+    "raw_text": "...SAVE YOU THE COURT- MARTIAL MOTHER- FUCKER!",
+    "cleaned_text": "...SAVE YOU THE COURT-MARTIAL MOTHER-FUCKER!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "WAIT!",
+    "cleaned_text": "WAIT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "GRIFFIN... GRIFFIN..?! IT'S ME...",
+    "cleaned_text": "GRIFFIN... GRIFFIN?! IT'S ME...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "MAX. YOUR FRIEND... MAX LOBO.",
+    "cleaned_text": "MAX. YOUR FRIEND... MAX LOBO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "bana... na...",
+    "cleaned_text": "bana... na...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "WHAT?",
+    "cleaned_text": "WHAT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "banana fish...",
+    "cleaned_text": "banana fish...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "saw it...",
+    "cleaned_text": "saw it...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "...HEY! YOU GUYS OK OVER THERE? I HEARD GUNFIRE!",
+    "cleaned_text": "...HEY! YOU GUYS OK OVER THERE? I HEARD GUNFIRE!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,108 @@
+[
+  [
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "IS IT TRYING TO SWALLOW THE CURSED OBJECT AND THE STUDENTS ALL AT ONCE?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "CRAP!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "I'MTOO LATE!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T11",
+      "box_ids": [
+        "PG1:T11"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "HE WAS SHORT- TEMPERED AND STUBBORN.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M2",
+      "box_ids": [
+        "PG1:T12",
+        "PG1:T13"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "NO ONE WENT TO SEE HIM BESIDES ME. \"DON'T END UP LIKE ME,\" HUH?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T14",
+      "box_ids": [
+        "PG1:T14"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "I GUESS SO. BUT...",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ITA- DORI?!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "IS THE THIS FOURTH FLOOR!",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I THINK YOU DIED PEACEFULLY, GRANDPA.",
+      "needs_review": false
+    }
+  ]
+]

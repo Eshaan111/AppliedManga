@@ -1,0 +1,209 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WELL, NOT THAT IT HAS ANYTHING TO DO WITH SERVANTS LIKE US,",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BUT...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THAT'S EVEN BETTER FOR ME.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I HAVE THE PERFECT MEDICINE FOR THE BRIDE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T8",
+        "PG1:T9"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OH... OH, PLEASE. MY GOODNESS!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T11",
+      "box_ids": [
+        "PG1:T11"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BUT CAN I SEE?",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OF COURSE. HERE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WOW! SO MANY! 2",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT IS ALMOST TIME FOR yoU TO DEPART.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "TAKE GOOD CARE OF HIS PARENTS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BE MINDFUL OF YOUR HEALTH.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "E6",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YEAH, WE'RE COUNTING ON You.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E11",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THE FUTURE OF THE SAKAI FAMILY NOW RESTS IN YOUR HANDS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "MAYBE YOU SHOULD SELL THEM TO LADY MAO!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T3",
+        "PG3:T4"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "\u2022 . \u2022 \u2022 . \u2022 . \u2022 \u2022 HER GROOM, LORD SHIONO, IS",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T5",
+      "box_ids": [
+        "PG3:T5"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THAT'S RATHER UNFORTUNATE FOR THE BRIDE,",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M2",
+      "box_ids": [
+        "PG3:T6",
+        "PG3:T7"
+      ],
+      "speaker": null,
+      "speaker_status": "conflicting_entities",
+      "text_role": "SPOKEN",
+      "text": "ISN'T IT? BUT IT CAN'T BE HELPED.",
+      "needs_review": true
+    }
+  ]
+]

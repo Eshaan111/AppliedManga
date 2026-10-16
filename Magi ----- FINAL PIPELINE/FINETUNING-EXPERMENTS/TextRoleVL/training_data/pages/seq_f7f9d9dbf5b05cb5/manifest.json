@@ -1,0 +1,320 @@
+{
+  "sequence_id": "seq_f7f9d9dbf5b05cb5",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Mornin'..."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "So, which one are you now?"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "..."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Aren't you...?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "During"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Satoru gojo."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "I teach first- years at Jujutsu high."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "JUJUTSU..."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Where are my friends ?!"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "KREAK"
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "Where's fushi- Guro?!"
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "Huh?"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "What's up with this?"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "KREAK"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Kneak"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "I'm not sure if you should be worried about other people right now..."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "YUJ ITADORI."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Your secret execution ..."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "...has been set!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "You're cursed, so I will exercise you!"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "hold up, it's not a problem."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "More importantly, you and I are pretty beat up."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Fsh"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "We need to get to a hospital."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Is it the cursed object or itadori talking right now?"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "..."
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "I CAN'T TELL!"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "CRAP!"
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "?"
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "What should I do?!"
+    },
+    {
+      "id": "PG3:T12",
+      "page": 3,
+      "text": "What's the situation?"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL8",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL9",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL6",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL7",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL8"
+    },
+    {
+      "text_id": "PG1:T11",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T12",
+      "tail_id": "PG1:TAIL9"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T7",
+      "tail_id": "PG3:TAIL7"
+    },
+    {
+      "text_id": "PG3:T9",
+      "tail_id": "PG3:TAIL6"
+    },
+    {
+      "text_id": "PG3:T10",
+      "tail_id": "PG3:TAIL6"
+    },
+    {
+      "text_id": "PG3:T12",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

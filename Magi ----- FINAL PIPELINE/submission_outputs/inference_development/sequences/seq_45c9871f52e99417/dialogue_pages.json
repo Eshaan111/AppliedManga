@@ -1,0 +1,239 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WELL, THIS IS A PRETTY UNUSUAL CIRCUM- STANCE...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...BUT IF YOU'RE TALKING ABOUT POTENTIAL DAMAGE, YES.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU'RE LUCKY IF YOU CAN DIE A NORMAL DEATH AFTER RUNNING INTO A CURSE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "EVEN IF THEY FIND YOUR BODY ALL TORN APART, THAT STILL MIGHT BE CONSIDERED ALL RIGHT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IF YOU WERE TO START INVESTIGATING THE REMAINS OF SUKUNA, YOU'D PROBABLY WITNESS SOME GRUESOME SCENES.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I CAN'T GUARANTEE THAT YOU WON'T BE A VICTIM ONE DAY.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ANY- WAY...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "PICK YOUR HELL.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "YOU'RE A STRONG KID, SO HELP PEOPLE.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IF SUKUNA IS COMPLETELY ELIMINATED",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "...WIIL THERE BE FEWER PEOPLE KILLED BY CURSES?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OF COURSE.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DO YOU STILL HAVE THAT FINGER?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "E6",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YEAH.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T7",
+      "box_ids": [
+        "PG2:T7"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NOW THAT I LOOK AT IT AGAIN, IT'S PRETTY DISGUSTING.",
+      "needs_review": true
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "CHOMP",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "GULP",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THATS NUMBER:TWO. ONE-TENTH OFITHE WAY THERE, HUH?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "WHAT'S GONNA HAPPEN?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T9",
+      "box_ids": [
+        "PG3:T9"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "HEH",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T10",
+      "box_ids": [
+        "PG3:T10"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEH HEH \"..",
+      "needs_review": true
+    }
+  ]
+]

@@ -1,0 +1,16 @@
+[Page 01.png]
+character1: MY LORD.
+character1: LADY MAO.
+character1: THE PALANQUIN IS HERE.
+character4: GRANDFATHER.
+character5: FORGIVE ME.
+
+[Page 02.png]
+character4: UNCLE.
+NARRATION: SFX: AH HA HA HA HA
+
+[Page 03.png]
+character24: KAYO!
+character24: WHAT IN THE WORLD ARE YOU DOING AT A TIME LIKE THIS?!
+character29: M-MISS SATO!
+UNKNOWN: UM, THIS IS.

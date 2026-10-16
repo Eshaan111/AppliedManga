@@ -1,0 +1,206 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "STILL, EVEN FOR A NEW YORK REAL ESTATE BROKER, HE DID SEEM TO HAVE A LOT OF CASH TO THROW AROUND.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ALMOST FORGOT! INSPEC- TOR!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "LOBO SAID IN HIS LETTER THAT THOSE JAPANESE REPORTERS WOULD BE ARRIVING ON THE 8TH, RIGHT?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YEAH, WELL...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THAT'S THE DAY AFTER TO- MORROW!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YES, IT IS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THAT'S NOT GOOD! I MEAN...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEY... WHOA, CHARLIE...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T12",
+      "box_ids": [
+        "PG1:T12"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAT WITH LOBO IN... HOW THE HELL ARE WE SUPPOSED TO EXPLAIN THAT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T13",
+      "box_ids": [
+        "PG1:T13"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "MMM.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T14",
+      "box_ids": [
+        "PG1:T14"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NOW WHO'S GONNA LOOK AFTER THEM?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T15",
+      "box_ids": [
+        "PG1:T15"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WELL, SIR.. GUESS WE HAVE TO.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "12:20 AM THAT EVENING, LOWER EAST SIDE,",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "SUPER BALL",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "LITTLE STAR",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "STAR",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E6",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "..",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "E6",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "-.",
+      "needs_review": false
+    }
+  ]
+]

@@ -1,0 +1,42 @@
+{
+  "split": "train",
+  "purpose": "Training speaker targets",
+  "sequences": 64,
+  "pages": 192,
+  "groups": 1671,
+  "accepted": 1277,
+  "rejected": 394,
+  "reasons": {
+    "reliable_text_alignment": 1277,
+    "above_cer_threshold": 350,
+    "possible_mixed_speakers": 26,
+    "ambiguous_speaker": 5,
+    "no_reference_text": 13
+  },
+  "fully_labelled_sequence_ids": [
+    "seq_d7af6c64ebc22bbe",
+    "seq_637459fc880bf35a",
+    "seq_41d68dfc426cc19e"
+  ],
+  "fully_labelled_sequences": 3,
+  "annotated_images_rendered": 0,
+  "annotated_images_reused": 192,
+  "settings": {
+    "cer_threshold": 0.15,
+    "ambiguity_margin": 0.05,
+    "min_fragment_chars": 12,
+    "min_fragment_coverage": 0.25,
+    "font_size": 18,
+    "line_width": 2
+  },
+  "candidates_sha256": "0d21b22d3208b6a73849f67c1f76149f04b5fb712a9d638745ca4a90cc0c6546",
+  "labels_sha256": "b27eda235e856f396ab9c1860a3059256cb833bbe6bd831a8ef819f78339c29a",
+  "manifest_sha256": "7dd4c2b0b36cf4f4aaa3d6fb36f82d04c3aa98ef1f8cc56f9407be916109fe74",
+  "split_sha256": "1f3a380537f410558ba5307bd4195531a9c0f20a354104a8861c137e3747422f",
+  "notebook_code_sha256": "cb0ce7fb1c8da7f0472f682292b344c3dd557bd83ceaf41ea893b7f73346ec83",
+  "pillow": "12.3.0",
+  "inputs_sha256": "da9cd4ef679896344b63b4c7a5e749ad586ddd847caf064c5f497672c2be7815",
+  "targets_sha256": "6cfdd08475fab1d9b356c227f30c06c95a66aeaa0a53d8f1c9f8028adb189b9b",
+  "audit_sha256": "d1a1cfec11d91c8ac18b69e7f7566cd45274cf9c7b57fc16cf2a7d0accdace40",
+  "target_policy": "Only accepted assignments appear in targets. Rejected groups remain in inputs; evaluation must report labelled coverage. Partial targets are not complete training answers."
+}

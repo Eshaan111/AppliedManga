@@ -1,0 +1,200 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "HEY, GO EASY, MAN. HE HOLDS A MEAN GRUDGE.",
+    "cleaned_text": "HEY, GO EASY, MAN. HE HOLDS A MEAN GRUDGE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "REALLY.",
+    "cleaned_text": "REALLY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "HE WANTS WHAT YOU'VE GOT.",
+    "cleaned_text": "HE WANTS WHAT YOU'VE GOT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "IT'S THE BLONDE HAIR AND GREEN EYES THAT DOES IT.",
+    "cleaned_text": "IT\u2019S THE BLONDE HAIR AND GREEN EYES THAT DOES IT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "GUESS YOU'RE SAFE, THEN.",
+    "cleaned_text": "GUESS YOU\u2019RE SAFE, THEN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "LATER, MAN.",
+    "cleaned_text": "LATER, MAN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "ASH.",
+    "cleaned_text": "ASH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "JUST DONT PUT ME IN THE POSITION OF HAVING TO KILL YOU.",
+    "cleaned_text": "JUST DON'T PUT ME IN THE POSITION OF HAVING TO KILL YOU.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "WH--?YOU BEEN WATCHING OLD MOVIES, SHORTER?",
+    "cleaned_text": "WH--?YOU BEEN WATCHING OLD MOVIES, SHORTER?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "GOES WITH THE BALD SPOTS MAN!",
+    "cleaned_text": "GOES WITH THE BALD SPOTS MAN!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "HA, HA! THAT WAS SOME CORNY SHIT, HUH?",
+    "cleaned_text": "HA, HA! THAT WAS SOME CORNY SHIT, HUH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "BUT, UH... YOU DOKNOW IT'S JUST SHAVED RIGHT?",
+    "cleaned_text": "BUT, UH... YOU DON'T KNOW IT'S JUST SHAVED RIGHT?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "HAND-BAGS",
+    "cleaned_text": "HAND-BAGS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "WHO IS IT?",
+    "cleaned_text": "WHO IS IT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "IT'S ME, SKIP. OPEN UP.",
+    "cleaned_text": "IT\u2019S ME, SKIP. OPEN UP.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "WELCOME HOME, BOSS. YOU EARLY",
+    "cleaned_text": "WELCOME HOME, BOSS. YOU EARLY.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "YEAH.",
+    "cleaned_text": "YEAH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "ANYTHING HAPPEN?",
+    "cleaned_text": "ANYTHING HAPPEN?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "SAME OL' SAME OLD.",
+    "cleaned_text": "SAME OL\u2019 SAME OLD.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "HMM.",
+    "cleaned_text": "HMM.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character4",
+    "raw_text": "HIM, TOO.",
+    "cleaned_text": "HIM, TOO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "GOOD.",
+    "cleaned_text": "GOOD.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

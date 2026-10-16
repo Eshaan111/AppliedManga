@@ -1,0 +1,78 @@
+{
+  "reference_sequences": 80,
+  "predicted_sequences": 80,
+  "missing_sequences": [],
+  "reported_macro": {
+    "text_order_score": 0.9022580406591174,
+    "balanced_joint_f1": 0.3904260803788208,
+    "speaker_accuracy_on_matched": 0.6389564706543975,
+    "joint_f1": 0.6004168626206221,
+    "matched_token_coverage": 0.9239508442739283
+  },
+  "summary": {
+    "groups": 1667,
+    "tail_overrides": 862,
+    "merged_groups": 186,
+    "gold_identities": 272,
+    "zero_f1_identities": 29,
+    "small_identities_le_10_tokens": 47,
+    "zero_f1_small_identities": 11,
+    "fragmentation_indicators": 137,
+    "collapse_indicators": 99,
+    "merged_groups_with_mixed_reference_speakers": 16,
+    "speaker_scored_sequences": 79,
+    "extra_predicted_identities_on_scored_sequences": 170,
+    "scored_sequences_with_extra_identities": 72,
+    "extra_label_type_NARRATION": 47,
+    "gold_narration_entries": 76,
+    "predicted_narration_entries": 334,
+    "sequences_predicted_with_narration": 63,
+    "extra_predicted_identities": 171,
+    "sequences_with_extra_identities": 73,
+    "extra_label_type_character": 102,
+    "extra_label_type_UNKNOWN": 21,
+    "sequences_with_narration": 14,
+    "zero_f1_narration_identities": 2
+  },
+  "group_speaker_status": {
+    "narrator": 334,
+    "linked": 1265,
+    "unassociated": 34,
+    "partially_linked": 11,
+    "conflicting_entities": 23
+  },
+  "group_roles": {
+    "NARRATED": 334,
+    "SPOKEN": 1333
+  },
+  "matched_known_token_weight": 13432.534765234763,
+  "correct_speaker_token_weight": 8377.915836940836,
+  "wrong_matched_weight_by_type": {
+    "wrong_spoken_identity": 3675.1188561438557,
+    "wrong_tokens_predicted_UNKNOWN": 523.2460317460318,
+    "spoken_as_narration": 1250.8611832611834,
+    "narration_as_spoken": 128.63888888888889,
+    "narration_as_spoken_with_tail_override": 9.0
+  },
+  "known_gold_token_count": 14282,
+  "scored_predicted_token_count": 14214,
+  "raw_before_cleanup_macro": {
+    "matched_token_coverage": 0.9156267344315696,
+    "speaker_accuracy_on_matched": 0.6401920036208734,
+    "joint_f1": 0.5947430009211201,
+    "balanced_joint_f1": 0.3863019676319108
+  },
+  "aligned_token_speaker_oracle_joint_f1_macro": 0.9383188598660405,
+  "notes": [
+    "All four token/speaker metrics reproduced the saved report per sequence. Character-order score was read from score.json.",
+    "Oracle changes speaker assignments on already aligned tokens; it is a diagnostic ceiling, not a measured model improvement.",
+    "Fragmentation/collapse indicators use overlap >= max(3 tokens, 10% of the identity token count); they do not isolate wrong links from clustering.",
+    "Mixed-reference merge flags rely on token alignment and need image inspection before attributing a cause."
+  ],
+  "sha256": {
+    "TaskData\\score.py": "f3a6112a97a98bac4c86a7f658cd5fce1c24ef4787c6493c9a06c7b35d42f8e4",
+    "TaskData\\development\\labels.jsonl": "b27eda235e856f396ab9c1860a3059256cb833bbe6bd831a8ef819f78339c29a",
+    "submission_outputs\\inference_development\\predictions.jsonl": "51f5783cf575aceeadec692565124ad16543b32d17bb977b4cc0cc2ba349a4d4",
+    "score.json": "c68f936b42874d2b5175cd28b9988b0229dc5da96337064a46b8d502ec19883d"
+  }
+}

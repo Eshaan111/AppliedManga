@@ -1,0 +1,242 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Sae",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAT WAS THAT SOUND...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ONLY AN IDIOT WOULDN'T KNOW THAT...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "A FESTIVAL ..?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEY, DID YOU TWO REALLY NOT MATE LAST NIGHT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DENJI'S SURPRISINGLY GENTLEMANLY!",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU'RE SURE WOLFING DOWN THE RAMEN HERE...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DOESN'T IT TASTE AWFUL?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHO ARE YOU?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT TASTES PRETTY GOOD TO ME.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DON'T TALK LIKE YOU KNOW ME!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T7",
+        "PG2:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU JUST DON'T KNOW GOOD FLAVORS FROM BAD. WELL, NOT LIKE YOU CAN HELP IT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T9",
+      "box_ids": [
+        "PG2:T9"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "APPARENTLY IF YOU ONLY EAT THE SAME SORTS OF THINGS WHEN YOU'RE A KID, IT DULLS YOUR SENSE OF TASTE ONCE YOU BECOME AN ADULT.",
+      "needs_review": true
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND IF YOU LOSE YOUR SENSE OF TASTE, THEN YOUR OVERALL HAPPINESS DECREASES.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "E6",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BUT I AM HAPPY!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SHALL WE LEAVE?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M2",
+      "box_ids": [
+        "PG3:T6",
+        "PG3:T7"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "MY OLD MAN WAS THE NICEST GuY IN THE WORLD. HE TOOK ME TO ALL SORTS OF EXPENSIVE PLACES AND LET ME TRY GOOD FOOD.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T8",
+        "PG3:T9"
+      ],
+      "speaker": "E3",
+      "speaker_status": "partially_linked",
+      "text_role": "SPOKEN",
+      "text": "HE WAS A YAKLIZA, BUT HE WAS A JUST YAKUIZA. YOU COULD SAY PEOPLE LIKE HIM WERE A NECESSARY EVIL...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T10",
+      "box_ids": [
+        "PG3:T10"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOH COHLD COHNT ON ONE HAND THE NUMBER OF GIRLS HE EVER KILLED,",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T11",
+      "box_ids": [
+        "PG3:T11"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND HE'D TAKE THE MONEY FROM SELLING DRUGS AND BUY YOU ANYTHING YOU WANTED...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T13",
+      "box_ids": [
+        "PG3:T13"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "EVERYONE LOVED HIM. HE WAS A GOOD MAN, A REAL EDO MAN, THROUGH AND THROUGH...",
+      "needs_review": false
+    }
+  ]
+]

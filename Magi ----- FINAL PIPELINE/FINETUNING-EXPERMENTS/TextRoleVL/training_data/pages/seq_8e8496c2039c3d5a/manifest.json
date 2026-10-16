@@ -1,0 +1,172 @@
+{
+  "sequence_id": "seq_8e8496c2039c3d5a",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "If it's M/M you're worried about, we took care of that last night."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "We are looking for a"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "I'd also appreciate it if you could be a bit more cautious in the future."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "IT..."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "...it's gone."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "WHAT IS GONE?"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "TH-THE AMOUNTS DON'T ADD UP."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "It's just a tiny bit short... but..."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "You're positive?"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "TINK"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "\"here... in my hand...\""
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Shik shik"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Hollow."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Skiish"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Pop"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "?"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "\"forty-two westwood, Los Angeles...\""
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "..."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Chak"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

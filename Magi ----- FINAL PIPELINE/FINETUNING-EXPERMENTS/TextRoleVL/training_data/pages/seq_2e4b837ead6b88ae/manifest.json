@@ -1,0 +1,224 @@
+{
+  "sequence_id": "seq_2e4b837ead6b88ae",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "So lame..."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Guys who try to show off, bow down and get refused are so lame..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "How embar- rassing"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "rather, you were really cool!"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "No... there's no way I'd think that...!"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "(name) On the"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "...oh yeah?"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Well then, that's good?"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Yep!"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "This is no time to be ashamed."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "...Even if we don't have the data,"
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "Head- quarters should have the investi- gallon's progress reports."
+    },
+    {
+      "id": "PG1:T13",
+      "page": 1,
+      "text": "We'll do something somehow ....!"
+    },
+    {
+      "id": "PG1:T14",
+      "page": 1,
+      "text": "“The"
+    },
+    {
+      "id": "PG1:T15",
+      "page": 1,
+      "text": "....okay!"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "!?????"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "...Where are you headed?"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "to the commission of counter- Ghoul, please."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Urie WUKi (19) [Frank 2 Investigation] 1735.5 cm 60 kg Quick Sound Leader"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Eh?"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Urie Wuki (19) 1735.5 cm 60 kg quinx Squad Leader"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Something wrong?"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "No..."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "haka Testsu"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Hobby"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "Fishing"
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "Taxi-"
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "TO THINK YOU'D HAVE SOME BUSINESS AT SUCH A PLACE EVEN THOUGH YOU'RE SO YOUNG..."
+    },
+    {
+      "id": "PG3:T12",
+      "page": 3,
+      "text": "...."
+    },
+    {
+      "id": "PG3:T13",
+      "page": 3,
+      "text": "..."
+    },
+    {
+      "id": "PG3:T14",
+      "page": 3,
+      "text": "(He ignored me...? Man, kids these days...)"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T11",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T13",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

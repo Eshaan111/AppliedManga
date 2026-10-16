@@ -1,0 +1,4 @@
+.venvOCR/
+**/__pycache__/
+**/.ipynb_checkpoints/
+manga_notebook_codebase/outputs/model_cache/

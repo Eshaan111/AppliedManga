@@ -1,0 +1,51 @@
+{
+  "page": {
+    "name": "01.png",
+    "sha256": "0fc4aa5db3b4ef4b232bc1b7dabefefc7fe38adcd5045697fc8468c39119de49",
+    "width": 956,
+    "height": 1500
+  },
+  "records": {
+    "panel_order": [
+      "PN1",
+      "PN7",
+      "PN8",
+      "PN9",
+      "PN6",
+      "PN3",
+      "PN4",
+      "PN5",
+      "PN2"
+    ],
+    "panel_groups": [
+      [
+        "PN1"
+      ],
+      [
+        "PN7"
+      ],
+      [
+        "PN8"
+      ],
+      [
+        "PN9"
+      ],
+      [
+        "PN6"
+      ],
+      [
+        "PN3"
+      ],
+      [
+        "PN4"
+      ],
+      [
+        "PN5"
+      ],
+      [
+        "PN2"
+      ]
+    ],
+    "ambiguous_groups": []
+  }
+}

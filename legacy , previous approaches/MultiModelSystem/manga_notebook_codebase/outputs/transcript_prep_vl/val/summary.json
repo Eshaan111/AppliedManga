@@ -1,0 +1,37 @@
+{
+  "split": "val",
+  "purpose": "Evaluation targets only; do not use validation records for training",
+  "sequences": 16,
+  "pages": 48,
+  "groups": 392,
+  "accepted": 309,
+  "rejected": 83,
+  "reasons": {
+    "reliable_text_alignment": 309,
+    "above_cer_threshold": 70,
+    "possible_mixed_speakers": 6,
+    "no_reference_text": 7
+  },
+  "fully_labelled_sequence_ids": [],
+  "fully_labelled_sequences": 0,
+  "annotated_images_rendered": 18,
+  "annotated_images_reused": 30,
+  "settings": {
+    "cer_threshold": 0.15,
+    "ambiguity_margin": 0.05,
+    "min_fragment_chars": 12,
+    "min_fragment_coverage": 0.25,
+    "font_size": 18,
+    "line_width": 2
+  },
+  "candidates_sha256": "790b0cb210ed67b3dd80e94d15bc7c29a03b4ce1424187a1a478f5df91547f0b",
+  "labels_sha256": "b27eda235e856f396ab9c1860a3059256cb833bbe6bd831a8ef819f78339c29a",
+  "manifest_sha256": "7dd4c2b0b36cf4f4aaa3d6fb36f82d04c3aa98ef1f8cc56f9407be916109fe74",
+  "split_sha256": "1f3a380537f410558ba5307bd4195531a9c0f20a354104a8861c137e3747422f",
+  "notebook_code_sha256": "593d81c7250f5eee3f7e5539cf4e01888ea51b3512c703283ef1774a9c18a651",
+  "pillow": "12.3.0",
+  "inputs_sha256": "55a4dac096a853981a99401247ca5098b1bdcbd8fb17d777973ceb5080aed57f",
+  "targets_sha256": "b61c6dbcb8fbb23b67a15add806e5399393e5f3fa977369d33fa5732cfbe2c43",
+  "audit_sha256": "277d172b41c15db6c695ada7b557e794ee2420319158077c9463bd1ccfecd390",
+  "target_policy": "Only accepted assignments appear in targets. Rejected groups remain in inputs; evaluation must report labelled coverage. Partial targets are not complete training answers."
+}

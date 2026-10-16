@@ -1,0 +1,236 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "THEIR DAYS-LONG SLASHER MOVIE MARATHON BEGAN!!",
+    "cleaned_text": "THEIR DAYS-LONG SLASHER MOVIE MARATHON BEGAN!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "Me",
+    "cleaned_text": "Me",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "AND AT LAST, THE DAY BEFORE THE COOKING PRACTICE ARRIVED!!",
+    "cleaned_text": "AND AT LAST, THE DAY BEFORE THE COOKING PRACTICE ARRIVED!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "BLOOD..",
+    "cleaned_text": "BLOOD..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "S0 MUCH BLOOD..",
+    "cleaned_text": "SO MUCH BLOOD..",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "S0 BEAUTI- FUL",
+    "cleaned_text": "SO BEAUTI- FUL",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "OKAY... YOu LOOK LIKE YOU CAN TOLERATE BLOOD NOW.",
+    "cleaned_text": "OKAY... YOU LOOK LIKE YOU CAN TOLERATE BLOOD NOW.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "YES.",
+    "cleaned_text": "YES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "LIFE...15 50 FLEETING.. 50 BEAUTIFUL...",
+    "cleaned_text": "LIFE... 15 50 FLEETING.. 50 BEAUTIFUL...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "THEN IT'S TIME FOR THE REAL THING!",
+    "cleaned_text": "THEN IT'S TIME FOR THE REAL THING!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "FILLET THE FISH!",
+    "cleaned_text": "FILLET THE FISH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "YES. I WILL... CUT YOU TO PIECES....",
+    "cleaned_text": "YES. I WILL... CUT YOU TO PIECES....",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "UNKNOWN",
+    "raw_text": "TH... THAT'S THE SPIRIT...",
+    "cleaned_text": "TH... THAT\u2019S THE SPIRIT...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character6",
+    "raw_text": "I WILL BRING YOU... TO A NEW PLANE OF EXI5- TENCE...",
+    "cleaned_text": "I WILL BRING YOU... TO A NEW PLANE OF EXISTENCE...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "\u2022\u2022",
+    "cleaned_text": "\u2022\u2022",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "call",
+    "cleaned_text": "call",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "NOOO! YOU CAN't!!! IF YOU HAVE TO EAT SOMEONE, EAT ME!!",
+    "cleaned_text": "NOOO! YOU CAN'T!!! IF YOU HAVE TO EAT SOMEONE, EAT ME!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "!?",
+    "cleaned_text": "!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "HE'S My LITTLE BABY!! you CAN'T EAT HIM!!!",
+    "cleaned_text": "HE\u2019S MY LITTLE BABY!! you CAN\u2019T EAT HIM!!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "HUUH WHH!?",
+    "cleaned_text": "HUUH WHH!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "HOW WOULD 1 EVEN DO THAT!?",
+    "cleaned_text": "HOW WOULD 1 EVEN DO THAT!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "IF WE'RE NOT GOING TO FILLET IT, THEN WHAT ARE YOU GOING TO DO WITH IT!?",
+    "cleaned_text": "IF WE\u2019RE NOT GOING TO FILLET IT, THEN WHAT ARE YOU GOING TO DO WITH IT!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "I'M TAKING HIM HOME WITH ME!!",
+    "cleaned_text": "I\u2019M TAKING HIM HOME WITH ME!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "CAN YOu EVEN TAKE CARE OFA FISH ON YOUR OWN!?",
+    "cleaned_text": "CAN YOU EVEN TAKE CARE OF A FISH ON YOUR OWN!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "YES, I CAN!",
+    "cleaned_text": "YES, I CAN!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "THE DAY FINALLY ARRIVED...",
+    "cleaned_text": "THE DAY FINALLY ARRIVED...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "IF YOU DON'T MAKE THIS MONTH'S PAYMENT, WE'LL STRING YOU UP...",
+    "cleaned_text": "IF YOU DON'T MAKE THIS MONTH'S PAYMENT, WE'LL STRING YOU UP...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "BOY. BEGGING, WHORING, I DON'T CARE HOW, BUT YOU'VE GOT TILL TOMORROW TO GET 7000 GRAND.",
+    "cleaned_text": "BOY. BEGGING, WHORING, I DON'T CARE HOW, BUT YOU'VE GOT TILL TOMORROW TO GET 7000 GRAND.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "IF YOU CAN'T DO IT, WE'LL CUT YOU UP AND SELL THE PIECES.",
+    "cleaned_text": "IF YOU CAN'T DO IT, WE'LL CUT YOU UP AND SELL THE PIECES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "CH- CHAIN- SAW?!",
+    "cleaned_text": "CH- CHAIN-SAW?!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "A DEVIL!",
+    "cleaned_text": "A DEVIL!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "...IF YOU'RE GONNA KILL ME, JUST DO IT. I'M DEAD EITHER WAY.",
+    "cleaned_text": "...IF YOU'RE GONNA KILL ME, JUST DO IT. I'M DEAD EITHER WAY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "A WOUND...",
+    "cleaned_text": "A WOUND...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "YOU'RE GONNA DIE TOO?",
+    "cleaned_text": "YOU\u2019RE GONNA DIE TOO?",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,329 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THEY SAY THAT IF A BOY AND GIRL GO TO SEE THIS MOVIE TOGETHER, THEY'RE GUARANTEED TO START DATING!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WH... WHAT!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OH? PRESI- DENT,",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WERE YOU",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ABOUT TO INVITE ME TO GO WITH YOU?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "A MOVIE THAT MAKES BOYS AND GIRLS WHO SEE IT START DATING...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ARE YOU",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T9",
+      "box_ids": [
+        "PG1:T9"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "on.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "GOING TO SAY THAT WE SHOULD SEE IT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T11",
+      "box_ids": [
+        "PG1:T11"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WOULDN'T THAT BE THE SAME AS...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T12",
+      "box_ids": [
+        "PG1:T12"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "A CONFES- SION!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T13",
+      "box_ids": [
+        "PG1:T13"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "SHIROGANE REALIZES THE DILEMMA HE IS IN!!",
+      "needs_review": true
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "IN MATTERS OF LOVE, THERE IS AN ABSOLUTE RULE THAT \"THE ONE WHO FALLS IN LOVE LOSES!!\"",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "IN OTHER WORDS, \"THE ONE WHO CONFESSES LOSES!!\"",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M2",
+      "box_ids": [
+        "PG2:T3",
+        "PG2:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "BOTH PARTIES, WITH THEIR INCREDIBLE PRIDE, REFUSE TO ALLOW THEMSELVES TO BE THE ONE TO CONFESS!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T5",
+        "PG2:T6"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAT SHOULD I DO.\u2026? IS MY ONLY OPTION TO TRY AND TRICK HER TO GET OUT OF IT...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T7",
+      "box_ids": [
+        "PG2:T7"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "FOR EXAMPLE..",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T8",
+      "box_ids": [
+        "PG2:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DO.\u2026 DO YOU WANT TO GO SELL THE TICKETS WITH ME?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T9",
+      "box_ids": [
+        "PG2:T9"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OH?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T10",
+      "box_ids": [
+        "PG2:T10"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU SEEM RATHER FLUSTERED..",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T11",
+      "box_ids": [
+        "PG2:T11"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HOW CUTE...",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I WILL NOT!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I WILL NOT RUN FROM THIS!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU WILL BE THE ONE TO FLEE, SHINOMIYA!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YES, I WAS GOING TO INVITE YOU, SHINOMIYA.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T5",
+      "box_ids": [
+        "PG3:T5"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I DON'T BELIEVE IN SUCH RUMORS,",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND I WAS UNDER THE IMPRESSION THAT YOU DIDN'T EITHER.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T7",
+      "box_ids": [
+        "PG3:T7"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WELL, SHINOMIYA?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T8",
+      "box_ids": [
+        "PG3:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DO YOU WANT TO SEE THIS MOVIEWITH ME?",
+      "needs_review": false
+    }
+  ]
+]

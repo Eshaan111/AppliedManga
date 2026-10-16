@@ -1,0 +1,425 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "THE PLAYERS STATED THAT JUST BEFORE GETTING SICK...",
+    "cleaned_text": "THE PLAYERS STATED THAT JUST BEFORE GETTING SICK...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "?",
+    "cleaned_text": "?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "30000",
+    "cleaned_text": "30000",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "!!!",
+    "cleaned_text": "!!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "... THEY HEARD STRANGE NOISES AND VOICES.",
+    "cleaned_text": "... THEY HEARD STRANGE NOISES AND VOICES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "THAT'S WHERE THIS NEWSPAPER ARTICLE FROM 30 YEARS AGO COMES IN!",
+    "cleaned_text": "THAT\u2019S WHERE THIS NEWSPAPER ARTICLE FROM 30 YEARS AGO COMES IN!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "MR.YOSHIDA,A CONSTRUCTION COMPANY EMPLOYEE, WENT MISSING! CONSTRUCTION COMPAN EMPLOYEE MISSING",
+    "cleaned_text": "MR.YOSHIDA, A CONSTRUCTION COMPANY EMPLOYEE, WENT MISSING! CONSTRUCTION COMPANY EMPLOYEE MISSING",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character9",
+    "raw_text": "HE WAS LAST SEEN HERE! AT THIS SCHOOL, DURING CONSTRUCTION!",
+    "cleaned_text": "HE WAS LAST SEEN HERE! AT THIS SCHOOL, DURING CONSTRUCTION!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "AT THE TIME,MR. YOSHIDA WAS IN DEBT!",
+    "cleaned_text": "AT THE TIME, MR. YOSHIDA WAS IN DEBT!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character3",
+    "raw_text": "HE WAS EVEN BEING TARGETED BY LOAN SHARKS! WHICH MEANS ...",
+    "cleaned_text": "HE WAS EVEN BEING TARGETED BY LOAN SHARKS! WHICH MEANS ...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character7",
+    "raw_text": "MR YOSHIDA' BODY IS BURIED AT THE RUGBY FIELD",
+    "cleaned_text": "MR YOSHIDA\u2019S BODY IS BURIED AT THE RUGBY FIELD",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 11,
+    "speaker": "NARRATION",
+    "raw_text": "TA-DAH!",
+    "cleaned_text": "TA-DAH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 12,
+    "speaker": "character1",
+    "raw_text": "THE COMMOTION IS A RESULT OF HIS LINGERING SPIRIT! COUR THEORY!",
+    "cleaned_text": "THE COMMOTION IS A RESULT OF HIS LINGERING SPIRIT! COURT THEORY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 13,
+    "speaker": "NARRATION",
+    "raw_text": "!!",
+    "cleaned_text": "!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 14,
+    "speaker": "character8",
+    "raw_text": "NO",
+    "cleaned_text": "NO",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character8",
+    "raw_text": "IT SEEMS LIKE TICKS WERE THE REASON.",
+    "cleaned_text": "IT SEEMS LIKE TICKS WERE THE REASON.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "ZING!",
+    "cleaned_text": "ZING!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "TICKS A TYPE OF PARASITE. THE TICK-BORNE DISEASE IS NO JOKE, SO BE CAREFUL!",
+    "cleaned_text": "TICKS ARE A TYPE OF PARASITE. THE TICK-BORNE DISEASE IS NO JOKE, SO BE CAREFUL!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character7",
+    "raw_text": "so WHAT?!",
+    "cleaned_text": "SO WHAT?!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "I'M SUCH AN IDIOT.",
+    "cleaned_text": "I'M SUCH AN IDIOT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "AS THE OCCULT RESEARCH CLUB,WE'RE HYPOTHESIZING ABOUT THE OCCULT! IT'S A RESPECTABLE CLUB ACTIVITY!",
+    "cleaned_text": "AS THE OCCULT RESEARCH CLUB, WE\u2019RE HYPOTHESIZING ABOUT THE OCCULT! IT\u2019S A RESPECTABLE CLUB ACTIVITY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "THIS ISN'T SOME KID'S GAME! STOP SPREADING RUMORS!",
+    "cleaned_text": "THIS ISN'T SOME KID'S GAME! STOP SPREADING RUMORS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character8",
+    "raw_text": "THE BIGGEST PROBLEM HERE IS...",
+    "cleaned_text": "THE BIGGEST PROBLEM HERE IS...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "YUJI ITA- DORI! YOU'RE A MEMBER OF THE TRACK-AND- FIELD TEAM! NOT THE OCCULT RESEARCH CLUB!",
+    "cleaned_text": "YUJI ITA- DORI! YOU'RE A MEMBER OF THE TRACK-AND-FIELD TEAM! NOT THE OCCULT RESEARCH CLUB!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character7",
+    "raw_text": "HUH?",
+    "cleaned_text": "HUH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "NARRATION",
+    "raw_text": "THIS MEANS THE OCCULT RESEARCH CLUB DOESN'T MEET THE THREE- MEMBER MINIMUM!",
+    "cleaned_text": "THIS MEANS THE OCCULT RESEARCH CLUB DOESN'T MEET THE THREE-MEMBER MINIMUM!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "character3",
+    "raw_text": "ITADORI!",
+    "cleaned_text": "ITADORI!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "NARRATION",
+    "raw_text": "GRR",
+    "cleaned_text": "GRR",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 13,
+    "speaker": "character7",
+    "raw_text": "BUT I WROTE \"OCCULT RESEARCH CLUB\" ON THE APPLICATION.",
+    "cleaned_text": "BUT I WROTE \"OCCULT RESEARCH CLUB\" ON THE APPLICATION.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 14,
+    "speaker": "character17",
+    "raw_text": "I RE- WROTE IT!",
+    "cleaned_text": "I RE- WROTE IT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 15,
+    "speaker": "character7",
+    "raw_text": ",",
+    "cleaned_text": ",",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "TRACK-AND- FIELD COACH MR. TAKAGI!",
+    "cleaned_text": "TRACK-AND-FIELD COACH MR. TAKAGI!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "COAAACH",
+    "cleaned_text": "COAAACH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "WE NEED YOU IF WE'RE TO TAKE OVER THE COUNTRY.",
+    "cleaned_text": "WE NEED YOU IF WE'RE TO TAKE OVER THE COUNTRY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "THIS TEACHER IS SKETCHIER THAN THE STUDENTS",
+    "cleaned_text": "THIS TEACHER IS SKETCHIER THAN THE STUDENTS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "WHICH SIDE SHOULD ITAKE?",
+    "cleaned_text": "WHICH SIDE SHOULD ITAKE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character7",
+    "raw_text": "ENOUGH ALREADY! I SAID I'M NOT JOINING!",
+    "cleaned_text": "ENOUGH ALREADY! I SAID I'M NOT JOINING!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character17",
+    "raw_text": "NO CAN DO!",
+    "cleaned_text": "NO CAN DO!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character17",
+    "raw_text": "NO CAN DO?",
+    "cleaned_text": "NO CAN DO?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character17",
+    "raw_text": "HOWEVER I'M NOTA MONSTER!",
+    "cleaned_text": "HOWEVER I'M NOT A MONSTER!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character7",
+    "raw_text": "LET'S MAKE IT A FAIR FIGHT! ON THE FIELD!",
+    "cleaned_text": "LET\u2019S MAKE IT A FAIR FIGHT! ON THE FIELD!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character7",
+    "raw_text": "OH?",
+    "cleaned_text": "OH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character17",
+    "raw_text": "IFI LOSE, I'LL GIVE UP ON YOU.",
+    "cleaned_text": "IFI LOSE, I'LL GIVE UP ON YOU.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 12,
+    "speaker": "character17",
+    "raw_text": "HOW- EVER! IF I WIN...",
+    "cleaned_text": "HOW- EVER! IF I WIN...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 13,
+    "speaker": "character7",
+    "raw_text": "SAY NO MORE! I ACCEPT!",
+    "cleaned_text": "SAY NO MORE! I ACCEPT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 14,
+    "speaker": "character8",
+    "raw_text": "ISN'T IT AGAINST THE RULES TO CHANGE THE APPLICATION?",
+    "cleaned_text": "ISN'T IT AGAINST THE RULES TO CHANGE THE APPLICATION?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 15,
+    "speaker": "character20",
+    "raw_text": "WHAT'S WITH THIS RUGBY FIELD?",
+    "cleaned_text": "WHAT\u2019S WITH THIS RUGBY FIELD?",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

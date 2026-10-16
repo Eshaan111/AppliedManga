@@ -1,0 +1,823 @@
+[
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 0,
+    "text_id": "T1",
+    "box": [
+      716.7587280273438,
+      656.0133056640625,
+      807.2621459960938,
+      680.731689453125
+    ],
+    "text": "TAKUAN.",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 3,
+        "character_id": "PG1:C4",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T1",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Takuan.",
+    "paddle_text": "TAKUAN.",
+    "group_id": "PG1:T1",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible curved sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 1,
+    "text_id": "T2",
+    "box": [
+      486.8583984375,
+      468.00653076171875,
+      533.3505249023438,
+      492.26763916015625
+    ],
+    "text": "HM?",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG1:C1",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T2",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.8,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Hmm?",
+    "paddle_text": "HM?",
+    "group_id": "PG1:T2",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      2
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 2,
+    "text_id": "T3",
+    "box": [
+      308.853759765625,
+      484.6277770996094,
+      417.8875732421875,
+      559.8546142578125
+    ],
+    "text": "HOW MUCH LONGER WILL THAT MAN BE HERE...?",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 7,
+        "character_id": "PG1:C8",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T3",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "How much longer will that man be here...?",
+    "paddle_text": "HOW MUCH LONGER WILL THAT MAN BE HERE...?",
+    "group_id": "PG1:T3",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible curved sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 3,
+    "text_id": "T4",
+    "box": [
+      75.06427001953125,
+      743.9903564453125,
+      162.5127716064453,
+      781.4790649414062
+    ],
+    "text": "YOU MEAN MUSASHI?",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 7,
+        "character_id": "PG1:C8",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T4",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "You mean Musashi?",
+    "paddle_text": "YOU MEAN MUSASHI?",
+    "group_id": "PG1:T4",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 4,
+    "text_id": "T5",
+    "box": [
+      685.1141357421875,
+      848.7514038085938,
+      805.6226196289062,
+      947.755126953125
+    ],
+    "text": "I WOULD BE GRATEFUL IF HE LEFT AS SOON AS POSSIBLE.",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 6,
+        "character_id": "PG1:C7",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T5",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "I would be grateful if he left as soon as possible.",
+    "paddle_text": "I WOULD BE GRATEFUL IF HE LEFT AS SOON AS POSSIBLE.",
+    "group_id": "PG1:T5",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      1
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 5,
+    "text_id": "T6",
+    "box": [
+      337.0298767089844,
+      1049.301513671875,
+      476.4822082519531,
+      1158.964111328125
+    ],
+    "text": "WE CANNOT ALLOW SOMEONE WHO HAS SLAIN SO MANY MEN TO STAY HERE FOR FOREVER.",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 6,
+        "character_id": "PG1:C7",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T6",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "We cannot allow someone who has slain so many men to stay here for forever.",
+    "paddle_text": "WE CANNOT ALLOW SOMEONE WHO HAS SLAIN SO MANY MEN TO STAY HERE FOR FOREVER.",
+    "group_id": "PG1:T6",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      0
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 6,
+    "text_id": "T7",
+    "box": [
+      258.8236999511719,
+      856.9107666015625,
+      299.581298828125,
+      924.676513671875
+    ],
+    "text": "I SEE \u2022\u2022\u2022",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 5,
+        "character_id": "PG1:C6",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T7",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "I see ...",
+    "paddle_text": "I SEE \u2022\u2022\u2022",
+    "group_id": "PG1:T7",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      3
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 0,
+    "text_id": "T1",
+    "box": [
+      595.798583984375,
+      95.34938049316406,
+      692.000244140625,
+      164.83740234375
+    ],
+    "text": "MUSTN'T WE, AS FOLLOWERS OF BUDDHA,",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG2:C1",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG2:T1",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "mustn't we, as followers of Buddha,",
+    "paddle_text": "MUSTN'T WE, AS FOLLOWERS OF BUDDHA,",
+    "group_id": "PG2:T1",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 1,
+    "text_id": "T2",
+    "box": [
+      477.880859375,
+      152.8594512939453,
+      552.7219848632812,
+      241.27825927734375
+    ],
+    "text": "ACCEPT A MAN EVEN IF \u2022 \u2022 \u2022",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG2:C1",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T2",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Accept a man even if ...",
+    "paddle_text": "ACCEPT A MAN EVEN IF \u2022 \u2022 \u2022",
+    "group_id": "PG2:T2",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      1
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 2,
+    "text_id": "T3",
+    "box": [
+      25.709022521972656,
+      367.1451416015625,
+      180.1719970703125,
+      457.3559875488281
+    ],
+    "text": "NO, ESPECIALLY BECAUSE HE IS A CRIMINAL?",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG2:C1",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG2:T3",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "No, especially because he is a criminal?",
+    "paddle_text": "NO, ESPECIALLY BECAUSE HE IS A CRIMINAL?",
+    "group_id": "PG2:T3",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      0
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 3,
+    "text_id": "T4",
+    "box": [
+      630.0667724609375,
+      632.3765258789062,
+      678.4541625976562,
+      657.2066650390625
+    ],
+    "text": "...",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 6,
+        "character_id": "PG2:C7",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "magi_punctuation",
+    "ocr_reason": "Magi punctuation fallback",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T4",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "",
+    "artifact_reason": "Magi punctuation fallback: Paddle OCR empty",
+    "ocr_agreement": null,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": true,
+    "punctuation_bubble_found": true,
+    "magi_text": "...",
+    "paddle_text": "",
+    "punctuation_candidate_id": 3,
+    "group_id": "PG2:T4",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 4,
+    "text_id": "T5",
+    "box": [
+      390.8503723144531,
+      820.3532104492188,
+      418.44384765625,
+      866.7803344726562
+    ],
+    "text": "\u2022",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 4,
+        "character_id": "PG2:C5",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T5",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "",
+    "artifact_reason": "punctuation-only override",
+    "ocr_agreement": null,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "!",
+    "paddle_text": "\u2022",
+    "group_id": "PG2:T5",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      2
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 0,
+    "text_id": "T1",
+    "box": [
+      220.60537719726562,
+      208.77110290527344,
+      269.7063903808594,
+      258.4145812988281
+    ],
+    "text": "OH, OH?",
+    "entity_id": "E6",
+    "entity_ids": [
+      "E6"
+    ],
+    "character_links": [
+      {
+        "character_index": 5,
+        "character_id": "PG3:C6",
+        "entity_id": "E6"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T1",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Oh, oh?",
+    "paddle_text": "OH, OH?",
+    "group_id": "PG3:T1",
+    "text_role": "SPOKEN",
+    "speaker": "E6",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      1
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 1,
+    "text_id": "T2",
+    "box": [
+      674.254638671875,
+      520.4228515625,
+      802.8019409179688,
+      609.525146484375
+    ],
+    "text": "IMPATIENCE WON'T GET YOU WALKING AGAIN.",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG3:C1",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T2",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "impatience won't get you walking again.",
+    "paddle_text": "IMPATIENCE WON'T GET YOU WALKING AGAIN.",
+    "group_id": "PG3:T2",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      0
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 2,
+    "text_id": "T3",
+    "box": [
+      622.8919067382812,
+      906.4270629882812,
+      695.3956298828125,
+      933.4149780273438
+    ],
+    "text": "HMPH!",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 3,
+        "character_id": "PG3:C4",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T3",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Hmph!",
+    "paddle_text": "HMPH!",
+    "group_id": "PG3:T3",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      2
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 3,
+    "text_id": "T4",
+    "box": [
+      53.79048538208008,
+      1043.843994140625,
+      197.3905487060547,
+      1080.3939208984375
+    ],
+    "text": "TAKEZO!",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 4,
+        "character_id": "PG3:C5",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T4",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "TAKEZO!",
+    "paddle_text": "TAKEZO!",
+    "group_id": "PG3:T4",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  }
+]

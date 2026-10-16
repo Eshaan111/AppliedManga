@@ -1,0 +1,15 @@
+[Page 01.png]
+character2: ONE'S STILL ALIVE.
+character5: HMPH...
+UNKNOWN: YOU'RE A STRANGE ONE.
+UNKNOWN: YOU DON'T SMELL LIKE A DEVIL OR A HUMAN.
+
+[Page 02.png]
+character5: DID YOU DO THIS?
+character6: H-..
+character3: HOLD ME...
+
+[Page 03.png]
+character10: IT'S A HUMAN...
+character1: COULD HE BE TAKEN OVER BY A DEVIL?
+character5: NO YOU CAN TELL TAKE-OVERS BY LOOKING AT THEIR FACE.

@@ -1,0 +1,1248 @@
+[
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 0,
+    "text_id": "T1",
+    "box": [
+      552.2731323242188,
+      149.4248046875,
+      646.080322265625,
+      199.1380157470703
+    ],
+    "text": "YOU GUYS GROUPIES, TOO?",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG1:C2",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T1",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "You guys groupies, too?",
+    "paddle_text": "YOU GUYS GROUPIES, TOO?",
+    "group_id": "PG1:T1",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 1,
+    "text_id": "T2",
+    "box": [
+      434.7489318847656,
+      145.7975616455078,
+      518.2410888671875,
+      211.63665771484375
+    ],
+    "text": "RELAX... IJUST CAME TO TALK.",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 7,
+        "character_id": "PG1:C8",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T2",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "RELAX... I JUST CAME TO TALK.",
+    "paddle_text": "RELAX... IJUST CAME TO TALK.",
+    "group_id": "PG1:T2",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      3
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 2,
+    "text_id": "T3",
+    "box": [
+      166.85964965820312,
+      149.19432067871094,
+      228.40786743164062,
+      215.8445281982422
+    ],
+    "text": "NOT TO PICK A FIGHT.",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 7,
+        "character_id": "PG1:C8",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T3",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "not to pick a fight.",
+    "paddle_text": "NOT TO PICK A FIGHT.",
+    "group_id": "PG1:T3",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      1
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 3,
+    "text_id": "T4",
+    "box": [
+      139.68035888671875,
+      300.7764587402344,
+      168.2843017578125,
+      319.73980712890625
+    ],
+    "text": "...",
+    "entity_id": "E6",
+    "entity_ids": [
+      "E6"
+    ],
+    "character_links": [
+      {
+        "character_index": 6,
+        "character_id": "PG1:C7",
+        "entity_id": "E6"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "magi_punctuation",
+    "ocr_reason": "Magi punctuation fallback",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T4",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "",
+    "artifact_reason": "Magi punctuation fallback: Paddle OCR empty",
+    "ocr_agreement": null,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": true,
+    "punctuation_bubble_found": true,
+    "magi_text": "...",
+    "paddle_text": "",
+    "punctuation_candidate_id": 3,
+    "group_id": "PG1:T4",
+    "text_role": "SPOKEN",
+    "speaker": "E6",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      0
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 4,
+    "text_id": "T5",
+    "box": [
+      685.2032470703125,
+      487.1656494140625,
+      734.1361694335938,
+      506.0876159667969
+    ],
+    "text": "PAPA.",
+    "entity_id": "E3",
+    "entity_ids": [
+      "E3"
+    ],
+    "character_links": [
+      {
+        "character_index": 2,
+        "character_id": "PG1:C3",
+        "entity_id": "E3"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": true,
+    "disagreement": false,
+    "box_id": "PG1:T5",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "PAPA.",
+    "paddle_text": "PAPA.",
+    "group_id": "PG1:T5",
+    "text_role": "SPOKEN",
+    "speaker": "E3",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      2
+    ],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 5,
+    "text_id": "T6",
+    "box": [
+      487.25091552734375,
+      622.9801025390625,
+      542.969970703125,
+      654.7317504882812
+    ],
+    "text": "ASH IS HERE.",
+    "entity_id": "E3",
+    "entity_ids": [
+      "E3"
+    ],
+    "character_links": [
+      {
+        "character_index": 2,
+        "character_id": "PG1:C3",
+        "entity_id": "E3"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T6",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Ash is here.",
+    "paddle_text": "ASH IS HERE.",
+    "group_id": "PG1:T6",
+    "text_role": "SPOKEN",
+    "speaker": "E3",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      4
+    ],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 6,
+    "text_id": "T7",
+    "box": [
+      337.7183532714844,
+      474.27374267578125,
+      368.143310546875,
+      493.65966796875
+    ],
+    "text": "...",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 4,
+        "character_id": "PG1:C5",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "magi_punctuation",
+    "ocr_reason": "Magi punctuation fallback",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T7",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "",
+    "artifact_reason": "Magi punctuation fallback: Paddle OCR empty",
+    "ocr_agreement": null,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": true,
+    "punctuation_bubble_found": true,
+    "magi_text": "...",
+    "paddle_text": "",
+    "punctuation_candidate_id": 5,
+    "group_id": "PG1:T7",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      5
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 7,
+    "text_id": "T8",
+    "box": [
+      151.28993225097656,
+      473.4168395996094,
+      205.5439453125,
+      506.0633850097656
+    ],
+    "text": "COME IN.",
+    "entity_id": "E3",
+    "entity_ids": [
+      "E3"
+    ],
+    "character_links": [
+      {
+        "character_index": 9,
+        "character_id": "PG1:C10",
+        "entity_id": "E3"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": true,
+    "disagreement": false,
+    "box_id": "PG1:T8",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "COME IN.",
+    "paddle_text": "COME IN.",
+    "group_id": "PG1:T8",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "region may have leaked outside the bubble; uncertain extraction",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 8,
+    "text_id": "T9",
+    "box": [
+      79.60458374023438,
+      653.7048950195312,
+      136.2191619873047,
+      680.8926391601562
+    ],
+    "text": "KLIK",
+    "entity_id": "E3",
+    "entity_ids": [
+      "E3"
+    ],
+    "character_links": [
+      {
+        "character_index": 9,
+        "character_id": "PG1:C10",
+        "entity_id": "E3"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T9",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.8888888888888888,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Kliik",
+    "paddle_text": "KLIK",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 9,
+    "text_id": "T10",
+    "box": [
+      229.548095703125,
+      765.3851928710938,
+      311.824951171875,
+      827.260009765625
+    ],
+    "text": "WHY, GOOD MORNING, ASH.",
+    "entity_id": "E4",
+    "entity_ids": [
+      "E4"
+    ],
+    "character_links": [
+      {
+        "character_index": 3,
+        "character_id": "PG1:C4",
+        "entity_id": "E4"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T10",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Why, good morning, Ash.",
+    "paddle_text": "WHY, GOOD MORNING, ASH.",
+    "group_id": "PG1:T10",
+    "text_role": "SPOKEN",
+    "speaker": "E4",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 10,
+    "text_id": "T11",
+    "box": [
+      87.08404541015625,
+      806.93505859375,
+      198.6220703125,
+      926.9005126953125
+    ],
+    "text": "YOU KNOW, |THOUGHT YOU MIGHT COME BUT I WASN'T EXPECTING YOU QUITE SO EARLY",
+    "entity_id": "E7",
+    "entity_ids": [
+      "E7"
+    ],
+    "character_links": [
+      {
+        "character_index": 8,
+        "character_id": "PG1:C9",
+        "entity_id": "E7"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T11",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.8888888888888888,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "You know, i 7#0647 you might come, but i wasn't expecting you quite so early.",
+    "paddle_text": "YOU KNOW, |THOUGHT YOU MIGHT COME BUT I WASN'T EXPECTING YOU QUITE SO EARLY",
+    "group_id": "PG1:T11",
+    "text_role": "SPOKEN",
+    "speaker": "E7",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible curved sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 0,
+    "text_id": "T1",
+    "box": [
+      643.3358154296875,
+      138.49024963378906,
+      708.1060180664062,
+      214.97915649414062
+    ],
+    "text": "IWAS JUST HAVING BREAK- FAST.",
+    "entity_id": null,
+    "entity_ids": [],
+    "character_links": [],
+    "association_status": "unassociated",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": true,
+    "disagreement": true,
+    "box_id": "PG2:T1",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "I WAS JUST HAVING BREAK- FAST.",
+    "paddle_text": "IWAS JUST HAVING BREAK- FAST.",
+    "group_id": "PG2:T1",
+    "text_role": "SPOKEN",
+    "speaker": null,
+    "speaker_status": "unassociated",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 1,
+    "text_id": "T2",
+    "box": [
+      518.0764770507812,
+      143.06483459472656,
+      585.9691162109375,
+      220.71812438964844
+    ],
+    "text": "WOULD YOU CARE TO JOIN ME?",
+    "entity_id": null,
+    "entity_ids": [],
+    "character_links": [],
+    "association_status": "unassociated",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": true,
+    "disagreement": false,
+    "box_id": "PG2:T2",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Would you CARE to join me?",
+    "paddle_text": "WOULD YOU CARE TO JOIN ME?",
+    "group_id": "PG2:T2",
+    "text_role": "SPOKEN",
+    "speaker": null,
+    "speaker_status": "unassociated",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 2,
+    "text_id": "T3",
+    "box": [
+      416.3241882324219,
+      164.85592651367188,
+      482.1266784667969,
+      196.40866088867188
+    ],
+    "text": "NO, THANKS.",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG2:C1",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG2:T3",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "No, thanks.",
+    "paddle_text": "NO, THANKS.",
+    "group_id": "PG2:T3",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      1
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 3,
+    "text_id": "T4",
+    "box": [
+      599.3948974609375,
+      491.7353515625,
+      705.6598510742188,
+      581.9146728515625
+    ],
+    "text": "ARE YOU SURE? THE BACON'S WONDERFUL. A FARM IN SURRY.",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 7,
+        "character_id": "PG2:C8",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG2:T4",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "ARE YOU SURE? THE BACON'S WONDERFUL. A FARM IN SURRY.",
+    "paddle_text": "ARE YOU SURE? THE BACON'S WONDERFUL. A FARM IN SURRY.",
+    "group_id": "PG2:T4",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 4,
+    "text_id": "T5",
+    "box": [
+      576.5807495117188,
+      654.7815551757812,
+      683.8140258789062,
+      731.6057739257812
+    ],
+    "text": "I DIDN'T COME ALL THE WAY OUT HERE TO EAT.",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 7,
+        "character_id": "PG2:C8",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG2:T5",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "I DIDN'T COME ALL THE WAY OUT HERE TO EAT.",
+    "paddle_text": "I DIDN'T COME ALL THE WAY OUT HERE TO EAT.",
+    "group_id": "PG2:T5",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      0
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 5,
+    "text_id": "T6",
+    "box": [
+      208.93673706054688,
+      476.1875,
+      270.1902770996094,
+      566.7179565429688
+    ],
+    "text": "YOU CAN TAKE IT AWAY. I'M DONE.",
+    "entity_id": null,
+    "entity_ids": [],
+    "character_links": [],
+    "association_status": "unassociated",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": true,
+    "disagreement": false,
+    "box_id": "PG2:T6",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "You can take it away. I'm done.",
+    "paddle_text": "YOU CAN TAKE IT AWAY. I'M DONE.",
+    "group_id": "PG2:T6",
+    "text_role": "SPOKEN",
+    "speaker": null,
+    "speaker_status": "unassociated",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      2
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 6,
+    "text_id": "T7",
+    "box": [
+      666.8175659179688,
+      820.6465454101562,
+      707.9669799804688,
+      840.06884765625
+    ],
+    "text": "ASH",
+    "entity_id": "E8",
+    "entity_ids": [
+      "E8"
+    ],
+    "character_links": [
+      {
+        "character_index": 5,
+        "character_id": "PG2:C6",
+        "entity_id": "E8"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T7",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Ash.",
+    "paddle_text": "ASH",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 7,
+    "text_id": "T8",
+    "box": [
+      77.00965118408203,
+      823.9183959960938,
+      230.05014038085938,
+      928.501220703125
+    ],
+    "text": "I'VE TOLD YOU BEFORE. KEEP YOUR HANDS OUT OF YOUR POCKETS WHEN YOU TALK TO ME.",
+    "entity_id": "E8",
+    "entity_ids": [
+      "E8"
+    ],
+    "character_links": [
+      {
+        "character_index": 5,
+        "character_id": "PG2:C6",
+        "entity_id": "E8"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG2:T8",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "I've told you before. Keep your hands out of your pockets when you talk to me.",
+    "paddle_text": "I'VE TOLD YOU BEFORE. KEEP YOUR HANDS OUT OF YOUR POCKETS WHEN YOU TALK TO ME.",
+    "group_id": "PG2:T8",
+    "text_role": "SPOKEN",
+    "speaker": "E8",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 0,
+    "text_id": "T1",
+    "box": [
+      99.03067016601562,
+      161.0688018798828,
+      181.423583984375,
+      192.36453247070312
+    ],
+    "text": "TAKE OFF HIS VEST",
+    "entity_id": "E8",
+    "entity_ids": [
+      "E8"
+    ],
+    "character_links": [
+      {
+        "character_index": 2,
+        "character_id": "PG3:C3",
+        "entity_id": "E8"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG3:T1",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Take off his vest.",
+    "paddle_text": "TAKE OFF HIS VEST",
+    "group_id": "PG3:T1",
+    "text_role": "SPOKEN",
+    "speaker": "E8",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      0
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 1,
+    "text_id": "T2",
+    "box": [
+      87.6944808959961,
+      378.2178649902344,
+      141.78192138671875,
+      438.727294921875
+    ],
+    "text": "ICAN DO IT MY- SELF.",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 3,
+        "character_id": "PG3:C4",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG3:T2",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.9285714285714286,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "1 CAN DO IT MY- SELF.",
+    "paddle_text": "ICAN DO IT MY- SELF.",
+    "group_id": "PG3:T2",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 2,
+    "text_id": "T3",
+    "box": [
+      597.9320068359375,
+      590.8500366210938,
+      706.5454711914062,
+      681.9074096679688
+    ],
+    "text": "YOU CAN'T RELAX UNTIL YOU'VE COMPLETELY STRIPPED ME?",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG3:C1",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T3",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "You can't relax until you've completely stripped me?",
+    "paddle_text": "YOU CAN'T RELAX UNTIL YOU'VE COMPLETELY STRIPPED ME?",
+    "group_id": "PG3:T3",
+    "text_role": "SPOKEN",
+    "speaker": "E2",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      1
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 3,
+    "text_id": "T4",
+    "box": [
+      692.1583862304688,
+      896.396484375,
+      725.4203491210938,
+      929.2606201171875
+    ],
+    "text": "HA, HA.",
+    "entity_id": "E8",
+    "entity_ids": [
+      "E8"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E8"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T4",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Ha, ha.",
+    "paddle_text": "HA, HA.",
+    "group_id": "PG3:T4",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "box-like region with straight perpendicular sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 4,
+    "text_id": "T5",
+    "box": [
+      248.9722900390625,
+      920.9505004882812,
+      326.05535888671875,
+      968.7587280273438
+    ],
+    "text": "NOTHING LIKE THAT.",
+    "entity_id": "E8",
+    "entity_ids": [
+      "E8"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E8"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T5",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "nothing like that.",
+    "paddle_text": "NOTHING LIKE THAT.",
+    "group_id": "PG3:M1",
+    "text_role": "SPOKEN",
+    "speaker": "E8",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      2
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_c2de6cb4b3c91103",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 5,
+    "text_id": "T6",
+    "box": [
+      119.85081481933594,
+      922.0611572265625,
+      185.50439453125,
+      999.9514770507812
+    ],
+    "text": "IT'S JUST A POLICY OF MINE.",
+    "entity_id": "E8",
+    "entity_ids": [
+      "E8"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E8"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T6",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "It's just a policy of mine.",
+    "paddle_text": "IT'S JUST A POLICY OF MINE.",
+    "group_id": "PG3:M1",
+    "text_role": "SPOKEN",
+    "speaker": "E8",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      2
+    ],
+    "contour_text_role": "SPOKEN"
+  }
+]

@@ -1,0 +1,2098 @@
+[
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 0,
+    "text_id": "T1",
+    "box": [
+      706.2723388671875,
+      117.26834106445312,
+      788.6312255859375,
+      161.82687377929688
+    ],
+    "text": "2-B",
+    "entity_id": null,
+    "entity_ids": [],
+    "character_links": [],
+    "association_status": "unassociated",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T1",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "2-B",
+    "paddle_text": "2-B",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 1,
+    "text_id": "T2",
+    "box": [
+      603.41162109375,
+      55.18785858154297,
+      697.1967163085938,
+      305.1502380371094
+    ],
+    "text": "T -00 N9.o0",
+    "entity_id": "E7",
+    "entity_ids": [
+      "E7"
+    ],
+    "character_links": [
+      {
+        "character_index": 7,
+        "character_id": "PG1:C8",
+        "entity_id": "E7"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T2",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.2222222222222222,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Letting this?",
+    "paddle_text": "T -00 N9.o0",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 2,
+    "text_id": "T3",
+    "box": [
+      522.08056640625,
+      145.58775329589844,
+      612.990966796875,
+      389.7099304199219
+    ],
+    "text": "t S 00 D 0 8",
+    "entity_id": "E5",
+    "entity_ids": [
+      "E5"
+    ],
+    "character_links": [
+      {
+        "character_index": 5,
+        "character_id": "PG1:C6",
+        "entity_id": "E5"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T3",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.26666666666666666,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "This site",
+    "paddle_text": "t S 00 D 0 8",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 3,
+    "text_id": "T4",
+    "box": [
+      425.458984375,
+      116.23657989501953,
+      510.3992614746094,
+      205.54299926757812
+    ],
+    "text": "WE'LL BE FILLETING AND GRILLING FISH.",
+    "entity_id": "E7",
+    "entity_ids": [
+      "E7"
+    ],
+    "character_links": [
+      {
+        "character_index": 7,
+        "character_id": "PG1:C8",
+        "entity_id": "E7"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T4",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.9333333333333333,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "We'll be filtering and grilling fish.",
+    "paddle_text": "WE'LL BE FILLETING AND GRILLING FISH.",
+    "group_id": "PG1:T4",
+    "text_role": "SPOKEN",
+    "speaker": "E7",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 4,
+    "text_id": "T5",
+    "box": [
+      683.71044921875,
+      341.9153137207031,
+      735.4609375,
+      364.2255554199219
+    ],
+    "text": "UM...",
+    "entity_id": "E5",
+    "entity_ids": [
+      "E5"
+    ],
+    "character_links": [
+      {
+        "character_index": 5,
+        "character_id": "PG1:C6",
+        "entity_id": "E5"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T5",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "UM...",
+    "paddle_text": "UM...",
+    "group_id": "PG1:M1",
+    "text_role": "SPOKEN",
+    "speaker": "E5",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 5,
+    "text_id": "T6",
+    "box": [
+      620.6295166015625,
+      398.302001953125,
+      699.3604736328125,
+      466.4313049316406
+    ],
+    "text": "OUR NEXT CLASS WILL BE COOKING PRACTICE.",
+    "entity_id": "E5",
+    "entity_ids": [
+      "E5"
+    ],
+    "character_links": [
+      {
+        "character_index": 5,
+        "character_id": "PG1:C6",
+        "entity_id": "E5"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T6",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Our next class will be cooking practice.",
+    "paddle_text": "OUR NEXT CLASS WILL BE COOKING PRACTICE.",
+    "group_id": "PG1:M1",
+    "text_role": "SPOKEN",
+    "speaker": "E5",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 6,
+    "text_id": "T7",
+    "box": [
+      186.4833984375,
+      137.72991943359375,
+      311.0050964355469,
+      224.63510131835938
+    ],
+    "text": "ThE FIsh WIll BE PREPARED HERE, SO MAKE SURE TO BRING YOUR APRONS.",
+    "entity_id": "E7",
+    "entity_ids": [
+      "E7"
+    ],
+    "character_links": [
+      {
+        "character_index": 7,
+        "character_id": "PG1:C8",
+        "entity_id": "E7"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T7",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "The fish will be prepared here, so make sure to bring your aprons.",
+    "paddle_text": "ThE FIsh WIll BE PREPARED HERE, SO MAKE SURE TO BRING YOUR APRONS.",
+    "group_id": "PG1:T7",
+    "text_role": "SPOKEN",
+    "speaker": "E7",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 7,
+    "text_id": "T8",
+    "box": [
+      69.91771697998047,
+      241.4155731201172,
+      164.21328735351562,
+      472.6603698730469
+    ],
+    "text": "t3-3",
+    "entity_id": "E3",
+    "entity_ids": [
+      "E3"
+    ],
+    "character_links": [
+      {
+        "character_index": 3,
+        "character_id": "PG1:C4",
+        "entity_id": "E3"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T8",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.2857142857142857,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "It is",
+    "paddle_text": "t3-3",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 8,
+    "text_id": "T9",
+    "box": [
+      17.834871292114258,
+      504.8853759765625,
+      173.4876708984375,
+      543.6411743164062
+    ],
+    "text": "S<MONEO BEAIAREN.",
+    "entity_id": "E6",
+    "entity_ids": [
+      "E6"
+    ],
+    "character_links": [
+      {
+        "character_index": 6,
+        "character_id": "PG1:C7",
+        "entity_id": "E6"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T9",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.1875,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "#85 (10)000 Family...every.",
+    "paddle_text": "S<MONEO BEAIAREN.",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 9,
+    "text_id": "T10",
+    "box": [
+      645.253173828125,
+      683.8502197265625,
+      733.0741577148438,
+      719.5818481445312
+    ],
+    "text": "COOKING PRACTICE...",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG1:C1",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T10",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Cooking practice...",
+    "paddle_text": "COOKING PRACTICE...",
+    "group_id": "PG1:T10",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 10,
+    "text_id": "T11",
+    "box": [
+      491.262451171875,
+      812.6001586914062,
+      585.0677490234375,
+      854.398681640625
+    ],
+    "text": "Home Economics",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG1:C1",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T11",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Home Economics",
+    "paddle_text": "Home Economics",
+    "group_id": "PG1:T11",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "no YOLO bubble matched this surviving Magi text",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 11,
+    "text_id": "T12",
+    "box": [
+      277.7992248535156,
+      598.9779052734375,
+      325.6720275878906,
+      749.801025390625
+    ],
+    "text": "a ~",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG1:C1",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG1:T12",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.0,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": ">il",
+    "paddle_text": "a ~",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 12,
+    "text_id": "T13",
+    "box": [
+      171.9403839111328,
+      721.5524291992188,
+      229.1424102783203,
+      799.4613647460938
+    ],
+    "text": "I HOPE I DO WELL.",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG1:C1",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T13",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "I hope I do well.",
+    "paddle_text": "I HOPE I DO WELL.",
+    "group_id": "PG1:T13",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 13,
+    "text_id": "T14",
+    "box": [
+      419.8490295410156,
+      977.1380004882812,
+      504.7010803222656,
+      1044.9229736328125
+    ],
+    "text": "WELL, YOU SHOULD BE FINE, PRESIDENT.",
+    "entity_id": "E4",
+    "entity_ids": [
+      "E4"
+    ],
+    "character_links": [
+      {
+        "character_index": 4,
+        "character_id": "PG1:C5",
+        "entity_id": "E4"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T14",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Well, you should be fine, president.",
+    "paddle_text": "WELL, YOU SHOULD BE FINE, PRESIDENT.",
+    "group_id": "PG1:M2",
+    "text_role": "SPOKEN",
+    "speaker": "E4",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      0
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 14,
+    "text_id": "T15",
+    "box": [
+      343.0280456542969,
+      1070.783935546875,
+      427.9922790527344,
+      1150.169677734375
+    ],
+    "text": "YOU'RE GOOD AT COOKING, RIGHT?",
+    "entity_id": "E4",
+    "entity_ids": [
+      "E4"
+    ],
+    "character_links": [
+      {
+        "character_index": 4,
+        "character_id": "PG1:C5",
+        "entity_id": "E4"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T15",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "You're good at cooking, right?",
+    "paddle_text": "YOU'RE GOOD AT COOKING, RIGHT?",
+    "group_id": "PG1:M2",
+    "text_role": "SPOKEN",
+    "speaker": "E4",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      0
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 0,
+    "page_file": "01.png",
+    "text_index": 15,
+    "text_id": "T16",
+    "box": [
+      220.59677124023438,
+      993.770751953125,
+      314.7395324707031,
+      1064.5714111328125
+    ],
+    "text": "FILLETING FISH SHOULD BE NOTHING...",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 8,
+        "character_id": "PG1:C9",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG1:T16",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Filleting fish should be nothing...",
+    "paddle_text": "FILLETING FISH SHOULD BE NOTHING...",
+    "group_id": "PG1:T16",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 0,
+    "text_id": "T1",
+    "box": [
+      702.7909545898438,
+      106.38883972167969,
+      791.7739868164062,
+      373.4892272949219
+    ],
+    "text": "S",
+    "entity_id": "E11",
+    "entity_ids": [
+      "E11"
+    ],
+    "character_links": [
+      {
+        "character_index": 5,
+        "character_id": "PG2:C6",
+        "entity_id": "E11"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T1",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.0,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "GHA- AAA!!!",
+    "paddle_text": "S",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 1,
+    "text_id": "T2",
+    "box": [
+      280.7318115234375,
+      268.7970886230469,
+      420.8304443359375,
+      479.33599853515625
+    ],
+    "text": "",
+    "entity_id": "E11",
+    "entity_ids": [
+      "E11"
+    ],
+    "character_links": [
+      {
+        "character_index": 5,
+        "character_id": "PG2:C6",
+        "entity_id": "E11"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": null,
+    "ocr_reason": "empty Paddle; no punctuation fallback",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T2",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "",
+    "artifact_reason": "Paddle OCR empty; no Magi punctuation fallback",
+    "ocr_agreement": null,
+    "delete_ocr": true,
+    "deletion_reason": "Paddle OCR empty; no Magi punctuation fallback",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Gaaaaay. Hhhh!!",
+    "paddle_text": "",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 2,
+    "text_id": "T3",
+    "box": [
+      469.9670104980469,
+      429.060302734375,
+      506.1720886230469,
+      463.6810607910156
+    ],
+    "text": "1",
+    "entity_id": "E11",
+    "entity_ids": [
+      "E11"
+    ],
+    "character_links": [
+      {
+        "character_index": 5,
+        "character_id": "PG2:C6",
+        "entity_id": "E11"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T3",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.0,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "If",
+    "paddle_text": "1",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 3,
+    "text_id": "T4",
+    "box": [
+      189.07603454589844,
+      0.6368337273597717,
+      247.66436767578125,
+      50.77790069580078
+    ],
+    "text": "",
+    "entity_id": null,
+    "entity_ids": [],
+    "character_links": [],
+    "association_status": "unassociated",
+    "ocr_source": null,
+    "ocr_reason": "empty Paddle; no punctuation fallback",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T4",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "",
+    "artifact_reason": "Paddle OCR empty; no Magi punctuation fallback",
+    "ocr_agreement": null,
+    "delete_ocr": true,
+    "deletion_reason": "Paddle OCR empty; no Magi punctuation fallback",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Stiles",
+    "paddle_text": "",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 4,
+    "text_id": "T5",
+    "box": [
+      152.0283966064453,
+      98.46330261230469,
+      237.01832580566406,
+      213.3072509765625
+    ],
+    "text": "WHAT'S WRONG, PRESI- DENT!?",
+    "entity_id": "E10",
+    "entity_ids": [
+      "E10"
+    ],
+    "character_links": [
+      {
+        "character_index": 3,
+        "character_id": "PG2:C4",
+        "entity_id": "E10"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T5",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.9473684210526315,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "WHAT'S WRONG,  PREST-  DENT!?",
+    "paddle_text": "WHAT'S WRONG, PRESI- DENT!?",
+    "group_id": "PG2:M1",
+    "text_role": "SPOKEN",
+    "speaker": "E10",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 5,
+    "text_id": "T6",
+    "box": [
+      101.03411865234375,
+      227.67703247070312,
+      195.6297149658203,
+      348.94317626953125
+    ],
+    "text": "WHY AKE YOU HYPERVENTI- LATING!?",
+    "entity_id": "E10",
+    "entity_ids": [
+      "E10"
+    ],
+    "character_links": [
+      {
+        "character_index": 3,
+        "character_id": "PG2:C4",
+        "entity_id": "E10"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T6",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.8979591836734694,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "WHY ARE YOU HYEKVENTI- LATING!!?",
+    "paddle_text": "WHY AKE YOU HYPERVENTI- LATING!?",
+    "group_id": "PG2:M1",
+    "text_role": "SPOKEN",
+    "speaker": "E10",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 6,
+    "text_id": "T7",
+    "box": [
+      680.4756469726562,
+      721.4866333007812,
+      756.7241821289062,
+      754.282470703125
+    ],
+    "text": "ICANT...",
+    "entity_id": "E9",
+    "entity_ids": [
+      "E9"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG2:C1",
+        "entity_id": "E9"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T7",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "I can't...",
+    "paddle_text": "ICANT...",
+    "group_id": "PG2:M2",
+    "text_role": "SPOKEN",
+    "speaker": "E9",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      1
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 7,
+    "text_id": "T8",
+    "box": [
+      652.3590087890625,
+      839.4756469726562,
+      764.55517578125,
+      868.8003540039062
+    ],
+    "text": "MIYUKISHIROGANE Wants to PrePARe",
+    "entity_id": "E9",
+    "entity_ids": [
+      "E9"
+    ],
+    "character_links": [
+      {
+        "character_index": 2,
+        "character_id": "PG2:C3",
+        "entity_id": "E9"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T8",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Miyuki Shirogane Wants to Prepare",
+    "paddle_text": "MIYUKISHIROGANE Wants to PrePARe",
+    "group_id": "PG2:M2",
+    "text_role": "SPOKEN",
+    "speaker": "E9",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      1
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 8,
+    "text_id": "T9",
+    "box": [
+      546.2244873046875,
+      843.8263549804688,
+      620.7651977539062,
+      864.697265625
+    ],
+    "text": "CHAPTER 49",
+    "entity_id": "E9",
+    "entity_ids": [
+      "E9"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG2:C1",
+        "entity_id": "E9"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG2:T9",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Chapter 49",
+    "paddle_text": "CHAPTER 49",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 9,
+    "text_id": "T10",
+    "box": [
+      363.5226745605469,
+      660.5547485351562,
+      410.4383850097656,
+      688.5997924804688
+    ],
+    "text": "ws",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 4,
+        "character_id": "PG2:C5",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T10",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.0,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "An",
+    "paddle_text": "ws",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 10,
+    "text_id": "T11",
+    "box": [
+      215.32579040527344,
+      732.1316528320312,
+      285.86376953125,
+      819.7850952148438
+    ],
+    "text": "I kNOW I'M GOOD AT COOKING.....",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 4,
+        "character_id": "PG2:C5",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T11",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "I know I'm good at cooking...",
+    "paddle_text": "I kNOW I'M GOOD AT COOKING.....",
+    "group_id": "PG2:T11",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "Magi text-to-tail association forces SPOKEN",
+    "tail_override": true,
+    "tail_ids": [
+      0
+    ],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 11,
+    "text_id": "T12",
+    "box": [
+      89.36927032470703,
+      706.7557983398438,
+      156.8428192138672,
+      814.7872924804688
+    ],
+    "text": "BUT NOT THIS!",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 4,
+        "character_id": "PG2:C5",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG2:T12",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "But not this!",
+    "paddle_text": "BUT NOT THIS!",
+    "group_id": "PG2:T12",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 12,
+    "text_id": "T13",
+    "box": [
+      665.02392578125,
+      985.4735717773438,
+      797.6151733398438,
+      1109.760498046875
+    ],
+    "text": "ANYTHING BUT FISH!!",
+    "entity_id": "E9",
+    "entity_ids": [
+      "E9"
+    ],
+    "character_links": [
+      {
+        "character_index": 2,
+        "character_id": "PG2:C3",
+        "entity_id": "E9"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG2:T13",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Anything but fish!!",
+    "paddle_text": "ANYTHING BUT FISH!!",
+    "group_id": "PG2:T13",
+    "text_role": "SPOKEN",
+    "speaker": "E9",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 13,
+    "text_id": "T14",
+    "box": [
+      355.07879638671875,
+      1131.3846435546875,
+      437.6498718261719,
+      1172.2930908203125
+    ],
+    "text": "HUuH!?",
+    "entity_id": "E9",
+    "entity_ids": [
+      "E9"
+    ],
+    "character_links": [
+      {
+        "character_index": 2,
+        "character_id": "PG2:C3",
+        "entity_id": "E9"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T14",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.5454545454545454,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "How much!?",
+    "paddle_text": "HUuH!?",
+    "group_id": "PG2:T14",
+    "text_role": "SPOKEN",
+    "speaker": "E9",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 14,
+    "text_id": "T15",
+    "box": [
+      115.60640716552734,
+      1015.0390014648438,
+      190.32302856445312,
+      1066.251953125
+    ],
+    "text": "COOKING PRACTICE!!",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG2:C2",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG2:T15",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Cooking practice!!",
+    "paddle_text": "COOKING PRACTICE!!",
+    "group_id": "PG2:T15",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "box-like region with straight perpendicular sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 0,
+    "text_id": "T1",
+    "box": [
+      691.5244140625,
+      93.60256958007812,
+      796.48095703125,
+      273.6016845703125
+    ],
+    "text": "WHILE SHUCHI'IN ACADEMY PLACED A HEAVY EMPHASIS ON ACADEMICS, IT OFFERED LESSONS IN HOME ECONOMICS AS WELL!",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T1",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "While Shuchi'in Academy placed a heavy emphasis on academics, it offered lessons in home economics as well!",
+    "paddle_text": "WHILE SHUCHI'IN ACADEMY PLACED A HEAVY EMPHASIS ON ACADEMICS, IT OFFERED LESSONS IN HOME ECONOMICS AS WELL!",
+    "group_id": "PG3:T1",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "box-like region with straight perpendicular sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 1,
+    "text_id": "T2",
+    "box": [
+      476.59161376953125,
+      123.26834869384766,
+      571.7669677734375,
+      219.58807373046875
+    ],
+    "text": "IN ORDER TO TEACH STUDENTS WHO LIVED ON TAKEOUT",
+    "entity_id": "E12",
+    "entity_ids": [
+      "E12"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG3:C1",
+        "entity_id": "E12"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T2",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "In order to teach students who lived on takeout",
+    "paddle_text": "IN ORDER TO TEACH STUDENTS WHO LIVED ON TAKEOUT",
+    "group_id": "PG3:T2",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "box-like region with straight perpendicular sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 2,
+    "text_id": "T3",
+    "box": [
+      191.62962341308594,
+      89.37317657470703,
+      276.8924255371094,
+      163.17547607421875
+    ],
+    "text": "THE BASICS OF COOKING AND NUTRITION,",
+    "entity_id": "E12",
+    "entity_ids": [
+      "E12"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG3:C1",
+        "entity_id": "E12"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T3",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "The basics of cooking and nutrition,",
+    "paddle_text": "THE BASICS OF COOKING AND NUTRITION,",
+    "group_id": "PG3:M1",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "box-like region with straight perpendicular sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 3,
+    "text_id": "T4",
+    "box": [
+      110.60179138183594,
+      143.2038116455078,
+      188.03253173828125,
+      319.1025085449219
+    ],
+    "text": "THE HOME ECONOMICS PROFESSORS HAD THE AUTHORITY TO HAVE THEM PRACTICE PREPARING FOOD IN CLASS!",
+    "entity_id": "E12",
+    "entity_ids": [
+      "E12"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG3:C1",
+        "entity_id": "E12"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T4",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "THE HOME ECONOMICS PROFESSORS HAD THE AUTHORITY TO HAVE THEM PRACTICE PREPARING FOOD IN CLASS!",
+    "paddle_text": "THE HOME ECONOMICS PROFESSORS HAD THE AUTHORITY TO HAVE THEM PRACTICE PREPARING FOOD IN CLASS!",
+    "group_id": "PG3:M1",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "box-like region with straight perpendicular sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 4,
+    "text_id": "T5",
+    "box": [
+      724.2777709960938,
+      472.35400390625,
+      783.5087280273438,
+      536.9624633789062
+    ],
+    "text": "I MEAN, I LOVE SUSHI,",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG3:T5",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.9655172413793104,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "I mean, I LOVE SUSH,",
+    "paddle_text": "I MEAN, I LOVE SUSHI,",
+    "group_id": "PG3:M2",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 5,
+    "text_id": "T6",
+    "box": [
+      663.1434936523438,
+      521.1987915039062,
+      721.7574462890625,
+      606.3671875
+    ],
+    "text": "AND I LIKE GRILLED FISH,",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T6",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "AND I LIKE GRILLED FISH,",
+    "paddle_text": "AND I LIKE GRILLED FISH,",
+    "group_id": "PG3:M2",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 6,
+    "text_id": "T7",
+    "box": [
+      514.1312866210938,
+      457.37457275390625,
+      621.7711791992188,
+      530.7843017578125
+    ],
+    "text": "COOKING PRACTL AISHFLLET",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG3:T7",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.851063829787234,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Cooking practice fish fillet",
+    "paddle_text": "COOKING PRACTL AISHFLLET",
+    "group_id": "PG3:T7",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "no substantial white/solid-color region around text",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 7,
+    "text_id": "T8",
+    "box": [
+      214.26416015625,
+      555.8897094726562,
+      305.0353698730469,
+      619.706787109375
+    ],
+    "text": "BUT WE'RE FILLETING THEM...",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG3:T8",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.9473684210526315,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "But we're filling them...",
+    "paddle_text": "BUT WE'RE FILLETING THEM...",
+    "group_id": "PG3:M3",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 8,
+    "text_id": "T9",
+    "box": [
+      113.34986877441406,
+      473.33331298828125,
+      188.9597930908203,
+      580.5979614257812
+    ],
+    "text": "AND YOU NEED RAW FISH TO DO THAT.",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T9",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "AND YOU NEED RAW FISH TO DO THAT.",
+    "paddle_text": "AND YOU NEED RAW FISH TO DO THAT.",
+    "group_id": "PG3:M3",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with substantial curved sides; overrides box-like approximation",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 9,
+    "text_id": "T10",
+    "box": [
+      611.977294921875,
+      730.8453979492188,
+      793.3106689453125,
+      1008.7855834960938
+    ],
+    "text": "WHICH MEANS YOU HAVE TO TOUCH THE FISH!",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG3:T10",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Which means you have to touch the fish!!",
+    "paddle_text": "WHICH MEANS YOU HAVE TO TOUCH THE FISH!",
+    "group_id": "PG3:T10",
+    "text_role": "SPOKEN",
+    "speaker": "E1",
+    "speaker_status": "linked",
+    "contour_reason": "white region with meaningful visible sharp edges",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "SPOKEN"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 10,
+    "text_id": "T11",
+    "box": [
+      226.92884826660156,
+      786.5133666992188,
+      323.8699951171875,
+      810.1727294921875
+    ],
+    "text": "SHIROGANE",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T11",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Shirogane",
+    "paddle_text": "SHIROGANE",
+    "group_id": "PG3:M4",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "box-like region with straight perpendicular sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  },
+  {
+    "sequence_id": "seq_06ec0acde37dffa4",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 11,
+    "text_id": "T12",
+    "box": [
+      124.42251586914062,
+      961.8699340820312,
+      257.93634033203125,
+      1088.491943359375
+    ],
+    "text": "WAS THE KIND OF MAN WHO COULD NOT TOUCH FISH!!",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 1,
+        "character_id": "PG3:C2",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": false,
+    "box_id": "PG3:T12",
+    "gemma_label": "Text",
+    "artifact_label": "Text",
+    "gemma_raw_answer": "Text",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 1.0,
+    "delete_ocr": false,
+    "deletion_reason": "",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Was the kind of man who could not touch fish!!",
+    "paddle_text": "WAS THE KIND OF MAN WHO COULD NOT TOUCH FISH!!",
+    "group_id": "PG3:M4",
+    "text_role": "NARRATED",
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "contour_reason": "box-like region with straight perpendicular sides",
+    "tail_override": false,
+    "tail_ids": [],
+    "contour_text_role": "NARRATED"
+  }
+]

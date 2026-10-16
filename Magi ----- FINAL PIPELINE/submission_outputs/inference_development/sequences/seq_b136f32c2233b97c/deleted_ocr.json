@@ -1,0 +1,94 @@
+[
+  {
+    "sequence_id": "seq_b136f32c2233b97c",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 0,
+    "text_id": "T1",
+    "box": [
+      794.0576782226562,
+      353.98248291015625,
+      883.5296630859375,
+      420.99072265625
+    ],
+    "text": "STREAM... DO NOT MIRROR",
+    "entity_id": "E1",
+    "entity_ids": [
+      "E1"
+    ],
+    "character_links": [
+      {
+        "character_index": 3,
+        "character_id": "PG2:C4",
+        "entity_id": "E1"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T1",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.8292682926829268,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "MANGA STREAM,OM DO NOT MIRROR",
+    "paddle_text": "STREAM... DO NOT MIRROR",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_b136f32c2233b97c",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 8,
+    "text_id": "T9",
+    "box": [
+      2.505948305130005,
+      1211.782958984375,
+      92.76927947998047,
+      1289.240966796875
+    ],
+    "text": "",
+    "entity_id": "E2",
+    "entity_ids": [
+      "E2"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG3:C1",
+        "entity_id": "E2"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": null,
+    "ocr_reason": "empty Paddle; no punctuation fallback",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG3:T9",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "",
+    "artifact_reason": "Paddle OCR empty; no Magi punctuation fallback",
+    "ocr_agreement": null,
+    "delete_ocr": true,
+    "deletion_reason": "Paddle OCR empty; no Magi punctuation fallback",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "MANGA STREANDS: Do not mirror",
+    "paddle_text": "",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  }
+]

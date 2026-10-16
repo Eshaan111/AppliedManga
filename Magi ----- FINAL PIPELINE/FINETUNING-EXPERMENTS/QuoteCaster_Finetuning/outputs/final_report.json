@@ -1,0 +1,50 @@
+{
+  "best_epoch": 8,
+  "baseline": {
+    "triplet_accuracy": 0.5499232433291633,
+    "pairwise_auc": 0.5217003992996397,
+    "margin_satisfaction": 0.37727306639949737,
+    "positive_mean": 2.625084122021993,
+    "negative_mean": 2.6930014848709107,
+    "positive_median": 2.5565540711085,
+    "negative_median": 2.5902286370595298,
+    "sequences_evaluated": 16,
+    "triplet_sequences": 14,
+    "auc_sequences": 14
+  },
+  "best": {
+    "triplet_accuracy": 0.5709111674842163,
+    "pairwise_auc": 0.5709225101490036,
+    "margin_satisfaction": 0.43793490440048666,
+    "positive_mean": 2.8843551953633626,
+    "negative_mean": 2.962445839246114,
+    "positive_median": 2.9261095841725666,
+    "negative_median": 3.055484986305237,
+    "sequences_evaluated": 16,
+    "triplet_sequences": 14,
+    "auc_sequences": 14
+  },
+  "bootstrap": [
+    {
+      "metric": "triplet_accuracy",
+      "sequences": 14,
+      "mean_change": 0.0209879241550531,
+      "lower_95": -0.022119423148285126,
+      "upper_95": 0.059832002449146236
+    },
+    {
+      "metric": "pairwise_auc",
+      "sequences": 14,
+      "mean_change": 0.04922211084936401,
+      "lower_95": 0.009062428112908362,
+      "upper_95": 0.08622524042414946
+    },
+    {
+      "metric": "margin_satisfaction",
+      "sequences": 14,
+      "mean_change": 0.0606618380009892,
+      "lower_95": 0.02202630899732694,
+      "upper_95": 0.09735416874281559
+    }
+  ]
+}

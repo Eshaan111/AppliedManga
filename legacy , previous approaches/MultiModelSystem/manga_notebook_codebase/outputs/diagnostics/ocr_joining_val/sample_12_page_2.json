@@ -1,0 +1,907 @@
+{
+  "sequence_id": "seq_da71f7a842c91090",
+  "page_index": 2,
+  "raw_count": 51,
+  "target_count": 11,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c2",
+        "c5",
+        "c8"
+      ],
+      "text": "I DUNNO ABOUT THIS...",
+      "box": [
+        206.0,
+        96.0,
+        262.0,
+        157.0
+      ],
+      "id": "g0",
+      "score": 0.9974575489759445,
+      "target_index": 2,
+      "target_text": "I DUNNO ABOUT THIS...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c1",
+        "c3",
+        "c6",
+        "c9",
+        "c10"
+      ],
+      "text": "TAKE CONTROL AGAIN AFTER TEN SECONDS.",
+      "box": [
+        310.0,
+        99.0,
+        409.0,
+        188.0
+      ],
+      "id": "g1",
+      "score": 0.9974137902259826,
+      "target_index": 1,
+      "target_text": "TAKE CONTROL AGAIN AFTER TEN SECONDS.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c4",
+        "c7"
+      ],
+      "text": "TEN SECONDS.",
+      "box": [
+        599.0,
+        108.0,
+        693.0,
+        142.0
+      ],
+      "id": "g2",
+      "score": 0.9968380033969879,
+      "target_index": 0,
+      "target_text": "TEN SECONDS.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c11",
+        "c13"
+      ],
+      "text": "GUH GUH",
+      "box": [
+        635.0,
+        204.0,
+        734.0,
+        347.0
+      ],
+      "id": "g3",
+      "score": 0.9978161156177521,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c12",
+        "c14"
+      ],
+      "text": "DON'T WORRY!",
+      "box": [
+        173.0,
+        277.0,
+        251.0,
+        315.0
+      ],
+      "id": "g4",
+      "score": 0.9998592436313629,
+      "target_index": 3,
+      "target_text": "DON'T WORRY!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c15"
+      ],
+      "text": "HEH",
+      "box": [
+        16.0,
+        322.0,
+        65.0,
+        423.0
+      ],
+      "id": "g5",
+      "score": 0.9947990775108337,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c16",
+        "c17",
+        "c18",
+        "c19",
+        "c20",
+        "c21"
+      ],
+      "text": "I'M THE STRONG- EST JUJUTSU SOR- CERER!",
+      "box": [
+        21.0,
+        465.0,
+        94.0,
+        554.0
+      ],
+      "id": "g6",
+      "score": 0.9999042550722758,
+      "target_index": 4,
+      "target_text": "I'M THE STRONGEST JUJUTSU SORCERER!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c22",
+        "c24",
+        "c26",
+        "c28",
+        "c30"
+      ],
+      "text": "MEGUMI, HOLD ON TO THIS, WILL YA?",
+      "box": [
+        653.0,
+        628.0,
+        722.0,
+        705.0
+      ],
+      "id": "g7",
+      "score": 0.9975486993789673,
+      "target_index": 5,
+      "target_text": "MEGUMI, HOLD ON TO THIS, WILL YA?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c23",
+        "c25"
+      ],
+      "text": "WHAT'S THIS?",
+      "box": [
+        383.0,
+        640.0,
+        448.0,
+        679.0
+      ],
+      "id": "g8",
+      "score": 0.9998168349266052,
+      "target_index": 6,
+      "target_text": "WHAT'S THIS?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c27",
+        "c29"
+      ],
+      "text": "KIKUFUKU MOCHI.",
+      "box": [
+        87.0,
+        677.0,
+        161.0,
+        712.0
+      ],
+      "id": "g9",
+      "score": 0.9990421831607819,
+      "target_index": 7,
+      "target_text": "KIKUFUKU MOCHI.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c31"
+      ],
+      "text": "RUSTL",
+      "box": [
+        590.0,
+        699.0,
+        695.0,
+        782.0
+      ],
+      "id": "g10",
+      "score": 0.9122607111930847,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c32",
+        "c33",
+        "c35",
+        "c37",
+        "c39",
+        "c41",
+        "c43"
+      ],
+      "text": "KIKUSUIAN SHOP'S KIKUFUKU MOCHI A SENDAI CITY SPECIALTY. SUPER DELICIOUS GOJO'S RECOMMENDATION IS THE EDAMAME AND CREAM FLAVOR.",
+      "box": [
+        524.0,
+        848.0,
+        717.0,
+        977.0
+      ],
+      "id": "g11",
+      "score": 0.9937441945075989,
+      "target_index": 8,
+      "target_text": "KIKUSUIAN SHOP'S KIKUFUKU MOCHI A SENDAI CITY SPECIALTY. SUPER DELICIOUS. GOJO'S RECOMMENDATION IS THE EDAMAME AND CREAM FLAVOR.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c34",
+        "c36",
+        "c38",
+        "c40",
+        "c44",
+        "c47",
+        "c48",
+        "c49"
+      ],
+      "text": "THIS GUY WENT TO BUY SOUVENIRS! EVEN THOUGH PEOPLE ARE DYING OVER HERE.",
+      "box": [
+        105.0,
+        895.0,
+        245.0,
+        1057.0
+      ],
+      "id": "g12",
+      "score": 0.999297134578228,
+      "target_index": 10,
+      "target_text": "EVEN THOUGH PEOPLE ARE DYING OVER HERE.",
+      "similarity": 0.7191011235955056
+    },
+    {
+      "candidate_ids": [
+        "c42"
+      ],
+      "text": "GO",
+      "box": [
+        241.0,
+        967.0,
+        375.0,
+        1091.0
+      ],
+      "id": "g13",
+      "score": 0.6256058216094971,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c46"
+      ],
+      "text": "2",
+      "box": [
+        621.0,
+        993.0,
+        630.0,
+        1004.0
+      ],
+      "id": "g14",
+      "score": 0.4400688707828522,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c45"
+      ],
+      "text": "喜久福",
+      "box": [
+        600.0,
+        1001.0,
+        645.0,
+        1022.0
+      ],
+      "id": "g15",
+      "score": 0.7634702324867249,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c50"
+      ],
+      "text": "67",
+      "box": [
+        54.0,
+        1123.0,
+        85.0,
+        1147.0
+      ],
+      "id": "g16",
+      "score": 0.9999971389770508,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    }
+  ],
+  "unmatched_targets": [
+    {
+      "target_index": 9,
+      "speaker": "character1",
+      "text": "THIS GUY WENT TO BUY SOUVENIRS!"
+    }
+  ],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "I",
+      "score": 0.9901609420776367,
+      "box": [
+        227.0,
+        96.0,
+        240.0,
+        109.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "TAKE",
+      "score": 0.9999896287918091,
+      "box": [
+        337.0,
+        99.0,
+        384.0,
+        116.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "DUNNO",
+      "score": 0.9999603033065796,
+      "box": [
+        206.0,
+        109.0,
+        261.0,
+        125.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "CONTROL",
+      "score": 0.9999435544013977,
+      "box": [
+        315.0,
+        117.0,
+        402.0,
+        134.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "TEN",
+      "score": 0.9999940991401672,
+      "box": [
+        629.0,
+        108.0,
+        667.0,
+        126.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "ABOUT",
+      "score": 0.9999901652336121,
+      "box": [
+        206.0,
+        123.0,
+        262.0,
+        141.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "AGAIN",
+      "score": 0.9999319314956665,
+      "box": [
+        331.0,
+        133.0,
+        388.0,
+        154.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "SECONDS.",
+      "score": 0.9936819076538086,
+      "box": [
+        599.0,
+        125.0,
+        693.0,
+        142.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "THIS...",
+      "score": 0.9997187852859497,
+      "box": [
+        209.0,
+        139.0,
+        257.0,
+        157.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "AFTER TEN",
+      "score": 0.9874832630157471,
+      "box": [
+        310.0,
+        153.0,
+        409.0,
+        170.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "SECONDS.",
+      "score": 0.999720573425293,
+      "box": [
+        312.0,
+        171.0,
+        406.0,
+        188.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "GUH",
+      "score": 0.9963722825050354,
+      "box": [
+        635.0,
+        204.0,
+        727.0,
+        277.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "DON'T",
+      "score": 0.9998661279678345,
+      "box": [
+        180.0,
+        277.0,
+        243.0,
+        298.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "GUH",
+      "score": 0.9992599487304688,
+      "box": [
+        639.0,
+        270.0,
+        734.0,
+        347.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "WORRY!",
+      "score": 0.9998523592948914,
+      "box": [
+        173.0,
+        297.0,
+        251.0,
+        315.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "HEH",
+      "score": 0.9947990775108337,
+      "box": [
+        16.0,
+        322.0,
+        65.0,
+        423.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "I'M THE",
+      "score": 0.9998136162757874,
+      "box": [
+        26.0,
+        465.0,
+        88.0,
+        484.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "STRONG-",
+      "score": 0.9998422265052795,
+      "box": [
+        21.0,
+        478.0,
+        94.0,
+        498.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "EST",
+      "score": 0.9999917149543762,
+      "box": [
+        41.0,
+        495.0,
+        74.0,
+        510.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "JUJUTSU",
+      "score": 0.9999275207519531,
+      "box": [
+        26.0,
+        507.0,
+        90.0,
+        526.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "SOR-",
+      "score": 0.9998984336853027,
+      "box": [
+        35.0,
+        524.0,
+        81.0,
+        539.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "CERER!",
+      "score": 0.9999520182609558,
+      "box": [
+        29.0,
+        537.0,
+        89.0,
+        554.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "MEGUMI,",
+      "score": 0.999841570854187,
+      "box": [
+        654.0,
+        628.0,
+        720.0,
+        646.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "WHAT'S",
+      "score": 0.9997129440307617,
+      "box": [
+        383.0,
+        640.0,
+        448.0,
+        661.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "HOLD",
+      "score": 0.9999486207962036,
+      "box": [
+        662.0,
+        641.0,
+        711.0,
+        661.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "THIS?",
+      "score": 0.9999207258224487,
+      "box": [
+        389.0,
+        658.0,
+        444.0,
+        679.0
+      ]
+    },
+    {
+      "id": "c26",
+      "text": "ON TO",
+      "score": 0.997907817363739,
+      "box": [
+        662.0,
+        659.0,
+        711.0,
+        674.0
+      ]
+    },
+    {
+      "id": "c27",
+      "text": "KIKUFUKU",
+      "score": 0.9998775124549866,
+      "box": [
+        87.0,
+        677.0,
+        161.0,
+        696.0
+      ]
+    },
+    {
+      "id": "c28",
+      "text": "THIS,",
+      "score": 0.9998326301574707,
+      "box": [
+        668.0,
+        673.0,
+        707.0,
+        691.0
+      ]
+    },
+    {
+      "id": "c29",
+      "text": "MOCHI.",
+      "score": 0.9982068538665771,
+      "box": [
+        95.0,
+        694.0,
+        152.0,
+        712.0
+      ]
+    },
+    {
+      "id": "c30",
+      "text": "WILL YA?",
+      "score": 0.9902128577232361,
+      "box": [
+        653.0,
+        687.0,
+        722.0,
+        705.0
+      ]
+    },
+    {
+      "id": "c31",
+      "text": "RUSTL",
+      "score": 0.9122607111930847,
+      "box": [
+        590.0,
+        699.0,
+        695.0,
+        782.0
+      ]
+    },
+    {
+      "id": "c32",
+      "text": "KIKUSUIAN SHOP'S",
+      "score": 0.9995624423027039,
+      "box": [
+        539.0,
+        848.0,
+        700.0,
+        866.0
+      ]
+    },
+    {
+      "id": "c33",
+      "text": "KIKUFUKU MOCHI",
+      "score": 0.9973627924919128,
+      "box": [
+        547.0,
+        867.0,
+        693.0,
+        884.0
+      ]
+    },
+    {
+      "id": "c34",
+      "text": "THIS",
+      "score": 0.9998753070831299,
+      "box": [
+        157.0,
+        895.0,
+        205.0,
+        917.0
+      ]
+    },
+    {
+      "id": "c35",
+      "text": "A SENDAI CITY SPECIALTY.",
+      "score": 0.9877961277961731,
+      "box": [
+        530.0,
+        897.0,
+        709.0,
+        910.0
+      ]
+    },
+    {
+      "id": "c36",
+      "text": "GUY WENT",
+      "score": 0.9995146989822388,
+      "box": [
+        124.0,
+        916.0,
+        237.0,
+        937.0
+      ]
+    },
+    {
+      "id": "c37",
+      "text": "SUPER DELICIOUS",
+      "score": 0.9778186678886414,
+      "box": [
+        554.0,
+        910.0,
+        683.0,
+        924.0
+      ]
+    },
+    {
+      "id": "c38",
+      "text": "TO BUY",
+      "score": 0.9968443512916565,
+      "box": [
+        141.0,
+        937.0,
+        222.0,
+        957.0
+      ]
+    },
+    {
+      "id": "c39",
+      "text": "GOJO'S RECOMMENDATION",
+      "score": 0.9985866546630859,
+      "box": [
+        524.0,
+        937.0,
+        717.0,
+        950.0
+      ]
+    },
+    {
+      "id": "c40",
+      "text": "SOUVENIRS!",
+      "score": 0.9999526739120483,
+      "box": [
+        117.0,
+        957.0,
+        245.0,
+        978.0
+      ]
+    },
+    {
+      "id": "c41",
+      "text": "IS THE EDAMAME AND",
+      "score": 0.9957814812660217,
+      "box": [
+        544.0,
+        950.0,
+        695.0,
+        964.0
+      ]
+    },
+    {
+      "id": "c42",
+      "text": "GO",
+      "score": 0.6256058216094971,
+      "box": [
+        241.0,
+        967.0,
+        375.0,
+        1091.0
+      ]
+    },
+    {
+      "id": "c43",
+      "text": "CREAM FLAVOR.",
+      "score": 0.9993011951446533,
+      "box": [
+        564.0,
+        964.0,
+        676.0,
+        977.0
+      ]
+    },
+    {
+      "id": "c44",
+      "text": "EVEN THOUGH",
+      "score": 0.9998691082000732,
+      "box": [
+        105.0,
+        991.0,
+        196.0,
+        1016.0
+      ]
+    },
+    {
+      "id": "c45",
+      "text": "喜久福",
+      "score": 0.7634702324867249,
+      "box": [
+        600.0,
+        1001.0,
+        645.0,
+        1022.0
+      ]
+    },
+    {
+      "id": "c46",
+      "text": "2",
+      "score": 0.4400688707828522,
+      "box": [
+        621.0,
+        993.0,
+        630.0,
+        1004.0
+      ]
+    },
+    {
+      "id": "c47",
+      "text": "PEOPLE ARE",
+      "score": 0.9995220303535461,
+      "box": [
+        111.0,
+        1006.0,
+        192.0,
+        1030.0
+      ]
+    },
+    {
+      "id": "c48",
+      "text": "DYING OVER",
+      "score": 0.9998399615287781,
+      "box": [
+        113.0,
+        1020.0,
+        193.0,
+        1044.0
+      ]
+    },
+    {
+      "id": "c49",
+      "text": "HERE.",
+      "score": 0.998958945274353,
+      "box": [
+        132.0,
+        1036.0,
+        176.0,
+        1057.0
+      ]
+    },
+    {
+      "id": "c50",
+      "text": "67",
+      "score": 0.9999971389770508,
+      "box": [
+        54.0,
+        1123.0,
+        85.0,
+        1147.0
+      ]
+    }
+  ],
+  "transcript": "I DUNNO ABOUT THIS...\nTAKE CONTROL AGAIN AFTER TEN SECONDS.\nTEN SECONDS.\nGUH GUH\nDON'T WORRY!\nHEH\nI'M THE STRONG- EST JUJUTSU SOR- CERER!\nMEGUMI, HOLD ON TO THIS, WILL YA?\nWHAT'S THIS?\nKIKUFUKU MOCHI.\nRUSTL\nKIKUSUIAN SHOP'S KIKUFUKU MOCHI A SENDAI CITY SPECIALTY. SUPER DELICIOUS GOJO'S RECOMMENDATION IS THE EDAMAME AND CREAM FLAVOR.\nTHIS GUY WENT TO BUY SOUVENIRS! EVEN THOUGH PEOPLE ARE DYING OVER HERE.\nGO\n2\n喜久福\n67",
+  "sample_index": 12,
+  "preview_file": "sample_12_page_2.html"
+}

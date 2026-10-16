@@ -1,0 +1,15 @@
+[Page 01.png]
+character1: .
+
+[Page 02.png]
+character1: ...
+
+[Page 03.png]
+character1: ...
+character4: THAT CAN'T BE...
+character4: MASTER CAN'T USE A SWORD ANYMORE
+character4: WAS THE WOUND THAT DEEP?
+character1: IT SEEMS LIKE THEY'RE NOT SURE IF HE'LL BE ABLE TO WALK EVER AGAIN.
+character1: OTSU, YOU PROBABLY DON'T UNDERSTAND BECAUSE YOU'RE A WOMAN,
+character1: BUT MASTER WAS BORN FOR THE SWORD. HE'S A LIVING SWORD.
+character1: OR SO SOMEONE SAID.

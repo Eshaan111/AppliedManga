@@ -1,0 +1,312 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E20",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "MAN, I WAS DOING SO WELL. I REALLY THOUGHT I HAD IT NAILED.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E20",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BUT I GUESS THERE'S NOTHING I CAN DO ABOUT IT NOW.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M2",
+      "box_ids": [
+        "PG1:T3",
+        "PG1:T4"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SEE!? THAT RIGHT THERE! OKAWA, YOU'RE ALWAYS SO LAID BACK! WHERE'S YOUR THIRST FOR BLOOD?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E20",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WELL, IT'S FINALLY TIME. US THIBD YEARS ARE RETIRING FROM THE EQUESTRIAN CLUB TODAY!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E20",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THE FIRST YEARS' FIRST COMPETITION IS IN OCTOBER, SO CONTINLIE DOING YOUR BEST AND MAKE THE CLUB PROUD!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "RIGHT!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YODA, WE'D LIKE YOU TO TAKE OVER AS THE NEXT CLUB PRESIDENT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T9",
+      "box_ids": [
+        "PG1:T9"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THANK YOU!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND FOR THE VICE- PRESI- DENT...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M3",
+      "box_ids": [
+        "PG1:T11",
+        "PG1:T12"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I GUESS THAT MAKES SENSE. YODA-SAN IS THE ONLY SECOND YEAR HERE... THEY'RE GOING TO MAKE ONE OF US FIRST YEARS THE VICE- PRESIDENT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T13",
+        "PG1:T14",
+        "PG1:T15"
+      ],
+      "speaker": "E1",
+      "speaker_status": "partially_linked",
+      "text_role": "SPOKEN",
+      "text": "I BET IT'S GOING TO BE MIKAGE. SHE'S THE BEST OUT OF ALL OF US HERE, ONE IN FIVE ODDS... PLEASE DON'T LET It bE ME .\u2022\u2022",
+      "needs_review": true
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HACHIKEN. WE'RE COUNTING ON YOU.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "WHAAAT!? WAIT JUST A MINUTE!!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E19",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "CON- GRATS!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T6",
+        "PG2:T7"
+      ],
+      "speaker": null,
+      "speaker_status": "conflicting_entities",
+      "text_role": "SPOKEN",
+      "text": "GOOD LUCK, HACHIKEN! HEY, YOU MADE VICE- PRESIDENT!",
+      "needs_review": true
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E15",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "GOOD LUCK!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "GOOD WORK TODAY, EVERY- BODY!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YEAH, GREAT JOB GUYS!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T4",
+        "PG3:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "partially_linked",
+      "text_role": "SPOKEN",
+      "text": "YODA. HACHIKEN. YOU'RE TAKING OVER, SO CAN YOU HANG BACK FOR A MINLITE? SURE.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "EHHH HHH!?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T7",
+      "box_ids": [
+        "PG3:T7"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHY DID YOU CHOOSE ME?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T9",
+      "box_ids": [
+        "PG3:T9"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THERE'S NO WAY YOU CAN TELL ME THAT MIKAGE ISN'T WAY BETTER THAN I AM!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T10",
+      "box_ids": [
+        "PG3:T10"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THIS IS ABOUT BEING A TEAM MANAGER. IT HAS NOTHING TO DO WITH HOW GOOD YOU ARE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T11",
+      "box_ids": [
+        "PG3:T11"
+      ],
+      "speaker": "E20",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HACHIKEN, YOU'RE HONEST WITH YOURSELF AND OTHERS NO MATTER WHAT THE SITUATION IS, AREN'T YOU?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T12",
+      "box_ids": [
+        "PG3:T12"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HM?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T13",
+      "box_ids": [
+        "PG3:T13"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I GUESS... BUT I'M STILL AGAINST THIS, YOU KNOW. I'M NOT EVEN COMPLETELY SURE WHY I CHOSE THIS SCHOOL, EITHER...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M2",
+      "box_ids": [
+        "PG3:T14",
+        "PG3:T15"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SEE? THAT'S EXACTLY THE HONESTY I WAS TALKING ABOUT. But don't GO BraGGinG aBout thinGs like that!",
+      "needs_review": false
+    }
+  ]
+]

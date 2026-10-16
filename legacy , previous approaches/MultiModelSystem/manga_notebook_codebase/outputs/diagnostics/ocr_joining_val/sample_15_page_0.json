@@ -1,0 +1,601 @@
+{
+  "sequence_id": "seq_de542b63e6b19bc2",
+  "page_index": 0,
+  "raw_count": 34,
+  "target_count": 7,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0"
+      ],
+      "text": "OP",
+      "box": [
+        601.0,
+        465.0,
+        719.0,
+        586.0
+      ],
+      "id": "g0",
+      "score": 0.995917558670044,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c1",
+        "c3",
+        "c6",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c14",
+        "c15",
+        "c16"
+      ],
+      "text": "IS IT TRYING TO SWALLOW THE CURSED OBJECT ANDTHE STUDENTS ALLAT ONCE?",
+      "box": [
+        641.0,
+        631.0,
+        725.0,
+        806.0
+      ],
+      "id": "g1",
+      "score": 0.9977045926180753,
+      "target_index": 0,
+      "target_text": "IS IT TRYING TO SWALLOW THE CURSED OBJECT AND THE STUDENTS ALL AT ONCE?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c2",
+        "c4"
+      ],
+      "text": "I'MTOO LATE!",
+      "box": [
+        144.0,
+        646.0,
+        215.0,
+        685.0
+      ],
+      "id": "g2",
+      "score": 0.9933440089225769,
+      "target_index": 2,
+      "target_text": "I'M TOO LATE!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c5"
+      ],
+      "text": "CRAP!",
+      "box": [
+        500.0,
+        659.0,
+        564.0,
+        684.0
+      ],
+      "id": "g3",
+      "score": 0.999966025352478,
+      "target_index": 1,
+      "target_text": "CRAP!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c7",
+        "c13"
+      ],
+      "text": "GLUB GLUB",
+      "box": [
+        226.0,
+        678.0,
+        360.0,
+        837.0
+      ],
+      "id": "g4",
+      "score": 0.998033732175827,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c17"
+      ],
+      "text": "GLUB",
+      "box": [
+        325.0,
+        795.0,
+        446.0,
+        871.0
+      ],
+      "id": "g5",
+      "score": 0.9985343217849731,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c18",
+        "c20",
+        "c23",
+        "c26",
+        "c29"
+      ],
+      "text": "HE WAS SHORT- TEMPERED AND STUBBORN.",
+      "box": [
+        581.0,
+        947.0,
+        669.0,
+        1027.0
+      ],
+      "id": "g6",
+      "score": 0.9999009728431701,
+      "target_index": 3,
+      "target_text": "HE WAS SHORT-TEMPERED AND STUBBORN.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c19",
+        "c22",
+        "c25",
+        "c28"
+      ],
+      "text": "NO ONE WENT TO SEE HIM BESIDES ME.",
+      "box": [
+        364.0,
+        957.0,
+        466.0,
+        1024.0
+      ],
+      "id": "g7",
+      "score": 0.9860656410455704,
+      "target_index": 4,
+      "target_text": "NO ONE WENT TO SEE HIM BESIDES ME.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c21",
+        "c24"
+      ],
+      "text": "I GUESS SO.BUT...",
+      "box": [
+        107.0,
+        981.0,
+        185.0,
+        1015.0
+      ],
+      "id": "g8",
+      "score": 0.998111754655838,
+      "target_index": 6,
+      "target_text": "I GUESS SO. BUT...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c27",
+        "c30",
+        "c31",
+        "c32"
+      ],
+      "text": "\"DON'T END UP LIKE ME,\" HUH?",
+      "box": [
+        264.0,
+        1010.0,
+        345.0,
+        1078.0
+      ],
+      "id": "g9",
+      "score": 0.990929365158081,
+      "target_index": 5,
+      "target_text": "\"DON'T END UP LIKE ME,\" HUH?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c33"
+      ],
+      "text": "39",
+      "box": [
+        55.0,
+        1124.0,
+        83.0,
+        1146.0
+      ],
+      "id": "g10",
+      "score": 0.9999983906745911,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "OP",
+      "score": 0.995917558670044,
+      "box": [
+        601.0,
+        465.0,
+        719.0,
+        586.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "IS IT",
+      "score": 0.9763864278793335,
+      "box": [
+        661.0,
+        631.0,
+        707.0,
+        649.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "I'MTOO",
+      "score": 0.9873340129852295,
+      "box": [
+        144.0,
+        646.0,
+        215.0,
+        668.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "TRYING",
+      "score": 0.9998016357421875,
+      "box": [
+        651.0,
+        644.0,
+        713.0,
+        668.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "LATE!",
+      "score": 0.9993540048599243,
+      "box": [
+        154.0,
+        663.0,
+        205.0,
+        685.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "CRAP!",
+      "score": 0.999966025352478,
+      "box": [
+        500.0,
+        659.0,
+        564.0,
+        684.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "TO",
+      "score": 0.9995123147964478,
+      "box": [
+        666.0,
+        660.0,
+        698.0,
+        682.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "GLUB",
+      "score": 0.999298632144928,
+      "box": [
+        226.0,
+        678.0,
+        348.0,
+        768.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "SWALLOW",
+      "score": 0.9999508261680603,
+      "box": [
+        641.0,
+        677.0,
+        725.0,
+        698.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "THE",
+      "score": 0.9999879002571106,
+      "box": [
+        667.0,
+        695.0,
+        700.0,
+        712.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "CURSED",
+      "score": 0.9999797940254211,
+      "box": [
+        649.0,
+        707.0,
+        717.0,
+        727.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "OBJECT",
+      "score": 0.999877393245697,
+      "box": [
+        649.0,
+        724.0,
+        718.0,
+        741.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "ANDTHE",
+      "score": 0.99997478723526,
+      "box": [
+        649.0,
+        740.0,
+        717.0,
+        757.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "GLUB",
+      "score": 0.9967688322067261,
+      "box": [
+        233.0,
+        753.0,
+        360.0,
+        837.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "STUDENTS",
+      "score": 0.9999802112579346,
+      "box": [
+        644.0,
+        756.0,
+        724.0,
+        773.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "ALLAT",
+      "score": 0.9996751546859741,
+      "box": [
+        652.0,
+        770.0,
+        714.0,
+        788.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "ONCE?",
+      "score": 0.9996240735054016,
+      "box": [
+        653.0,
+        785.0,
+        717.0,
+        806.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "GLUB",
+      "score": 0.9985343217849731,
+      "box": [
+        325.0,
+        795.0,
+        446.0,
+        871.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "HE WAS",
+      "score": 0.9996878504753113,
+      "box": [
+        592.0,
+        947.0,
+        658.0,
+        968.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "NO ONE",
+      "score": 0.9978147149085999,
+      "box": [
+        380.0,
+        957.0,
+        450.0,
+        980.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "SHORT-",
+      "score": 0.9999251961708069,
+      "box": [
+        593.0,
+        964.0,
+        656.0,
+        982.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "I GUESS",
+      "score": 0.9982552528381348,
+      "box": [
+        111.0,
+        981.0,
+        185.0,
+        999.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "WENT TO",
+      "score": 0.9996896386146545,
+      "box": [
+        378.0,
+        974.0,
+        451.0,
+        994.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "TEMPERED",
+      "score": 0.9999914169311523,
+      "box": [
+        583.0,
+        980.0,
+        669.0,
+        997.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "SO.BUT...",
+      "score": 0.9979682564735413,
+      "box": [
+        107.0,
+        996.0,
+        185.0,
+        1015.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "SEE HIM",
+      "score": 0.9617695808410645,
+      "box": [
+        382.0,
+        992.0,
+        449.0,
+        1009.0
+      ]
+    },
+    {
+      "id": "c26",
+      "text": "AND",
+      "score": 0.999986469745636,
+      "box": [
+        607.0,
+        995.0,
+        643.0,
+        1012.0
+      ]
+    },
+    {
+      "id": "c27",
+      "text": "\"DON'T",
+      "score": 0.9989350438117981,
+      "box": [
+        276.0,
+        1010.0,
+        334.0,
+        1031.0
+      ]
+    },
+    {
+      "id": "c28",
+      "text": "BESIDES ME.",
+      "score": 0.9849886298179626,
+      "box": [
+        364.0,
+        1006.0,
+        466.0,
+        1024.0
+      ]
+    },
+    {
+      "id": "c29",
+      "text": "STUBBORN.",
+      "score": 0.9999139308929443,
+      "box": [
+        581.0,
+        1011.0,
+        669.0,
+        1027.0
+      ]
+    },
+    {
+      "id": "c30",
+      "text": "END UP",
+      "score": 0.968025267124176,
+      "box": [
+        274.0,
+        1028.0,
+        335.0,
+        1045.0
+      ]
+    },
+    {
+      "id": "c31",
+      "text": "LIKE ME,\"",
+      "score": 0.9971283674240112,
+      "box": [
+        264.0,
+        1040.0,
+        345.0,
+        1064.0
+      ]
+    },
+    {
+      "id": "c32",
+      "text": "HUH?",
+      "score": 0.9996287822723389,
+      "box": [
+        281.0,
+        1057.0,
+        326.0,
+        1078.0
+      ]
+    },
+    {
+      "id": "c33",
+      "text": "39",
+      "score": 0.9999983906745911,
+      "box": [
+        55.0,
+        1124.0,
+        83.0,
+        1146.0
+      ]
+    }
+  ],
+  "transcript": "OP\nIS IT TRYING TO SWALLOW THE CURSED OBJECT ANDTHE STUDENTS ALLAT ONCE?\nI'MTOO LATE!\nCRAP!\nGLUB GLUB\nGLUB\nHE WAS SHORT- TEMPERED AND STUBBORN.\nNO ONE WENT TO SEE HIM BESIDES ME.\nI GUESS SO.BUT...\n\"DON'T END UP LIKE ME,\" HUH?\n39",
+  "sample_index": 15,
+  "preview_file": "sample_15_page_0.html"
+}

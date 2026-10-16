@@ -1,0 +1,137 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "COLE:",
+    "cleaned_text": "COLE:",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "THAT WAS..",
+    "cleaned_text": "THAT WAS...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "SFX: SCREECH",
+    "cleaned_text": "SFX: SCREECH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "JUST A RAT.",
+    "cleaned_text": "JUST A RAT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "SHEESH THAT SCARED ME.",
+    "cleaned_text": "SHEESH THAT SCARED ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "COME TO THINK OF IT..",
+    "cleaned_text": "COME TO THINK OF IT...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character6",
+    "raw_text": "...THERE ARE QUITE A FEW...",
+    "cleaned_text": "...THERE ARE QUITE A FEW...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "UNKNOWN",
+    "raw_text": "RAT TRAPS.. HERE.",
+    "cleaned_text": "RAT TRAPS.. HERE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character6",
+    "raw_text": "YES, THERE ARE A LOT OF RATS.",
+    "cleaned_text": "YES, THERE ARE A LOT OF RATS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "I HATE THEM, REALLY.",
+    "cleaned_text": "I HATE THEM, REALLY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "WHY DONT  you GET..",
+    "cleaned_text": "WHY DON'T you GET...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "A CAT?",
+    "cleaned_text": "A CAT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character5",
+    "raw_text": "A CAT?",
+    "cleaned_text": "A CAT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "THAT WOULD MAKE SENSE, BUT. THEY SAY SOME OF THE PEOPLE HERE DON'T LIKE CATS, SO...",
+    "cleaned_text": "THAT WOULD MAKE SENSE, BUT. THEY SAY SOME OF THE PEOPLE HERE DON'T LIKE CATS, SO...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character5",
+    "raw_text": "AH...",
+    "cleaned_text": "AH...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

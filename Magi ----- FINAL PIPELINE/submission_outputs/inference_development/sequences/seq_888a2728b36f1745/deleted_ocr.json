@@ -1,0 +1,133 @@
+[
+  {
+    "sequence_id": "seq_888a2728b36f1745",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 2,
+    "text_id": "T3",
+    "box": [
+      603.5496826171875,
+      894.5487670898438,
+      674.9578247070312,
+      936.667724609375
+    ],
+    "text": "??",
+    "entity_id": "E21",
+    "entity_ids": [
+      "E21"
+    ],
+    "character_links": [
+      {
+        "character_index": 12,
+        "character_id": "PG2:C13",
+        "entity_id": "E21"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "magi_punctuation",
+    "ocr_reason": "Magi punctuation fallback",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T3",
+    "gemma_label": "Text",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "",
+    "artifact_reason": "Magi punctuation fallback: Paddle OCR empty",
+    "ocr_agreement": null,
+    "delete_ocr": true,
+    "deletion_reason": "Empty Paddle + Magi punctuation has no qualifying bubble mask",
+    "punctuation_bubble_checked": true,
+    "punctuation_bubble_found": false,
+    "magi_text": "??",
+    "paddle_text": "",
+    "punctuation_candidate_id": null,
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_888a2728b36f1745",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 3,
+    "text_id": "T4",
+    "box": [
+      288.6709899902344,
+      1135.514892578125,
+      519.7177124023438,
+      1156.5380859375
+    ],
+    "text": "SFX: CHII CHII CHII (INSECT NOISE>",
+    "entity_id": null,
+    "entity_ids": [],
+    "character_links": [],
+    "association_status": "unassociated",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T4",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.8076923076923077,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "SFX-CHI-CHI (HHI-CHI-CHSECT NOISE)",
+    "paddle_text": "SFX: CHII CHII CHII (INSECT NOISE>",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  },
+  {
+    "sequence_id": "seq_888a2728b36f1745",
+    "page_index": 1,
+    "page_file": "02.png",
+    "text_index": 4,
+    "text_id": "T5",
+    "box": [
+      281.4234313964844,
+      875.76416015625,
+      340.95355224609375,
+      927.9463500976562
+    ],
+    "text": "",
+    "entity_id": "E20",
+    "entity_ids": [
+      "E20"
+    ],
+    "character_links": [
+      {
+        "character_index": 10,
+        "character_id": "PG2:C11",
+        "entity_id": "E20"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": null,
+    "ocr_reason": "empty Paddle; no punctuation fallback",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG2:T5",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "",
+    "artifact_reason": "Paddle OCR empty; no Magi punctuation fallback",
+    "ocr_agreement": null,
+    "delete_ocr": true,
+    "deletion_reason": "Paddle OCR empty; no Magi punctuation fallback",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "Click",
+    "paddle_text": "",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  }
+]

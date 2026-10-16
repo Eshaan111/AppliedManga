@@ -1,0 +1,207 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AH",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WH... W-WHAT'S WRONG, MIKAGE!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AH",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OH, IT'S NOTHING!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "\"NOTHING!?\" KOMABA, DID YOU DO SOMETHING!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'S NOTHING!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'S NONE OF YOUR BUSINESS!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T7",
+      "box_ids": [
+        "PG2:T7"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WAIT",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T8",
+      "box_ids": [
+        "PG2:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEY!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T9",
+        "PG2:T10"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AH... UM.. ARE YOU ALL RIGHT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T11",
+      "box_ids": [
+        "PG2:T11"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "um.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T12",
+      "box_ids": [
+        "PG2:T12"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SORRY, IT'S NOTHING.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T13",
+      "box_ids": [
+        "PG2:T13"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I'M FINE, REALLY!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T14",
+      "box_ids": [
+        "PG2:T14"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DON'T WORRY ABOUT IT!",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "A YOUNG WOMAN'S TEARS ARE SURE TO LEAD A YOUNG MAN ASTRAY.\u2026. SOMETHING DEFINITELY HAPPENED, BUT HACHIKEN IS LEFT WONDERING..",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "SNIFF",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAT THE HECK HAPPENED .?",
+      "needs_review": false
+    }
+  ]
+]

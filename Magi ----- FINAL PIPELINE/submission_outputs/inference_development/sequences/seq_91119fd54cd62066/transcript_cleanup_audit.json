@@ -1,0 +1,164 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "STILL, EVEN FOR A NEW YORK REAL ESTATE BROKER, HE DID SEEM TO HAVE A LOT OF CASH TO THROW AROUND.",
+    "cleaned_text": "STILL, EVEN FOR A NEW YORK REAL ESTATE BROKER, HE DID SEEM TO HAVE A LOT OF CASH TO THROW AROUND.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "ALMOST FORGOT! INSPEC- TOR!",
+    "cleaned_text": "ALMOST FORGOT! INSPECTOR!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "LOBO SAID IN HIS LETTER THAT THOSE JAPANESE REPORTERS WOULD BE ARRIVING ON THE 8TH, RIGHT?",
+    "cleaned_text": "LOBO SAID IN HIS LETTER THAT THOSE JAPANESE REPORTERS WOULD BE ARRIVING ON THE 8TH, RIGHT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "YEAH, WELL...",
+    "cleaned_text": "YEAH, WELL...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "THAT'S THE DAY AFTER TO- MORROW!",
+    "cleaned_text": "THAT\u2019S THE DAY AFTER TO- MORROW!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "YES, IT IS.",
+    "cleaned_text": "YES, IT IS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "THAT'S NOT GOOD! I MEAN...",
+    "cleaned_text": "THAT'S NOT GOOD! I MEAN...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "HEY... WHOA, CHARLIE...",
+    "cleaned_text": "HEY... WHOA, CHARLIE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "WHAT WITH LOBO IN... HOW THE HELL ARE WE SUPPOSED TO EXPLAIN THAT?",
+    "cleaned_text": "WHAT WITH LOBO IN... HOW THE HELL ARE WE SUPPOSED TO EXPLAIN THAT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "MMM.",
+    "cleaned_text": "MMM.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "NOW WHO'S GONNA LOOK AFTER THEM?",
+    "cleaned_text": "NOW WHO'S GONNA LOOK AFTER THEM?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 11,
+    "speaker": "character2",
+    "raw_text": "WELL, SIR.. GUESS WE HAVE TO.",
+    "cleaned_text": "WELL, SIR.. GUESS WE HAVE TO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "12:20 AM THAT EVENING, LOWER EAST SIDE,",
+    "cleaned_text": "12:20 AM THAT EVENING, LOWER EAST SIDE,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "SUPER BALL",
+    "cleaned_text": "SUPER BALL",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "LITTLE STAR",
+    "cleaned_text": "LITTLE STAR",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "STAR",
+    "cleaned_text": "STAR",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character6",
+    "raw_text": "..",
+    "cleaned_text": "..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character6",
+    "raw_text": "-.",
+    "cleaned_text": "-.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

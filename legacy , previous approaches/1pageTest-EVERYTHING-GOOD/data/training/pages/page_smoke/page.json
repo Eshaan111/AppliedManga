@@ -1,0 +1,181 @@
+{
+  "page_id": "page_smoke",
+  "group_id": "current_page_smoke",
+  "split": "smoke",
+  "source_sha256": "0fc4aa5db3b4ef4b232bc1b7dabefefc7fe38adcd5045697fc8468c39119de49",
+  "width": 956,
+  "height": 1500,
+  "image": "data/training/pages/page_smoke/annotated_page.png",
+  "reviewed": false,
+  "bubble_boxes": {
+    "B1": [
+      744,
+      88,
+      898,
+      405
+    ],
+    "B2": [
+      410,
+      99,
+      569,
+      334
+    ],
+    "B3": [
+      270,
+      111,
+      399,
+      341
+    ],
+    "B4": [
+      63,
+      430,
+      163,
+      565
+    ],
+    "B5": [
+      67,
+      458,
+      160,
+      505
+    ],
+    "B6": [
+      382,
+      624,
+      491,
+      805
+    ],
+    "B7": [
+      31,
+      727,
+      152,
+      925
+    ],
+    "B8": [
+      355,
+      733,
+      455,
+      885
+    ],
+    "B9": [
+      770,
+      952,
+      898,
+      1138
+    ],
+    "B10": [
+      310,
+      954,
+      437,
+      1253
+    ],
+    "B11": [
+      0,
+      954,
+      125,
+      1180
+    ],
+    "B12": [
+      450,
+      990,
+      557,
+      1148
+    ],
+    "B13": [
+      791,
+      1179,
+      900,
+      1376
+    ],
+    "B14": [
+      543,
+      1202,
+      635,
+      1325
+    ],
+    "B15": [
+      447,
+      1265,
+      550,
+      1439
+    ]
+  },
+  "character_boxes": {
+    "C1": [
+      479,
+      76,
+      897,
+      561
+    ],
+    "C2": [
+      128,
+      266,
+      347,
+      567
+    ],
+    "C3": [
+      72,
+      674,
+      216,
+      900
+    ],
+    "C4": [
+      207,
+      691,
+      366,
+      898
+    ],
+    "C5": [
+      578,
+      958,
+      805,
+      1145
+    ],
+    "C6": [
+      0,
+      1011,
+      438,
+      1489
+    ],
+    "C7": [
+      637,
+      1203,
+      805,
+      1392
+    ]
+  },
+  "ocr": {
+    "B1": "7 WOAHH!! ...THE SNAKE!!?",
+    "B2": "TAKE IT OFF! TAKE IT OFF!! 口",
+    "B3": "THIS I5 BAD! IT'S GOING TO BITE ME! O",
+    "B4": "NANKURU- NAISA.",
+    "B5": "NANKURU- NAISA.",
+    "B6": "HAHA, YOU SURE SCARE EASY KID~ BUT THAT'S",
+    "B7": "REAL VIPERS ARE ACTLUALLY VERY DAN- GEROUS.",
+    "B8": "VT KID BUT THAT'S A GOOD THING.",
+    "B9": "IF YOU SEE A VIPER OUTSIDE, YOU SHOULD GET OUT OF THERE RIGHT AWAY!",
+    "B10": "A BITE TO THE FEET WILL PUT YOU TO SLEEP, AND THEN YOU MIGHT NEVER SNAKE UP AGAIN!",
+    "B11": "...GET IT?",
+    "B12": "IF YOU GET BITTEN, YOU MIGHT END UP LOSING YOUR LIFE.",
+    "B13": "DO YOU KNOW WHERE SNAKES TEND TO BITE THE MOST?",
+    "B14": "UH...? THE LEGS?",
+    "B15": "YES! THEY GO FOR THE FEET!"
+  },
+  "labels": {
+    "B1": null,
+    "B2": null,
+    "B3": null,
+    "B4": null,
+    "B5": null,
+    "B6": null,
+    "B7": null,
+    "B8": null,
+    "B9": null,
+    "B10": null,
+    "B11": null,
+    "B12": null,
+    "B13": null,
+    "B14": null,
+    "B15": null
+  },
+  "exclude_bubbles": []
+}

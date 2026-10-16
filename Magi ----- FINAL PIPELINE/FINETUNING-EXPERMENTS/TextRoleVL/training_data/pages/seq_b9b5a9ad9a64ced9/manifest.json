@@ -1,0 +1,312 @@
+{
+  "sequence_id": "seq_b9b5a9ad9a64ced9",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "[...]we came"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "What was that sound..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "only an idiot wouldn't know that..."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "It's the sound of a drum."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "A festival ...?"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Hey, did you two really not mate last night?"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "Denji's surprisingly gentlemanly!"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "MANGA STREAN do not mirror"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "You're sure wolfing down the Ramen here..."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Doesn't it taste awful?"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "The A.A.A. 100, 650, 650, 650, 650, 650, 650,000,000,000,000,000"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Who are you?"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "It tastes pretty good to me."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Don't talk like you know me!"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "You just don't know good flavors from bad."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "Well, not like you can help it."
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "Apparently if you only eat the same sorts of things when you're a kid, it dulls your sense of taste once you become an adult."
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "Megan"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "And if you lose your sense of taste, then your overall happiness decreases."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "??"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "But I am happy!"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "shall we leave?"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "??"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "My old man was the nicest guy in the world."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "He took me to all sorts of expensive places and let me try good food."
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "He was a Yakuza, but he was a just Yakuza."
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "You could say people like him were a necessary evil..."
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "You could count on one hand the number of girls he ever killed,"
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "And he'd take the money from selling drugs and buy you anything you wanted..."
+    },
+    {
+      "id": "PG3:T12",
+      "page": 3,
+      "text": "WONING A SHREANLOM TO NOT MARROR"
+    },
+    {
+      "id": "PG3:T13",
+      "page": 3,
+      "text": "Everyone loved him. He was a good man, a real edo man, through and through..."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL7",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL6",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL7"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T8",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T9",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL6"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T7",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T11",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T13",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

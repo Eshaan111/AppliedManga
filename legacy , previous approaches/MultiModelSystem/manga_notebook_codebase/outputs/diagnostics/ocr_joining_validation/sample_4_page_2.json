@@ -1,0 +1,755 @@
+{
+  "sequence_id": "seq_84541a1f4b159018",
+  "page_index": 2,
+  "raw_count": 42,
+  "target_count": 12,
+  "filter_exclusions": [
+    {
+      "candidate": {
+        "id": "c19",
+        "text": "FWIP",
+        "score": 0.9892939329147339,
+        "box": [
+          504.0,
+          563.0,
+          597.0,
+          625.0
+        ]
+      },
+      "reason": "sound_effect_word"
+    }
+  ],
+  "excluded_sound_effects": [
+    {
+      "id": "c19",
+      "text": "FWIP",
+      "score": 0.9892939329147339,
+      "box": [
+        504.0,
+        563.0,
+        597.0,
+        625.0
+      ]
+    }
+  ],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c2",
+        "c6"
+      ],
+      "text": "HEH HEH HEH",
+      "box": [
+        113.0,
+        148.0,
+        148.0,
+        201.0
+      ],
+      "id": "g0",
+      "score": 0.999815305074056,
+      "target_index": 3,
+      "target_text": "HEH HEH HEH...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c1",
+        "c4",
+        "c8"
+      ],
+      "text": "YES, A PERSONAL OPINION.",
+      "box": [
+        478.0,
+        150.0,
+        554.0,
+        195.0
+      ],
+      "id": "g1",
+      "score": 0.9825005332628886,
+      "target_index": 1,
+      "target_text": "YES, A PERSONAL OPINION.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c5",
+        "c9",
+        "c11"
+      ],
+      "text": "IS THAT A PERSONAL OPINION?",
+      "box": [
+        663.0,
+        157.0,
+        749.0,
+        207.0
+      ],
+      "id": "g2",
+      "score": 0.999713122844696,
+      "target_index": 0,
+      "target_text": "IS THAT A PERSONAL OPINION?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c3",
+        "c7",
+        "c10"
+      ],
+      "text": "PLEASE DO SOMETHING ABOUT IT.",
+      "box": [
+        371.0,
+        164.0,
+        471.0,
+        216.0
+      ],
+      "id": "g3",
+      "score": 0.9971125324567159,
+      "target_index": 2,
+      "target_text": "PLEASE DO SOMETHING ABOUT IT.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c12",
+        "c13",
+        "c16"
+      ],
+      "text": "LEAVE IT TO ME!",
+      "box": [
+        93.0,
+        303.0,
+        155.0,
+        366.0
+      ],
+      "id": "g4",
+      "score": 0.9968572457631429,
+      "target_index": 5,
+      "target_text": "LEAVE IT TO ME!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c14",
+        "c15",
+        "c17"
+      ],
+      "text": "PRECIOUS STUDENT'S REQUEST.",
+      "box": [
+        273.0,
+        315.0,
+        354.0,
+        360.0
+      ],
+      "id": "g5",
+      "score": 0.9993066191673279,
+      "target_index": 4,
+      "target_text": "A PRECIOUS STUDENT'S REQUEST.",
+      "similarity": 0.9787234042553191
+    },
+    {
+      "candidate_ids": [
+        "c18"
+      ],
+      "text": "YAY!",
+      "box": [
+        77.0,
+        402.0,
+        171.0,
+        503.0
+      ],
+      "id": "g6",
+      "score": 0.9954418540000916,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c20",
+        "c22",
+        "c24",
+        "c26"
+      ],
+      "text": "so WITH THAT, LET ME REITERATE",
+      "box": [
+        618.0,
+        603.0,
+        712.0,
+        675.0
+      ],
+      "id": "g7",
+      "score": 0.9299667626619339,
+      "target_index": 6,
+      "target_text": "SO WITH THAT, LET ME REITERATE...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c21",
+        "c23",
+        "c25"
+      ],
+      "text": "YOU'RE GONNA BE EXECUTED.",
+      "box": [
+        113.0,
+        622.0,
+        210.0,
+        678.0
+      ],
+      "id": "g8",
+      "score": 0.9998551805814108,
+      "target_index": 7,
+      "target_text": "YOU'RE GONNA BE EXECUTED.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c27",
+        "c29",
+        "c31",
+        "c32"
+      ],
+      "text": "THIS STORY DOESN'T MAKE SENSE SO FAR.",
+      "box": [
+        352.0,
+        790.0,
+        449.0,
+        852.0
+      ],
+      "id": "g9",
+      "score": 0.9842213094234467,
+      "target_index": 8,
+      "target_text": "THIS STORY DOESN'T MAKE SENSE SO FAR.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c28",
+        "c30"
+      ],
+      "text": "HEY, MAN, I TRIED.",
+      "box": [
+        95.0,
+        805.0,
+        163.0,
+        838.0
+      ],
+      "id": "g10",
+      "score": 0.998205840587616,
+      "target_index": 9,
+      "target_text": "HEY, MAN, I TRIED.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c33",
+        "c35",
+        "c37",
+        "c39",
+        "c41"
+      ],
+      "text": "AN EXECUTION IS AN EXECUTION, BUT...",
+      "box": [
+        355.0,
+        969.0,
+        448.0,
+        1054.0
+      ],
+      "id": "g11",
+      "score": 0.9995269060134888,
+      "target_index": 10,
+      "target_text": "AN EXECUTION IS AN EXECUTION, BUT...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c34",
+        "c36",
+        "c38",
+        "c40"
+      ],
+      "text": ".WE'RE SUSPEND- ING THE SENTENCE.",
+      "box": [
+        89.0,
+        977.0,
+        179.0,
+        1047.0
+      ],
+      "id": "g12",
+      "score": 0.9993119835853577,
+      "target_index": 11,
+      "target_text": "...WE'RE SUSPENDING THE SENTENCE.",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "HEH",
+      "score": 0.9996907114982605,
+      "box": [
+        113.0,
+        148.0,
+        148.0,
+        168.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "YES, A",
+      "score": 0.9515853524208069,
+      "box": [
+        493.0,
+        150.0,
+        540.0,
+        164.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "HEH",
+      "score": 0.9998481869697571,
+      "box": [
+        113.0,
+        165.0,
+        148.0,
+        184.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "PLEASE DO",
+      "score": 0.9995648860931396,
+      "box": [
+        371.0,
+        164.0,
+        471.0,
+        183.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "PERSONAL",
+      "score": 0.9999662637710571,
+      "box": [
+        478.0,
+        162.0,
+        554.0,
+        179.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "IS THAT A",
+      "score": 0.9992218017578125,
+      "box": [
+        666.0,
+        157.0,
+        748.0,
+        175.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "HEH",
+      "score": 0.9999070167541504,
+      "box": [
+        113.0,
+        182.0,
+        148.0,
+        201.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "SOMETHING",
+      "score": 0.9999793171882629,
+      "box": [
+        371.0,
+        183.0,
+        470.0,
+        199.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "OPINION.",
+      "score": 0.9959499835968018,
+      "box": [
+        483.0,
+        175.0,
+        550.0,
+        195.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "PERSONAL",
+      "score": 0.9999845623970032,
+      "box": [
+        663.0,
+        174.0,
+        749.0,
+        190.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "ABOUT IT.",
+      "score": 0.9917933940887451,
+      "box": [
+        381.0,
+        199.0,
+        461.0,
+        216.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "OPINION?",
+      "score": 0.9999330043792725,
+      "box": [
+        667.0,
+        190.0,
+        748.0,
+        207.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "LEAVE",
+      "score": 0.9999755620956421,
+      "box": [
+        93.0,
+        303.0,
+        155.0,
+        328.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "IT TO",
+      "score": 0.990670382976532,
+      "box": [
+        94.0,
+        321.0,
+        153.0,
+        349.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "PRECIOUS",
+      "score": 0.9999743700027466,
+      "box": [
+        274.0,
+        315.0,
+        353.0,
+        332.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "STUDENT'S",
+      "score": 0.9996107816696167,
+      "box": [
+        273.0,
+        330.0,
+        354.0,
+        346.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "ME!",
+      "score": 0.9999257922172546,
+      "box": [
+        103.0,
+        343.0,
+        147.0,
+        366.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "REQUEST.",
+      "score": 0.9983347058296204,
+      "box": [
+        276.0,
+        346.0,
+        350.0,
+        360.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "YAY!",
+      "score": 0.9954418540000916,
+      "box": [
+        77.0,
+        402.0,
+        171.0,
+        503.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "FWIP",
+      "score": 0.9892939329147339,
+      "box": [
+        504.0,
+        563.0,
+        597.0,
+        625.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "so",
+      "score": 0.7233923673629761,
+      "box": [
+        651.0,
+        603.0,
+        681.0,
+        622.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "YOU'RE",
+      "score": 0.9998916983604431,
+      "box": [
+        127.0,
+        622.0,
+        195.0,
+        642.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "WITH THAT,",
+      "score": 0.9983593225479126,
+      "box": [
+        622.0,
+        622.0,
+        712.0,
+        639.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "GONNA BE",
+      "score": 0.999770998954773,
+      "box": [
+        114.0,
+        642.0,
+        208.0,
+        660.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "LET ME",
+      "score": 0.9982824921607971,
+      "box": [
+        630.0,
+        638.0,
+        701.0,
+        659.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "EXECUTED.",
+      "score": 0.9999028444290161,
+      "box": [
+        113.0,
+        661.0,
+        210.0,
+        678.0
+      ]
+    },
+    {
+      "id": "c26",
+      "text": "REITERATE",
+      "score": 0.9998328685760498,
+      "box": [
+        618.0,
+        657.0,
+        712.0,
+        675.0
+      ]
+    },
+    {
+      "id": "c27",
+      "text": "THIS STORY",
+      "score": 0.9999494552612305,
+      "box": [
+        359.0,
+        790.0,
+        445.0,
+        807.0
+      ]
+    },
+    {
+      "id": "c28",
+      "text": "HEY, MAN,",
+      "score": 0.9989178776741028,
+      "box": [
+        95.0,
+        805.0,
+        163.0,
+        823.0
+      ]
+    },
+    {
+      "id": "c29",
+      "text": "DOESN'T",
+      "score": 0.9999080300331116,
+      "box": [
+        366.0,
+        806.0,
+        435.0,
+        823.0
+      ]
+    },
+    {
+      "id": "c30",
+      "text": "I TRIED.",
+      "score": 0.9974938035011292,
+      "box": [
+        97.0,
+        821.0,
+        161.0,
+        838.0
+      ]
+    },
+    {
+      "id": "c31",
+      "text": "MAKE SENSE",
+      "score": 0.9999192953109741,
+      "box": [
+        352.0,
+        820.0,
+        449.0,
+        839.0
+      ]
+    },
+    {
+      "id": "c32",
+      "text": "SO FAR.",
+      "score": 0.9371084570884705,
+      "box": [
+        371.0,
+        838.0,
+        431.0,
+        852.0
+      ]
+    },
+    {
+      "id": "c33",
+      "text": "AN",
+      "score": 0.9999791383743286,
+      "box": [
+        391.0,
+        969.0,
+        415.0,
+        988.0
+      ]
+    },
+    {
+      "id": "c34",
+      "text": ".WE'RE",
+      "score": 0.9983353614807129,
+      "box": [
+        111.0,
+        977.0,
+        169.0,
+        997.0
+      ]
+    },
+    {
+      "id": "c35",
+      "text": "EXECUTION",
+      "score": 0.9999599456787109,
+      "box": [
+        357.0,
+        986.0,
+        447.0,
+        1004.0
+      ]
+    },
+    {
+      "id": "c36",
+      "text": "SUSPEND-",
+      "score": 0.9998394250869751,
+      "box": [
+        92.0,
+        994.0,
+        174.0,
+        1014.0
+      ]
+    },
+    {
+      "id": "c37",
+      "text": "IS AN",
+      "score": 0.9979427456855774,
+      "box": [
+        379.0,
+        1002.0,
+        424.0,
+        1020.0
+      ]
+    },
+    {
+      "id": "c38",
+      "text": "ING THE",
+      "score": 0.9994140267372131,
+      "box": [
+        100.0,
+        1012.0,
+        166.0,
+        1030.0
+      ]
+    },
+    {
+      "id": "c39",
+      "text": "EXECUTION,",
+      "score": 0.9999665021896362,
+      "box": [
+        355.0,
+        1019.0,
+        448.0,
+        1037.0
+      ]
+    },
+    {
+      "id": "c40",
+      "text": "SENTENCE.",
+      "score": 0.9996591210365295,
+      "box": [
+        89.0,
+        1029.0,
+        179.0,
+        1047.0
+      ]
+    },
+    {
+      "id": "c41",
+      "text": "BUT...",
+      "score": 0.9997861981391907,
+      "box": [
+        376.0,
+        1036.0,
+        424.0,
+        1054.0
+      ]
+    }
+  ],
+  "transcript": "HEH HEH HEH\nYES, A PERSONAL OPINION.\nIS THAT A PERSONAL OPINION?\nPLEASE DO SOMETHING ABOUT IT.\nLEAVE IT TO ME!\nPRECIOUS STUDENT'S REQUEST.\nYAY!\nso WITH THAT, LET ME REITERATE\nYOU'RE GONNA BE EXECUTED.\nTHIS STORY DOESN'T MAKE SENSE SO FAR.\nHEY, MAN, I TRIED.\nAN EXECUTION IS AN EXECUTION, BUT...\n.WE'RE SUSPEND- ING THE SENTENCE.",
+  "sample_index": 4,
+  "preview_file": "sample_4_page_2.html"
+}

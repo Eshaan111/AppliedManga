@@ -1,0 +1,48 @@
+{
+  "active": {
+    "base_model": "C:/MODELS/magiv2",
+    "checkpoint": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2\\magi_crop_last_2_blocks.pt",
+    "encoder": "Magi crop encoder, final two Transformer blocks fine-tuned; 768d L2 embeddings",
+    "epoch": 20,
+    "entity_threshold": 0.82
+  },
+  "previous_identity_models": [
+    {
+      "name": "Character identity MLP",
+      "checkpoint": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\charSimilarityMLP\\character_identity_mlp.pt",
+      "source": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\charSimilarityMLP"
+    },
+    {
+      "name": "Residual projection",
+      "checkpoint": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\charSimResidual\\residual_projection.pt",
+      "source": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\charSimResidual"
+    },
+    {
+      "name": "Final one crop block",
+      "checkpoint": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads\\magi_crop_last_block.pt",
+      "source": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads"
+    },
+    {
+      "name": "Final two crop blocks (current)",
+      "checkpoint": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2\\magi_crop_last_2_blocks.pt",
+      "source": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2"
+    }
+  ],
+  "other_visual_resources": [
+    {
+      "name": "Frozen DINOv2-small",
+      "path": "C:/MODELS/dinov2-small",
+      "use": "Other visual experiments; not active in this entity pipeline"
+    },
+    {
+      "name": "DASS character detector",
+      "path": "C:/MODELS/dass_character_detector/dass_char_xl_dcm.onnx",
+      "use": "Other detection experiments; not active here"
+    }
+  ],
+  "provenance": {
+    "source_notebook": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\pipelineArtifactContourFullInference.ipynb",
+    "source_sha256": "07b06bf976307017a42f3e05931a8519af5a74b77f74109fc29cb4e6f8fc21dc"
+  },
+  "note": "Paths reference existing weights; no duplicate multi-GB models. Historical models are registered, not silently substituted into the current encoder."
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "sequence_id": "seq_14469aeb38963085",
+    "split": "test",
+    "ocr_source": "magi",
+    "folder": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TextRoleVL\\prepared\\test\\seq_14469aeb38963085",
+    "cache_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TextRoleVL\\cache\\test\\seq_14469aeb38963085",
+    "images": [
+      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TextRoleVL\\prepared\\test\\seq_14469aeb38963085\\annotated_page_1.png",
+      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TextRoleVL\\prepared\\test\\seq_14469aeb38963085\\annotated_page_2.png",
+      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TextRoleVL\\prepared\\test\\seq_14469aeb38963085\\annotated_page_3.png"
+    ]
+  }
+]

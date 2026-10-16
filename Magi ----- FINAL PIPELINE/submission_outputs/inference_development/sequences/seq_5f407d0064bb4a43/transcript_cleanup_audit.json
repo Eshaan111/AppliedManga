@@ -1,0 +1,128 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "LORD SHIONO AGREED TO ASSUME THE FAMILY'S DEBT.",
+    "cleaned_text": "LORD SHIONO AGREED TO ASSUME THE FAMILY'S DEBT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "THE MASTER OF THIS HOUSE, LORD YOSHIAKI, IS A GOOD MAN, BUT HE'S NOT VERY COMPETENT AT MANAGING FINANCES.",
+    "cleaned_text": "THE MASTER OF THIS HOUSE, LORD YOSHIAKI, IS A GOOD MAN, BUT HE'S NOT VERY COMPETENT AT MANAGING FINANCES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "RUMOR HAS IT THAT HIS WIFE, LADY MIZUE, KEEPS HIM ON A TIGHT LEASH, TOO.",
+    "cleaned_text": "RUMOR HAS IT THAT HIS WIFE, LADY MIZUE, KEEPS HIM ON A TIGHT LEASH, TOO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "WITH LORD YOSHIKUNI BEING THE WAY HE IS..",
+    "cleaned_text": "WITH LORD YOSHIKUNI BEING THE WAY HE IS..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "IT'S NO GREAT WONDER THAT THE OLD MASTER WOULD CHOOSE THE YOUNGER BROTHER, LORD YOSHIAKI, AS HIS HEIR, BUT",
+    "cleaned_text": "IT\u2019S NO GREAT WONDER THAT THE OLD MASTER WOULD CHOOSE THE YOUNGER BROTHER, LORD YOSHIAKI, AS HIS HEIR, BUT",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character4",
+    "raw_text": "OH!",
+    "cleaned_text": "OH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "MISS SATO WILL YELL AT ME AGAIN IF I KEEP GOING ON LIKE THIS.",
+    "cleaned_text": "MISS SATO WILL YELL AT ME AGAIN IF I KEEP GOING ON LIKE THIS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character9",
+    "raw_text": "I SEE.",
+    "cleaned_text": "I SEE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character6",
+    "raw_text": "TO REPAY YOU FOR THE CHAT,",
+    "cleaned_text": "TO REPAY YOU FOR THE CHAT,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character6",
+    "raw_text": "I'LL SHOW you... SOMETHING NICE.",
+    "cleaned_text": "I'LL SHOW you... SOMETHING NICE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character6",
+    "raw_text": "OH! WHAT IS IT, WHAT IS IT?!",
+    "cleaned_text": "OH! WHAT IS IT, WHAT IS IT?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character6",
+    "raw_text": "CAN'T WAIT!",
+    "cleaned_text": "CAN'T WAIT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "?",
+    "cleaned_text": "?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character13",
+    "raw_text": "!!",
+    "cleaned_text": "!!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

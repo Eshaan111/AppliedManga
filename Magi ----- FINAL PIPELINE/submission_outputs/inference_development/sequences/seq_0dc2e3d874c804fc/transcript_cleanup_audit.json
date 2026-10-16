@@ -1,0 +1,218 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "THIS IS OUR OWN THING WE GOT HERE! IT'S GONNA STAY OUR OWN THING!",
+    "cleaned_text": "THIS IS OUR OWN THING WE GOT HERE! IT'S GONNA STAY OUR OWN THING!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "WHEN WE DO BUSINESS WITH SOMEONE LIKE DINO, IT'S ON EVEN TERMS!",
+    "cleaned_text": "WHEN WE DO BUSINESS WITH SOMEONE LIKE DINO, IT\u2019S ON EVEN TERMS!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "UNKNOWN",
+    "raw_text": "HE CAN'T BE TRUSTED EXCEPT TO TRY AND PUT A COLLAR ON YOU, UNDER- STAND?!",
+    "cleaned_text": "HE CAN'T BE TRUSTED EXCEPT TO TRY AND PUT A COLLAR ON YOU, UNDERSTAND?!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "BUT IF YOU WAN TO ROLL OVER FOR HIM...",
+    "cleaned_text": "BUT IF YOU WANT TO ROLL OVER FOR HIM...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "...AT LEAST SHOW ME ENOUGH RESPECT NOT TO BEG MY FUCKING PARDON.",
+    "cleaned_text": "...AT LEAST SHOW ME ENOUGH RESPECT NOT TO BEG MY FUCKING PARDON.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "ISN'T THAT RIGHT, ARTHUR?",
+    "cleaned_text": "ISN'T THAT RIGHT, ARTHUR?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character6",
+    "raw_text": "HEY, YOU'RE THE BOSS.",
+    "cleaned_text": "HEY, YOU\u2019RE THE BOSS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character6",
+    "raw_text": "I'VE GOT NO COMPLAINTS",
+    "cleaned_text": "I'VE GOT NO COMPLAINTS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "THAT KEEPS THINGS NICE AND SIMPLE FOR ME",
+    "cleaned_text": "THAT KEEPS THINGS NICE AND SIMPLE FOR ME",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character9",
+    "raw_text": "IF YOU REALLY MEAN IT...",
+    "cleaned_text": "IF YOU REALLY MEAN IT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character6",
+    "raw_text": "HE KNOWS.",
+    "cleaned_text": "HE KNOWS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character12",
+    "raw_text": "MAN, BUT LIKE, SAY ASH'S SLIPPIN'.",
+    "cleaned_text": "MAN, BUT LIKE, SAY ASH'S SLIPPING.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character12",
+    "raw_text": "COULDN'T EVEN TAKE THOSE TWO FOOLS OUT.",
+    "cleaned_text": "COULDN'T EVEN TAKE THOSE TWO FOOLS OUT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character6",
+    "raw_text": "FUCK- HEAD.",
+    "cleaned_text": "FUCK- HEAD.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character6",
+    "raw_text": "WHAT YOU THINK-- HE KEPT MISSING?",
+    "cleaned_text": "WHAT YOU THINK-- HE KEPT MISSING?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "HUH?",
+    "cleaned_text": "HUH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character6",
+    "raw_text": "HE CALLED THOSE SHOTS LIKE BILLIARDS.",
+    "cleaned_text": "HE CALLED THOSE SHOTS LIKE BILLIARDS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character6",
+    "raw_text": "IF HE WANTED 'EM DEAD, IT'VE BEEN ONE, TWO.",
+    "cleaned_text": "IF HE WANTED \u2018EM DEAD, IT\u2019VE BEEN ONE, TWO.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character6",
+    "raw_text": "BUT HE TOOK HIS TIME... CHUNK OUT THE CHEEK, LITTLE PIECE OFF THE SHOULDER...",
+    "cleaned_text": "BUT HE TOOK HIS TIME... CHUNK OUT THE CHEEK, LITTLE PIECE OFF THE SHOULDER...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character6",
+    "raw_text": "FROM TEN YARDS OFF, WITH A SHORTENED .357...",
+    "cleaned_text": "FROM TEN YARDS OFF, WITH A SHORTENED .357...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character6",
+    "raw_text": "NO. THERE AIN'T NO WAY TO BEAT HIM IN A FAIR FIGHT.",
+    "cleaned_text": "NO. THERE AIN'T NO WAY TO BEAT HIM IN A FAIR FIGHT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "UNKNOWN",
+    "raw_text": "MARVIN CALLED HIM A PUNK? DUDE DOESN'T KNOW SHIT ABOUT HIM EITHER. ! I RECALL YOU NOT TOO WISE ONE TIME ON ASH YOURSELF.",
+    "cleaned_text": "MARVIN CALLED HIM A PUNK? DUDE DOESN'T KNOW SHIT ABOUT HIM EITHER. ! I RECALL YOU NOT TOO WISE ONE TIME ON ASH YOURSELF.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character6",
+    "raw_text": "WELL, YOU MIGHT SAY HIS GOOD LOOKS CLOUDED MY JUDGMENT.",
+    "cleaned_text": "WELL, YOU MIGHT SAY HIS GOOD LOOKS CLOUDED MY JUDGMENT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character6",
+    "raw_text": "IGOT THESE FINGERS TO REMIND ME TO GIVE HIM THAT GENTLE TOUCH OF PAYBACK.",
+    "cleaned_text": "IGOT THESE FINGERS TO REMIND ME TO GIVE HIM THAT GENTLE TOUCH OF PAYBACK.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

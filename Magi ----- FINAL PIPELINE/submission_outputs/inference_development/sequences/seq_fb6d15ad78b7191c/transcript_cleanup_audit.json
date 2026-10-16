@@ -1,0 +1,290 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "NO WAY...THAT'S ABSURD...",
+    "cleaned_text": "NO WAY...THAT'S ABSURD...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "AND ALSO,",
+    "cleaned_text": "AND ALSO,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character5",
+    "raw_text": "YOU HAVE A MESSAGE FROM SPECIAL CLASS ARIMA.",
+    "cleaned_text": "YOU HAVE A MESSAGE FROM SPECIAL CLASS ARIMA.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "HE SAID \"I WILL BE RETURNING THE BOOK I BORROWED SO TELL ME A CONVENIENT TIME.\"",
+    "cleaned_text": "HE SAID \"I WILL BE RETURNING THE BOOK I BORROWED SO TELL ME A CONVENIENT TIME.\"",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "....THOUGH IT'S FINE NOT TO DO IT PERSONALLY, SINCE WE'RE ALL BUSY.",
+    "cleaned_text": "....THOUGH IT'S FINE NOT TO DO IT PERSONALLY, SINCE WE'RE ALL BUSY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character5",
+    "raw_text": "JEEZ, IS HE BEING CONSCIEN- TIOUS, OR NANT... AH, THAT \"NANT\" CAN HAVE ANOTHER \"NAN\" IN IT... 1 GET IT. SHUT UP.",
+    "cleaned_text": "JEEZ, IS HE BEING CONSCIENTIOUS, OR NAN... AH, THAT \"NAN\" CAN HAVE ANOTHER \"NAN\" IN IT... 1 GET IT. SHUT UP.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character5",
+    "raw_text": "HE WANTS TO MEET YOU AFTER SUCH A LONG WHILE, DOESN'T HE? IT'S LIKE A \"PARENTAL LOVE\".",
+    "cleaned_text": "HE WANTS TO MEET YOU AFTER SUCH A LONG WHILE, DOESN'T HE? IT'S LIKE A \"PARENTAL LOVE\".",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character5",
+    "raw_text": "I WONDER IF THAT GUY HAS THAT SORT OF FEELING...",
+    "cleaned_text": "I WONDER IF THAT GUY HAS THAT SORT OF FEELING...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character5",
+    "raw_text": "WHO KNOWS.",
+    "cleaned_text": "WHO KNOWS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "I'LL TRY GOING OVER THERE WHEN THE INVESTIGATION CALMS DOWN.",
+    "cleaned_text": "I\u2019LL TRY GOING OVER THERE WHEN THE INVESTIGATION CALMS DOWN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character2",
+    "raw_text": "SASAKI,",
+    "cleaned_text": "SASAKI,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 11,
+    "speaker": "character2",
+    "raw_text": "?",
+    "cleaned_text": "?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "THE TRUE POWER WHICH HAS RECEIVED THE WHITE WING MEDAL IS NOT JUST FOR SHOW. I AM ALSO HOPING YOU'LL BE THE MADO SQUAD'S ACE. STRIVE FOR THAT, RANK 1 SASAKI.",
+    "cleaned_text": "THE TRUE POWER WHICH HAS RECEIVED THE WHITE WING MEDAL IS NOT JUST FOR SHOW. I AM ALSO HOPING YOU'LL BE THE MADO SQUAD'S ACE. STRIVE FOR THAT, RANK 1 SASAKI.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "AKIRA- SAN...",
+    "cleaned_text": "AKIRA- SAN...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "HOW ABOUT I STRIVE FOR A HUG?",
+    "cleaned_text": "HOW ABOUT I STRIVE FOR A HUG?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "NO. Hurry up and go.",
+    "cleaned_text": "NO. Hurry up and go.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "'SURPASS ARIMA-SAN\"... HUH?",
+    "cleaned_text": "'SURPASS ARIMA-SAN\"... HUH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "SENSEI!",
+    "cleaned_text": "SENSEI!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "AH, MUTSUKI- KUN.",
+    "cleaned_text": "AH, MUTSUKI- KUN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "GOOD WORK TODAY!",
+    "cleaned_text": "GOOD WORK TODAY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "UNKNOWN",
+    "raw_text": "DID YOU DROP BY SHIBA- SENSEI'S PLACE?",
+    "cleaned_text": "DID YOU DROP BY SHIBA-SENSEI'S PLACE?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "YEAH.",
+    "cleaned_text": "YEAH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character7",
+    "raw_text": "MY ANEMIA WAS ACTING UP AGAIN...",
+    "cleaned_text": "MY ANEMIA WAS ACTING UP AGAIN...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "HOW DID YOUR INVESTIGATION GO?",
+    "cleaned_text": "HOW DID YOUR INVESTIGATION GO?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "AH, OH YEAH.",
+    "cleaned_text": "AH, OH YEAH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "THERE WAS AN INCIDENT OF \"GROWLING SOUNDS OF A BEAST\" BEING HEARD FROM THE NEIGHBORHOOD, AND THE LADY WAS WORRIED THAT \"IT MIGHT BE A GHOUL\".\u2026.",
+    "cleaned_text": "THERE WAS AN INCIDENT OF \u201cGROWLING SOUNDS OF A BEAST\u201d BEING HEARD FROM THE NEIGHBORHOOD, AND THE LADY WAS WORRIED THAT \u201cIT MIGHT BE A GHOUL\u201d.\u2026.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character6",
+    "raw_text": "BUT, AS A RESULT OF RANK 3 YONE- BAYASHI AND I INVESTIGATING AROUND THE AREA,",
+    "cleaned_text": "BUT, AS A RESULT OF RANK 3 YONE-BAYASHI AND I INVESTIGATING AROUND THE AREA,",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "UNKNOWN",
+    "raw_text": "WE ASCERTAINED THAT IN TRUTH IT WAS JUST A STRAY DOG, THAT HAD MADE THE NEIGHBOR- HOOD ITS HOME, GROWLING BEHIND THE LADY'S HOUSE. briskly So it was,just a beast.",
+    "cleaned_text": "WE ASCERTAINED THAT IN TRUTH IT WAS JUST A STRAY DOG THAT HAD MADE THE NEIGHBORHOOD ITS HOME, GROWLING BEHIND THE LADY'S HOUSE. Briskly, so it was, just a beast.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character6",
+    "raw_text": "GRRR GRRR.",
+    "cleaned_text": "GRRR GRRR.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character6",
+    "raw_text": "GRRRR- RR GRRR",
+    "cleaned_text": "GRRRR- RR GRRR",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 12,
+    "speaker": "character2",
+    "raw_text": "WHEN WE INFORMED THE LADY OF THAT SHE SAID \"FROM TODAY ON, I'LL BE ABLE TO SLEEP SOUNDLY\" AND WAS EXTREMELY RELIEVED.",
+    "cleaned_text": "WHEN WE INFORMED THE LADY OF THAT SHE SAID \"FROM TODAY ON, I'LL BE ABLE TO SLEEP SOUNDLY\" AND WAS EXTREMELY RELIEVED.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 13,
+    "speaker": "character2",
+    "raw_text": "I SEE, I SEE...",
+    "cleaned_text": "I SEE, I SEE...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,151 @@
+[
+  [
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THOSE AREN'T SOUVENIRS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THEYRE FOR ME TO EAT ON THE BULLET TRAIN HOME.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BEHIND YOU!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IVE GOTA STUDENT WATCHING, sO...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...I HOPE YOU DON'T MIND IF I SHOW OFF A LITTLE.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "!!",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "HE'S UNBELIEVABLY FAST!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "NO, IT'S NOT JUST THAT...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T7",
+      "box_ids": [
+        "PG2:T7"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DOESN'T MATTER WHAT ERA ITIS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T8",
+      "box_ids": [
+        "PG2:T8"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "YOU GUYS ARE ALWAYS A PAIN!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T9",
+      "box_ids": [
+        "PG2:T9"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU STUPID JUJUITSU SORCERER!",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BUIT THAT DOESN'T MATTER TO ME.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "9",
+      "needs_review": false
+    }
+  ]
+]

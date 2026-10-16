@@ -1,0 +1,229 @@
+{
+  "sequence_id": "seq_4e5d126a68879ddf",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Well, not that it has anything to do with servants like us,"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "But..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "That's even better for me."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "What?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "..."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "SFX: Third"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "I have the perfect medicine for the bride."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Oh..."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Oh, please. My goodness!"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "..."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "But can I see?                                                          "
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Of course. Here."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Wow! So many! :)"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "It is almost time for you to depart."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Take good care of his parents."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "be mindful of your health."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Yeah, we're counting on you."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "The future of the Sakai family now rests in your hands."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Maybe you should sell them to Lady Mao!"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": ".........."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Her groom, Lord Shiono, is..."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "That's rather unfortunate for the bride."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Isn't it?"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "But it can't be helped."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T7",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

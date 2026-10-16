@@ -1,0 +1,401 @@
+{
+  "sequence_id": "seq_98544ce821c3f74b",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "!!!"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "The presence of the cursed object! I can feel it even stronger now!"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Hey, you!"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "ZOosh!"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Gah! how the heck is he so fast?!"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "He apparently runs the so-meter dash in three seconds..."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "Crap!"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "What is he, a car?"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "> Sugisawa Hospital"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "YUJi... I have some final words for you."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "It's about your parents ..."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Stop, I don't care!"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "It's about..."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "...your parents!"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Like I said, I don't care, grandpa."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Will you stop trying to act all cool before you die?"
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "Just be your usual self, okay?"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "Y- You..."
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "Shaka Shaka"
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "A man wants to go out in style, you know!"
+    },
+    {
+      "id": "PG2:T12",
+      "page": 2,
+      "text": "You BRAT!"
+    },
+    {
+      "id": "PG2:T13",
+      "page": 2,
+      "text": "Don't you get it?!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Don't be buying flowers all the time. Save your money."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "They're not for you. They're for the nurses."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Even more so then, you idiot!"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Hey, what about your school club?"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Don't go wasting your time at a sad place like this."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "That's enough! My club finishes before five!"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Roll"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Snap"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "I wouldn't come here so often if I wasn't so bored!"
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "A stress- free life, huh? TCH..."
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "YUJI..."
+    },
+    {
+      "id": "PG3:T12",
+      "page": 3,
+      "text": "Yeah?"
+    },
+    {
+      "id": "PG3:T13",
+      "page": 3,
+      "text": "You're a strong kid, so..."
+    },
+    {
+      "id": "PG3:T14",
+      "page": 3,
+      "text": "...help people."
+    },
+    {
+      "id": "PG3:T15",
+      "page": 3,
+      "text": "It doesn't have to be all the time."
+    },
+    {
+      "id": "PG3:T16",
+      "page": 3,
+      "text": "Just whenever you can."
+    },
+    {
+      "id": "PG3:T17",
+      "page": 3,
+      "text": "You may feel lost. Don't expect gratitude."
+    },
+    {
+      "id": "PG3:T18",
+      "page": 3,
+      "text": "Just help them."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL7",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL6",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL7",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL8",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL9",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL10",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL11",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL7"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T11",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T12",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T13",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL11"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL7"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL9"
+    },
+    {
+      "text_id": "PG3:T9",
+      "tail_id": "PG3:TAIL6"
+    },
+    {
+      "text_id": "PG3:T10",
+      "tail_id": "PG3:TAIL8"
+    },
+    {
+      "text_id": "PG3:T11",
+      "tail_id": "PG3:TAIL10"
+    },
+    {
+      "text_id": "PG3:T12",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T13",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T14",
+      "tail_id": "PG3:TAIL5"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+[
+  [
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "GOT YOUR TOMATO DEVIL RIGHT HERE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT REVIVES FROM ITS SEEDS, SO YOU SHOULD BURN IT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T4",
+        "PG1:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "GOOD WORK, DENJI. THIS GUY'S CORPSE'LL FETCH A PRETTY PENNY ON THE BLACK MARKET.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THE REWARD'S 400 GRAND.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THANKS !!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T9",
+      "box_ids": [
+        "PG1:T9"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "I'M TAKING OHT 17O GRAND tO COVER YOUR LOAN AND INTEREST PAYMENTS.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "AND THEN THERE'S THE COMMISSION FOR REFERRING YOL AND ASSOCIATED FEES...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T11",
+      "box_ids": [
+        "PG1:T11"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ONLY 70 GRAND LEFT...",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AFTER PAYING THE WATER BILL",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND THE OTHER LOANS,",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T3",
+        "PG2:T4"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THERE'S A MEASLY 1800 YEN LEFT. IT'S A GODDAMN MIRACLE, THE MONEY JUST VANISHED INTO THIN AIR.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THERE'S NOTHIN' TA EAT AT HOME EITHER...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WE GOTTA GET BY ON JUST THIS FOR THE MONTH.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T7",
+      "box_ids": [
+        "PG2:T7"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "POCHITA...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T8",
+      "box_ids": [
+        "PG2:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DINNER TODAY'S GONNA BE ONE SLICE OF BREAD.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHY'RE YOU USING A BRAT LIKE HIM AS A DEVIL HUNTER?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "TO GET BACK THE MONEY WE'RE OWED.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THOUGH IT WAS HIS PIECE OF SHIT POPS WHO DIED WITHOLT PAYING UP.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T5",
+      "box_ids": [
+        "PG3:T5"
+      ],
+      "speaker": "E6",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "STILL, IS IT REALLY OKAY TO HIRE A SHITHEAD WITH A PET DEVIL AS A DEVIL HUNTER?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T6",
+        "PG3:T7"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THING IS, A REAL DEVIL HUNTER, WON'T JUST LET YAKUZA TAKE THE CORPSE AFTERWARDS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T8",
+      "box_ids": [
+        "PG3:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HIS OTHER REDEEMING QUALITY IS THAT HE ALWAYS DOES AS HE'S TOLD.",
+      "needs_review": false
+    }
+  ]
+]

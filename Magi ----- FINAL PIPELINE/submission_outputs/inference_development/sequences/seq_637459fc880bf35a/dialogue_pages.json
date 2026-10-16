@@ -1,0 +1,262 @@
+[
+  [
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T1",
+        "PG1:T2"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IF IT AIN'T THE GOLDEN CHILD. NEVER SEEN YOU IN THE SUNSHINE BEFORE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "GOT TO CATCH HIM IN THE DAYLIGHT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OLD FARTS IN THE REST HOME TURN IN EARLY.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEY! HOW MANY TIMES HAVE I TOLD YOU TO SHOW SOME RESPECT!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU CALL HIM \"MISTER, YOU CALL HIM \"PAPA DINO\"",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU DON'T GET OUT OF MY WAY MARVIN.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...AND I'M NOT GONNA CALL HIM AT ALL.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...HEY.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEY, ASH.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "Y'KNOW, I USED TO BE A BIG FAN OF YOURS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HEY, YOU EVER GONNA MAKE ANY MORE MOVIES? I THINK YOU'RE STILL YOUNG ENOUGH.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DIRTBAG.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WH- WHAT WAS THAT?!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T7",
+      "box_ids": [
+        "PG2:T7"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ISAID THAT YOU WERE A DIRTBAG MARVIN.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T8",
+      "box_ids": [
+        "PG2:T8"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "BUTIWAS THINKING THAT YOU WERE ALSO AFAT PIG.",
+      "needs_review": true
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I'LL KILL YOU, YOU LITTLE-",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "EASY, MARVIN, EASY!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "PUNK...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T5",
+      "box_ids": [
+        "PG3:T5"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "JUST A PUNK...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "FUCKIN'.. IF HE WASN'T PAPA'S PET I'D..I'DF- FUCKIN'...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T7",
+      "box_ids": [
+        "PG3:T7"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "JESUS CHRIST, MARV, PULL YOURSELF TOGETHER! HE'S JUST A GODDAMN KID!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T8",
+      "box_ids": [
+        "PG3:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "\"KID\"? OH, YEAH... THAT'S ALWAYS BEEN HIS ACT. JUST A KID, RIGHT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T9",
+      "box_ids": [
+        "PG3:T9"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "LEMME TELL YOU, THOUGH.. ONE FINE DAY I SWEAR I'M GONNA SNAP THAT WORTHLESS LITTLE QUEER'S NECK.",
+      "needs_review": false
+    }
+  ]
+]

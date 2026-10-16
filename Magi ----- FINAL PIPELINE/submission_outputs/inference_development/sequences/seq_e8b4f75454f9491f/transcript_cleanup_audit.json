@@ -1,0 +1,110 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "THERE'S A DEVIL OLT HERE?",
+    "cleaned_text": "THERE'S A DEVIL ALT HERE?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "CAN'T SEE ONE... GUIESS IT'S HIDING SOMEWHERE.\u2026.",
+    "cleaned_text": "CAN'T SEE ONE... GUIESS IT'S HIDING SOMEWHERE\u2026.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "DENJI BOY... YA HAVE OUR THANKS.",
+    "cleaned_text": "DENJI BOY... YA HAVE OUR THANKS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "AH... YEAH...",
+    "cleaned_text": "AH... YEAH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "OBEDIENT LIKE A DOG. HAPPY TO WORK FOR CHEAP TREATS LIKE A DOG TOO,",
+    "cleaned_text": "OBEDIENT LIKE A DOG. HAPPY TO WORK FOR CHEAP TREATS LIKE A DOG TOO.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "WHAT?",
+    "cleaned_text": "WHAT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "THING IS THOUGH, I HATE THE STENCH OF FLICKING DOGS.",
+    "cleaned_text": "THING IS THOUGH, I HATE THE STENCH OF FLICKING DOGS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "US YAKUZA,",
+    "cleaned_text": "US YAKUZA,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "WE WANTED TO GET STRONGER TO MAKE MORE MONEY, SO WE MADE A CONTRACT WITH A DEVIL LIKE YOU DID.",
+    "cleaned_text": "WE WANTED TO GET STRONGER TO MAKE MORE MONEY, SO WE MADE A CONTRACT WITH A DEVIL LIKE YOU DID.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "WHAT WE WANTED WAS A DEVIL'S POWER...",
+    "cleaned_text": "WHAT WE WANTED WAS A DEVIL\u2019S POWER...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character13",
+    "raw_text": "AND WHAT I WANTED WAS DEVIL HUNTERS'..",
+    "cleaned_text": "AND WHAT I WANTED WAS DEVIL HUNTERS'...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "DEATH!",
+    "cleaned_text": "DEATH!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

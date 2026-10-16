@@ -1,0 +1,1774 @@
+{
+  "seed": 42,
+  "val_fraction": 0.2,
+  "labels_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\labels.jsonl",
+  "labels_sha256": "b27eda235e856f396ab9c1860a3059256cb833bbe6bd831a8ef819f78339c29a",
+  "sequences": {
+    "train": [
+      "seq_032cbb4dc8686963",
+      "seq_06ec0acde37dffa4",
+      "seq_098e260f231aa789",
+      "seq_0dc2e3d874c804fc",
+      "seq_1c1d4f5e71a2f554",
+      "seq_2022b8c0e1f2d3c0",
+      "seq_2032620aa4e4ac7f",
+      "seq_210721b0d576149f",
+      "seq_27e88136c1812f85",
+      "seq_2e4b837ead6b88ae",
+      "seq_2fae297a18af2a57",
+      "seq_41d68dfc426cc19e",
+      "seq_44b9a316b2919cfe",
+      "seq_45c9871f52e99417",
+      "seq_4e5d126a68879ddf",
+      "seq_535e0754d805105b",
+      "seq_5c5304b3f7796f8c",
+      "seq_5e4a9d63617d62bf",
+      "seq_5f9ee35846b7e635",
+      "seq_637459fc880bf35a",
+      "seq_71033fec4de494fc",
+      "seq_720a7023d4f2ffcb",
+      "seq_72fdfff4b4353a42",
+      "seq_7db7a000adeceacf",
+      "seq_83ff2f28f5c13c40",
+      "seq_864aaca43a3580bb",
+      "seq_888a2728b36f1745",
+      "seq_88c1ad85c0fc1e9a",
+      "seq_8e8496c2039c3d5a",
+      "seq_8f7b98bae85cd5e5",
+      "seq_9032e5551cf1a9d2",
+      "seq_91119fd54cd62066",
+      "seq_952f154fb1505883",
+      "seq_98544ce821c3f74b",
+      "seq_98d98dac2a89a339",
+      "seq_a3bd36201a0cd61b",
+      "seq_a3d73a93577ffd94",
+      "seq_ac5793f8168efdd1",
+      "seq_aef69e98002294bc",
+      "seq_b136f32c2233b97c",
+      "seq_b251c8e1ba8b91f8",
+      "seq_b3247b4b3a2f591b",
+      "seq_b8b5563330fdc89d",
+      "seq_b9b5a9ad9a64ced9",
+      "seq_c2de6cb4b3c91103",
+      "seq_d62d309820d28efa",
+      "seq_d749b853cf795b6a",
+      "seq_d7af6c64ebc22bbe",
+      "seq_da71f7a842c91090",
+      "seq_dce8be23c3281228",
+      "seq_dcebdbbf614a9b4d",
+      "seq_e8b4f75454f9491f",
+      "seq_f164203a45862778",
+      "seq_f1c007d2d64e6aad",
+      "seq_f1f5fb7a11b950f3",
+      "seq_f492843aa3a0240c",
+      "seq_f7ee32f1dd417802",
+      "seq_f7f9d9dbf5b05cb5",
+      "seq_f9043534f1171d4e",
+      "seq_f9248d307dec033f",
+      "seq_f9a4e67ae3c018f6",
+      "seq_fa2eee6269a5dad3",
+      "seq_fa5b05d0f22bff15",
+      "seq_fb6d15ad78b7191c"
+    ],
+    "val": [
+      "seq_07838fb26cd1be54",
+      "seq_0ef2ec294597f572",
+      "seq_4833e23eec54344b",
+      "seq_58858a2227cf3761",
+      "seq_5f407d0064bb4a43",
+      "seq_84541a1f4b159018",
+      "seq_96839890d69d7698",
+      "seq_c4448514b6de1ab9",
+      "seq_cd727990f22c777b",
+      "seq_d8afceb0e8f9122d",
+      "seq_d8bc3c6ac1bb6017",
+      "seq_de542b63e6b19bc2",
+      "seq_eaad741293da2ac1",
+      "seq_ec05f45d71c43f2c",
+      "seq_ee880b9612205860",
+      "seq_fc4c2b84b6ec32ff"
+    ]
+  },
+  "pages": [
+    {
+      "sequence_id": "seq_2032620aa4e4ac7f",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2032620aa4e4ac7f\\01.png",
+      "image_sha256": "952423eefaf0862b89c7cad32e3231b1701e11577d4ef7009dfd5485c3acb30b"
+    },
+    {
+      "sequence_id": "seq_2032620aa4e4ac7f",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2032620aa4e4ac7f\\02.png",
+      "image_sha256": "804e744dd2df7b4bab94048b4ef77756d3e6a03230445f87c18edbcb9917c74d"
+    },
+    {
+      "sequence_id": "seq_2032620aa4e4ac7f",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2032620aa4e4ac7f\\03.png",
+      "image_sha256": "5563f80a96793a5e037eaabb320ec79b2bb7d387ba93970b5ce996561b0868d8"
+    },
+    {
+      "sequence_id": "seq_952f154fb1505883",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_952f154fb1505883\\01.png",
+      "image_sha256": "cbdac97fe8119e014566bfded813a2e91f35bdb9500169deadf59b3a905ac9f5"
+    },
+    {
+      "sequence_id": "seq_952f154fb1505883",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_952f154fb1505883\\02.png",
+      "image_sha256": "ebd276940107c59f4ec565b02bc78ed952acb9fd4173e47a337433d662a86ed5"
+    },
+    {
+      "sequence_id": "seq_952f154fb1505883",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_952f154fb1505883\\03.png",
+      "image_sha256": "458fc9b3cc693228cfcdd7c6fc513589086020a40605ab83e2689bb87c20872f"
+    },
+    {
+      "sequence_id": "seq_7db7a000adeceacf",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_7db7a000adeceacf\\01.png",
+      "image_sha256": "8f9493f17f2f2b16666714dd26aeca7dd983c5e0eff92182625f0b8f5ecd91b6"
+    },
+    {
+      "sequence_id": "seq_7db7a000adeceacf",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_7db7a000adeceacf\\02.png",
+      "image_sha256": "8c18c5a1b393e082fd6bf6fcd002bd17a81db4eb6e7cd4b84ac78ca538637131"
+    },
+    {
+      "sequence_id": "seq_7db7a000adeceacf",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_7db7a000adeceacf\\03.png",
+      "image_sha256": "757454f3c6fa304d2c017cf8a39f73a6c4375ecc6b9d50ee453192b8be29c0f3"
+    },
+    {
+      "sequence_id": "seq_9032e5551cf1a9d2",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_9032e5551cf1a9d2\\01.png",
+      "image_sha256": "b883d789445b8447d3140d4b69184122c0ca99aeb73fd13dd46271f5c48d2e2e"
+    },
+    {
+      "sequence_id": "seq_9032e5551cf1a9d2",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_9032e5551cf1a9d2\\02.png",
+      "image_sha256": "f7dad3742d6bb4c6af1fc9a25a8a7b2e4d71ca0487921037b6612d0b12f7a4e1"
+    },
+    {
+      "sequence_id": "seq_9032e5551cf1a9d2",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_9032e5551cf1a9d2\\03.png",
+      "image_sha256": "1c98f6ab1f44c9ca7f884a4983d3f502cfee0cc421b000d9cde27b7708d349fa"
+    },
+    {
+      "sequence_id": "seq_2022b8c0e1f2d3c0",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2022b8c0e1f2d3c0\\01.png",
+      "image_sha256": "9fb300328b185f5ac0da9bb384bf68a582265398af8ff1e0a4b6ff0ff226d1cb"
+    },
+    {
+      "sequence_id": "seq_2022b8c0e1f2d3c0",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2022b8c0e1f2d3c0\\02.png",
+      "image_sha256": "37f51852c1b7abeb72b9de7c24dc0486537880ff4bec7ec0279a03bf53c877f1"
+    },
+    {
+      "sequence_id": "seq_2022b8c0e1f2d3c0",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2022b8c0e1f2d3c0\\03.png",
+      "image_sha256": "500803fd4c4d4c1c0eef3054ed0d497725b96b67aecf365e34ae608350c05d36"
+    },
+    {
+      "sequence_id": "seq_a3bd36201a0cd61b",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_a3bd36201a0cd61b\\01.png",
+      "image_sha256": "e2c28f3cc7e9039461a287f155dd8e9361450c09f24bc4b1858eb608db7dd57a"
+    },
+    {
+      "sequence_id": "seq_a3bd36201a0cd61b",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_a3bd36201a0cd61b\\02.png",
+      "image_sha256": "92c284c26f855a60bb751ef35841a084335ea569e2612072ff34446fe16f27f0"
+    },
+    {
+      "sequence_id": "seq_a3bd36201a0cd61b",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_a3bd36201a0cd61b\\03.png",
+      "image_sha256": "7a39c95942ec70a14817d2073ea57d0faa4011978e220d0c5a9f708d482643a8"
+    },
+    {
+      "sequence_id": "seq_72fdfff4b4353a42",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_72fdfff4b4353a42\\01.png",
+      "image_sha256": "c9505920c6a8731070c29ddaa30d13c5ec83b3aaa3bc95135f0d39971e761410"
+    },
+    {
+      "sequence_id": "seq_72fdfff4b4353a42",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_72fdfff4b4353a42\\02.png",
+      "image_sha256": "edf71f648bbcf433a76319247430644badd757e3ead249c4552bae4b405042fc"
+    },
+    {
+      "sequence_id": "seq_72fdfff4b4353a42",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_72fdfff4b4353a42\\03.png",
+      "image_sha256": "4bf846eb42dc1a4dc63190d4f5d1bbd34938e919660040ff3316fc3080c18869"
+    },
+    {
+      "sequence_id": "seq_b251c8e1ba8b91f8",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b251c8e1ba8b91f8\\01.png",
+      "image_sha256": "7b3f0abb9fab3f453a51cd8f7c609f61fd631ed41dd47a14c0d37b37609edf0f"
+    },
+    {
+      "sequence_id": "seq_b251c8e1ba8b91f8",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b251c8e1ba8b91f8\\02.png",
+      "image_sha256": "815772c390fb01285cbc42cbe169f31493d32e0cf67a86bd0005c780929c4a36"
+    },
+    {
+      "sequence_id": "seq_b251c8e1ba8b91f8",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b251c8e1ba8b91f8\\03.png",
+      "image_sha256": "946c2f20ba064aa26cb169971a7c31c204b26b9221c05b9d751419edb511b827"
+    },
+    {
+      "sequence_id": "seq_ee880b9612205860",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_ee880b9612205860\\01.png",
+      "image_sha256": "ae4c39b426350d9ad848122630ebf21294879a9ee2a31f51fefe15680fa1ffeb"
+    },
+    {
+      "sequence_id": "seq_ee880b9612205860",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_ee880b9612205860\\02.png",
+      "image_sha256": "618a04bf07379e93c741edac9f02f842fdbc36f67e17037b795ca3207540601e"
+    },
+    {
+      "sequence_id": "seq_ee880b9612205860",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_ee880b9612205860\\03.png",
+      "image_sha256": "62f527ec2d7c12cad94e2a1de2534bc915ccb0dd8a4ace2cac250fbd2161f41b"
+    },
+    {
+      "sequence_id": "seq_06ec0acde37dffa4",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_06ec0acde37dffa4\\01.png",
+      "image_sha256": "e2d29f0c808fd11a23cf9952d4be8646b6ad7692de2e97b5beac1d9583e8f566"
+    },
+    {
+      "sequence_id": "seq_06ec0acde37dffa4",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_06ec0acde37dffa4\\02.png",
+      "image_sha256": "5ebbf048b0197c4aaceb220e2a4b6fabd84a9b23c6e0da070b03bb9e17d4b1ef"
+    },
+    {
+      "sequence_id": "seq_06ec0acde37dffa4",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_06ec0acde37dffa4\\03.png",
+      "image_sha256": "b1b97e75c72e549ff60e11ef41ec0eda7c789a264bfbcad189756fe898175e7f"
+    },
+    {
+      "sequence_id": "seq_1c1d4f5e71a2f554",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_1c1d4f5e71a2f554\\01.png",
+      "image_sha256": "116d8545ca229b3218441004a1065e146a2953f34949d6a99e890363bdaf8ce2"
+    },
+    {
+      "sequence_id": "seq_1c1d4f5e71a2f554",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_1c1d4f5e71a2f554\\02.png",
+      "image_sha256": "ffde415fc4e7adcd20e77f19e64c16f48edff3ba5a112105cde1f73fa39a4edb"
+    },
+    {
+      "sequence_id": "seq_1c1d4f5e71a2f554",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_1c1d4f5e71a2f554\\03.png",
+      "image_sha256": "1541616f6e677fe503ba4b25c7118d48835d4c2ef6d51aaaa27fb54af0fa5ce4"
+    },
+    {
+      "sequence_id": "seq_032cbb4dc8686963",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_032cbb4dc8686963\\01.png",
+      "image_sha256": "da30293f8472d45543524085a8ddfc1d25cb56b65f0bfc3333804bffa2cb5a1a"
+    },
+    {
+      "sequence_id": "seq_032cbb4dc8686963",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_032cbb4dc8686963\\02.png",
+      "image_sha256": "edf6b4ed652b34fb255658f408ef7529dc3ef79daa05299590c85d16bf070a5e"
+    },
+    {
+      "sequence_id": "seq_032cbb4dc8686963",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_032cbb4dc8686963\\03.png",
+      "image_sha256": "070ea6d1600e5bda8da295a6a5c1796a9225559098f750bf9f1872833a86c982"
+    },
+    {
+      "sequence_id": "seq_f164203a45862778",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f164203a45862778\\01.png",
+      "image_sha256": "4496f3b12ee7cb5f3abdfce05c8ce186898e0ef85aafade6be4b3ca98aa3dbd9"
+    },
+    {
+      "sequence_id": "seq_f164203a45862778",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f164203a45862778\\02.png",
+      "image_sha256": "93b2c9c0a22253f15846b28a5168fdd5f80e8d29a283bfd72dfccf8029070423"
+    },
+    {
+      "sequence_id": "seq_f164203a45862778",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f164203a45862778\\03.png",
+      "image_sha256": "2a7b37db536a2c0aba54790979522ea23f4df76ee58d2ab0863957994834183c"
+    },
+    {
+      "sequence_id": "seq_dcebdbbf614a9b4d",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_dcebdbbf614a9b4d\\01.png",
+      "image_sha256": "e2b4baf2f2857572b01e52176260ce03c43f043707bca501da0c44116fa24d47"
+    },
+    {
+      "sequence_id": "seq_dcebdbbf614a9b4d",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_dcebdbbf614a9b4d\\02.png",
+      "image_sha256": "48c5df3e27e52b894413dfdc6c6289373daf894858e9892713de3383fb869761"
+    },
+    {
+      "sequence_id": "seq_dcebdbbf614a9b4d",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_dcebdbbf614a9b4d\\03.png",
+      "image_sha256": "4e9cec5fdc593ac8f72b2c37fc4bc83e34db59dea17d352ae620aa3a075a72ba"
+    },
+    {
+      "sequence_id": "seq_2fae297a18af2a57",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2fae297a18af2a57\\01.png",
+      "image_sha256": "48467deb2f3d822792c96e47dde184eec98e2c8e5075d2cf4346565a68ce1122"
+    },
+    {
+      "sequence_id": "seq_2fae297a18af2a57",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2fae297a18af2a57\\02.png",
+      "image_sha256": "6d2384cd3c2f3144edd943f93f547c4ce2ff3d9a33750f2bdf00836785fb726e"
+    },
+    {
+      "sequence_id": "seq_2fae297a18af2a57",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2fae297a18af2a57\\03.png",
+      "image_sha256": "554f84a0272f4655ac36c72cf1030bdf7fe0dcbbe39de3d92e1b41648418a796"
+    },
+    {
+      "sequence_id": "seq_d8afceb0e8f9122d",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d8afceb0e8f9122d\\01.png",
+      "image_sha256": "38dff5177ce617b85ddfc09eb6ba68f5035278271c7a1fd60c8331162cbbd11b"
+    },
+    {
+      "sequence_id": "seq_d8afceb0e8f9122d",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d8afceb0e8f9122d\\02.png",
+      "image_sha256": "020fa4c6664d585fca1bde4b0ba032b873531fa19aadcfbfb48b02b63b6f3f8e"
+    },
+    {
+      "sequence_id": "seq_d8afceb0e8f9122d",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d8afceb0e8f9122d\\03.png",
+      "image_sha256": "7483f1421af14d3a22f45e058a0b204c897227056271e3bdeef495e6265127b0"
+    },
+    {
+      "sequence_id": "seq_f7ee32f1dd417802",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f7ee32f1dd417802\\01.png",
+      "image_sha256": "a47f355e4466dd08c80469fd68d4018eb548f5ac3ad93260764620289bdf9e08"
+    },
+    {
+      "sequence_id": "seq_f7ee32f1dd417802",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f7ee32f1dd417802\\02.png",
+      "image_sha256": "70c89cbecafc108df9d52132a38cac189830dbd8692cd1cd492bc220746ca630"
+    },
+    {
+      "sequence_id": "seq_f7ee32f1dd417802",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f7ee32f1dd417802\\03.png",
+      "image_sha256": "7b61b508eee97a3ba1add0a623bfd81c06a1375ce93997d4dc59f312f9ad2a7a"
+    },
+    {
+      "sequence_id": "seq_d62d309820d28efa",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d62d309820d28efa\\01.png",
+      "image_sha256": "da1323dd5fbddfbc378807114d90307ee8218ad69b5e3789b63d51a93b3e4c94"
+    },
+    {
+      "sequence_id": "seq_d62d309820d28efa",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d62d309820d28efa\\02.png",
+      "image_sha256": "b91990c9957bbcb9dbab271ec496a653fc8d3a0a2cbef06d209335492843d158"
+    },
+    {
+      "sequence_id": "seq_d62d309820d28efa",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d62d309820d28efa\\03.png",
+      "image_sha256": "2df3e7d519e58ecf11973a7cbde2c8873b35e05256788b07fb42a9b1960db478"
+    },
+    {
+      "sequence_id": "seq_210721b0d576149f",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_210721b0d576149f\\01.png",
+      "image_sha256": "9e173ac790e89d76cdbbd59f4534fbd98b0c8703ddb612358798033ce1f8f66c"
+    },
+    {
+      "sequence_id": "seq_210721b0d576149f",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_210721b0d576149f\\02.png",
+      "image_sha256": "7ad66cda07d28527e624e595abd544d985fc23459f8d30d57178e8b3dac1c755"
+    },
+    {
+      "sequence_id": "seq_210721b0d576149f",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_210721b0d576149f\\03.png",
+      "image_sha256": "40737157333a49e1b6b14757b0d9dbb1517c4c55de866abc4a2472fbdf44b4bc"
+    },
+    {
+      "sequence_id": "seq_e8b4f75454f9491f",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_e8b4f75454f9491f\\01.png",
+      "image_sha256": "a50cff083db4d1fe812c85106df23a9fcf29765660132f4b212e9328fe0d099a"
+    },
+    {
+      "sequence_id": "seq_e8b4f75454f9491f",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_e8b4f75454f9491f\\02.png",
+      "image_sha256": "276e68512c51c9f369c7d8dcf05544d6bf61eef8456635e591538f2eb493aa9b"
+    },
+    {
+      "sequence_id": "seq_e8b4f75454f9491f",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_e8b4f75454f9491f\\03.png",
+      "image_sha256": "9a2abfb50cb3977a7adbdbbebd7e10301b0129a6d99082b3807a336a1adb8381"
+    },
+    {
+      "sequence_id": "seq_b136f32c2233b97c",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b136f32c2233b97c\\01.png",
+      "image_sha256": "3a519ca5e3febb59cf430d1fa6723a492e7cb64416bf4a7d28f8374b3aa18226"
+    },
+    {
+      "sequence_id": "seq_b136f32c2233b97c",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b136f32c2233b97c\\02.png",
+      "image_sha256": "9870ab90a02d6aa36f93200e7f24ea9b6191af76645c2f4749444fa47fc39831"
+    },
+    {
+      "sequence_id": "seq_b136f32c2233b97c",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b136f32c2233b97c\\03.png",
+      "image_sha256": "e82a2f4a60b6535e40a512a508faf94f69dfd2ee3bb90c0b9100051db6088569"
+    },
+    {
+      "sequence_id": "seq_27e88136c1812f85",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_27e88136c1812f85\\01.png",
+      "image_sha256": "73757556c22d400df3cc167dada6dbfd98dbd9ad5851790f3f99f6e2bd4b7cf7"
+    },
+    {
+      "sequence_id": "seq_27e88136c1812f85",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_27e88136c1812f85\\02.png",
+      "image_sha256": "05b7ae1dd76a9e85b2dd8b5245f512b7518dd0cefcf3ad39087b95b1bb9db66e"
+    },
+    {
+      "sequence_id": "seq_27e88136c1812f85",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_27e88136c1812f85\\03.png",
+      "image_sha256": "41a9cc3e8c7ebef157fec8c4064d862d24a917072fbb6211c259e6910dbe6d86"
+    },
+    {
+      "sequence_id": "seq_d7af6c64ebc22bbe",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d7af6c64ebc22bbe\\01.png",
+      "image_sha256": "ee3955a78d564badc633d312b905fcadbcf84c3ce8443c55c657b64deece7f12"
+    },
+    {
+      "sequence_id": "seq_d7af6c64ebc22bbe",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d7af6c64ebc22bbe\\02.png",
+      "image_sha256": "06fa5b65711517cdba395f3f2f0d62302865ba14d38fbd38027a3de3a47c09d6"
+    },
+    {
+      "sequence_id": "seq_d7af6c64ebc22bbe",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d7af6c64ebc22bbe\\03.png",
+      "image_sha256": "f0dcfd3de0b92d64d5718650fa3894681ce41a2d2ab5a367ecc2a3bae215d176"
+    },
+    {
+      "sequence_id": "seq_96839890d69d7698",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_96839890d69d7698\\01.png",
+      "image_sha256": "5f83442d0d757e0ea8a527824e93fe25f0d14bc2369d9f94e845fb3b5de1654b"
+    },
+    {
+      "sequence_id": "seq_96839890d69d7698",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_96839890d69d7698\\02.png",
+      "image_sha256": "b95389c3489a99a9c964802c8292efee758fdd48230b74520301967c01ef1698"
+    },
+    {
+      "sequence_id": "seq_96839890d69d7698",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_96839890d69d7698\\03.png",
+      "image_sha256": "1daf3f9f584bac83ae7e78e55dc2396f488498301c364b48214f067c0f2c3968"
+    },
+    {
+      "sequence_id": "seq_b3247b4b3a2f591b",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b3247b4b3a2f591b\\01.png",
+      "image_sha256": "b23a81f981fe66277682de746105a03704bf897e88280093e60513a03842a514"
+    },
+    {
+      "sequence_id": "seq_b3247b4b3a2f591b",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b3247b4b3a2f591b\\02.png",
+      "image_sha256": "25546cbd5631fd88470cea410ca54d7fc3cd6db5a49c94c38c84871e972fb003"
+    },
+    {
+      "sequence_id": "seq_b3247b4b3a2f591b",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b3247b4b3a2f591b\\03.png",
+      "image_sha256": "dfda5270a7cd7cfce38777ea0551b89270b1892be326b08468a19333c5772cda"
+    },
+    {
+      "sequence_id": "seq_b9b5a9ad9a64ced9",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b9b5a9ad9a64ced9\\01.png",
+      "image_sha256": "7ee478c9c71cd25124b6a139499dba304e73c3c99fb471daab0c9a1575462af0"
+    },
+    {
+      "sequence_id": "seq_b9b5a9ad9a64ced9",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b9b5a9ad9a64ced9\\02.png",
+      "image_sha256": "83442e5409323487fcd54119ff26a3bbf9aa642ff7d5907fea4c0d0d00dcf580"
+    },
+    {
+      "sequence_id": "seq_b9b5a9ad9a64ced9",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b9b5a9ad9a64ced9\\03.png",
+      "image_sha256": "cc22526c555a5614f18abe7bfa8aae5a9d70feeefcfdb18db46b56ad00e0477b"
+    },
+    {
+      "sequence_id": "seq_f1c007d2d64e6aad",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f1c007d2d64e6aad\\01.png",
+      "image_sha256": "a862f28595bc6df6117972f72e0f4b79cd29ef28328b88ef77f30f5776b345fc"
+    },
+    {
+      "sequence_id": "seq_f1c007d2d64e6aad",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f1c007d2d64e6aad\\02.png",
+      "image_sha256": "ec99f0d51d21eb9c48f5c52bc97f0bc2e2f35badf83e0bda746c618c14b72a7f"
+    },
+    {
+      "sequence_id": "seq_f1c007d2d64e6aad",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f1c007d2d64e6aad\\03.png",
+      "image_sha256": "1cfb6261a11b34ce4102e38241ce892353460ae16be51493165778d1d1cef67f"
+    },
+    {
+      "sequence_id": "seq_b8b5563330fdc89d",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b8b5563330fdc89d\\01.png",
+      "image_sha256": "6ff1d98c48cc2c73b7915a9fb59d6bf2991550bb760a49d37584c41865867529"
+    },
+    {
+      "sequence_id": "seq_b8b5563330fdc89d",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b8b5563330fdc89d\\02.png",
+      "image_sha256": "0d2a772d8c959daa7f9ed43e70650774dbcddbe42342101345ddfbc37e59d6d3"
+    },
+    {
+      "sequence_id": "seq_b8b5563330fdc89d",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_b8b5563330fdc89d\\03.png",
+      "image_sha256": "a0c420015eb1e0ad305f96fa4d6f7ffe1bad0806971a0f7707e942484bc7b97f"
+    },
+    {
+      "sequence_id": "seq_dce8be23c3281228",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_dce8be23c3281228\\01.png",
+      "image_sha256": "b7aa1ecf4e8f6807e1c50a00fbf0fdde84eeab4d900f3e142855ba97e76ceab0"
+    },
+    {
+      "sequence_id": "seq_dce8be23c3281228",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_dce8be23c3281228\\02.png",
+      "image_sha256": "7a60110e706f870f4d8a812505d7dd3b4ee0d9235bc3b87a52de204a3298385a"
+    },
+    {
+      "sequence_id": "seq_dce8be23c3281228",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_dce8be23c3281228\\03.png",
+      "image_sha256": "008f97795365bc4e9839a47dfbc3968dbe645b385a2defb61484db78198132a8"
+    },
+    {
+      "sequence_id": "seq_f492843aa3a0240c",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f492843aa3a0240c\\01.png",
+      "image_sha256": "98f27ceeae650e0c383e731ca4c3cd3e9d1119dc6c708ced6769766d999442a2"
+    },
+    {
+      "sequence_id": "seq_f492843aa3a0240c",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f492843aa3a0240c\\02.png",
+      "image_sha256": "44b50f0ba0c5c73e7d92896542db58db69603faca31520a38e4a062fcbbc3bae"
+    },
+    {
+      "sequence_id": "seq_f492843aa3a0240c",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f492843aa3a0240c\\03.png",
+      "image_sha256": "5c93e9694248c198388eaf7ed7685d2d242c30251f6aea049f299e207a6a04f5"
+    },
+    {
+      "sequence_id": "seq_d8bc3c6ac1bb6017",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d8bc3c6ac1bb6017\\01.png",
+      "image_sha256": "fc333e26168e5883d49a67248e3196c91965327700d91e5e977e6119fb6dbcc8"
+    },
+    {
+      "sequence_id": "seq_d8bc3c6ac1bb6017",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d8bc3c6ac1bb6017\\02.png",
+      "image_sha256": "cdbce4db5ad878b40845e788d704557561c2aad6c70d1d00c81f65b4421b2ee0"
+    },
+    {
+      "sequence_id": "seq_d8bc3c6ac1bb6017",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d8bc3c6ac1bb6017\\03.png",
+      "image_sha256": "cd59de28befe0e5de81836e30a042ec476b07a40362fee15cb0a8758ff9a3b57"
+    },
+    {
+      "sequence_id": "seq_535e0754d805105b",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_535e0754d805105b\\01.png",
+      "image_sha256": "cad01caa343e92bd976324ea7fef2490aee0f5667f01f997fb9a955dd27b24f2"
+    },
+    {
+      "sequence_id": "seq_535e0754d805105b",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_535e0754d805105b\\02.png",
+      "image_sha256": "83a14330b8e9a7a7956712b8bdc029bc546e7c357d54b7771203c756a58f4fa9"
+    },
+    {
+      "sequence_id": "seq_535e0754d805105b",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_535e0754d805105b\\03.png",
+      "image_sha256": "8d200c54c544196722ea825f0b9f0a3642325c31566584c24cfec14dd6768779"
+    },
+    {
+      "sequence_id": "seq_91119fd54cd62066",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_91119fd54cd62066\\01.png",
+      "image_sha256": "87894e557a96e60c3539abb47d29e3eab21ab3faae06959b70b4e7fca820dae0"
+    },
+    {
+      "sequence_id": "seq_91119fd54cd62066",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_91119fd54cd62066\\02.png",
+      "image_sha256": "b6458042f7c3aa48df2fcce0ff1458b6ad21076c972a506e1dc586b1cbda2575"
+    },
+    {
+      "sequence_id": "seq_91119fd54cd62066",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_91119fd54cd62066\\03.png",
+      "image_sha256": "d9712a35005c0e3eb406d52041f057f2a80901a1a2c75563fa2386fb020df46e"
+    },
+    {
+      "sequence_id": "seq_fa2eee6269a5dad3",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fa2eee6269a5dad3\\01.png",
+      "image_sha256": "5c992724abec6e76cb1521d743c98ab241e158f9d429d32c4a50f7e298ccd33f"
+    },
+    {
+      "sequence_id": "seq_fa2eee6269a5dad3",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fa2eee6269a5dad3\\02.png",
+      "image_sha256": "43ff2d7d2fe8860753b31d171bd27ab4134de945f6b4082cc115d5248d66060e"
+    },
+    {
+      "sequence_id": "seq_fa2eee6269a5dad3",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fa2eee6269a5dad3\\03.png",
+      "image_sha256": "d8aa4e2166793db5cb16c59875a787614a6873bfe4b61ba25f7738bf27bdc5df"
+    },
+    {
+      "sequence_id": "seq_637459fc880bf35a",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_637459fc880bf35a\\01.png",
+      "image_sha256": "0eeb29e20bb6f5618ec6b226e54bc04a8ad8112a28af1749e3b8e9640383a2cd"
+    },
+    {
+      "sequence_id": "seq_637459fc880bf35a",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_637459fc880bf35a\\02.png",
+      "image_sha256": "0cb184e717162878ea3eac331d21b6f3c83efde68fdbd3b1985ce02d689650bc"
+    },
+    {
+      "sequence_id": "seq_637459fc880bf35a",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_637459fc880bf35a\\03.png",
+      "image_sha256": "cd245effd0272c69a79495bf2149e657646db768842b75c5b6718ad3d3f92723"
+    },
+    {
+      "sequence_id": "seq_c2de6cb4b3c91103",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_c2de6cb4b3c91103\\01.png",
+      "image_sha256": "3ad786e34541c3a61fb932a27de3b5589dbd8bea14c293d0f272e20b181201fb"
+    },
+    {
+      "sequence_id": "seq_c2de6cb4b3c91103",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_c2de6cb4b3c91103\\02.png",
+      "image_sha256": "fc4b9503746899d4bbdcff128a5614b138d4f5fe5e966ea158530a1eac18f7d3"
+    },
+    {
+      "sequence_id": "seq_c2de6cb4b3c91103",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_c2de6cb4b3c91103\\03.png",
+      "image_sha256": "fe1580fcb6ed377b7be178fa089a8f0a507b76c671afcb1098877b9bd1aba9ba"
+    },
+    {
+      "sequence_id": "seq_88c1ad85c0fc1e9a",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_88c1ad85c0fc1e9a\\01.png",
+      "image_sha256": "ddd2ec1b2b3086766c91b93108ff4adabf6c163908d3f994401b0aad925b9c9f"
+    },
+    {
+      "sequence_id": "seq_88c1ad85c0fc1e9a",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_88c1ad85c0fc1e9a\\02.png",
+      "image_sha256": "6a6446a2ebb4d8fc8d9fbb80af3ce7c753dd160280f9b812e184d6dc35e561f4"
+    },
+    {
+      "sequence_id": "seq_88c1ad85c0fc1e9a",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_88c1ad85c0fc1e9a\\03.png",
+      "image_sha256": "08f6ec613080300593eb2c432fabc1b5126634e6ce0668f163b1061068be32d9"
+    },
+    {
+      "sequence_id": "seq_d749b853cf795b6a",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d749b853cf795b6a\\01.png",
+      "image_sha256": "76e2c0e5f59e332784bce6d78b4ade087eac7d49af84de2f7e23794df3c9f639"
+    },
+    {
+      "sequence_id": "seq_d749b853cf795b6a",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d749b853cf795b6a\\02.png",
+      "image_sha256": "85b64837a993350c76f9595a559d6338a3c850898ace2af8067ddd596cb78699"
+    },
+    {
+      "sequence_id": "seq_d749b853cf795b6a",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_d749b853cf795b6a\\03.png",
+      "image_sha256": "ac7d94617c22d80eae23fc3efa2285412e0dfd9a20898a19c3fc8e3b2ed1d2d5"
+    },
+    {
+      "sequence_id": "seq_0ef2ec294597f572",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_0ef2ec294597f572\\01.png",
+      "image_sha256": "a7c95ff4dfa7b4a636dafda6718f5e911369ec203ec871fb0cc483e7cac21996"
+    },
+    {
+      "sequence_id": "seq_0ef2ec294597f572",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_0ef2ec294597f572\\02.png",
+      "image_sha256": "457d610f398041ac43d2f2e675fd2e519e2063ce87e2a1b4c44fd358f0283136"
+    },
+    {
+      "sequence_id": "seq_0ef2ec294597f572",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_0ef2ec294597f572\\03.png",
+      "image_sha256": "6127beaec470c25ef7b9dd246390ec24275f63924f4129b421fe49957954bb7c"
+    },
+    {
+      "sequence_id": "seq_eaad741293da2ac1",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_eaad741293da2ac1\\01.png",
+      "image_sha256": "1a9dffaeae9ebcb84e7fe8c649a7a01d1fea305aa806e43ffa17d4ce9cc6c561"
+    },
+    {
+      "sequence_id": "seq_eaad741293da2ac1",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_eaad741293da2ac1\\02.png",
+      "image_sha256": "ed904cc7d7e166e1a9c3d27e2493343fadaab844ebeb1600536fde2c3c4601be"
+    },
+    {
+      "sequence_id": "seq_eaad741293da2ac1",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_eaad741293da2ac1\\03.png",
+      "image_sha256": "5ed52003c70469fc3233230d3eed49199bce252e12c7150f5fd5a98e46cab79b"
+    },
+    {
+      "sequence_id": "seq_8e8496c2039c3d5a",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_8e8496c2039c3d5a\\01.png",
+      "image_sha256": "33c24d62620560e98feb5fccdad69a7c5009039ce54eb2916cb5a53c9321ffc1"
+    },
+    {
+      "sequence_id": "seq_8e8496c2039c3d5a",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_8e8496c2039c3d5a\\02.png",
+      "image_sha256": "e6bd34895c5762e55aaf4796df1767201510c80a2ebe707f30373cb560f83c1c"
+    },
+    {
+      "sequence_id": "seq_8e8496c2039c3d5a",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_8e8496c2039c3d5a\\03.png",
+      "image_sha256": "12e4f3bb18f97a715b4512c43c561c73269fa89251ac0c275a9cf9337c9a2817"
+    },
+    {
+      "sequence_id": "seq_83ff2f28f5c13c40",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_83ff2f28f5c13c40\\01.png",
+      "image_sha256": "bdd2cc5fc08dda100fa0edb968567692780661793a540028cfb11a8fb0632b9e"
+    },
+    {
+      "sequence_id": "seq_83ff2f28f5c13c40",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_83ff2f28f5c13c40\\02.png",
+      "image_sha256": "63daaf633853846313dd24bf5f78d1a5c1eadeb8ea9589aa2b9434b0820434e7"
+    },
+    {
+      "sequence_id": "seq_83ff2f28f5c13c40",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_83ff2f28f5c13c40\\03.png",
+      "image_sha256": "9d369cfa0a7c9d68375d3905b44bf8acbc5201278ea281707f18972801d7f202"
+    },
+    {
+      "sequence_id": "seq_fc4c2b84b6ec32ff",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fc4c2b84b6ec32ff\\01.png",
+      "image_sha256": "a95cc72cadee4bdb83e708f3e3ee11bb3abf764c709a8a7067d5afc99f572430"
+    },
+    {
+      "sequence_id": "seq_fc4c2b84b6ec32ff",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fc4c2b84b6ec32ff\\02.png",
+      "image_sha256": "0b5fa83ca00a66069fef6fe6cce0d29b793af4e9e6722590975fb43ccb89f5f1"
+    },
+    {
+      "sequence_id": "seq_fc4c2b84b6ec32ff",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fc4c2b84b6ec32ff\\03.png",
+      "image_sha256": "0f77219ce58d8962f5f77e433fcf8fd9309533ae067a55afd6bcfbc08a0da263"
+    },
+    {
+      "sequence_id": "seq_0dc2e3d874c804fc",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_0dc2e3d874c804fc\\01.png",
+      "image_sha256": "47b71c1008446b55b4e8e3ae04eb24a94b9af8fb8880b046021f5895a2ba2366"
+    },
+    {
+      "sequence_id": "seq_0dc2e3d874c804fc",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_0dc2e3d874c804fc\\02.png",
+      "image_sha256": "8c5b761a50d3042c8a6967d5a0317064b2292f8689ebe216dec518aa8ce9a6f9"
+    },
+    {
+      "sequence_id": "seq_0dc2e3d874c804fc",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_0dc2e3d874c804fc\\03.png",
+      "image_sha256": "b51394d2e7e5f18ab35eed23317ee02ab95573de86332fd78f109cb45c00280a"
+    },
+    {
+      "sequence_id": "seq_71033fec4de494fc",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_71033fec4de494fc\\01.png",
+      "image_sha256": "0fc4aa5db3b4ef4b232bc1b7dabefefc7fe38adcd5045697fc8468c39119de49"
+    },
+    {
+      "sequence_id": "seq_71033fec4de494fc",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_71033fec4de494fc\\02.png",
+      "image_sha256": "ae6ad019afc32c68bc019c3c53d98781afb96a0933aae8998c27928c263a47dc"
+    },
+    {
+      "sequence_id": "seq_71033fec4de494fc",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_71033fec4de494fc\\03.png",
+      "image_sha256": "75df156affd66401f848ffee2eb0dc12aebb4fb67466afff955fa5d8a131ffb9"
+    },
+    {
+      "sequence_id": "seq_864aaca43a3580bb",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_864aaca43a3580bb\\01.png",
+      "image_sha256": "f11033b0a37428c94f7892c15d3dc8043ebff5b7be414d5ee12b27d3a9396c73"
+    },
+    {
+      "sequence_id": "seq_864aaca43a3580bb",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_864aaca43a3580bb\\02.png",
+      "image_sha256": "9680f0ee7466d083f7f842d48d56698fc58ecb93cc21f708d0e35b33109ccd6d"
+    },
+    {
+      "sequence_id": "seq_864aaca43a3580bb",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_864aaca43a3580bb\\03.png",
+      "image_sha256": "e9af137e120ae7b8a2a560dd13981f14af2e6a7d4544113a11fb783544a10739"
+    },
+    {
+      "sequence_id": "seq_cd727990f22c777b",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_cd727990f22c777b\\01.png",
+      "image_sha256": "0127421d290e90e15c55806a7cce5c6039b9b57a1bc4e06fb9d93265baa95138"
+    },
+    {
+      "sequence_id": "seq_cd727990f22c777b",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_cd727990f22c777b\\02.png",
+      "image_sha256": "1846f2ff50b2cb6cd2e99056404c03bb0581ecce267f3f8137aab8e567ddadc3"
+    },
+    {
+      "sequence_id": "seq_cd727990f22c777b",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_cd727990f22c777b\\03.png",
+      "image_sha256": "cd4a7fb1584641e75f336d1457e7af3371be8f348d5db8b014990761343b4a38"
+    },
+    {
+      "sequence_id": "seq_98544ce821c3f74b",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_98544ce821c3f74b\\01.png",
+      "image_sha256": "78b878a5096ae9600221cf3eaeb3be78dd0f6a9b4f2fee62bf82cb8ecb5334af"
+    },
+    {
+      "sequence_id": "seq_98544ce821c3f74b",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_98544ce821c3f74b\\02.png",
+      "image_sha256": "6569f4c7b23859be73ed0e27d6a25f823333337099b89dee815291be392fd988"
+    },
+    {
+      "sequence_id": "seq_98544ce821c3f74b",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_98544ce821c3f74b\\03.png",
+      "image_sha256": "cacaa5f665be98c379bb75865deed3756f8a31edeb2c9b4e1f16b1e57b500bfb"
+    },
+    {
+      "sequence_id": "seq_f9a4e67ae3c018f6",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f9a4e67ae3c018f6\\01.png",
+      "image_sha256": "13bcf69f6c621ff3824e247fea212d00976704abf89124c1dca4e3daf68dc1f3"
+    },
+    {
+      "sequence_id": "seq_f9a4e67ae3c018f6",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f9a4e67ae3c018f6\\02.png",
+      "image_sha256": "6434511c6a8f9d8e4df6ba598910f13e50eb711c55e1da69349a2b22bab5f738"
+    },
+    {
+      "sequence_id": "seq_f9a4e67ae3c018f6",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f9a4e67ae3c018f6\\03.png",
+      "image_sha256": "756eeb78dba230cf20ac33a4206f26142a4c2a894f767942f4c876016ec956fb"
+    },
+    {
+      "sequence_id": "seq_ec05f45d71c43f2c",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_ec05f45d71c43f2c\\01.png",
+      "image_sha256": "b674f54d9c6d0d10dd7c98e6f743073e923a33ff3abcd94ed937d894639d64ac"
+    },
+    {
+      "sequence_id": "seq_ec05f45d71c43f2c",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_ec05f45d71c43f2c\\02.png",
+      "image_sha256": "780cdc186496e65f731c8e432ffdaa67cc98f6d853918ebbd3bfa761bbfb1792"
+    },
+    {
+      "sequence_id": "seq_ec05f45d71c43f2c",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_ec05f45d71c43f2c\\03.png",
+      "image_sha256": "88dba8df6f724c9d3c427a19b577fed6b5646bad80a6f8c14fa78f3a6237e930"
+    },
+    {
+      "sequence_id": "seq_de542b63e6b19bc2",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_de542b63e6b19bc2\\01.png",
+      "image_sha256": "bc2bf2adffbc16a6ceb2444f7e99700f05e318857e2b22728b8c511214f7b647"
+    },
+    {
+      "sequence_id": "seq_de542b63e6b19bc2",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_de542b63e6b19bc2\\02.png",
+      "image_sha256": "8dbb7dd9d1a98341d97d83b1d09aaf65b00148cff5536fd97b499ebd3d90bd91"
+    },
+    {
+      "sequence_id": "seq_de542b63e6b19bc2",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_de542b63e6b19bc2\\03.png",
+      "image_sha256": "f2e11c3e9b002480e1feb5a799100024b23dbc9df057719b51da995311dabdd5"
+    },
+    {
+      "sequence_id": "seq_f9043534f1171d4e",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f9043534f1171d4e\\01.png",
+      "image_sha256": "3a82ad4ff651234fc798eeb202662041490a7bc78005a275c773daeebc0f5ced"
+    },
+    {
+      "sequence_id": "seq_f9043534f1171d4e",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f9043534f1171d4e\\02.png",
+      "image_sha256": "0fc343c4706d1ed04a0a4b923da5b0db94c1a9563a9e3961c5129084dd5a3010"
+    },
+    {
+      "sequence_id": "seq_f9043534f1171d4e",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f9043534f1171d4e\\03.png",
+      "image_sha256": "f38bb1785baed3a9ec48fa40ad9099463948f22bfdef139f3ab54112fac72cb7"
+    },
+    {
+      "sequence_id": "seq_f7f9d9dbf5b05cb5",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f7f9d9dbf5b05cb5\\01.png",
+      "image_sha256": "43c263709015e9c53727c0ee9fc753ff779a98b4beedb09e323dd86d3a3bdf4a"
+    },
+    {
+      "sequence_id": "seq_f7f9d9dbf5b05cb5",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f7f9d9dbf5b05cb5\\02.png",
+      "image_sha256": "dedaaac0e515a73ff97682084028bea51b97299afd13633c79be2832f8f5f7f7"
+    },
+    {
+      "sequence_id": "seq_f7f9d9dbf5b05cb5",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f7f9d9dbf5b05cb5\\03.png",
+      "image_sha256": "910f9ea8d94c77ed4a99145934154483b9b95fa7c13428b79ba017daed554c4c"
+    },
+    {
+      "sequence_id": "seq_da71f7a842c91090",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_da71f7a842c91090\\01.png",
+      "image_sha256": "08202fee7daccecc903d13d2c4025585a9cfb8f64513f089ce9187e2a67d3d23"
+    },
+    {
+      "sequence_id": "seq_da71f7a842c91090",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_da71f7a842c91090\\02.png",
+      "image_sha256": "cc3a6035b69d36c2cbc5f9ffe06e13d81d64a47a3352f24502b2fda95af6a76e"
+    },
+    {
+      "sequence_id": "seq_da71f7a842c91090",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_da71f7a842c91090\\03.png",
+      "image_sha256": "e3437cdf041e0c130fe24ba17541635ca98fd01ba4d547eb0b97ec53b3cca9ec"
+    },
+    {
+      "sequence_id": "seq_5e4a9d63617d62bf",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5e4a9d63617d62bf\\01.png",
+      "image_sha256": "b6d7e326d82cec6df108a3d821e32b1149798febb1984760b619835c3c4ed05f"
+    },
+    {
+      "sequence_id": "seq_5e4a9d63617d62bf",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5e4a9d63617d62bf\\02.png",
+      "image_sha256": "2d92e6a6c353713efc21d1065f6b7b556327637fad30a7cccf4399c271212d7a"
+    },
+    {
+      "sequence_id": "seq_5e4a9d63617d62bf",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5e4a9d63617d62bf\\03.png",
+      "image_sha256": "9e64ce595c2411a7182d4d4fffa1be1b670c39f084b53da0306b75fff401ae69"
+    },
+    {
+      "sequence_id": "seq_84541a1f4b159018",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_84541a1f4b159018\\01.png",
+      "image_sha256": "72a7807386e8774501395ca4b830c8ba8cec80db2a9eb9d68bcac5a98744db81"
+    },
+    {
+      "sequence_id": "seq_84541a1f4b159018",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_84541a1f4b159018\\02.png",
+      "image_sha256": "98a463801f316cb3499b9079e9d1cfb88e154ef52c74871d6b095c30bfc9db60"
+    },
+    {
+      "sequence_id": "seq_84541a1f4b159018",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_84541a1f4b159018\\03.png",
+      "image_sha256": "f9f3292a18c689ff0b6958140fd8174b5cb5391c6f4d83dbc8120aeb4d0476a1"
+    },
+    {
+      "sequence_id": "seq_fa5b05d0f22bff15",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fa5b05d0f22bff15\\01.png",
+      "image_sha256": "54ef263171acaa28f1b92d51678dd0ceba2d046ff1291f082a2ed7491ca21f01"
+    },
+    {
+      "sequence_id": "seq_fa5b05d0f22bff15",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fa5b05d0f22bff15\\02.png",
+      "image_sha256": "f5312cf0e6097f30d745cd97dc62c50dbfbe14df5f91ebc46207b2b5e147b720"
+    },
+    {
+      "sequence_id": "seq_fa5b05d0f22bff15",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fa5b05d0f22bff15\\03.png",
+      "image_sha256": "3204c297f8c11cc8d95dae653c44568c01fa0db096a908e0ba9cc4511846aabc"
+    },
+    {
+      "sequence_id": "seq_4833e23eec54344b",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_4833e23eec54344b\\01.png",
+      "image_sha256": "0493164a8d078c8bc9824a3c547399b5f898a0480801642e810f1911bf8633da"
+    },
+    {
+      "sequence_id": "seq_4833e23eec54344b",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_4833e23eec54344b\\02.png",
+      "image_sha256": "a5493a1ee5ea3f1373e63a0a096df96c7bbe5b579c49f008cbb48b4d21eed310"
+    },
+    {
+      "sequence_id": "seq_4833e23eec54344b",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_4833e23eec54344b\\03.png",
+      "image_sha256": "d2477199773bfb718d90aba698469ed35cd5bfb7e1bf1d2b6b673c15de471fc9"
+    },
+    {
+      "sequence_id": "seq_45c9871f52e99417",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_45c9871f52e99417\\01.png",
+      "image_sha256": "9472cb2e1d3294d16bcf106d88878832d9dd01f3342977059a71afe8effd3325"
+    },
+    {
+      "sequence_id": "seq_45c9871f52e99417",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_45c9871f52e99417\\02.png",
+      "image_sha256": "27c1c95b1f0d4ac145956f1fa313323c19f4bb20a85153645e5a3fc4ad3ccf61"
+    },
+    {
+      "sequence_id": "seq_45c9871f52e99417",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_45c9871f52e99417\\03.png",
+      "image_sha256": "1d0579dfb2929433574fee18dc2ce85683af9dda622223e43511ddc230e55475"
+    },
+    {
+      "sequence_id": "seq_c4448514b6de1ab9",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_c4448514b6de1ab9\\01.png",
+      "image_sha256": "bb4705fe0046e1b3d2e76b23857a20950137cc19ee32d6ddd20bf12d463cf6b7"
+    },
+    {
+      "sequence_id": "seq_c4448514b6de1ab9",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_c4448514b6de1ab9\\02.png",
+      "image_sha256": "1294219fb688b826759c4d88e6ed16c0885538051821dc70cdcbf3dd04d930d3"
+    },
+    {
+      "sequence_id": "seq_c4448514b6de1ab9",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_c4448514b6de1ab9\\03.png",
+      "image_sha256": "93a7f10dfe8d3dba8fb6e3d536586ba836171ac4527e23212e35cda3d7ec0efe"
+    },
+    {
+      "sequence_id": "seq_f9248d307dec033f",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f9248d307dec033f\\01.png",
+      "image_sha256": "58c026086dbd71ec28d82dc2a1253b83a86b1ca1d98e4375b27343e78c1a5d55"
+    },
+    {
+      "sequence_id": "seq_f9248d307dec033f",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f9248d307dec033f\\02.png",
+      "image_sha256": "4d4f026a17930d3bad2b7d24dfb45fdef87b4fd697a332b03aaee9bae5522423"
+    },
+    {
+      "sequence_id": "seq_f9248d307dec033f",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f9248d307dec033f\\03.png",
+      "image_sha256": "ca8bdf880d6f6049d47e8b83d62c2db0a05dc5aaeb795fde202577cfb71247f7"
+    },
+    {
+      "sequence_id": "seq_4e5d126a68879ddf",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_4e5d126a68879ddf\\01.png",
+      "image_sha256": "bde854a7403a59030e1bfb8ac88d20359afc2f5089837008f772aba6b8a7a5f4"
+    },
+    {
+      "sequence_id": "seq_4e5d126a68879ddf",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_4e5d126a68879ddf\\02.png",
+      "image_sha256": "738c0a8af831928ecc48c7061886b78cdde959ab4db9807b97348ee26746a864"
+    },
+    {
+      "sequence_id": "seq_4e5d126a68879ddf",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_4e5d126a68879ddf\\03.png",
+      "image_sha256": "ac0c6b11d61b111135ebcea9a1ba4d79c631607caedee8556f68c73a7d76dc45"
+    },
+    {
+      "sequence_id": "seq_5f407d0064bb4a43",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5f407d0064bb4a43\\01.png",
+      "image_sha256": "bcbadd82c320e6661cd6b96f88e2c4cd6db120945c40c1956e183ce6d2ec28b7"
+    },
+    {
+      "sequence_id": "seq_5f407d0064bb4a43",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5f407d0064bb4a43\\02.png",
+      "image_sha256": "dd371417d7e0f6bec0c8f55fcd441b5245b7104db50c0a9f62d4698f28c1e1c1"
+    },
+    {
+      "sequence_id": "seq_5f407d0064bb4a43",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5f407d0064bb4a43\\03.png",
+      "image_sha256": "c1c75a19bb0afa62eff423aebc11ad9492baa3fffd6dd0bb39faa85ead7ab61a"
+    },
+    {
+      "sequence_id": "seq_07838fb26cd1be54",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_07838fb26cd1be54\\01.png",
+      "image_sha256": "54f2a5e88687f6b7b6618d6f33e990b77f53ecf472236dbb7b4f2f07b65cfb64"
+    },
+    {
+      "sequence_id": "seq_07838fb26cd1be54",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_07838fb26cd1be54\\02.png",
+      "image_sha256": "d2d50bb51e770ce1228cd753c734c0fd89bd7081bfc29afe763c815d9f230183"
+    },
+    {
+      "sequence_id": "seq_07838fb26cd1be54",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_07838fb26cd1be54\\03.png",
+      "image_sha256": "ebcbbcb18306c420500c5805fc7bf4e1bf44f6ac21a6d8e335c7473fc0ba5806"
+    },
+    {
+      "sequence_id": "seq_888a2728b36f1745",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_888a2728b36f1745\\01.png",
+      "image_sha256": "57eec6f7a7f9731d1dedb1e6332cd2367f3f5d725db7d7cce3c5e54a09445ec8"
+    },
+    {
+      "sequence_id": "seq_888a2728b36f1745",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_888a2728b36f1745\\02.png",
+      "image_sha256": "b85c34e11e672adcaf65ba6bcbdc7bb08171b799b6ce4ee7db663677ac7d57cc"
+    },
+    {
+      "sequence_id": "seq_888a2728b36f1745",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_888a2728b36f1745\\03.png",
+      "image_sha256": "eeb41bbb5588417187719ba1cdd22e4482de71609884b7da0f7753e040b91451"
+    },
+    {
+      "sequence_id": "seq_aef69e98002294bc",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_aef69e98002294bc\\01.png",
+      "image_sha256": "b069189d5d83167935a1fa63c0740eff754e769666e675eb87ef2020422e6768"
+    },
+    {
+      "sequence_id": "seq_aef69e98002294bc",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_aef69e98002294bc\\02.png",
+      "image_sha256": "bc4fc9b0d025d95b19b4ba54c5ccc7cf62b1b0a849e27918ee0236295f333947"
+    },
+    {
+      "sequence_id": "seq_aef69e98002294bc",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_aef69e98002294bc\\03.png",
+      "image_sha256": "2068c8b0da8e90fe8a376712e79b3dac384d7cebe6994576419e358df1516174"
+    },
+    {
+      "sequence_id": "seq_98d98dac2a89a339",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_98d98dac2a89a339\\01.png",
+      "image_sha256": "8da297729aa4a14f149d8441dafc838f3ea4b1eb497749aa00accd57ba8ddca4"
+    },
+    {
+      "sequence_id": "seq_98d98dac2a89a339",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_98d98dac2a89a339\\02.png",
+      "image_sha256": "9b11937fedd938264d7a05677ced212241b9cb5b3808af724bcefa1413f44de8"
+    },
+    {
+      "sequence_id": "seq_98d98dac2a89a339",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_98d98dac2a89a339\\03.png",
+      "image_sha256": "19de0a7965d0947bee3be010d38e3ae9c7943fd9a11526b2912833b87a0f6e60"
+    },
+    {
+      "sequence_id": "seq_f1f5fb7a11b950f3",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f1f5fb7a11b950f3\\01.png",
+      "image_sha256": "7bb1edb5c872a97460acf1c79d94072f1e13720f611a6143e4a048a1be49d40a"
+    },
+    {
+      "sequence_id": "seq_f1f5fb7a11b950f3",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f1f5fb7a11b950f3\\02.png",
+      "image_sha256": "c562c27d4cba8168a96d2fd079b8532b5c2dc10a9febdc10c9fc99d9e712efd8"
+    },
+    {
+      "sequence_id": "seq_f1f5fb7a11b950f3",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_f1f5fb7a11b950f3\\03.png",
+      "image_sha256": "1b87bebcc71682e1dfb11cb5ec6afc1fcb45f5818d80a856ad840e30d745a4e8"
+    },
+    {
+      "sequence_id": "seq_fb6d15ad78b7191c",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fb6d15ad78b7191c\\01.png",
+      "image_sha256": "1e07c7a7191e77cee71f0d1264d059e9b516202cc4d677a1adbf9ae833edd0d8"
+    },
+    {
+      "sequence_id": "seq_fb6d15ad78b7191c",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fb6d15ad78b7191c\\02.png",
+      "image_sha256": "bf4b8f5a0e6adfb8f4d83bdd2f9c23840adbbafaedc4bb8697f3044a4dfe62bf"
+    },
+    {
+      "sequence_id": "seq_fb6d15ad78b7191c",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_fb6d15ad78b7191c\\03.png",
+      "image_sha256": "f2c1803755f69b6febcd41aefa9621b7ae1b325a65ae093b91610934b634f5dd"
+    },
+    {
+      "sequence_id": "seq_44b9a316b2919cfe",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_44b9a316b2919cfe\\01.png",
+      "image_sha256": "09ff4e4e6c10a14ad86a3ad4d31a5e511b30c523216204a8db2390860d0d8217"
+    },
+    {
+      "sequence_id": "seq_44b9a316b2919cfe",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_44b9a316b2919cfe\\02.png",
+      "image_sha256": "7efe094b25979ed6b3e30a8721f4244597ca7c4536fe0af52ee45efdb020e028"
+    },
+    {
+      "sequence_id": "seq_44b9a316b2919cfe",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_44b9a316b2919cfe\\03.png",
+      "image_sha256": "8427ffb157d6a26f17ba1f018908bc9152034d42399750f16766d74dba61390a"
+    },
+    {
+      "sequence_id": "seq_098e260f231aa789",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_098e260f231aa789\\01.png",
+      "image_sha256": "483e0830218fb99d8188bcc381c25f417b656030a52a5ed5dda67d4e48cf9ea6"
+    },
+    {
+      "sequence_id": "seq_098e260f231aa789",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_098e260f231aa789\\02.png",
+      "image_sha256": "6ca3420576e9c5bc559b37e316694c134eb06277af04bae18641ee276ee3d2fb"
+    },
+    {
+      "sequence_id": "seq_098e260f231aa789",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_098e260f231aa789\\03.png",
+      "image_sha256": "6d8aab1b144632a0c5a32e5eb82773c08e0af433b5f6ef61c2db74cdecfb94c0"
+    },
+    {
+      "sequence_id": "seq_2e4b837ead6b88ae",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2e4b837ead6b88ae\\01.png",
+      "image_sha256": "d35748b3efbb53f24ada1a4f6915cd73cc83b18e4cdfeba925ed5433ee77b2fe"
+    },
+    {
+      "sequence_id": "seq_2e4b837ead6b88ae",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2e4b837ead6b88ae\\02.png",
+      "image_sha256": "2752a37ea01a2db4b0b7dc9922c76f04ee62ea59bf6dddbaaaea4af28d29a50d"
+    },
+    {
+      "sequence_id": "seq_2e4b837ead6b88ae",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_2e4b837ead6b88ae\\03.png",
+      "image_sha256": "7f54210f33a6b0b69da4a15c5662f16c3ecf8a52d5878953bd39026d0a457636"
+    },
+    {
+      "sequence_id": "seq_58858a2227cf3761",
+      "page_number": 1,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_58858a2227cf3761\\01.png",
+      "image_sha256": "fb6246c7ddbd12dfbe3e81f237b58665444e17eb24c2c17fec92570fcde07fac"
+    },
+    {
+      "sequence_id": "seq_58858a2227cf3761",
+      "page_number": 2,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_58858a2227cf3761\\02.png",
+      "image_sha256": "b8c74bb5a81292ab500d5ee56a0e8df48dcc25e6b7bd46ca7bd3f2e181640201"
+    },
+    {
+      "sequence_id": "seq_58858a2227cf3761",
+      "page_number": 3,
+      "split": "val",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_58858a2227cf3761\\03.png",
+      "image_sha256": "439799bbd8730858fdc56d4ef6b114852776b379e17b65eba78b65f1d7d8f8ec"
+    },
+    {
+      "sequence_id": "seq_ac5793f8168efdd1",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_ac5793f8168efdd1\\01.png",
+      "image_sha256": "6022603d13d08806fa41affbc8fcccef8764626b239b15d0dcb72047e1c394ac"
+    },
+    {
+      "sequence_id": "seq_ac5793f8168efdd1",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_ac5793f8168efdd1\\02.png",
+      "image_sha256": "970d6e88b06bcc4845389674032328b78b68ff7249ea2c93edbf25b9a680fe96"
+    },
+    {
+      "sequence_id": "seq_ac5793f8168efdd1",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_ac5793f8168efdd1\\03.png",
+      "image_sha256": "3be38c3590f4cc94f5e84e0234474c0e6afbf6c65b0d00fa5717ae4c90a8d244"
+    },
+    {
+      "sequence_id": "seq_8f7b98bae85cd5e5",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_8f7b98bae85cd5e5\\01.png",
+      "image_sha256": "e6b7ba7e1c787df6a4b74c9db51056218b7f24bc242a0bda3d8723f3aaaa1195"
+    },
+    {
+      "sequence_id": "seq_8f7b98bae85cd5e5",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_8f7b98bae85cd5e5\\02.png",
+      "image_sha256": "8cfcb5efea482bfbade3ce71f89d3819e499464c94d518171f2a1ad0545df74c"
+    },
+    {
+      "sequence_id": "seq_8f7b98bae85cd5e5",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_8f7b98bae85cd5e5\\03.png",
+      "image_sha256": "dc1af4639005fcd0aeea2507de46a424620045b4a724823fdc02b8d82240b5af"
+    },
+    {
+      "sequence_id": "seq_720a7023d4f2ffcb",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_720a7023d4f2ffcb\\01.png",
+      "image_sha256": "771740ae9595e2e1dfa594ca9dc854541489135b195180503f09222a5a31c0b3"
+    },
+    {
+      "sequence_id": "seq_720a7023d4f2ffcb",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_720a7023d4f2ffcb\\02.png",
+      "image_sha256": "031161e0af90a0a58dd0fef732b14f2d77eb42a478d68772edad84a3980b3f17"
+    },
+    {
+      "sequence_id": "seq_720a7023d4f2ffcb",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_720a7023d4f2ffcb\\03.png",
+      "image_sha256": "b4d57be3978c8f26f95d61a0eb280d1faeca8f812615f0dbf7729b0c1fe2f960"
+    },
+    {
+      "sequence_id": "seq_5c5304b3f7796f8c",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5c5304b3f7796f8c\\01.png",
+      "image_sha256": "52cd0ce0cd3b4beb52c500c8f33ec07e404caa872712f0c180af377963ddfbdb"
+    },
+    {
+      "sequence_id": "seq_5c5304b3f7796f8c",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5c5304b3f7796f8c\\02.png",
+      "image_sha256": "1237bc1c16aa320784e2e02ea9ac17710c7fa1adc95671d6ee156092ca414e9d"
+    },
+    {
+      "sequence_id": "seq_5c5304b3f7796f8c",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5c5304b3f7796f8c\\03.png",
+      "image_sha256": "2eeee9801fffa3f15fb7ec3f23d730f127510cedab11b8f599685ca01d17bf84"
+    },
+    {
+      "sequence_id": "seq_a3d73a93577ffd94",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_a3d73a93577ffd94\\01.png",
+      "image_sha256": "7b4170396cddae4c06b382e274f38fe7c1cce6255eb661a702e9f891f1130a1e"
+    },
+    {
+      "sequence_id": "seq_a3d73a93577ffd94",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_a3d73a93577ffd94\\02.png",
+      "image_sha256": "b442000ec78efb8ffdcfb9bfaa9f7f4f17ed1c3cb3daf8e9c01f31c28155faf2"
+    },
+    {
+      "sequence_id": "seq_a3d73a93577ffd94",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_a3d73a93577ffd94\\03.png",
+      "image_sha256": "c52a33ef1255287c67d100eee9bbabfe99c9ef9c6c115f645c8f2d874e34c902"
+    },
+    {
+      "sequence_id": "seq_5f9ee35846b7e635",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5f9ee35846b7e635\\01.png",
+      "image_sha256": "af1b2b90649e4c74e8cbe36e652e0639dfef9119471b38681ca6b7af6ac174e2"
+    },
+    {
+      "sequence_id": "seq_5f9ee35846b7e635",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5f9ee35846b7e635\\02.png",
+      "image_sha256": "49449fc06f1ccd986c0506adc44b601a00ca6993c1e9b3634728e80d3da7d14b"
+    },
+    {
+      "sequence_id": "seq_5f9ee35846b7e635",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_5f9ee35846b7e635\\03.png",
+      "image_sha256": "c7e9b665bcca790160481c2d3b1430c0ce58eb87ba4fe7ee0eec70122b72cad3"
+    },
+    {
+      "sequence_id": "seq_41d68dfc426cc19e",
+      "page_number": 1,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_41d68dfc426cc19e\\01.png",
+      "image_sha256": "adec084217b8f6e60442b9e1ec94e1e2844be1e19a6cd340ae1e0956e3da9de9"
+    },
+    {
+      "sequence_id": "seq_41d68dfc426cc19e",
+      "page_number": 2,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_41d68dfc426cc19e\\02.png",
+      "image_sha256": "1c98236acc2d9933da2146debcd2e14a5adeef1d7b4283818d995d23d9d7fa3f"
+    },
+    {
+      "sequence_id": "seq_41d68dfc426cc19e",
+      "page_number": 3,
+      "split": "train",
+      "image_path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\1pageTest\\TaskData\\development\\images\\seq_41d68dfc426cc19e\\03.png",
+      "image_sha256": "145b20e80906a96f6ad44c74e99bec4e51ce5c121a4e3d07f586c35884838732"
+    }
+  ]
+}

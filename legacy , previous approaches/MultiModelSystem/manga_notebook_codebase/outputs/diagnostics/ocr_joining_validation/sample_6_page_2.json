@@ -1,0 +1,451 @@
+{
+  "sequence_id": "seq_2032620aa4e4ac7f",
+  "page_index": 2,
+  "raw_count": 26,
+  "target_count": 6,
+  "filter_exclusions": [
+    {
+      "candidate": {
+        "id": "c11",
+        "text": "CLACK",
+        "score": 0.9999330639839172,
+        "box": [
+          717.0,
+          778.0,
+          830.0,
+          854.0
+        ]
+      },
+      "reason": "sound_effect_word"
+    }
+  ],
+  "excluded_sound_effects": [
+    {
+      "id": "c11",
+      "text": "CLACK",
+      "score": 0.9999330639839172,
+      "box": [
+        717.0,
+        778.0,
+        830.0,
+        854.0
+      ]
+    }
+  ],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0"
+      ],
+      "text": "WOAH!!",
+      "box": [
+        732.0,
+        178.0,
+        815.0,
+        206.0
+      ],
+      "id": "g0",
+      "score": 0.999808132648468,
+      "target_index": 0,
+      "target_text": "WOAH!!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c1",
+        "c3",
+        "c5",
+        "c6"
+      ],
+      "text": "OKAWA- SENPAI, YOU LOOK SO COOL!",
+      "box": [
+        763.0,
+        507.0,
+        837.0,
+        575.0
+      ],
+      "id": "g1",
+      "score": 0.9996638298034668,
+      "target_index": 1,
+      "target_text": "OKAWA-SENPAI, YOU LOOK SO COOL!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c2",
+        "c4",
+        "c7",
+        "c8",
+        "c9"
+      ],
+      "text": "RIGHT HERE! THIS IS WHERE IT HAPPENS!",
+      "box": [
+        169.0,
+        529.0,
+        248.0,
+        622.0
+      ],
+      "id": "g2",
+      "score": 0.9998290181159973,
+      "target_index": 2,
+      "target_text": "RIGHT HERE! THIS IS WHERE IT HAPPENS!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c10",
+        "c12",
+        "c15",
+        "c18",
+        "c21",
+        "c23",
+        "c25"
+      ],
+      "text": "DO YOU HAVE TO KEEP WATCHING THAT? IT'S EMBAR- RASSING.",
+      "box": [
+        501.0,
+        799.0,
+        583.0,
+        920.0
+      ],
+      "id": "g3",
+      "score": 0.993123539856502,
+      "target_index": 4,
+      "target_text": "DO YOU HAVE TO KEEP WATCHING THAT? IT'S EMBARRASSING.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c13",
+        "c16",
+        "c19"
+      ],
+      "text": "so CLOSE !!",
+      "box": [
+        623.0,
+        817.0,
+        672.0,
+        870.0
+      ],
+      "id": "g4",
+      "score": 0.9990444183349609,
+      "target_index": 3,
+      "target_text": "SO CLOSE!!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c14",
+        "c17",
+        "c20",
+        "c22",
+        "c24"
+      ],
+      "text": "IT'S ALL FOR THE SAKE OF OUR CLUB. WE'RE GOING TO ANALYZE IT IN DETAIL LATER.",
+      "box": [
+        112.0,
+        835.0,
+        255.0,
+        921.0
+      ],
+      "id": "g5",
+      "score": 0.9979025602340699,
+      "target_index": 5,
+      "target_text": "IT'S ALL FOR THE SAKE OF OUR CLUB. WE'RE GOING TO ANALYZE IT IN DETAIL LATER.",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "WOAH!!",
+      "score": 0.999808132648468,
+      "box": [
+        732.0,
+        178.0,
+        815.0,
+        206.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "OKAWA-",
+      "score": 0.9998036026954651,
+      "box": [
+        766.0,
+        507.0,
+        827.0,
+        525.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "RIGHT",
+      "score": 0.9999856948852539,
+      "box": [
+        182.0,
+        529.0,
+        236.0,
+        551.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "SENPAI,",
+      "score": 0.9998763203620911,
+      "box": [
+        771.0,
+        524.0,
+        828.0,
+        542.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "HERE!",
+      "score": 0.9998563528060913,
+      "box": [
+        182.0,
+        548.0,
+        236.0,
+        569.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "YOU LOOK",
+      "score": 0.9992014169692993,
+      "box": [
+        763.0,
+        542.0,
+        837.0,
+        559.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "SO COOL!",
+      "score": 0.9997739791870117,
+      "box": [
+        764.0,
+        558.0,
+        836.0,
+        575.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "THIS IS",
+      "score": 0.9996969103813171,
+      "box": [
+        180.0,
+        568.0,
+        238.0,
+        586.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "WHERE IT",
+      "score": 0.9996811151504517,
+      "box": [
+        170.0,
+        586.0,
+        248.0,
+        603.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "HAPPENS!",
+      "score": 0.9999250173568726,
+      "box": [
+        169.0,
+        604.0,
+        248.0,
+        622.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "DO YOU",
+      "score": 0.9992156028747559,
+      "box": [
+        512.0,
+        799.0,
+        572.0,
+        819.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "CLACK",
+      "score": 0.9999330639839172,
+      "box": [
+        717.0,
+        778.0,
+        830.0,
+        854.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "HAVE",
+      "score": 0.9999573826789856,
+      "box": [
+        520.0,
+        816.0,
+        563.0,
+        835.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "so",
+      "score": 0.9985318183898926,
+      "box": [
+        634.0,
+        817.0,
+        660.0,
+        838.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "IT'S ALL FOR",
+      "score": 0.9999591708183289,
+      "box": [
+        133.0,
+        835.0,
+        235.0,
+        855.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "TO KEEP",
+      "score": 0.9806579947471619,
+      "box": [
+        509.0,
+        834.0,
+        574.0,
+        851.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "CLOSE",
+      "score": 0.9998544454574585,
+      "box": [
+        623.0,
+        836.0,
+        672.0,
+        854.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "THE SAKE OF OUR",
+      "score": 0.999784529209137,
+      "box": [
+        118.0,
+        854.0,
+        252.0,
+        871.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "WATCHING",
+      "score": 0.9734505414962769,
+      "box": [
+        504.0,
+        851.0,
+        580.0,
+        868.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "!!",
+      "score": 0.9987469911575317,
+      "box": [
+        640.0,
+        853.0,
+        654.0,
+        870.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "CLUB. WE'RE GOING",
+      "score": 0.9904969334602356,
+      "box": [
+        112.0,
+        871.0,
+        255.0,
+        888.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "THAT? IT'S",
+      "score": 0.9988349080085754,
+      "box": [
+        501.0,
+        868.0,
+        583.0,
+        885.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "TO ANALYZE IT IN",
+      "score": 0.9997833967208862,
+      "box": [
+        122.0,
+        888.0,
+        247.0,
+        905.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "EMBAR-",
+      "score": 0.9997797012329102,
+      "box": [
+        511.0,
+        885.0,
+        572.0,
+        902.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "DETAIL LATER.",
+      "score": 0.9994887709617615,
+      "box": [
+        131.0,
+        905.0,
+        235.0,
+        921.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "RASSING.",
+      "score": 0.9999686479568481,
+      "box": [
+        506.0,
+        902.0,
+        576.0,
+        920.0
+      ]
+    }
+  ],
+  "transcript": "WOAH!!\nOKAWA- SENPAI, YOU LOOK SO COOL!\nRIGHT HERE! THIS IS WHERE IT HAPPENS!\nDO YOU HAVE TO KEEP WATCHING THAT? IT'S EMBAR- RASSING.\nso CLOSE !!\nIT'S ALL FOR THE SAKE OF OUR CLUB. WE'RE GOING TO ANALYZE IT IN DETAIL LATER.",
+  "sample_index": 6,
+  "preview_file": "sample_6_page_2.html"
+}

@@ -1,0 +1,147 @@
+{
+  "sequence_id": "seq_d62d309820d28efa",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "BITE ME!"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "MANCE: $1.00m.m. on not mirror"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "I heard devils can heal by drinking blood!"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "If you don't wanna die then bite me!"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "I ain't runnin' a charity though..."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "This is a contract."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "I'll help you... so now you gotta help me."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "I don't wanna die either..."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "How's about HIRIN' me as a devil Hunter?"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "I'm not mirror"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "So hungry I can't sleep..."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "I can't sleep, so I keep thinkin' about the debt, which just makes it worse..."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "...I've decided."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "If I sleep tonight, I'm gonna dream about..."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

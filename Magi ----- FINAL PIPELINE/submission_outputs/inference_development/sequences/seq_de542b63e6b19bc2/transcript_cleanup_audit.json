@@ -1,0 +1,83 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "IS IT TRYING TO SWALLOW THE CURSED OBJECT AND THE STUDENTS ALL AT ONCE?",
+    "cleaned_text": "IS IT TRYING TO SWALLOW THE CURSED OBJECT AND THE STUDENTS ALL AT ONCE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "CRAP!",
+    "cleaned_text": "CRAP!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "I'MTOO LATE!",
+    "cleaned_text": "I\u2019M TOO LATE!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "HE WAS SHORT- TEMPERED AND STUBBORN.",
+    "cleaned_text": "HE WAS SHORT-TEMPERED AND STUBBORN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "NO ONE WENT TO SEE HIM BESIDES ME. \"DON'T END UP LIKE ME,\" HUH?",
+    "cleaned_text": "NO ONE WENT TO SEE HIM BESIDES ME. \u201cDON\u2019T END UP LIKE ME,\u201d HUH?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "I GUESS SO. BUT...",
+    "cleaned_text": "I GUESS SO. BUT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "ITA- DORI?!",
+    "cleaned_text": "ITA- DORI?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "IS THE THIS FOURTH FLOOR!",
+    "cleaned_text": "IS THIS THE FOURTH FLOOR!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "I THINK YOU DIED PEACEFULLY, GRANDPA.",
+    "cleaned_text": "I THINK YOU DIED PEACEFULLY, GRANDPA.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

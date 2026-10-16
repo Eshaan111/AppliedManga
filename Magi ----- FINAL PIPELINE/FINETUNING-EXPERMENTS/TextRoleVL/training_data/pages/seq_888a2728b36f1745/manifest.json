@@ -1,0 +1,111 @@
+{
+  "sequence_id": "seq_888a2728b36f1745",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "My LORD."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "lady Mao."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "The Palanquin is here."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Grandfather."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Forgive me."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Uncle."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "SFX: Ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "??"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "SFX-CHI-CHI (HHI-CHI-CHSECT NOISE)"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Click"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Kayo!"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "What in the world are you doing at a time like this?!"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "M-Miss Sato!"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Um, this is..."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL1"
+    }
+  ]
+}

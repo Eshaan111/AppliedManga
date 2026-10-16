@@ -1,0 +1,119 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "THOSE AREN'T SOUVENIRS.",
+    "cleaned_text": "THOSE AREN'T SOUVENIRS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "THEYRE FOR ME TO EAT ON THE BULLET TRAIN HOME.",
+    "cleaned_text": "THEYRE FOR ME TO EAT ON THE BULLET TRAIN HOME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "BEHIND YOU!",
+    "cleaned_text": "BEHIND YOU!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "IVE GOTA STUDENT WATCHING, sO...",
+    "cleaned_text": "IVE GOTA STUDENT WATCHING, so...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "...I HOPE YOU DON'T MIND IF I SHOW OFF A LITTLE.",
+    "cleaned_text": "...I HOPE YOU DON'T MIND IF I SHOW OFF A LITTLE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "!!",
+    "cleaned_text": "!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "HE'S UNBELIEVABLY FAST!",
+    "cleaned_text": "HE'S UNBELIEVABLY FAST!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "NO, IT'S NOT JUST THAT...",
+    "cleaned_text": "NO, IT'S NOT JUST THAT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "DOESN'T MATTER WHAT ERA ITIS.",
+    "cleaned_text": "DOESN'T MATTER WHAT ERA IT IS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "YOU GUYS ARE ALWAYS A PAIN!",
+    "cleaned_text": "YOU GUYS ARE ALWAYS A PAIN!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "YOU STUPID JUJUITSU SORCERER!",
+    "cleaned_text": "YOU STUPID JUJUITSU SORCERER!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "BUIT THAT DOESN'T MATTER TO ME.",
+    "cleaned_text": "BUT THAT DOESN'T MATTER TO ME.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "9",
+    "cleaned_text": "9",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

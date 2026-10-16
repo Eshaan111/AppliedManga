@@ -1,0 +1,14 @@
+{
+  "sequence_id": "seq_f1c007d2d64e6aad",
+  "split": "development",
+  "images": [
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_f1c007d2d64e6aad\\01.png",
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_f1c007d2d64e6aad\\02.png",
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_f1c007d2d64e6aad\\03.png"
+  ],
+  "magi_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi",
+  "cache_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\cache_batch_artifact_contour",
+  "sequence_output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\submission_outputs\\inference_development\\sequences\\seq_f1c007d2d64e6aad",
+  "clean_transcript": true,
+  "force": false
+}

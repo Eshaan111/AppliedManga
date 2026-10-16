@@ -1,0 +1,43 @@
+{
+  "runtime": {
+    "config": {
+      "use_doc_orientation_classify": false,
+      "use_doc_unwarping": false,
+      "use_textline_orientation": false,
+      "device": "cpu",
+      "enable_mkldnn": false,
+      "cpu_threads": 1,
+      "text_detection_model_name": "PP-OCRv6_medium_det",
+      "text_recognition_model_name": "PP-OCRv6_medium_rec"
+    },
+    "python": "3.11.9",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "packages": {
+      "paddleocr": "3.7.0",
+      "paddlepaddle": "3.3.1",
+      "paddlex": "3.7.2",
+      "numpy": "2.3.5",
+      "pillow": "12.3.0"
+    },
+    "model_files": {
+      "PP-OCRv6_medium_det/inference.json": "0f1a7ec35da36173529c7a60238b7f7919e3831929c3f700ad90ad4896adecd5",
+      "PP-OCRv6_medium_det/inference.pdiparams": "85218d2e3d98f5a21c58b4220627be923a97aee5db3cc71f39536ab31ac53960",
+      "PP-OCRv6_medium_det/inference.yml": "7298d5ead546584af2504d03355f881ac7a7bc0eb1e282d3e159277c1d0af871",
+      "PP-OCRv6_medium_rec/inference.json": "0b2e25e990bd072f1bf77d59d67d508bce6c4bd44af6624e0fb27d6da2cd00e8",
+      "PP-OCRv6_medium_rec/inference.pdiparams": "1b01c79a914587933f615569e75de54f2e638ebb5d3f3b3c1b38c24ede8c7319",
+      "PP-OCRv6_medium_rec/inference.yml": "991b700facf5b50a7de193468207d5f4255b538dde0d312ae3b7c7a9b6873129"
+    },
+    "code": {
+      "build_ocr_cache.py": "9a542445f41764372ddd0bc69aa585d9cfdf8350562b6c5b8ab719fead60cb97",
+      "ocr_utils.py": "7711246d958d0a9b82f23483d44d8cc2efa19a255595340ebde4c5cdea63a3bc"
+    }
+  },
+  "sequences": {
+    "seq_2032620aa4e4ac7f": [
+      "952423eefaf0862b89c7cad32e3231b1701e11577d4ef7009dfd5485c3acb30b",
+      "804e744dd2df7b4bab94048b4ef77756d3e6a03230445f87c18edbcb9917c74d",
+      "5563f80a96793a5e037eaabb320ec79b2bb7d387ba93970b5ce996561b0868d8"
+    ]
+  },
+  "output_sha256": "9a4afdc92b21c1ce9c479b7021f3293955187015e5028b957b6ee24d091035ab"
+}

@@ -1,0 +1,131 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BITE ME!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "DO NOT MIRROR",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T3",
+        "PG1:T4"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I HEARD DEVILS CAN HEAL BY DRINKING BLOOD! YOU DON'T WANNA DIE THEN BITE ME!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I AIN'T RUNNIN' A CHARITY THOUGH...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THIS IS A CONTRACT.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I'LL HELP YOU... SO NOW YOU GOTTA HELP ME.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I DON'T WANNA DIE EITHER...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HOW'S ABOLT HIRIN' ME AS A DEVIL HUNTER?",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "so HUNGRY I CAN'T SLEEP...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I CAN'T SLEEP, SO I KEEP THINKIN' ABOLT THE DEBT, WHICH JUST MAKES IT WORSE...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T4",
+        "PG3:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...I'VE DECIDED. IF I SLEEP TONIGHT, I'M GONNA DREAM ABOUT...",
+      "needs_review": false
+    }
+  ]
+]

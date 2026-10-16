@@ -1,0 +1,168 @@
+{
+  "sequence_id": "seq_b251c8e1ba8b91f8",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Now... how will you react...?"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Shinomiya thought for an instant..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "But what went through her mind was no ordinary process of thought!"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "He's attacked me..."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "By revealing that he wants to see the movie, he's left the choice of whether to go or not up to me."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "A fine counter- attack..."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "I have the option of refusing him,"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "But that would render all I've done up to this point meaning- less..."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "All I've done..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Carefully preparing a fake prize..."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "You can also find a"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Slipping it into Fuiura's mailbox..."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "and finding a movie on a weekend on one of his rare breaks...!!"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "If I refuse him here, with his mental weakness,"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "He may very well never invite me to a movie again."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "As a woman, I cannot allow that!"
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "That is not an option!!"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "I cannot retreat!"
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "You're right."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "I do sort of believe it..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "#27:"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "but I was hoping someone would give me a sincere invitation to see it..."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Shinomiya used the skill \"Feishing innocence!\""
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "One of the secret techniques passed down from Father to Child in the Shinomiya family!"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "against this carefully calculated expression and sudden change in voice,"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Even the heart of a God would be set allutter!"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Shirogane's thoughts were thrown into disarray!!"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG2:T10",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

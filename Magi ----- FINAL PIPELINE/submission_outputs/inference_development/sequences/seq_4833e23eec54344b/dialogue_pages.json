@@ -1,0 +1,265 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "SUGISAWA HOSPITAL",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HOW IS IGUCHI DOING?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T5",
+        "PG1:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THE DOCTORS SAY HE'S FINE, BUT ... HE'S STILL UNCON- sCIOUS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'S ALL MY FAULT.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'S BECAUSE I TOLD HIM TO COME TO SCHOOL THAT NIGHT...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU PROBABLY WON'T BELIEVE ME.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T4",
+        "PG2:T5"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "...BUT WE WERE ATTACKED BY A STRANGE MONSTER.. ...AND I WAS CAPTURED TOO.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I BELIEVE YOU.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T7",
+      "box_ids": [
+        "PG2:T7"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THOSE WEREN'T MONSTERS. THEY WERE CURSES.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M2",
+      "box_ids": [
+        "PG2:T8",
+        "PG2:T9"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THAT FINGERIS SOMETHING CALLED A SPECIAL- GRADE CURSED OBJECT. IT WAS ABLE TO GATHER CURSES AND MAKE ITSELF STRONGER.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T10",
+      "box_ids": [
+        "PG2:T10"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ITA- DORI?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M3",
+      "box_ids": [
+        "PG2:T11",
+        "PG2:T12"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SO IT'S NOT YOUR FAULT. I'M THE ONE WHO PICKED IT UP IN THE FIRST PLACE.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T13",
+      "box_ids": [
+        "PG2:T13"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I'M SORRY, BUT DON'T WORRY.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T14",
+      "box_ids": [
+        "PG2:T14"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THERE'S SOMEONE COMING TOMORROW WHO CAN HELP IGUCHI.",
+      "needs_review": true
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I'M SORRY SASAKI.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THERE'S SOMEWHERE I NEED TO GO.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I'LL SEE YA LATER.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHO PASSED AWAY?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T5",
+      "box_ids": [
+        "PG3:T5"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "MY GRANDPA. BUT I GUESS HE'S MORE LIKE A DAD.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I SEE. SORRY TO BOTHER YOU AT A TIME LIKE THIS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T7",
+      "box_ids": [
+        "PG3:T7"
+      ],
+      "speaker": "E6",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SO, HAVE YOU MADE A DECISION?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T8",
+      "box_ids": [
+        "PG3:T8"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": ".",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T9",
+      "box_ids": [
+        "PG3:T9"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ARE THERE A LOT OF CASUALTIES WITH CURSES LIKE THIS?",
+      "needs_review": false
+    }
+  ]
+]

@@ -1,0 +1,70 @@
+{
+  "page": {
+    "name": "page.png",
+    "sha256": "0fc4aa5db3b4ef4b232bc1b7dabefefc7fe38adcd5045697fc8468c39119de49",
+    "width": 956,
+    "height": 1500
+  },
+  "records": [
+    {
+      "bubble_id": "B1",
+      "character_id": "C1"
+    },
+    {
+      "bubble_id": "B2",
+      "character_id": "C2"
+    },
+    {
+      "bubble_id": "B3",
+      "character_id": "C3"
+    },
+    {
+      "bubble_id": "B4",
+      "character_id": "C4"
+    },
+    {
+      "bubble_id": "B5",
+      "character_id": "C5"
+    },
+    {
+      "bubble_id": "B6",
+      "character_id": "C6"
+    },
+    {
+      "bubble_id": "B7",
+      "character_id": "C7"
+    },
+    {
+      "bubble_id": "B8",
+      "character_id": "C7"
+    },
+    {
+      "bubble_id": "B9",
+      "character_id": "C7"
+    },
+    {
+      "bubble_id": "B10",
+      "character_id": "C7"
+    },
+    {
+      "bubble_id": "B11",
+      "character_id": "C7"
+    },
+    {
+      "bubble_id": "B12",
+      "character_id": "C7"
+    },
+    {
+      "bubble_id": "B13",
+      "character_id": "C7"
+    },
+    {
+      "bubble_id": "B14",
+      "character_id": "C7"
+    },
+    {
+      "bubble_id": "B15",
+      "character_id": "C7"
+    }
+  ]
+}

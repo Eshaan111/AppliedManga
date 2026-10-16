@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "task_data_root": "../manga_notebook_codebase/TaskData",
+  "sequences": [
+    {
+      "sequence_id": "seq_71033fec4de494fc",
+      "split": "calibration",
+      "pages": [
+        {
+          "page_index": 0,
+          "image": "development/images/seq_71033fec4de494fc/01.png",
+          "characters": []
+        },
+        {
+          "page_index": 1,
+          "image": "development/images/seq_71033fec4de494fc/02.png",
+          "characters": []
+        },
+        {
+          "page_index": 2,
+          "image": "development/images/seq_71033fec4de494fc/03.png",
+          "characters": []
+        }
+      ]
+    },
+    {
+      "sequence_id": "seq_d7af6c64ebc22bbe",
+      "split": "calibration",
+      "pages": [
+        {
+          "page_index": 0,
+          "image": "development/images/seq_d7af6c64ebc22bbe/01.png",
+          "characters": []
+        },
+        {
+          "page_index": 1,
+          "image": "development/images/seq_d7af6c64ebc22bbe/02.png",
+          "characters": []
+        },
+        {
+          "page_index": 2,
+          "image": "development/images/seq_d7af6c64ebc22bbe/03.png",
+          "characters": []
+        }
+      ]
+    },
+    {
+      "sequence_id": "seq_fa2eee6269a5dad3",
+      "split": "calibration",
+      "pages": [
+        {
+          "page_index": 0,
+          "image": "development/images/seq_fa2eee6269a5dad3/01.png",
+          "characters": []
+        },
+        {
+          "page_index": 1,
+          "image": "development/images/seq_fa2eee6269a5dad3/02.png",
+          "characters": []
+        },
+        {
+          "page_index": 2,
+          "image": "development/images/seq_fa2eee6269a5dad3/03.png",
+          "characters": []
+        }
+      ]
+    },
+    {
+      "sequence_id": "seq_06ec0acde37dffa4",
+      "split": "heldout",
+      "pages": [
+        {
+          "page_index": 0,
+          "image": "development/images/seq_06ec0acde37dffa4/01.png",
+          "characters": []
+        },
+        {
+          "page_index": 1,
+          "image": "development/images/seq_06ec0acde37dffa4/02.png",
+          "characters": []
+        },
+        {
+          "page_index": 2,
+          "image": "development/images/seq_06ec0acde37dffa4/03.png",
+          "characters": []
+        }
+      ]
+    },
+    {
+      "sequence_id": "seq_f492843aa3a0240c",
+      "split": "heldout",
+      "pages": [
+        {
+          "page_index": 0,
+          "image": "development/images/seq_f492843aa3a0240c/01.png",
+          "characters": []
+        },
+        {
+          "page_index": 1,
+          "image": "development/images/seq_f492843aa3a0240c/02.png",
+          "characters": []
+        },
+        {
+          "page_index": 2,
+          "image": "development/images/seq_f492843aa3a0240c/03.png",
+          "characters": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "POCHITA...",
+    "cleaned_text": "POCHITA...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "WOOF!",
+    "cleaned_text": "WOOF!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "...YOU TOOK OVER MY BODY, HUH?",
+    "cleaned_text": "...YOU TOOK OVER MY BODY, HUH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "MANG STREAN DO NOT MIRROR",
+    "cleaned_text": "MANG STREAN DO NOT MIRROR",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "I... LIKED HEARING YOUR DREAMS DENJI.",
+    "cleaned_text": "I... LIKED HEARING YOUR DREAMS, DENJI.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "...THIS IS A CONTRACT.",
+    "cleaned_text": "...THIS IS A CONTRACT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "I'LL BE YOUR HEART. IN EXCHANGE...",
+    "cleaned_text": "I'LL BE YOUR HEART. IN EXCHANGE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "SHOW ME MoRE of YOUR DREAMS.",
+    "cleaned_text": "SHOW ME MORE OF YOUR DREAMS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "POCHITA!",
+    "cleaned_text": "POCHITA!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "MY WOUNDS...",
+    "cleaned_text": "MY WOUNDS...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

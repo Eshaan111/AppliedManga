@@ -1,0 +1,105 @@
+{
+  "sequence_id": "seq_f7ee32f1dd417802",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "MANGA STREAM.com do not mirror"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "If you don't make this month's payment, we'll string you up..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Boy. Begging, whoring, I don't care how, but you've got till tomorrow to get 700 grand."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "If you can't do it, we'll cut you up and sell the pieces."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "CH- CHAIN- SAW?!"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "A DEVIL!"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "MANIS A MUO: Do not mirror"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "...If you're gonna kill me, just do it."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "I'm DEAD either way..."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "A WOUND..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "You're gonna die too?"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "The following"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "page": {
+    "name": "01.png",
+    "sha256": "0fc4aa5db3b4ef4b232bc1b7dabefefc7fe38adcd5045697fc8468c39119de49",
+    "width": 956,
+    "height": 1500
+  },
+  "records": {
+    "sequence_id": "seq_71033fec4de494fc",
+    "page_number": 1,
+    "panel_order": [
+      "PN1",
+      "PN7",
+      "PN8",
+      "PN9",
+      "PN6",
+      "PN3",
+      "PN4",
+      "PN5",
+      "PN2"
+    ],
+    "panel_groups": [
+      [
+        "PN1"
+      ],
+      [
+        "PN7"
+      ],
+      [
+        "PN8"
+      ],
+      [
+        "PN9"
+      ],
+      [
+        "PN6"
+      ],
+      [
+        "PN3"
+      ],
+      [
+        "PN4"
+      ],
+      [
+        "PN5"
+      ],
+      [
+        "PN2"
+      ]
+    ],
+    "ambiguous_panel_groups": [],
+    "panel_bubble_order": {
+      "PN1": [
+        "B1",
+        "B2"
+      ],
+      "PN7": [
+        "B3",
+        "B4"
+      ],
+      "PN8": [],
+      "PN9": [],
+      "PN6": [],
+      "PN3": [
+        "B6",
+        "B8",
+        "B7"
+      ],
+      "PN4": [
+        "B9",
+        "B12"
+      ],
+      "PN5": [
+        "B13",
+        "B14",
+        "B15"
+      ],
+      "PN2": [
+        "B10",
+        "B11"
+      ]
+    },
+    "bubble_order": [
+      "B1",
+      "B2",
+      "B3",
+      "B4",
+      "B6",
+      "B8",
+      "B7",
+      "B9",
+      "B12",
+      "B13",
+      "B14",
+      "B15",
+      "B10",
+      "B11"
+    ],
+    "unassigned_bubbles": [],
+    "needs_review": false,
+    "settings": {
+      "confidence": 0.25,
+      "image_size": 640,
+      "separation_threshold": 0.25,
+      "initial_cut": "one-page",
+      "row_tolerance": 40,
+      "panel_overrides": {}
+    },
+    "inputs_sha256": {
+      "bubbles_clean.json": "0bfd071686a7bbab3de46b213a959cf333801d0e09832663e5afe64646a83543",
+      "ocr_clean.json": "ec677fd7a36ce36cd446b83aa5ca31370b468b31d4802afac8e1766250581e32"
+    },
+    "detector_sha256": "73e0fb587ea3afe0d17aa9f0c3b1f5a8001b3ecbc3c77091e0730654b0da9146",
+    "estimator_sha256": {
+      "order_estimator.py": "7a087e2970890f34e4928935578f10529804004ab1c62f220a22214fa1686cc4",
+      "manga109utils.py": "3ac75e2b45f7523a59de8b2d044f028a193d935a3ba634d4ca14dd3fc65ba3a4"
+    }
+  }
+}

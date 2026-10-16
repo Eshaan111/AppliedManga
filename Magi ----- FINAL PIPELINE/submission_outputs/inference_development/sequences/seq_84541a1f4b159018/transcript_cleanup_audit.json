@@ -1,0 +1,326 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "SHOULD BE ABOUT TIME...",
+    "cleaned_text": "SHOULD BE ABOUT TIME...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "DAMMIT! AGAIN?!I CAN'T KEEP CONTROL.",
+    "cleaned_text": "DAMMIT! AGAIN?!I CAN'T KEEP CONTROL.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "THIS NS ITADORI KID!",
+    "cleaned_text": "THIS IS ITADORI KID!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "WoO..",
+    "cleaned_text": "WoO..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "WHAT IS HE?!",
+    "cleaned_text": "WHAT IS HE?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "OH...",
+    "cleaned_text": "OH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "WAS EVERY- THING OKAY?",
+    "cleaned_text": "WAS EVERY- THING OKAY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "WHAT A SURPRISE!",
+    "cleaned_text": "WHAT A SURPRISE!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "MUNK",
+    "cleaned_text": "MUNK",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "YOU REALLY CAN CONTROL IT.",
+    "cleaned_text": "YOU REALLY CAN CONTROL IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "YEAH BUT HE'S KIND OF ANNOYING.",
+    "cleaned_text": "YEAH BUT HE'S KIND OF ANNOYING.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 11,
+    "speaker": "NARRATION",
+    "raw_text": "ICAN HEAR HIS VOICE.",
+    "cleaned_text": "ICAN HEAR HIS VOICE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 12,
+    "speaker": "character1",
+    "raw_text": "IT'SA MIRACLE THAT'S THE ONLY SIDE EFFECT.",
+    "cleaned_text": "IT\u2019SA MIRACLE THAT\u2019S THE ONLY SIDE EFFECT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 13,
+    "speaker": "NARRATION",
+    "raw_text": "Tp",
+    "cleaned_text": "Tp",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "WHAT DID YOU DO?",
+    "cleaned_text": "WHAT DID YOU DO?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "HE'S HEAVY",
+    "cleaned_text": "HE\u2019S HEAVY",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "I KNOCKED HIM OUT.",
+    "cleaned_text": "I KNOCKED HIM OUT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "IF HE WAKES UP AND ISN'T POSSESSED",
+    "cleaned_text": "IF HE WAKES UP AND ISN'T POSSESSED",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "...HE MIGHT HAVE POTENTIAL ASA VESSEL.",
+    "cleaned_text": "...HE MIGHT HAVE POTENTIAL ASA VESSEL.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "OKAY, QUESTION FOR YA...",
+    "cleaned_text": "OKAY, QUESTION FOR YA...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "WHAT DOIDO WITH HIM?",
+    "cleaned_text": "WHAT DO I DO WITH HIM?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "EVEN IF HEISA POTENTIAL VESSEL...",
+    "cleaned_text": "EVEN IF HEISA POTENTIAL VESSEL...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "...HE MUST BE EXECUTED UNDER JUJUTSU REGULATIONS.",
+    "cleaned_text": "...HE MUST BE EXECUTED UNDER JUJUTSU REGULATIONS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character3",
+    "raw_text": "BUT I DON'T WANT TO LET HIM DIE!",
+    "cleaned_text": "BUT I DON'T WANT TO LET HIM DIE!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "IS THAT A PERSONAL OPINION?",
+    "cleaned_text": "IS THAT A PERSONAL OPINION?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "YES, A PERSONAL OPINION. PLEASE DO SOMETHING ABOUT IT.",
+    "cleaned_text": "YES, A PERSONAL OPINION. PLEASE DO SOMETHING ABOUT IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "HEH HEH HEH",
+    "cleaned_text": "HEH HEH HEH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "A PRECIOUS STUDENT'S REQUEST.",
+    "cleaned_text": "A PRECIOUS STUDENT'S REQUEST.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "LEAVE IT TO ME!",
+    "cleaned_text": "LEAVE IT TO ME!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "HAY!",
+    "cleaned_text": "HAY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "so WITH THAT, LET ME REITERATE ...",
+    "cleaned_text": "SO WITH THAT, LET ME REITERATE...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "YOU'RE GONNA BE EXECUTED.",
+    "cleaned_text": "YOU\u2019RE GONNA BE EXECUTED.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "THIS STORY DOESN'T MAKE SENSE SO FAR.",
+    "cleaned_text": "THIS STORY DOESN'T MAKE SENSE SO FAR.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "HEY, MAN, I TRIED.",
+    "cleaned_text": "HEY, MAN, I TRIED.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character2",
+    "raw_text": "AN EXECUTION IS AN EXECUTION, BUT...",
+    "cleaned_text": "AN EXECUTION IS AN EXECUTION, BUT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character2",
+    "raw_text": "WE'RE SUSPEND- ING THE SENTENCE.",
+    "cleaned_text": "WE'RE SUSPENDING THE SENTENCE.",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

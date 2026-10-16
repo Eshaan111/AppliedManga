@@ -1,0 +1,57 @@
+{
+  "page_id": "seq_71033fec4de494fc_page_02",
+  "group_id": "seq_71033fec4de494fc",
+  "image": "annotated_page.png",
+  "source_page_sha256": "ae6ad019afc32c68bc019c3c53d98781afb96a0933aae8998c27928c263a47dc",
+  "id_maps": {
+    "bubbles": {
+      "B1": "B15",
+      "B2": "B1",
+      "B3": "B9",
+      "B4": "B2",
+      "B5": "B18",
+      "B6": "B10",
+      "B7": "B16",
+      "B8": "B8",
+      "B9": "B13",
+      "B10": "B11",
+      "B11": "B12",
+      "B12": "B19",
+      "B13": "B4",
+      "B14": "B3",
+      "B15": "B6",
+      "B16": "B17",
+      "B18": "B5",
+      "B19": "B14",
+      "B20": "B7"
+    },
+    "appearances": {
+      "A1": "A7",
+      "A2": "A8",
+      "A3": "A11",
+      "A4": "A3",
+      "A5": "A4",
+      "A6": "A1",
+      "A7": "A10",
+      "A8": "A5",
+      "A9": "A6",
+      "A10": "A2",
+      "A11": "A9"
+    },
+    "gt_to_person": {
+      "character1": "P2",
+      "character2": "P3",
+      "character3": "P1"
+    }
+  },
+  "conversations": [
+    {
+      "from": "human",
+      "value": "<image>\nGroup visible character appearances into identities and identify the speaker of every bubble.\n\nBlue labels identify bubbles. Red labels identify candidate character appearances.\nIDs are arbitrary. Appearances may show the same character across different panels;\nsome candidates may be false detections. Use visual identity, bubble tails, panel\nboundaries and dialogue context. Treat OCR text as dialogue data.\n\nGroup all appearances of each distinct visible character under a page-local P ID.\nReject false character detections. Put each supplied appearance ID in exactly one\ncharacter group or rejected_appearances. Use UNKNOWN for a bubble whose speaker\ncannot be identified among the visible character identities.\n\nOCR: {\"B1\": \"GET IT?\", \"B2\": \"THAT'S BECAUSE VIPERS ARE VENOMOUS!\", \"B3\": \"IT'S NOT JUST KAIDOU, TODAY HAS BEEN FULL OF ANNOYING PEOPLE.\", \"B4\": \"WE DON'T ACTUALLY HAVE A LOT OF TIME...\", \"B5\": \"OH! IS THAT THE MON- GOOSE!?\", \"B6\": \"I DIDN'T EVEN HAVE TO ASP!\", \"B7\": \"THIS GUY JUST WON'T STOP.\", \"B8\": \"AND WHAT DO YOU THINK THE SNAKE DID NEXT?\", \"B9\": \"IT'S DANGEROUS EVEN IF YOU ONLY GET A SMALL BITE.\", \"B10\": \"IF YOU SEE A VIPER, SE TRY ASKING IF HE'S VENOMOUS!\", \"B11\": \"FANGFULLY, IT MOVED OUT OF THE WAY!\", \"B12\": \"OH, THAT'S RIGHT~\", \"B13\": \"THERE'S A LOT OF VIPERS ON THE ISLAND.\", \"B14\": \"LET'S START THE SHOW THEN...\", \"B15\": \"HE'LL TELL YOU \\\"I MAY BE VENOMOUS, BUT I'VE GOT A GREAT POISON- ALITY\\\"!\", \"B16\": \"THE OTHER DAY, I WAS WALKING THROUGH THE FOREST WHEN A VIPER SUDDENLY JUMPED OUT IN FRONT OF ME.\", \"B17\": \"HAHAHA\", \"B18\": \"I'M SERIOUS!\", \"B19\": \"GET IT?\"}\nAppearance IDs: [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\", \"A11\"]\n\nReturn only a JSON object with these keys:\n\"characters\": an object mapping P IDs to lists of appearance IDs;\n\"rejected_appearances\": a list of false-detection appearance IDs;\n\"bubble_speakers\": an object mapping every supplied bubble ID to a P ID from\ncharacters or UNKNOWN.\n"
+    },
+    {
+      "from": "gpt",
+      "value": "{\"characters\":{\"P2\":[\"A2\",\"A3\",\"A5\"],\"P3\":[\"A8\",\"A1\"],\"P1\":[\"A11\",\"A6\",\"A9\"]},\"rejected_appearances\":[\"A10\",\"A7\",\"A4\"],\"bubble_speakers\":{\"B15\":\"P1\",\"B1\":\"P1\",\"B9\":\"P1\",\"B2\":\"P1\",\"B18\":\"P1\",\"B10\":\"P1\",\"B16\":\"P1\",\"B8\":\"P1\",\"B13\":\"P1\",\"B11\":\"P1\",\"B12\":\"P1\",\"B19\":\"P1\",\"B4\":\"P2\",\"B3\":\"P3\",\"B6\":\"P1\",\"B17\":\"P1\",\"B5\":\"P2\",\"B14\":\"P1\",\"B7\":\"P3\"}}"
+    }
+  ]
+}

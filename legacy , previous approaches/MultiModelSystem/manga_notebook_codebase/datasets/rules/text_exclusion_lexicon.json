@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "purpose": "Advisory whole-region lexicon for visual review. Entries are not automatic exclusion rules or verified annotations.",
+  "policy": {
+    "include": [
+      "dialogue",
+      "internal thoughts",
+      "narration",
+      "clear spoken screams, grunts, and other vocalisations",
+      "punctuation-only speech/thought balloons, including ..., ?!, and !"
+    ],
+    "exclude": [
+      "visual sound effects and their translated captions",
+      "unclear tiny breath/reaction text on the art",
+      "titles, logos, credits, page numbers, ads, and watermarks",
+      "character intro labels",
+      "editor and scanlator notes",
+      "writing on signs, clothes, and objects",
+      "text inside letters, diaries, phone messages, news pages, other documents, and interfaces"
+    ],
+    "reading_order": "Use intended visual order, usually right-to-left manga; follow panels and balloon connections when layout indicates otherwise.",
+    "transcription": "Keep stutters, repeats, and meaningful punctuation; remove simple printed line wrapping.",
+    "speakers": "Thoughts belong to the thinking character. Use the exact label NARRATION only for narrator text."
+  },
+  "matching_policy": "Whole-region normalized matches suggest visual review only. Never delete matching words from dialogue. No fuzzy matching. A speech/thought balloon or clear spoken vocalisation overrides a sound-effect hint; numbers can also be speech. Unmatched target status is not a gold exclusion label.",
+  "entries": [
+    {
+      "term": "SKRSH",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "SNAP",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "THUNK",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "THUD",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "SHOOP",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "FWIP",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "BAM",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "CLACK",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "CHOMP",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "GULP",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "FSHH",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "KREPT",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "KREAK",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "RUSTL",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "GLUB",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "GLUB GLUB",
+      "category": "possible_visual_sound_effect",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "SFX: HOOFBEATS",
+      "category": "possible_translated_sound_effect_caption",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "SFX: GULP",
+      "category": "possible_translated_sound_effect_caption",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "MANGA",
+      "variants": [
+        "MANGA DO NOT MIRROR",
+        "MANGA DO NOT MIRRORT"
+      ],
+      "category": "possible_logo_or_watermark",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "STREAM",
+      "variants": [
+        "STREAM.com",
+        "STREAM DO NOT MIRROR",
+        "STREAM DONOTMIRROR",
+        "STREAM.com DO NOT MIRROR",
+        "STREAM.com DONOTMIRROR",
+        "STREAM.om DONOT MIRROR",
+        "STREAM.com DO NOT MIRRORT",
+        "STREAM.com DO NOTMIRROR"
+      ],
+      "category": "possible_logo_or_watermark",
+      "provenance": "observed_in_unmatched_validation_groups",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "BANG",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "BOOM",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "CRASH",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "CLANG",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "CLICK",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "CREAK",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "RUSTLE",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "WHOOSH",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "SWISH",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "SPLASH",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "DRIP",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "THUMP",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "KNOCK",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "SMACK",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "POW",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    },
+    {
+      "term": "ZAP",
+      "category": "possible_visual_sound_effect",
+      "provenance": "illustrative_seed_not_observed_or_verified",
+      "review_status": "unreviewed",
+      "requires_visual_confirmation": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sequences": 80,
+  "text_entries": 1753,
+  "narration": 76,
+  "unknown": 34,
+  "empty_texts": 0,
+  "empty_pages": 10,
+  "eligible_speakers": 258,
+  "triplet_eligible_sequences": 76,
+  "sequence_lengths": {
+    "min": 0,
+    "median": 23.0,
+    "max": 47
+  },
+  "exclusions": "Only nonempty characterN entries are embedding targets; other text remains context"
+}

@@ -1,0 +1,1073 @@
+{
+  "sequence_id": "seq_952f154fb1505883",
+  "page_index": 2,
+  "raw_count": 68,
+  "target_count": 14,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c1",
+        "c3",
+        "c5",
+        "c7"
+      ],
+      "text": "GOOD WORK TODAY, EVERY- BODY!",
+      "box": [
+        490.0,
+        84.0,
+        550.0,
+        176.0
+      ],
+      "id": "g0",
+      "score": 0.9998926162719727,
+      "target_index": 1,
+      "target_text": "GOOD WORK TODAY, EVERYBODY!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c2",
+        "c4",
+        "c6",
+        "c8",
+        "c10",
+        "c13",
+        "c16"
+      ],
+      "text": "YODA. HACHIKEN. YOU'RE TAKING OVER, SO CAN YOU HANG BACK FOR A MINUTE?",
+      "box": [
+        197.0,
+        126.0,
+        303.0,
+        245.0
+      ],
+      "id": "g1",
+      "score": 0.9904688767024449,
+      "target_index": 3,
+      "target_text": "YODA. HACHIKEN. YOU'RE TAKING OVER, SO CAN YOU HANG BACK FOR A MINUTE?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c9",
+        "c11",
+        "c14",
+        "c17"
+      ],
+      "text": "YEAH, GREAT JOB GUYS!",
+      "box": [
+        375.0,
+        168.0,
+        429.0,
+        244.0
+      ],
+      "id": "g2",
+      "score": 0.9998712539672852,
+      "target_index": 2,
+      "target_text": "YEAH, GREAT JOB GUYS!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c12",
+        "c15"
+      ],
+      "text": "GOOD LUCK!",
+      "box": [
+        613.0,
+        188.0,
+        661.0,
+        225.0
+      ],
+      "id": "g3",
+      "score": 0.9997507333755493,
+      "target_index": 0,
+      "target_text": "GOOD LUCK!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c18"
+      ],
+      "text": "SURE.",
+      "box": [
+        147.0,
+        299.0,
+        190.0,
+        314.0
+      ],
+      "id": "g4",
+      "score": 0.9995560646057129,
+      "target_index": 4,
+      "target_text": "SURE.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c19",
+        "c20"
+      ],
+      "text": "EHHH HHH!?",
+      "box": [
+        62.0,
+        329.0,
+        126.0,
+        379.0
+      ],
+      "id": "g5",
+      "score": 0.9972352981567383,
+      "target_index": 5,
+      "target_text": "EHHH HHH!?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c21",
+        "c23",
+        "c26",
+        "c30"
+      ],
+      "text": "WHY DID YOU CHOOSE ME?",
+      "box": [
+        714.0,
+        582.0,
+        779.0,
+        655.0
+      ],
+      "id": "g6",
+      "score": 0.9986222982406616,
+      "target_index": 6,
+      "target_text": "WHY DID YOU CHOOSE ME?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c22",
+        "c25",
+        "c28",
+        "c29",
+        "c33",
+        "c35"
+      ],
+      "text": "THERE'S NO WAY YOLUI CAN TELL ME THAT MIKAGE ISN'T WAY BETTER THAN I AM!",
+      "box": [
+        530.0,
+        599.0,
+        616.0,
+        686.0
+      ],
+      "id": "g7",
+      "score": 0.98695441087087,
+      "target_index": 7,
+      "target_text": "THERE'S NO WAY YOU CAN TELL ME THAT MIKAGE ISN'T WAY BETTER THAN I AM!",
+      "similarity": 0.9814814814814815
+    },
+    {
+      "candidate_ids": [
+        "c24",
+        "c27",
+        "c31",
+        "c32",
+        "c34",
+        "c36"
+      ],
+      "text": "THIS IS ABOUT BEING A TEAM MANAGER. IT HAS NOTHING TO DO WITH HOW GOOD YOU ARE.",
+      "box": [
+        47.0,
+        619.0,
+        151.0,
+        705.0
+      ],
+      "id": "g8",
+      "score": 0.9976814488569895,
+      "target_index": 8,
+      "target_text": "THIS IS ABOUT BEING A TEAM MANAGER. IT HAS NOTHING TO DO WITH HOW GOOD YOU ARE.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c37",
+        "c38",
+        "c39"
+      ],
+      "text": "YEZO AGRICULTY EQUESTR JOURN",
+      "box": [
+        730.0,
+        720.0,
+        810.0,
+        787.0
+      ],
+      "id": "g9",
+      "score": 0.9933644930521647,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c40",
+        "c42",
+        "c45",
+        "c47",
+        "c50",
+        "c53",
+        "c56",
+        "c59"
+      ],
+      "text": "HACHIKEN, YOU'RE HONEST WITH YOURSELF AND OTHERS, NO MATTER WHAT THE SITUATION IS, AREN'T YOU?",
+      "box": [
+        712.0,
+        904.0,
+        804.0,
+        1011.0
+      ],
+      "id": "g10",
+      "score": 0.9966939613223076,
+      "target_index": 9,
+      "target_text": "HACHIKEN, YOU'RE HONEST WITH YOURSELF AND OTHERS, NO MATTER WHAT THE SITUATION IS, AREN'T YOU?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c41",
+        "c44",
+        "c46",
+        "c49",
+        "c52",
+        "c55",
+        "c58",
+        "c60",
+        "c61",
+        "c62"
+      ],
+      "text": "I GUESS... BUT I'M STILL AGAINST THIS, YOU KNOW. I'M NOT EVEN COMPLETELY SURE WHY I CHOSE THIS SCHOOL, EITHER...",
+      "box": [
+        381.0,
+        922.0,
+        462.0,
+        1056.0
+      ],
+      "id": "g11",
+      "score": 0.9930978298187256,
+      "target_index": 11,
+      "target_text": "I GUESS... BUT I'M STILL AGAINST THIS, YOU KNOW. I'M NOT EVEN COMPLETELY SURE WHY I CHOSE THIS SCHOOL, EITHER...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c43",
+        "c48",
+        "c51",
+        "c54",
+        "c57"
+      ],
+      "text": "SEE? THAT'S EXACTLY THE HONESTY I WAS TALKING ABOUT.",
+      "box": [
+        50.0,
+        940.0,
+        141.0,
+        1021.0
+      ],
+      "id": "g12",
+      "score": 0.9968791007995605,
+      "target_index": 12,
+      "target_text": "SEE? THAT'S EXACTLY THE HONESTY I WAS TALKING ABOUT.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c63",
+        "c64",
+        "c65",
+        "c66"
+      ],
+      "text": "But don't GO BRAGGING about things like that!",
+      "box": [
+        83.0,
+        1082.0,
+        171.0,
+        1151.0
+      ],
+      "id": "g13",
+      "score": 0.9668178707361221,
+      "target_index": 13,
+      "target_text": "But don't go bragging about things like that!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c67"
+      ],
+      "text": "HM?",
+      "box": [
+        490.0,
+        1127.0,
+        531.0,
+        1148.0
+      ],
+      "id": "g14",
+      "score": 0.9994719624519348,
+      "target_index": 10,
+      "target_text": "HM?",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "GOOD",
+      "score": 0.9999724626541138,
+      "box": [
+        496.0,
+        84.0,
+        545.0,
+        103.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "WORK",
+      "score": 0.9999905824661255,
+      "box": [
+        496.0,
+        104.0,
+        544.0,
+        119.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "YODA.",
+      "score": 0.99994957447052,
+      "box": [
+        227.0,
+        126.0,
+        272.0,
+        144.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "TODAY,",
+      "score": 0.999856173992157,
+      "box": [
+        490.0,
+        118.0,
+        549.0,
+        141.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "HACHIKEN.",
+      "score": 0.9997938871383667,
+      "box": [
+        211.0,
+        142.0,
+        288.0,
+        161.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "EVERY-",
+      "score": 0.999687910079956,
+      "box": [
+        490.0,
+        139.0,
+        550.0,
+        157.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "YOU'RE TAKING",
+      "score": 0.9997462034225464,
+      "box": [
+        197.0,
+        162.0,
+        303.0,
+        175.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "BODY!",
+      "score": 0.999955952167511,
+      "box": [
+        493.0,
+        156.0,
+        547.0,
+        176.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "OVER, SO CAN",
+      "score": 0.9907934665679932,
+      "box": [
+        198.0,
+        177.0,
+        303.0,
+        194.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "YEAH,",
+      "score": 0.9998171925544739,
+      "box": [
+        377.0,
+        168.0,
+        426.0,
+        190.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "YOU HANG",
+      "score": 0.945684552192688,
+      "box": [
+        212.0,
+        194.0,
+        289.0,
+        211.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "GREAT",
+      "score": 0.9999879002571106,
+      "box": [
+        376.0,
+        188.0,
+        429.0,
+        206.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "GOOD",
+      "score": 0.9999817609786987,
+      "box": [
+        614.0,
+        188.0,
+        661.0,
+        206.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "BACK FOR",
+      "score": 0.999603807926178,
+      "box": [
+        213.0,
+        212.0,
+        288.0,
+        226.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "JOB",
+      "score": 0.9999518394470215,
+      "box": [
+        384.0,
+        206.0,
+        422.0,
+        224.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "LUCK!",
+      "score": 0.9995197057723999,
+      "box": [
+        613.0,
+        206.0,
+        661.0,
+        225.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "A MINUTE?",
+      "score": 0.997710645198822,
+      "box": [
+        210.0,
+        226.0,
+        290.0,
+        245.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "GUYS!",
+      "score": 0.9997280836105347,
+      "box": [
+        375.0,
+        223.0,
+        428.0,
+        244.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "SURE.",
+      "score": 0.9995560646057129,
+      "box": [
+        147.0,
+        299.0,
+        190.0,
+        314.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "EHHH",
+      "score": 0.9989732503890991,
+      "box": [
+        65.0,
+        329.0,
+        125.0,
+        354.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "HHH!?",
+      "score": 0.9954973459243774,
+      "box": [
+        62.0,
+        354.0,
+        126.0,
+        379.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "WHY",
+      "score": 0.9998099207878113,
+      "box": [
+        728.0,
+        582.0,
+        766.0,
+        600.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "THERE'S NO",
+      "score": 0.9998539090156555,
+      "box": [
+        535.0,
+        599.0,
+        611.0,
+        613.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "DID YOU",
+      "score": 0.994997501373291,
+      "box": [
+        715.0,
+        600.0,
+        779.0,
+        618.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "THIS IS ABOUT",
+      "score": 0.9993460178375244,
+      "box": [
+        54.0,
+        619.0,
+        145.0,
+        633.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "WAY YOLUI CAN",
+      "score": 0.9226976633071899,
+      "box": [
+        530.0,
+        614.0,
+        616.0,
+        628.0
+      ]
+    },
+    {
+      "id": "c26",
+      "text": "CHOOSE",
+      "score": 0.999981164932251,
+      "box": [
+        714.0,
+        618.0,
+        779.0,
+        636.0
+      ]
+    },
+    {
+      "id": "c27",
+      "text": "BEING A TEAM",
+      "score": 0.9991660714149475,
+      "box": [
+        54.0,
+        631.0,
+        144.0,
+        648.0
+      ]
+    },
+    {
+      "id": "c28",
+      "text": "TELL ME THAT",
+      "score": 0.9998417496681213,
+      "box": [
+        530.0,
+        629.0,
+        616.0,
+        643.0
+      ]
+    },
+    {
+      "id": "c29",
+      "text": "MIKAGE ISN'T",
+      "score": 0.9997572302818298,
+      "box": [
+        531.0,
+        643.0,
+        614.0,
+        657.0
+      ]
+    },
+    {
+      "id": "c30",
+      "text": "ME?",
+      "score": 0.9997006058692932,
+      "box": [
+        728.0,
+        636.0,
+        765.0,
+        655.0
+      ]
+    },
+    {
+      "id": "c31",
+      "text": "MANAGER. IT",
+      "score": 0.9905804991722107,
+      "box": [
+        57.0,
+        648.0,
+        143.0,
+        662.0
+      ]
+    },
+    {
+      "id": "c32",
+      "text": "HAS NOTHING TO",
+      "score": 0.9998419880867004,
+      "box": [
+        47.0,
+        663.0,
+        151.0,
+        677.0
+      ]
+    },
+    {
+      "id": "c33",
+      "text": "WAY BETTER",
+      "score": 0.9999165534973145,
+      "box": [
+        533.0,
+        658.0,
+        612.0,
+        672.0
+      ]
+    },
+    {
+      "id": "c34",
+      "text": "DO WITH HOW",
+      "score": 0.9978540539741516,
+      "box": [
+        55.0,
+        677.0,
+        144.0,
+        691.0
+      ]
+    },
+    {
+      "id": "c35",
+      "text": "THAN I AM!",
+      "score": 0.9996593594551086,
+      "box": [
+        536.0,
+        672.0,
+        610.0,
+        686.0
+      ]
+    },
+    {
+      "id": "c36",
+      "text": "GOOD YOU ARE.",
+      "score": 0.9993000626564026,
+      "box": [
+        50.0,
+        692.0,
+        147.0,
+        705.0
+      ]
+    },
+    {
+      "id": "c37",
+      "text": "YEZO AGRICULTY",
+      "score": 0.9805088639259338,
+      "box": [
+        730.0,
+        720.0,
+        805.0,
+        752.0
+      ]
+    },
+    {
+      "id": "c38",
+      "text": "EQUESTR",
+      "score": 0.9997731447219849,
+      "box": [
+        741.0,
+        736.0,
+        810.0,
+        775.0
+      ]
+    },
+    {
+      "id": "c39",
+      "text": "JOURN",
+      "score": 0.9998114705085754,
+      "box": [
+        762.0,
+        762.0,
+        807.0,
+        787.0
+      ]
+    },
+    {
+      "id": "c40",
+      "text": "HACHIKEN,",
+      "score": 0.9998352527618408,
+      "box": [
+        727.0,
+        904.0,
+        788.0,
+        921.0
+      ]
+    },
+    {
+      "id": "c41",
+      "text": "I GUESS...",
+      "score": 0.9820817708969116,
+      "box": [
+        388.0,
+        922.0,
+        453.0,
+        939.0
+      ]
+    },
+    {
+      "id": "c42",
+      "text": "YOU'RE HONEST",
+      "score": 0.9994513392448425,
+      "box": [
+        713.0,
+        919.0,
+        804.0,
+        932.0
+      ]
+    },
+    {
+      "id": "c43",
+      "text": "SEE? THAT'S",
+      "score": 0.9992156624794006,
+      "box": [
+        52.0,
+        940.0,
+        141.0,
+        957.0
+      ]
+    },
+    {
+      "id": "c44",
+      "text": "BUT I'M STILL",
+      "score": 0.96589595079422,
+      "box": [
+        381.0,
+        938.0,
+        462.0,
+        951.0
+      ]
+    },
+    {
+      "id": "c45",
+      "text": "WITH YOURSELF",
+      "score": 0.9998680949211121,
+      "box": [
+        712.0,
+        932.0,
+        804.0,
+        945.0
+      ]
+    },
+    {
+      "id": "c46",
+      "text": "AGAINST THIS,",
+      "score": 0.9989486932754517,
+      "box": [
+        381.0,
+        951.0,
+        462.0,
+        964.0
+      ]
+    },
+    {
+      "id": "c47",
+      "text": "AND OTHERS,",
+      "score": 0.9998765587806702,
+      "box": [
+        720.0,
+        945.0,
+        796.0,
+        959.0
+      ]
+    },
+    {
+      "id": "c48",
+      "text": "EXACTLY THE",
+      "score": 0.9996658563613892,
+      "box": [
+        52.0,
+        958.0,
+        140.0,
+        972.0
+      ]
+    },
+    {
+      "id": "c49",
+      "text": "YOU KNOW.",
+      "score": 0.9990060329437256,
+      "box": [
+        388.0,
+        966.0,
+        453.0,
+        977.0
+      ]
+    },
+    {
+      "id": "c50",
+      "text": "NO MATTER",
+      "score": 0.9771718978881836,
+      "box": [
+        725.0,
+        960.0,
+        791.0,
+        971.0
+      ]
+    },
+    {
+      "id": "c51",
+      "text": "HONESTY I",
+      "score": 0.9976306557655334,
+      "box": [
+        58.0,
+        971.0,
+        135.0,
+        990.0
+      ]
+    },
+    {
+      "id": "c52",
+      "text": "I'M NOT EVEN",
+      "score": 0.9996158480644226,
+      "box": [
+        382.0,
+        978.0,
+        462.0,
+        991.0
+      ]
+    },
+    {
+      "id": "c53",
+      "text": "WHAT THE",
+      "score": 0.9995760321617126,
+      "box": [
+        729.0,
+        973.0,
+        788.0,
+        984.0
+      ]
+    },
+    {
+      "id": "c54",
+      "text": "WAS TALKING",
+      "score": 0.9999535083770752,
+      "box": [
+        50.0,
+        987.0,
+        141.0,
+        1006.0
+      ]
+    },
+    {
+      "id": "c55",
+      "text": "COMPLETELY",
+      "score": 0.999975323677063,
+      "box": [
+        386.0,
+        992.0,
+        457.0,
+        1003.0
+      ]
+    },
+    {
+      "id": "c56",
+      "text": "SITUATION IS,",
+      "score": 0.9986804127693176,
+      "box": [
+        720.0,
+        985.0,
+        795.0,
+        999.0
+      ]
+    },
+    {
+      "id": "c57",
+      "text": "ABOUT.",
+      "score": 0.9879298210144043,
+      "box": [
+        69.0,
+        1004.0,
+        122.0,
+        1021.0
+      ]
+    },
+    {
+      "id": "c58",
+      "text": "SURE WHY I",
+      "score": 0.9864974021911621,
+      "box": [
+        387.0,
+        1006.0,
+        457.0,
+        1017.0
+      ]
+    },
+    {
+      "id": "c59",
+      "text": "AREN'T YOU?",
+      "score": 0.9990921020507812,
+      "box": [
+        722.0,
+        1000.0,
+        794.0,
+        1011.0
+      ]
+    },
+    {
+      "id": "c60",
+      "text": "CHOSE THIS",
+      "score": 0.9998602867126465,
+      "box": [
+        388.0,
+        1018.0,
+        455.0,
+        1029.0
+      ]
+    },
+    {
+      "id": "c61",
+      "text": "SCHOOL,",
+      "score": 0.999912679195404,
+      "box": [
+        396.0,
+        1030.0,
+        446.0,
+        1044.0
+      ]
+    },
+    {
+      "id": "c62",
+      "text": "EITHER...",
+      "score": 0.9991843104362488,
+      "box": [
+        396.0,
+        1045.0,
+        446.0,
+        1056.0
+      ]
+    },
+    {
+      "id": "c63",
+      "text": "But don't",
+      "score": 0.9998762607574463,
+      "box": [
+        88.0,
+        1082.0,
+        158.0,
+        1109.0
+      ]
+    },
+    {
+      "id": "c64",
+      "text": "GO BRAGGING",
+      "score": 0.910408616065979,
+      "box": [
+        83.0,
+        1097.0,
+        168.0,
+        1124.0
+      ]
+    },
+    {
+      "id": "c65",
+      "text": "about things",
+      "score": 0.9573848843574524,
+      "box": [
+        83.0,
+        1111.0,
+        171.0,
+        1137.0
+      ]
+    },
+    {
+      "id": "c66",
+      "text": "like that!",
+      "score": 0.9996017217636108,
+      "box": [
+        97.0,
+        1126.0,
+        161.0,
+        1151.0
+      ]
+    },
+    {
+      "id": "c67",
+      "text": "HM?",
+      "score": 0.9994719624519348,
+      "box": [
+        490.0,
+        1127.0,
+        531.0,
+        1148.0
+      ]
+    }
+  ],
+  "transcript": "GOOD WORK TODAY, EVERY- BODY!\nYODA. HACHIKEN. YOU'RE TAKING OVER, SO CAN YOU HANG BACK FOR A MINUTE?\nYEAH, GREAT JOB GUYS!\nGOOD LUCK!\nSURE.\nEHHH HHH!?\nWHY DID YOU CHOOSE ME?\nTHERE'S NO WAY YOLUI CAN TELL ME THAT MIKAGE ISN'T WAY BETTER THAN I AM!\nTHIS IS ABOUT BEING A TEAM MANAGER. IT HAS NOTHING TO DO WITH HOW GOOD YOU ARE.\nYEZO AGRICULTY EQUESTR JOURN\nHACHIKEN, YOU'RE HONEST WITH YOURSELF AND OTHERS, NO MATTER WHAT THE SITUATION IS, AREN'T YOU?\nI GUESS... BUT I'M STILL AGAINST THIS, YOU KNOW. I'M NOT EVEN COMPLETELY SURE WHY I CHOSE THIS SCHOOL, EITHER...\nSEE? THAT'S EXACTLY THE HONESTY I WAS TALKING ABOUT.\nBut don't GO BRAGGING about things like that!\nHM?",
+  "sample_index": 13,
+  "preview_file": "sample_13_page_2.html"
+}

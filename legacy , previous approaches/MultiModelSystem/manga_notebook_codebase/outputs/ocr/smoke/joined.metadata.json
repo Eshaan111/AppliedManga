@@ -1,0 +1,11 @@
+{
+  "candidates_sha256": "9a4afdc92b21c1ce9c479b7021f3293955187015e5028b957b6ee24d091035ab",
+  "output_sha256": "0c605fc6c0c72605a04ef80c7202d2b08e079747b1b1bc843e8b62a19241ac5c",
+  "code_sha256": "b312f3001071b9dbcd39acc9dd164182b27ec471b3a38911feb0e383ee08ed5a",
+  "entrypoint_sha256": "7a9b95ce488b1aa66c8ce22af67f9bbda79fbc6f0e727c0aaaa7bcd3d017dcb3",
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "config": {
+    "max_gap": 1.25,
+    "center_tolerance": 1.5
+  }
+}

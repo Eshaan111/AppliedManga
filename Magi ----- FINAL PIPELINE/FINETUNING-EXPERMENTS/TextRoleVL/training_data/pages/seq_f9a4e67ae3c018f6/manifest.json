@@ -1,0 +1,280 @@
+{
+  "sequence_id": "seq_f9a4e67ae3c018f6",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "When it's your time to go, make sure you're surrounded by others."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Don't end up like me."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Grandpa?"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Yes? How I may I help you? You?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "MR. ITA- DORI?"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "My Grandpa is dead."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Sugisawa Hospital"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Reception"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Registration"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Yup, that should be it for the documents."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Okay. Thanks for every- thing."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Are you sure you're okay?"
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "Well, it's kind of my first time experiencing this. It hasn't really sunk in yet..."
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "My Grandpa would be mad if I moped around..."
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "...so I'll just have to laugh while I burn him up."
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "How can you say that?!"
+    },
+    {
+      "id": "PG2:T12",
+      "page": 2,
+      "text": "YUJ! Itadori, correct?"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "I'm from Jujutsu high school."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Sorry, but there's no time."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Julustsu High School First-Year Megumi FUSHIGURO"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "The cursed object you have is extremely dangerous. Hand it over right away."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Who are you? I'm mourn- ING..."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "cursed object?"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Friend?"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "this. You have it, right?"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "Hmm?"
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "Oh yeah! I found it."
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "I don't really mind giving it back, but my fellow club members have taken a liking to it."
+    },
+    {
+      "id": "PG3:T12",
+      "page": 3,
+      "text": "I'd at least like an expla- nation."
+    },
+    {
+      "id": "PG3:T13",
+      "page": 3,
+      "text": "..."
+    },
+    {
+      "id": "PG3:T14",
+      "page": 3,
+      "text": "Nationally, the average number of unexplanned deaths and missing persons exceeds 10,000 annually."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL6",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL7",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T8",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T9",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T10",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T11",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T12",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T8",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T9",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T11",
+      "tail_id": "PG3:TAIL7"
+    },
+    {
+      "text_id": "PG3:T13",
+      "tail_id": "PG3:TAIL6"
+    }
+  ]
+}

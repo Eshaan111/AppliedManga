@@ -1,0 +1,540 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WOAHH!! ...THE SNAKE!!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "WRIGGLE",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "TAKE IT OFF! TAKE It OFF!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THIS IS BAD! It's TOING TO BITE ME!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "WAAAAAHHH",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NANKURU- NAISA.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "VIPER SAKE",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M2",
+      "box_ids": [
+        "PG1:T13",
+        "PG1:T15"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HAHA, you SURE SCARE EASy KID~ BUT THAT'S A GOOD THING.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T14",
+      "box_ids": [
+        "PG1:T14"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "PANT PANT",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T17",
+      "box_ids": [
+        "PG1:T17"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "REAL VIPERS ARE ACTUALLY VERY DAN- GEROUS.<",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T18",
+      "box_ids": [
+        "PG1:T18"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IF YOU SEE A VIPER OLTSIDE, YOU SHOULD GET OUT OF THERE RIGHT AWAY!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T19",
+      "box_ids": [
+        "PG1:T19"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "OW",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T21",
+      "box_ids": [
+        "PG1:T21"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IF YOU GET BITTEN, YOU MIGHT END UP LOSING YOUR LIFE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T22",
+      "box_ids": [
+        "PG1:T22"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DO YOU KNOW WHERE SNAKES TEND TO BITE THE MOST?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T23",
+      "box_ids": [
+        "PG1:T23"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "GULP...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T24",
+      "box_ids": [
+        "PG1:T24"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "UH..? THE LEGS?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T25",
+      "box_ids": [
+        "PG1:T25"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YES! THEY GO FOR THE FEET!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T26",
+      "box_ids": [
+        "PG1:T26"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "A BITE TO THE FEET WILL PUT YOU TO SLEEP, AND THEN YOU MIGHT NEVER SNAKE UP AGAIN!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T27",
+      "box_ids": [
+        "PG1:T27"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...GET IT?",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'S DANGEROUS EVEN IF YOU ONLY GET A SMALL BITE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THAT'S BECAUSE VIPERS ARE VENOMOUS!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T4",
+        "PG2:T5"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "I'M SERIOUS! IF YOU SEE A VIPER, TRY ASKING IF HE'S VENOMOUS!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HE'LL TELL YOU \"I MAY BE VENOMOUS, BUT I'VE GOT A GREAT POISON- ALITY\"!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T7",
+      "box_ids": [
+        "PG2:T7"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "GET IT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T8",
+      "box_ids": [
+        "PG2:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THERE'S A LOT OF VIPERS ON THE ISLAND.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T9",
+      "box_ids": [
+        "PG2:T9"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THE OTHER DAY, I WAS WALKING THROUGH THE FOREST WHEN A VIPER SUDDENLY JUMPED OUT IN FRONT OF ME.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T10",
+      "box_ids": [
+        "PG2:T10"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND WHAT DO YOU THINK THE SNAKE DID NEXT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M2",
+      "box_ids": [
+        "PG2:T11",
+        "PG2:T12"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "FANGFULLY, IT MOVED OUT OF THE WAY! I DIDN'T EVEN HAVE TO ASP!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T13",
+      "box_ids": [
+        "PG2:T13"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "GET IT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T14",
+      "box_ids": [
+        "PG2:T14"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "HAHAHA",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T15",
+      "box_ids": [
+        "PG2:T15"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THIS GuY JUST WON'T STOP.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T16",
+      "box_ids": [
+        "PG2:T16"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "IT'S NOT JUST KAIDOU, TODAY HAS BEEN FULL OF ANNOYING PEOPLE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T17",
+      "box_ids": [
+        "PG2:T17"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WE DON'T ACTUALLY HAVE A LOT OF TIME...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T18",
+      "box_ids": [
+        "PG2:T18"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OH, THAT'S RIGHT~",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T19",
+      "box_ids": [
+        "PG2:T19"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "LET'S START THE SHOW THEN...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T21",
+      "box_ids": [
+        "PG2:T21"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OH! IS THAT THE MON- 600SE!?",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HERE WE GO.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...HUH?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WH... WHAT'S WITH THE TV \u2026?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T5",
+      "box_ids": [
+        "PG3:T5"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'S THE VIPER VS MON- GOOSE FIGHT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I'LL BE PLAYING IT ON VCR.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T8",
+      "box_ids": [
+        "PG3:T8"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THEY'RE NOT GOING TO FIGHT LIVE!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T9",
+        "PG3:T10"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THAT'S HOW WE USED TO DO IT, BUT NOW THERE ARE ANIMAL .PROTECTION LAWS... EHH... But Then The WiNner IS ALREADY PRE-DETER- MINED...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T11",
+      "box_ids": [
+        "PG3:T11"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT DOESN'T REALLY MATTER, THE MONGOOSE IS STRONGER EVERY TIME.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T12",
+      "box_ids": [
+        "PG3:T12"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I'VE BEEN DOING THIS JOB FOR A LONG TIME BUT I'VE NEVER SEEN THE VIPER WIN.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T13",
+      "box_ids": [
+        "PG3:T13"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THE FIGHT IS MUCH GARDER FOR THE SNAKE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T14",
+      "box_ids": [
+        "PG3:T14"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "EHHHHH",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T15",
+      "box_ids": [
+        "PG3:T15"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OKAY, TIME TO START THE VIDEO.",
+      "needs_review": false
+    }
+  ]
+]

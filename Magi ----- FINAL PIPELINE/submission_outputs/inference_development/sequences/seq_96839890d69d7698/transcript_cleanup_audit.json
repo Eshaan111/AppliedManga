@@ -1,0 +1,92 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "ONE'S STILL ALIVE.",
+    "cleaned_text": "ONE\u2019S STILL ALIVE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "HMPH...",
+    "cleaned_text": "HMPH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "UNKNOWN",
+    "raw_text": "YOU'RE A STRANGE ONE.",
+    "cleaned_text": "YOU\u2019RE A STRANGE ONE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "UNKNOWN",
+    "raw_text": "YOU DON'T SMELL LIKE A DEVIL OR A HUMAN.",
+    "cleaned_text": "YOU DON'T SMELL LIKE A DEVIL OR A HUMAN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "DID YOU DO THIS?",
+    "cleaned_text": "DID YOU DO THIS?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character6",
+    "raw_text": "H-..",
+    "cleaned_text": "H-..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "HOLD ME...",
+    "cleaned_text": "HOLD ME...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character10",
+    "raw_text": "IT'S A HUMAN...",
+    "cleaned_text": "IT\u2019S A HUMAN...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "COULD HE BE TAKEN OVER BY A DEVIL?",
+    "cleaned_text": "COULD HE BE TAKEN OVER BY A DEVIL?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character5",
+    "raw_text": "NO YOU CAN TELL TAKE-OVERS BY LOOKING AT THEIR FACE.",
+    "cleaned_text": "NO YOU CAN TELL TAKE-OVERS BY LOOKING AT THEIR FACE.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

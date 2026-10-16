@@ -1,0 +1,7 @@
+__pycache__/
+models/
+vendor/
+.ipynb_checkpoints/
+outputs/
+character_crops/
+annotations/annotate.html

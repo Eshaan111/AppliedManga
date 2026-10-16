@@ -1,0 +1,12 @@
+{
+  "triplet_accuracy": 0.5499232433291633,
+  "pairwise_auc": 0.5217003992996397,
+  "margin_satisfaction": 0.37727306639949737,
+  "positive_mean": 2.625084122021993,
+  "negative_mean": 2.6930014848709107,
+  "positive_median": 2.5565540711085,
+  "negative_median": 2.5902286370595298,
+  "sequences_evaluated": 16,
+  "triplet_sequences": 14,
+  "auc_sequences": 14
+}

@@ -1,0 +1,132 @@
+{
+  "sequence_id": "seq_210721b0d576149f",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Eating bread with jam smothered all over it with you pochita,"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Makin' out with a girl,"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Playin' games together in our room..."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "And Fallin' asleep in her arms..."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "MAN: THE ANLOR DO NOT MIRROR"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Pretty great dream, don't you think?"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": ",000"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "\"Oh, I'm"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "MAN GAITREAM, do not mirror?"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "...."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "My mom... died from a heart issue that made her cough up blood..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Denji, we've got another devil."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Time to work."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "At least let me dream a little..."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "MANGA STREALIA do not mirror"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

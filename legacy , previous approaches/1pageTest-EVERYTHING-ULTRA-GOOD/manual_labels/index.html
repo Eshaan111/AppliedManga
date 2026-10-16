@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Match GT characters to appearances</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f5f5f3;color:#202323;font:15px system-ui,sans-serif}header{padding:16px 24px;background:white;border-bottom:1px solid #ddd}h1{font-size:21px;margin:0 0 5px}p{margin:6px 0;line-height:1.5}.layout{display:grid;grid-template-columns:minmax(500px,1fr) 370px;gap:22px;padding:22px;align-items:start}.page{background:white;border:1px solid #ddd;overflow:auto}svg{display:block;width:100%;height:auto}.controls{position:sticky;top:18px;background:white;border:1px solid #ddd;border-radius:8px;padding:18px}textarea,input,select{width:100%;padding:10px;border:1px solid #aaa;border-radius:5px;font:15px ui-monospace,monospace}textarea{height:185px;resize:vertical}label{display:block;font-weight:600;margin:15px 0 7px}button{cursor:pointer;padding:10px 16px;border:0;border-radius:5px;background:#2265c8;color:white;font:inherit;margin-top:14px}button:disabled{opacity:.5}small{color:#636969;display:block;line-height:1.5;margin:8px 0}#status{overflow-wrap:anywhere;font-size:13px}.bubble-list{max-height:36vh;overflow:auto;border-top:1px solid #ddd;margin-top:18px}.bubble-row{padding:9px 0;border-bottom:1px solid #eee;font-size:13px}.blue{color:#185cc4}.red{color:#c12532}.toolbar{display:flex;gap:16px;align-items:center;padding:10px;background:white;border-bottom:1px solid #ddd}.toolbar label{font-size:13px;margin:0;font-weight:400}.toolbar input{width:auto}#error{color:#a21d24;padding:20px;display:none}.hidden{display:none}@media(max-width:900px){.layout{display:flex;flex-direction:column;padding:12px}.page,.controls{width:100%}.controls{position:static}}
+</style>
+<header><h1>Match GT characters to appearances</h1><p id="page-name">Loading page…</p></header>
+<div id="error"></div>
+<main class="layout">
+ <section class="page"><div class="toolbar"><label><input id="show-bubbles" type="checkbox" checked> Bubble speakers</label><label><input id="show-appearances" type="checkbox" checked> Appearances</label><small>Use browser zoom for a closer look.</small></div><svg id="page" xmlns="http://www.w3.org/2000/svg"></svg></section>
+ <aside class="controls">
+  <p><span class="blue">Blue: bubble + GT identity.</span><br><span class="red">Red: appearance ID. Dashed: face box.</span></p>
+  <small>A1 is the notebook’s C1 detection, A2 is C2, and so on. Assign all appearances of the same person to their GT identity.</small>
+  <label for="answer">Your character mappings</label>
+  <textarea id="answer" spellcheck="false" placeholder="Char1 - A1, A4&#10;Char2 - A2, A3&#10;Char3 - A5, A6"></textarea>
+  <small>Char1 and character1 mean the same GT identity. Leave an identity blank if it has no visible appearance.</small>
+  <label for="rejected">False detections (optional)</label><input id="rejected" placeholder="A7, A8" spellcheck="false">
+  <button id="save" disabled>Save response</button>
+  <p id="status" role="status" aria-live="polite"></p>
+  <small>Your response is saved to a local JSON file and restored when you reopen this page. The GT overlay is generated fresh and is not saved.</small>
+  <label>Correct bubble speakers</label><small>Choose a GT character for an unmatched or incorrect bubble. UNKNOWN means no identifiable visible speaker. Saved corrections update the blue labels.</small>
+  <div id="bubble-list" class="bubble-list"></div>
+ </aside>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const NS = 'http://www.w3.org/2000/svg';
+let state, dirty = false, bubbleOverrides = {};
+function changed() { dirty=true; $('status').textContent='Unsaved changes — click Save response.'; }
+function drawBubbles() {
+ const group=$('bubble-overlay'); group.replaceChildren();
+ for(const b of state.bubbles) mark(group,b.box,`${b.bubble_id} · ${b.speaker || 'unmatched'}`,'#185cc4');
+}
+function svgElement(tag, attributes, text) {
+ const node = document.createElementNS(NS, tag);
+ for (const [name,value] of Object.entries(attributes)) node.setAttribute(name,value);
+ if (text !== undefined) node.textContent = text;
+ return node;
+}
+function mark(group, box, text, color, dashed = false) {
+ const [x1,y1,x2,y2] = box;
+ group.append(svgElement('rect',{x:x1,y:y1,width:x2-x1,height:y2-y1,fill:'none',stroke:color,'stroke-width':2,...(dashed?{'stroke-dasharray':'6 4'}:{})}));
+ if (!text) return;
+ const width = text.length * 8 + 12;
+ const x = Math.max(0, Math.min(x1, state.page.width-width));
+ const y = Math.max(0,y1-23);
+ group.append(svgElement('rect',{x,y,width,height:23,fill:'white',stroke:color}));
+ group.append(svgElement('text',{x:x+5,y:y+16,fill:color,'font-size':14,'font-family':'system-ui,sans-serif','font-weight':600},text));
+}
+async function load() {
+ try {
+  const response = await fetch('/api/state',{cache:'no-store'});
+  state = await response.json();
+  if (!response.ok) throw Error(state.error);
+  $('page-name').textContent = `${state.sequence_id} · page ${state.page_number} · ${state.appearances.length} appearances`;
+  const svg = $('page');
+  svg.setAttribute('viewBox',`0 0 ${state.page.width} ${state.page.height}`);
+  svg.append(svgElement('image',{href:'/page.png',width:state.page.width,height:state.page.height}));
+  const appearances = svgElement('g',{id:'appearance-overlay'});
+  const bubbles = svgElement('g',{id:'bubble-overlay'});
+  svg.append(appearances,bubbles);
+  for (const a of state.appearances) {
+   mark(appearances,a.box,a.appearance_id,'#c12532');
+   if (a.face) mark(appearances,a.face.box,null,'#c12532',true);
+  }
+  bubbleOverrides={...(state.saved?.bubble_speaker_overrides || {})};
+  drawBubbles();
+  for (const b of state.bubbles) {
+   const row = document.createElement('div'); row.className='bubble-row';
+   const title = document.createElement('strong'); title.textContent=`${b.bubble_id} → ${b.speaker || 'unmatched'}`;
+   const transcript = document.createElement('div'); transcript.textContent=b.text;
+   const select=document.createElement('select');
+   select.setAttribute('aria-label',`${b.bubble_id} speaker`);
+   const choices=[['',`Automatic: ${b.automatic_speaker || 'unmatched'}`],...state.speakers.map(s=>[s,s]),['UNKNOWN','UNKNOWN']];
+   for(const [value,label] of choices) {const option=document.createElement('option');option.value=value;option.textContent=label;select.append(option);}
+   select.value=bubbleOverrides[b.bubble_id] || '';
+   select.addEventListener('change',()=>{
+    if(select.value) bubbleOverrides[b.bubble_id]=select.value;
+    else delete bubbleOverrides[b.bubble_id];
+    b.speaker=select.value || b.automatic_speaker;
+    title.textContent=`${b.bubble_id} → ${b.speaker || 'unmatched'}`;
+    drawBubbles();changed();
+   });
+   row.append(title,transcript,select); $('bubble-list').append(row);
+  }
+  $('answer').value=state.saved ? state.saved.answer : state.speakers.map(s=>`${s} - `).join('\n');
+  $('rejected').value=state.saved ? state.saved.rejected_answer : '';
+  $('status').textContent=state.saved ? 'Restored your saved response.' : 'Enter your mappings, then click Save response.';
+  $('save').disabled=false;
+ } catch(error) { $('error').textContent=error.message; $('error').style.display='block'; }
+}
+async function save() {
+ $('save').disabled=true;
+ try {
+  const response=await fetch('/api/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
+   answer:$('answer').value,rejected:$('rejected').value,bubble_speaker_overrides:bubbleOverrides,
+   page_sha256:state.page.sha256,detections_sha256:state.detections_sha256
+  })});
+  const result=await response.json();
+  if(!response.ok) throw Error(result.error);
+  dirty=false;
+  $('status').textContent=`Saved to ${result.saved}`+(result.unassigned.length?` · Still unassigned: ${result.unassigned.join(', ')}`:' · All appearances labeled.');
+ } catch(error) { $('status').textContent=error.message; }
+ finally { $('save').disabled=false; }
+}
+$('save').addEventListener('click',save);
+for(const id of ['answer','rejected']) $(id).addEventListener('input',changed);
+for(const [checkbox,group] of [['show-bubbles','bubble-overlay'],['show-appearances','appearance-overlay']]) $(checkbox).addEventListener('change',()=>$(group).classList.toggle('hidden',!$(checkbox).checked));
+window.addEventListener('beforeunload',event=>{if(dirty){event.preventDefault();event.returnValue='';}});
+document.addEventListener('keydown',event=>{if((event.ctrlKey||event.metaKey)&&event.key==='s'){event.preventDefault();if(state)save();}});
+load();
+</script>
+</html>

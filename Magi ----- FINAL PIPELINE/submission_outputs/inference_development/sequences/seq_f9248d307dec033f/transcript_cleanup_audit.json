@@ -1,0 +1,101 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "HEY, KAYO!",
+    "cleaned_text": "HEY, KAYO!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "WHY ARE YOU TAKING SO LONG TO PUT AWAY THE OIL? HURRY UP!",
+    "cleaned_text": "WHY ARE YOU TAKING SO LONG TO PUT AWAY THE OIL? HURRY UP!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "YES, MA'AM...",
+    "cleaned_text": "YES, MA'AM...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "I'LL GET IT DONE RIGHT AWAY.",
+    "cleaned_text": "I\u2019LL GET IT DONE RIGHT AWAY.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "MY GOODNESS.",
+    "cleaned_text": "MY GOODNESS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "OH, OOPS. A DELIVERY? I DIDN'T KNOW WE WERE EXPECTING ONE.",
+    "cleaned_text": "OH, OOPS. A DELIVERY? I DIDN'T KNOW WE WERE EXPECTING ONE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "NO... I AM AN APOTHECARY.",
+    "cleaned_text": "NO... I AM AN APOTHECARY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "OH, WAIT A MINUTE! WE DON'T HAVE TIME FOR THAT SORT OF THING TODAY!",
+    "cleaned_text": "OH, WAIT A MINUTE! WE DON'T HAVE TIME FOR THAT SORT OF THING TODAY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "BECAUSE OF THE WEDDING?",
+    "cleaned_text": "BECAUSE OF THE WEDDING?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character18",
+    "raw_text": "YES, YES.",
+    "cleaned_text": "YES, YES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character18",
+    "raw_text": "LADY MAO IS BEING WED TO LORD SHIONO.",
+    "cleaned_text": "LADY MAO IS BEING WED TO LORD SHIONO.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "metric": "triplet_accuracy",
+    "sequences": 14,
+    "mean_change": 0.0209879241550531,
+    "lower_95": -0.022119423148285126,
+    "upper_95": 0.059832002449146236
+  },
+  {
+    "metric": "pairwise_auc",
+    "sequences": 14,
+    "mean_change": 0.04922211084936401,
+    "lower_95": 0.009062428112908362,
+    "upper_95": 0.08622524042414946
+  },
+  {
+    "metric": "margin_satisfaction",
+    "sequences": 14,
+    "mean_change": 0.0606618380009892,
+    "lower_95": 0.02202630899732694,
+    "upper_95": 0.09735416874281559
+  }
+]

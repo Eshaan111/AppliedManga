@@ -1,0 +1,163 @@
+{
+  "sequence_id": "seq_5f407d0064bb4a43",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Lord Shiono agreed to assume the family's debt."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "The master of this house, Lord Yoshiaki, is a good man,"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "But he's not very competent at managing finances."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Rumor has it that his wife, Lady Mizue, keeps him on a tight leash, too."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "with Lord Yoshikuni being the way he is..."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "It's no great wonder that the old master would choose the younger brother, Lord Yoshiaki, as his heir, but..."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "Oh!"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Miss Sato will yell at me again if I keep going on like this."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "I see."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "To repay you for the chat,"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "I'll show you..."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Something nice."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "OH! What is it, what is it?!"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "I can't wait!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "PSX: Click"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "SFX: Third"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "?"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "!!"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

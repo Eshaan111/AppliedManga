@@ -1,0 +1,765 @@
+{
+  "sequence_id": "seq_d749b853cf795b6a",
+  "page_index": 1,
+  "raw_count": 45,
+  "target_count": 11,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c1",
+        "c3",
+        "c4"
+      ],
+      "text": "15 THAT SO?",
+      "box": [
+        430.0,
+        122.0,
+        477.0,
+        170.0
+      ],
+      "id": "g0",
+      "score": 0.892524003982544,
+      "target_index": 1,
+      "target_text": "IS THAT SO?",
+      "similarity": 0.75
+    },
+    {
+      "candidate_ids": [
+        "c0",
+        "c2",
+        "c6",
+        "c8",
+        "c10",
+        "c12"
+      ],
+      "text": "BUT THERE'S SOMETHING YOU MUST NEVER FORGET.",
+      "box": [
+        83.0,
+        129.0,
+        176.0,
+        219.0
+      ],
+      "id": "g1",
+      "score": 0.9907971819241842,
+      "target_index": 2,
+      "target_text": "BUT THERE'S SOMETHING YOU MUST NEVER FORGET.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c5",
+        "c7",
+        "c9",
+        "c11",
+        "c13"
+      ],
+      "text": "UNFORTUN- ATELY, I'VE GOT A BAD MEMORY.",
+      "box": [
+        523.0,
+        145.0,
+        605.0,
+        212.0
+      ],
+      "id": "g2",
+      "score": 0.9978206276893615,
+      "target_index": 0,
+      "target_text": "UNFORTUNATELY, I'VE GOT A BAD MEMORY.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c14"
+      ],
+      "text": "ASH.",
+      "box": [
+        91.0,
+        313.0,
+        130.0,
+        332.0
+      ],
+      "id": "g3",
+      "score": 0.9998387098312378,
+      "target_index": 3,
+      "target_text": "ASH.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c16"
+      ],
+      "text": "FICH",
+      "box": [
+        172.0,
+        477.0,
+        219.0,
+        510.0
+      ],
+      "id": "g4",
+      "score": 0.9995319247245789,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c18",
+        "c22",
+        "c26",
+        "c30"
+      ],
+      "text": "IT WAS I WHO TOOK YOU IN.",
+      "box": [
+        612.0,
+        484.0,
+        694.0,
+        545.0
+      ],
+      "id": "g5",
+      "score": 0.9954679757356644,
+      "target_index": 4,
+      "target_text": "IT WAS I WHO TOOK YOU IN.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c15",
+        "c19",
+        "c23",
+        "c27",
+        "c31"
+      ],
+      "text": "DID YOU FINALLY FIND A GIRL- FRIEND?",
+      "box": [
+        82.0,
+        484.0,
+        151.0,
+        557.0
+      ],
+      "id": "g6",
+      "score": 0.9813584208488464,
+      "target_index": 7,
+      "target_text": "DID YOU FINALLY FIND A GIRLFRIEND?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c17",
+        "c20",
+        "c24",
+        "c28",
+        "c32"
+      ],
+      "text": "... HEAR YOU'VE BEEN SPENDING A LOT LATELY.",
+      "box": [
+        303.0,
+        488.0,
+        405.0,
+        562.0
+      ],
+      "id": "g7",
+      "score": 0.9838266372680664,
+      "target_index": 6,
+      "target_text": "...I HEAR YOU'VE BEEN SPENDING A LOT LATELY.",
+      "similarity": 0.9841269841269841
+    },
+    {
+      "candidate_ids": [
+        "c21",
+        "c25",
+        "c29"
+      ],
+      "text": "YOU KNOW, ASH...",
+      "box": [
+        452.0,
+        504.0,
+        505.0,
+        553.0
+      ],
+      "id": "g8",
+      "score": 0.9722655415534973,
+      "target_index": 5,
+      "target_text": "YOU KNOW, ASH...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c33",
+        "c34",
+        "c35"
+      ],
+      "text": "NONE OF YOUR BUSINESS!",
+      "box": [
+        66.0,
+        638.0,
+        148.0,
+        682.0
+      ],
+      "id": "g9",
+      "score": 0.9956474304199219,
+      "target_index": 8,
+      "target_text": "NONE OF YOUR BUSINESS!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c36",
+        "c37",
+        "c39"
+      ],
+      "text": "DON'T FORGET ME, ASH.",
+      "box": [
+        520.0,
+        767.0,
+        590.0,
+        814.0
+      ],
+      "id": "g10",
+      "score": 0.98569655418396,
+      "target_index": 9,
+      "target_text": "DON'T FORGET ME, ASH.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c38",
+        "c40",
+        "c41",
+        "c42",
+        "c43"
+      ],
+      "text": "YOU KNOW LOVE YOU, SWEET- HEART.",
+      "box": [
+        405.0,
+        797.0,
+        488.0,
+        872.0
+      ],
+      "id": "g11",
+      "score": 0.951226818561554,
+      "target_index": 10,
+      "target_text": "YOU KNOW I LOVE YOU, SWEETHEART.",
+      "similarity": 0.9795918367346939
+    },
+    {
+      "candidate_ids": [
+        "c44"
+      ],
+      "text": "43",
+      "box": [
+        57.0,
+        1104.0,
+        86.0,
+        1129.0
+      ],
+      "id": "g12",
+      "score": 0.9999991059303284,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "BUT",
+      "score": 0.9995601177215576,
+      "box": [
+        113.0,
+        129.0,
+        149.0,
+        148.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "15",
+      "score": 0.6895952820777893,
+      "box": [
+        443.0,
+        122.0,
+        464.0,
+        139.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "THERE'S",
+      "score": 0.9999445676803589,
+      "box": [
+        97.0,
+        145.0,
+        166.0,
+        162.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "THAT",
+      "score": 0.9999980330467224,
+      "box": [
+        430.0,
+        135.0,
+        477.0,
+        156.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "SO?",
+      "score": 0.9879786968231201,
+      "box": [
+        435.0,
+        151.0,
+        472.0,
+        170.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "UNFORTUN-",
+      "score": 0.9993679523468018,
+      "box": [
+        523.0,
+        145.0,
+        605.0,
+        159.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "SOMETHING",
+      "score": 0.9999816417694092,
+      "box": [
+        83.0,
+        160.0,
+        176.0,
+        174.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "ATELY,",
+      "score": 0.9989437460899353,
+      "box": [
+        540.0,
+        158.0,
+        590.0,
+        172.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "YOU MUST",
+      "score": 0.9453728199005127,
+      "box": [
+        89.0,
+        176.0,
+        172.0,
+        189.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "I'VE GOT",
+      "score": 0.9991149306297302,
+      "box": [
+        534.0,
+        172.0,
+        596.0,
+        186.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "NEVER",
+      "score": 0.9999683499336243,
+      "box": [
+        102.0,
+        190.0,
+        158.0,
+        204.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "A BAD",
+      "score": 0.9920639991760254,
+      "box": [
+        540.0,
+        186.0,
+        589.0,
+        199.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "FORGET.",
+      "score": 0.9999555945396423,
+      "box": [
+        95.0,
+        205.0,
+        166.0,
+        219.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "MEMORY.",
+      "score": 0.9996125102043152,
+      "box": [
+        531.0,
+        198.0,
+        599.0,
+        212.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "ASH.",
+      "score": 0.9998387098312378,
+      "box": [
+        91.0,
+        313.0,
+        130.0,
+        332.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "DID YOU",
+      "score": 0.9456600546836853,
+      "box": [
+        84.0,
+        484.0,
+        151.0,
+        500.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "FICH",
+      "score": 0.9995319247245789,
+      "box": [
+        172.0,
+        477.0,
+        219.0,
+        510.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "... HEAR",
+      "score": 0.9243716597557068,
+      "box": [
+        320.0,
+        488.0,
+        385.0,
+        504.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "IT WAS I",
+      "score": 0.9884304404258728,
+      "box": [
+        618.0,
+        484.0,
+        688.0,
+        500.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "FINALLY",
+      "score": 0.9976677894592285,
+      "box": [
+        85.0,
+        498.0,
+        149.0,
+        515.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "YOU'VE BEEN",
+      "score": 0.9994530081748962,
+      "box": [
+        303.0,
+        503.0,
+        405.0,
+        517.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "YOU",
+      "score": 0.9573836326599121,
+      "box": [
+        459.0,
+        504.0,
+        497.0,
+        522.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "WHO",
+      "score": 0.9997881054878235,
+      "box": [
+        632.0,
+        497.0,
+        673.0,
+        515.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "FIND A",
+      "score": 0.9647662043571472,
+      "box": [
+        89.0,
+        514.0,
+        145.0,
+        528.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "SPENDING",
+      "score": 0.9999825358390808,
+      "box": [
+        313.0,
+        517.0,
+        393.0,
+        534.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "KNOW,",
+      "score": 0.9995778799057007,
+      "box": [
+        452.0,
+        520.0,
+        505.0,
+        537.0
+      ]
+    },
+    {
+      "id": "c26",
+      "text": "TOOK YOU",
+      "score": 0.9938308000564575,
+      "box": [
+        612.0,
+        514.0,
+        694.0,
+        528.0
+      ]
+    },
+    {
+      "id": "c27",
+      "text": "GIRL-",
+      "score": 0.9988325238227844,
+      "box": [
+        95.0,
+        529.0,
+        139.0,
+        543.0
+      ]
+    },
+    {
+      "id": "c28",
+      "text": "A LOT",
+      "score": 0.9961147308349609,
+      "box": [
+        326.0,
+        532.0,
+        380.0,
+        549.0
+      ]
+    },
+    {
+      "id": "c29",
+      "text": "ASH...",
+      "score": 0.9598351120948792,
+      "box": [
+        456.0,
+        535.0,
+        501.0,
+        553.0
+      ]
+    },
+    {
+      "id": "c30",
+      "text": "IN.",
+      "score": 0.9998225569725037,
+      "box": [
+        641.0,
+        528.0,
+        664.0,
+        545.0
+      ]
+    },
+    {
+      "id": "c31",
+      "text": "FRIEND?",
+      "score": 0.9998655319213867,
+      "box": [
+        82.0,
+        543.0,
+        150.0,
+        557.0
+      ]
+    },
+    {
+      "id": "c32",
+      "text": "LATELY.",
+      "score": 0.9992112517356873,
+      "box": [
+        322.0,
+        548.0,
+        385.0,
+        562.0
+      ]
+    },
+    {
+      "id": "c33",
+      "text": "NONE",
+      "score": 0.9999496936798096,
+      "box": [
+        83.0,
+        638.0,
+        130.0,
+        652.0
+      ]
+    },
+    {
+      "id": "c34",
+      "text": "OF YOUR",
+      "score": 0.9870423078536987,
+      "box": [
+        71.0,
+        653.0,
+        143.0,
+        667.0
+      ]
+    },
+    {
+      "id": "c35",
+      "text": "BUSINESS!",
+      "score": 0.9999502897262573,
+      "box": [
+        66.0,
+        668.0,
+        148.0,
+        682.0
+      ]
+    },
+    {
+      "id": "c36",
+      "text": "DON'T",
+      "score": 0.9999324679374695,
+      "box": [
+        530.0,
+        767.0,
+        581.0,
+        785.0
+      ]
+    },
+    {
+      "id": "c37",
+      "text": "FORGET",
+      "score": 0.9999908804893494,
+      "box": [
+        521.0,
+        783.0,
+        590.0,
+        799.0
+      ]
+    },
+    {
+      "id": "c38",
+      "text": "YOU",
+      "score": 0.8241546750068665,
+      "box": [
+        423.0,
+        797.0,
+        462.0,
+        815.0
+      ]
+    },
+    {
+      "id": "c39",
+      "text": "ME, ASH.",
+      "score": 0.957166314125061,
+      "box": [
+        520.0,
+        797.0,
+        590.0,
+        814.0
+      ]
+    },
+    {
+      "id": "c40",
+      "text": "KNOW",
+      "score": 0.9996291995048523,
+      "box": [
+        418.0,
+        813.0,
+        467.0,
+        828.0
+      ]
+    },
+    {
+      "id": "c41",
+      "text": "LOVE YOU,",
+      "score": 0.9621855616569519,
+      "box": [
+        405.0,
+        829.0,
+        488.0,
+        843.0
+      ]
+    },
+    {
+      "id": "c42",
+      "text": "SWEET-",
+      "score": 0.9704779982566833,
+      "box": [
+        411.0,
+        844.0,
+        473.0,
+        858.0
+      ]
+    },
+    {
+      "id": "c43",
+      "text": "HEART.",
+      "score": 0.9996866583824158,
+      "box": [
+        413.0,
+        859.0,
+        471.0,
+        872.0
+      ]
+    },
+    {
+      "id": "c44",
+      "text": "43",
+      "score": 0.9999991059303284,
+      "box": [
+        57.0,
+        1104.0,
+        86.0,
+        1129.0
+      ]
+    }
+  ],
+  "transcript": "15 THAT SO?\nBUT THERE'S SOMETHING YOU MUST NEVER FORGET.\nUNFORTUN- ATELY, I'VE GOT A BAD MEMORY.\nASH.\nFICH\nIT WAS I WHO TOOK YOU IN.\nDID YOU FINALLY FIND A GIRL- FRIEND?\n... HEAR YOU'VE BEEN SPENDING A LOT LATELY.\nYOU KNOW, ASH...\nNONE OF YOUR BUSINESS!\nDON'T FORGET ME, ASH.\nYOU KNOW LOVE YOU, SWEET- HEART.\n43",
+  "sample_index": 5,
+  "preview_file": "sample_5_page_1.html"
+}

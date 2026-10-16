@@ -1,0 +1,16 @@
+[Page 01.png]
+character1: HEY, KAYO!
+character1: WHY ARE YOU TAKING SO LONG TO PUT AWAY THE OIL? HURRY UP!
+character1: YES, MA'AM...
+character1: I’LL GET IT DONE RIGHT AWAY.
+character1: MY GOODNESS.
+
+[Page 02.png]
+character1: OH, OOPS. A DELIVERY? I DIDN'T KNOW WE WERE EXPECTING ONE.
+character4: NO... I AM AN APOTHECARY.
+character4: OH, WAIT A MINUTE! WE DON'T HAVE TIME FOR THAT SORT OF THING TODAY!
+character5: BECAUSE OF THE WEDDING?
+
+[Page 03.png]
+character18: YES, YES.
+character18: LADY MAO IS BEING WED TO LORD SHIONO.

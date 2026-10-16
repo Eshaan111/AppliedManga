@@ -1,0 +1,295 @@
+{
+  "sequence_id": "seq_0ef2ec294597f572",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Hey, go easy, man. He holds a mean grudge."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "!??!"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "REALLY."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "HE WANTS WHAT YOU'VE GOT."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "It's the blonde hair and green eyes that does it."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Guess you're safe, then."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "Later, man."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "What have"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Ash."
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "Just don't put me in the position of having to kill you."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "WOW--? You been watching old movies, shorter?"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "\"Varrmmm!"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "GOES WITH THE BALD SPOTS, MAN!"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Ha, ha! That was some corny shit, huh?"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "but, uh... you DO know it's just shaved, right?"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Hand-bags"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Tok TOK"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "WHO IS IT?"
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "It's me, skip. Open up."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Chak"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "!!?!"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Welcome home, boss. You early."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Yeah."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "ANYTHING HAPPEN?"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Same ol, same old."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Pop? Corn"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Hmm."
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "him, too."
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "Good."
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "Kreek"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T11",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T8",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T7",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T8",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T10",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

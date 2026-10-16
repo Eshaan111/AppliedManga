@@ -1,0 +1,38 @@
+{
+  "entrypoint": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\pipelineArtifactContourFullInference.ipynb",
+  "runtime_python_helpers": [
+    {
+      "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\contour_narrator2.py",
+      "sha256": "d3762e035328fa996247aad9583ac6dc600c61c5d360788d5f99f0f8e7ad6a0b"
+    },
+    {
+      "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\contour_grouping.py",
+      "sha256": "bfeac1c6433f3e6490e18bc61e472485eab9907511ccfc0d4de6ac9c0224f971"
+    }
+  ],
+  "inline_code_origins": [
+    {
+      "source": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\LegacyMagiPipelines\\pipelineContourFullInference.ipynb",
+      "purpose": "character crops, cleanup, entities, association routing, transcript correction"
+    },
+    {
+      "source": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\LegacyMagiPipelines\\ArtifactGemmaTest.ipynb",
+      "purpose": "Paddle-only Gemma artifact prompt/classifier, copied inline"
+    },
+    {
+      "source": "C:\\Users\\ESHAAN\\Documents\\Codex\\2026-10-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\NarrationImbalanceTraining\\full_pipeline\\pipelineFULL_INFERENCE.ipynb",
+      "purpose": "final widget viewer, adapted inline; not a runtime dependency"
+    }
+  ],
+  "model_resources": [
+    "C:/MODELS/magiv2",
+    "C:/MODELS/gemma-3-4b-it",
+    "C:/MODELS/manga_bubbles/bubbles_detect.pt",
+    "C:/Users/ESHAAN/BYTE/Applied-Task/Magi/FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads2/magi_crop_last_2_blocks.pt",
+    "C:/Users/ESHAAN/.paddlex/official_models/PP-OCRv5_server_det",
+    "C:/Users/ESHAAN/.paddlex/official_models/en_PP-OCRv5_mobile_rec"
+  ],
+  "required_existing_project_caches": [],
+  "required_labels": [],
+  "note": "Origin notebooks document provenance only; they are never loaded or executed at runtime. Copy both contour helper files together and configure their directory."
+}

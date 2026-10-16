@@ -1,0 +1,529 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THE PLAYERS STATED THAT JUST BEFORE GETTING SICK...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "30000",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "!!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "... THEY HEARD STRANGE NOISES AND VOICES.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THAT'S WHERE THIS NEWSPAPER ARTICLE FROM 30 YEARS AGO COMES IN!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T8",
+        "PG1:T9"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "MR.YOSHIDA,A CONSTRUCTION COMPANY EMPLOYEE, WENT MISSING! CONSTRUCTION COMPAN EMPLOYEE MISSING",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HE WAS LAST SEEN HERE! AT THIS SCHOOL, DURING CONSTRUCTION!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T11",
+      "box_ids": [
+        "PG1:T11"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AT THE TIME,MR. YOSHIDA WAS IN DEBT!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M2",
+      "box_ids": [
+        "PG1:T12",
+        "PG1:T13"
+      ],
+      "speaker": "E3",
+      "speaker_status": "partially_linked",
+      "text_role": "SPOKEN",
+      "text": "HE WAS EVEN BEING TARGETED BY LOAN SHARKS! WHICH MEANS ...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T14",
+      "box_ids": [
+        "PG1:T14"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "MR YOSHIDA' BODY IS BURIED AT THE RUGBY FIELD",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T15",
+      "box_ids": [
+        "PG1:T15"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "TA-DAH!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T16",
+      "box_ids": [
+        "PG1:T16"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THE COMMOTION IS A RESULT OF HIS LINGERING SPIRIT! COUR THEORY!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T17",
+      "box_ids": [
+        "PG1:T17"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "!!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T18",
+      "box_ids": [
+        "PG1:T18"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NO",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT SEEMS LIKE TICKS WERE THE REASON.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "ZING!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "TICKS A TYPE OF PARASITE. THE TICK-BORNE DISEASE IS NO JOKE, SO BE CAREFUL!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "so WHAT?!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "I'M SUCH AN IDIOT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "AS THE OCCULT RESEARCH CLUB,WE'RE HYPOTHESIZING ABOUT THE OCCULT! IT'S A RESPECTABLE CLUB ACTIVITY!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T7",
+        "PG2:T8"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THIS ISN'T SOME KID'S GAME! STOP SPREADING RUMORS!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T9",
+      "box_ids": [
+        "PG2:T9"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THE BIGGEST PROBLEM HERE IS...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M2",
+      "box_ids": [
+        "PG2:T10",
+        "PG2:T11"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "YUJI ITA- DORI! YOU'RE A MEMBER OF THE TRACK-AND- FIELD TEAM! NOT THE OCCULT RESEARCH CLUB!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T13",
+      "box_ids": [
+        "PG2:T13"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HUH?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T14",
+      "box_ids": [
+        "PG2:T14"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THIS MEANS THE OCCULT RESEARCH CLUB DOESN'T MEET THE THREE- MEMBER MINIMUM!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T15",
+      "box_ids": [
+        "PG2:T15"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ITADORI!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T16",
+      "box_ids": [
+        "PG2:T16"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "GRR",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T17",
+      "box_ids": [
+        "PG2:T17"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BUT I WROTE \"OCCULT RESEARCH CLUB\" ON THE APPLICATION.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T18",
+      "box_ids": [
+        "PG2:T18"
+      ],
+      "speaker": "E17",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I RE- WROTE IT!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T19",
+      "box_ids": [
+        "PG2:T19"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": ",",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "TRACK-AND- FIELD COACH MR. TAKAGI!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "COAAACH",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T4",
+      "box_ids": [
+        "PG3:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "WE NEED YOU IF WE'RE TO TAKE OVER THE COUNTRY.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T5",
+      "box_ids": [
+        "PG3:T5"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THIS TEACHER IS SKETCHIER THAN THE STUDENTS",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "WHICH SIDE SHOULD ITAKE?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T7",
+      "box_ids": [
+        "PG3:T7"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ENOUGH ALREADY! I SAID I'M NOT JOINING!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T8",
+      "box_ids": [
+        "PG3:T8"
+      ],
+      "speaker": "E17",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NO CAN DO!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T9",
+      "box_ids": [
+        "PG3:T9"
+      ],
+      "speaker": "E17",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "NO CAN DO?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T10",
+      "box_ids": [
+        "PG3:T10"
+      ],
+      "speaker": "E17",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HOWEVER I'M NOTA MONSTER!",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T11",
+      "box_ids": [
+        "PG3:T11"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "LET'S MAKE IT A FAIR FIGHT! ON THE FIELD!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T12",
+      "box_ids": [
+        "PG3:T12"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OH?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T13",
+      "box_ids": [
+        "PG3:T13"
+      ],
+      "speaker": "E17",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IFI LOSE, I'LL GIVE UP ON YOU.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T15",
+      "box_ids": [
+        "PG3:T15"
+      ],
+      "speaker": "E17",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HOW- EVER! IF I WIN...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T16",
+      "box_ids": [
+        "PG3:T16"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SAY NO MORE! I ACCEPT!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T17",
+      "box_ids": [
+        "PG3:T17"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ISN'T IT AGAINST THE RULES TO CHANGE THE APPLICATION?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T18",
+      "box_ids": [
+        "PG3:T18"
+      ],
+      "speaker": "E20",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAT'S WITH THIS RUGBY FIELD?",
+      "needs_review": false
+    }
+  ]
+]

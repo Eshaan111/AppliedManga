@@ -1,0 +1,16 @@
+[Page 01.png]
+character1: ...?
+character1: HEY, MURPHY. WHAT'RE YOU GONNA DO WHEN YOU GET BACK HOME?
+character1: HA, HA, HA! WHAT AM GONNA DO?
+character1: ...GRIFF...IS SOMETHING WRONG, OR...?
+character1: ...GRIFF...IS SOMETHING WRONG OR...?
+NARRATION: !?
+NARRATION: REYAAANAA
+
+[Page 02.png]
+character8: SHIT! SHIT!
+character1: STAY BACK, MAN! HE'S LOST IT!
+NARRATION: DAMNIT!
+
+[Page 03.png]
+character1: HNG!

@@ -1,0 +1,4 @@
+-r requirements.txt
+# Modern hysts implementation requires Python >=3.12; no OpenMMLab runtime.
+anime-face-detector==0.1.0
+opencv-python

@@ -1,0 +1,321 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "\"THOSE GUYS AND MADO'S DAUGHTER ARE THE DISGRAC- ES OF THE CCG\"",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Mado Akira (24) [First Class Investigator]",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...IS WHAT'S BEING SAID, IT SEEMS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Nddo Akil 164 cm 49 kg",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T5",
+      "box_ids": [
+        "PG1:T5"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "....",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T6",
+      "box_ids": [
+        "PG1:T6"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "IF WE'RE COMPARED TO THE PRESENT HIRAKO SQUAD,",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THEN TRUTH- FULLY IT SEEMS WE'RE GETTING RESULTS FOR LESS THAN ONE IN THREE.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "\"",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T9",
+        "PG1:T10",
+        "PG1:T11",
+        "PG1:T13"
+      ],
+      "speaker": null,
+      "speaker_status": "conflicting_entities",
+      "text_role": "SPOKEN",
+      "text": "OH MAN... THAT NAN SURE DOES LOOK DELICIOUS. \"WHAT'S THE SEASNANING OF THAT NAN?\" IS THE NANCHALANT THOUGHT I WAS HAVING. HOW IS IT?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T12",
+      "box_ids": [
+        "PG1:T12"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "T/N: This is a bit loosely translated to put in all the nan-puns. 18",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:M2",
+      "box_ids": [
+        "PG1:T14",
+        "PG1:T15"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THAT WAS A SPICY JOKE, HUH? SEEMS LIKE YOU NEED TO \"YMPROVE\" YOUR EDUCA- TION.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T16",
+      "box_ids": [
+        "PG1:T16"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SASAKI,",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "NUMEROUS MONTHS EARLIER...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "WHENYOU WERE LEFT IN CHARGE OF THE \"QUINX'B",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THE BUREAU DIRECTOR TOLD YOU",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "To \"create investigators who would surpass Arima Kishou\", didn't he?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Anima- san.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "\"Arima Kishou\"",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T7",
+      "box_ids": [
+        "PG2:T7"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "is a ghoul investigator with the highest rank of \"Special Class\".",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T8",
+      "box_ids": [
+        "PG2:T8"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "His achievements are numerous.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T9",
+      "box_ids": [
+        "PG2:T9"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "He is praised as the strongest within the CCG and is undefeated.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T10",
+      "box_ids": [
+        "PG2:T10"
+      ],
+      "speaker": "E10",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...YOU UNDERSTAND THE PLACE THAT WE, AT THE CCG, HAVE BEEN PUT INTO RIGHT NOW, DON'T YOU?",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THE AFOREMENTIONED GHOUL ORGANIZA- TION IS CONTINUING TO INCREASE THEIR STRENGTH.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WE ALSO HAVE TO FIGHT AGAINST THOSE GUYS, IN ADDITION TO DOING THE NORMAL INVESTIGATIONS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T3",
+        "PG3:T4"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "INVESTIGA- TORS THAT RIVAL SPECIAL CLASS ARIMA... SECURING NEW, STRONG, BATTLE-CAPABLE PEOPLE IS URGENT BUSINESS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T5",
+      "box_ids": [
+        "PG3:T5"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THE QUINX MEMBERS THAT YOU'RE COMMANDING CAN BECOME AN EARNEST HOPE FOR THE CCG.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E14",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IN ORDER TO MAKE \"INVESTIGATORS WHO SURPASS ARIMA KISHOU\"",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T7",
+      "box_ids": [
+        "PG3:T7"
+      ],
+      "speaker": "E14",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU YOURSELF HAVE TO SURPASS HIM TOO.",
+      "needs_review": false
+    }
+  ]
+]

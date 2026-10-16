@@ -1,0 +1,161 @@
+{
+  "helpers": [
+    {
+      "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\contour_narrator2.py",
+      "sha256": "d3762e035328fa996247aad9583ac6dc600c61c5d360788d5f99f0f8e7ad6a0b",
+      "role": "background regions and SPOKEN/NARRATED"
+    },
+    {
+      "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\contour_grouping.py",
+      "sha256": "bfeac1c6433f3e6490e18bc61e472485eab9907511ccfc0d4de6ac9c0224f971",
+      "role": "individual boundaries, faint retry and overlap groups"
+    }
+  ],
+  "models": {
+    "magi": {
+      "path": "C:\\MODELS\\magiv2",
+      "revision": "local-magiv2-1",
+      "files": [
+        {
+          "name": ".cache\\huggingface\\trees\\fbc890fec52977142e8ee00bfe26e9458b65517c.json",
+          "size": 1100,
+          "mtime_ns": 1791119353761620600,
+          "sha256": "d4a8bba2b21ab3182d7daee383f12bf3b36487512794d81c310097b44952a78f"
+        },
+        {
+          "name": "config.json",
+          "size": 13383,
+          "mtime_ns": 1791119354550928100,
+          "sha256": "d55b3b0b6c16d61c97c4afd79b0d0e9b2371a4a3442f7dbef2ff838cb089e19f"
+        },
+        {
+          "name": "configuration_magiv2.py",
+          "size": 1696,
+          "mtime_ns": 1791119354527241500,
+          "sha256": "28e65be99f4287dea300a49ae65ced263054b756113d1f37baf8f1b0fd94e72b"
+        },
+        {
+          "name": "modelling_magiv2.py",
+          "size": 40723,
+          "mtime_ns": 1791119354527241500,
+          "sha256": "1188ebcb84985fe812e222e51bf0889c586bdbe6f2913f7cbefaf43ffe74e6de"
+        },
+        {
+          "name": "processing_magiv2.py",
+          "size": 10060,
+          "mtime_ns": 1791119354589654400,
+          "sha256": "2ff8e760e65848ee5d02eaca84ce24381ced97e4cbcf26d2f838d05362a946a8"
+        },
+        {
+          "name": "pytorch_model.bin",
+          "size": 2063693064,
+          "mtime_ns": 1791119926878338600,
+          "sha256": null
+        },
+        {
+          "name": "utils.py",
+          "size": 16433,
+          "mtime_ns": 1791119354531240700,
+          "sha256": "ea9d9182ee2d02f8dba1cca634dfc3e3528bab50de9e9efa286822ac5ee3195f"
+        }
+      ]
+    },
+    "character_checkpoint": {
+      "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2\\magi_crop_last_2_blocks.pt",
+      "sha256": "7625eacf104d44ececb33ac7f3157487a5dd3ee474e2532a1a1f0b812b8848ff",
+      "epoch": 20,
+      "trained_blocks": 2
+    },
+    "gemma": {
+      "path": "C:\\MODELS\\gemma-3-4b-it",
+      "files": {
+        ".cache\\huggingface\\trees\\093f9f388b31de276ce2de164bdc2081324b9767.json": {
+          "size": 2512,
+          "mtime_ns": 1791875061597372100,
+          "sha256": "89efc16588c41cb66780c44550e1fd2565d5a1f61d553d67ab2c1d51d8c5ea52"
+        },
+        "added_tokens.json": {
+          "size": 35,
+          "mtime_ns": 1791875062145788000,
+          "sha256": "50b2f405ba56a26d4913fd772089992252d7f942123cc0a034d96424221ba946"
+        },
+        "chat_template.json": {
+          "size": 1615,
+          "mtime_ns": 1791875062110519500,
+          "sha256": "fe16baf728db49457cde32802cd7efc0ac8a7a9877dbe22fe3322b2d9dc6ccd9"
+        },
+        "config.json": {
+          "size": 855,
+          "mtime_ns": 1791875062131300400,
+          "sha256": "9059f680f4dbd1957f35cb44b9fdd6948f4792db7a7a35ee353ea42e68adf7ff"
+        },
+        "generation_config.json": {
+          "size": 215,
+          "mtime_ns": 1791875062111024200,
+          "sha256": "fd9324becc53c4be610db39e13a613006f09fd6ef71a95fb6320dc33157490a3"
+        },
+        "model-00001-of-00002.safetensors": {
+          "size": 4961251752,
+          "mtime_ns": 1791876735697633300,
+          "sha256": null
+        },
+        "model-00002-of-00002.safetensors": {
+          "size": 3639026128,
+          "mtime_ns": 1791876345346965700,
+          "sha256": null
+        },
+        "model.safetensors.index.json": {
+          "size": 90558,
+          "mtime_ns": 1791875062184167800,
+          "sha256": "77f4b67de084c31c7bcd373b039908108eee6c6181607e6d53da730e5f0bc659"
+        },
+        "preprocessor_config.json": {
+          "size": 570,
+          "mtime_ns": 1791875062589246400,
+          "sha256": "f688d6bb20c5017601c4011de7ca656da8485b540b05013efdaf986c0fcc918d"
+        },
+        "processor_config.json": {
+          "size": 70,
+          "mtime_ns": 1791875062624605200,
+          "sha256": "3ffd5f11778dc73e2b69b3c00535e4121e1badf7018136263cd17b5b34fbaa53"
+        },
+        "special_tokens_map.json": {
+          "size": 662,
+          "mtime_ns": 1791875062601103700,
+          "sha256": "2f7b0adf4fb469770bb1490e3e35df87b1dc578246c5e7e6fc76ecf33213a397"
+        },
+        "tokenizer.json": {
+          "size": 33384568,
+          "mtime_ns": 1791875065820501000,
+          "sha256": "4667f2089529e8e7657cfb6d1c19910ae71ff5f28aa7ab2ff2763330affad795"
+        },
+        "tokenizer.model": {
+          "size": 4689074,
+          "mtime_ns": 1791875065306063200,
+          "sha256": null
+        },
+        "tokenizer_config.json": {
+          "size": 1156999,
+          "mtime_ns": 1791875062719203800,
+          "sha256": "bfe25c2735e395407beb78456ea9a6984a1f00d8c16fa04a8b75f2a614cf53e1"
+        }
+      }
+    },
+    "bubble": {
+      "path": "C:\\MODELS\\manga_bubbles\\bubbles_detect.pt",
+      "sha256": "8f953bce05813fa68c9c99d487cb7c6a4fd38bb827ac5ab4bca042b209a0f744"
+    },
+    "paddle": {
+      "text_detection_model_name": "PP-OCRv5_server_det",
+      "text_recognition_model_name": "en_PP-OCRv5_mobile_rec",
+      "text_detection_model_dir": "C:\\Users\\ESHAAN\\.paddlex\\official_models\\PP-OCRv5_server_det",
+      "text_recognition_model_dir": "C:\\Users\\ESHAAN\\.paddlex\\official_models\\en_PP-OCRv5_mobile_rec"
+    }
+  },
+  "cache_policy": "Read/write CACHE_ROOT only; no external cache discovery",
+  "input_images": [
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_58858a2227cf3761\\01.png",
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_58858a2227cf3761\\02.png",
+    "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_58858a2227cf3761\\03.png"
+  ]
+}

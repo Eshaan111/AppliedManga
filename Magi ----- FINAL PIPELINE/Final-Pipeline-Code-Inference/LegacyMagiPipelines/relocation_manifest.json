@@ -1,0 +1,211 @@
+{
+  "source_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi",
+  "archive_root": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\LegacyMagiPipelines",
+  "kept": [
+    "PIPELINE_ARTIFACT_CONTOUR_DEPENDENCIES.json",
+    "PIPELINE_ARTIFACT_CONTOUR_FULL_INFERENCE.md",
+    "README_ARTIFACT_CONTOUR_FULL_INFERENCE.md",
+    "cache_artifact_contour_full_inference",
+    "contour_grouping.py",
+    "contour_narrator2.py",
+    "pipelineArtifactContourFullInference.ipynb",
+    "pipeline_review"
+  ],
+  "moves": [
+    {
+      "name": "ArtifactContourCombined.ipynb",
+      "is_directory": false,
+      "sha256": "09f2131dd3efb6455d0eaa20eeaf4834bd6ca2dfc38e915a312cc368b60c2310"
+    },
+    {
+      "name": "ArtifactGemmaTest.ipynb",
+      "is_directory": false,
+      "sha256": "320da56f2f1b3113fd8c0fc2a99c44851ca1279c734fa57df5051f7b790190b0"
+    },
+    {
+      "name": "ArtifactGemmaTestnoConour.ipynb",
+      "is_directory": false,
+      "sha256": "c79f8d7f30c1ca578d703a8592c007c75ccfe813aabd7ab98d9f4d23eb08592d"
+    },
+    {
+      "name": "ArtifactGemmaTestsemiContour.ipynb",
+      "is_directory": false,
+      "sha256": "b3c4390e30035a54f6c27291747a34efed8b7a24ee8269e09d9f6879e96807c4"
+    },
+    {
+      "name": "FAFO.ipynb",
+      "is_directory": false,
+      "sha256": "7b4384b28d85b4a9fc060a97d3ef0fe59d6cf6d21fc0372ea1e245d6ef11cd19"
+    },
+    {
+      "name": "FULL_PIPELINE.md",
+      "is_directory": false,
+      "sha256": "cc8a16b77c323a9cd267a85768aab8e8987ca1b275c43a4e6b783699156de5f4"
+    },
+    {
+      "name": "FULL_PIPELINE_DINO.md",
+      "is_directory": false,
+      "sha256": "58a7df4c66555690e74350f9740390b0da00e9b798af5afe32b8414b158b1401"
+    },
+    {
+      "name": "PIPELINE_CONTOUR_FULL_INFERENCE.md",
+      "is_directory": false,
+      "sha256": "ffe853e4ccec896adf3a55fd87a3ee7fade6f7bd6838e157d1249182fe677be9"
+    },
+    {
+      "name": "PIPELINE_WBUBBLES.md",
+      "is_directory": false,
+      "sha256": "47715e4dbf51e7b49d44ce279b7cf067f5e9598337863088fac70917b70f603c"
+    },
+    {
+      "name": "README_CONTOUR_FULL_INFERENCE.md",
+      "is_directory": false,
+      "sha256": "1a99a02728829da43864d9d7b87bdbe02935eac50b2eb6f854e49de67c712a4e"
+    },
+    {
+      "name": "__pycache__",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cache",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cache_artifact_contour_combined",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cache_artifact_gemma_test",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cache_baseline",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cache_contour",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cache_contour_full_inference",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cache_gibberish_detection",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cache_inference",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cache_test_contour_narrator",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cache_test_contour_narrator2",
+      "is_directory": true,
+      "sha256": null
+    },
+    {
+      "name": "cahcheCharEmbeds.ipynb",
+      "is_directory": false,
+      "sha256": "7e6ba711009ffc0477710af915834b043961d629e29ca0ac009d8b9fc385be6a"
+    },
+    {
+      "name": "checkingContour.ipynb",
+      "is_directory": false,
+      "sha256": "b3c49cdef20c212e66b545054fa789d5afd13bd5fb899046c5223438dc580c8b"
+    },
+    {
+      "name": "giberish_detection.ipynb",
+      "is_directory": false,
+      "sha256": "1cc55a0467912a54da407f15d4ae3a230e5b7a7149c5b9b9d14498e534e057f4"
+    },
+    {
+      "name": "magiBasePredCache.ipynb",
+      "is_directory": false,
+      "sha256": "43f5fdc51d2530d0342e1ee7fdbb2fca129725374568850558f36ae9d428a5da"
+    },
+    {
+      "name": "pipeline1-HUHUHAHAHAHAHA.ipynb",
+      "is_directory": false,
+      "sha256": "db86801094ad988309da1b5475f8cd827dd760989e1337d4d2a93e330153c2dc"
+    },
+    {
+      "name": "pipeline1-char-overlap-removal.ipynb",
+      "is_directory": false,
+      "sha256": "b9a34a5bf3062b4eef8f22522b5892cce26e6d26fe16f9c162a05a6a326a7de2"
+    },
+    {
+      "name": "pipeline1.ipynb",
+      "is_directory": false,
+      "sha256": "b45c8fb6388d64997abf74df8b39556523b1159ffadcb836c30869530ddc9087"
+    },
+    {
+      "name": "pipelineContour.ipynb",
+      "is_directory": false,
+      "sha256": "94217597718acbc469f6c56cf29dd1402e5e3b383377c3d92766a17c56f3af45"
+    },
+    {
+      "name": "pipelineContourFullInference.ipynb",
+      "is_directory": false,
+      "sha256": "4b61dc8ee5b1e6e169ddc37803c835b8fc85f95c1629e8a94207fbb978ff38bb"
+    },
+    {
+      "name": "pipelineFULL_INFERENCE.ipynb",
+      "is_directory": false,
+      "sha256": "da0d3e93686d1fe9cf94eccdcd94c783f4773f122d85bbf53369ffecd721dcbe"
+    },
+    {
+      "name": "pipelineFullInferenceDino.ipynb",
+      "is_directory": false,
+      "sha256": "afdad78b76341a2ddeb53f56e97f0a84856ef5407ff7a44f19a7e74ba96c447a"
+    },
+    {
+      "name": "pipelineINFERENCE.ipynb",
+      "is_directory": false,
+      "sha256": "fc1b38c15e519cfc2b194bf5d0da7aeaad7f032cd52697e0383b5217874b17c4"
+    },
+    {
+      "name": "pipelineINFERENCE_flow.md",
+      "is_directory": false,
+      "sha256": "eba52041b49f182e7030bf538d51423f2c1da796613d6a4e5b04da4cb821952c"
+    },
+    {
+      "name": "pipelineWbubbles.ipynb",
+      "is_directory": false,
+      "sha256": "e54b1bef03c272df526c540dddf4225eaa4b8337a1d7b8fcba5a63ba5ada66b2"
+    },
+    {
+      "name": "testByT5OCRCorrection.ipynb",
+      "is_directory": false,
+      "sha256": "41e01b39826d7bcf965dfd7a5af1966ba0d5d356055a9f225b8361549a5c5bd8"
+    },
+    {
+      "name": "testContourNarrator.ipynb",
+      "is_directory": false,
+      "sha256": "12d6523a6ed39e5a2d5efe581ca07be5c27c4a0c0b095e93a24f55e71fc0ed98"
+    },
+    {
+      "name": "testContourNarrator2.ipynb",
+      "is_directory": false,
+      "sha256": "1973652dc081cbfefb363180cfe48f62c66c6d993563914b03dc5ab2bf81a442"
+    }
+  ],
+  "protected_code_sha256": {
+    "pipelineArtifactContourFullInference.ipynb": "9e83c9f4117d2413b0abeef0019b24078f38fa2da35628efd1de016adb0c3360",
+    "contour_narrator2.py": "d3762e035328fa996247aad9583ac6dc600c61c5d360788d5f99f0f8e7ad6a0b",
+    "contour_grouping.py": "bfeac1c6433f3e6490e18bc61e472485eab9907511ccfc0d4de6ac9c0224f971"
+  }
+}

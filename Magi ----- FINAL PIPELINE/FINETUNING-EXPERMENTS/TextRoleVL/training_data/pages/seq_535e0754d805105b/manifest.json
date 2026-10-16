@@ -1,0 +1,313 @@
+{
+  "sequence_id": "seq_535e0754d805105b",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "suicide, huh..."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "THE GUY LYING FACE-DOWN IS HIS BODYGUARD."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "This is the third case this year in our jurisdiction alone."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "'Course, their hands were pretty bloody to begin with."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "..."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Other people's lives didn't mean a thing to them..."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "...but their OOW, they had a pretty high opinion of."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Hardly the suicidal type."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "When was the first one?"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "I think Charlie has the list..."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "Right here, sir."
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "THE FIRST WAS ON JANUARY THE FIFTH. RICHARD BACH, AGED 4S. LIVED ON EAST IS2nd."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "suspicion of mob ties."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "SHOT HIMSELF IN THE RIGHT TEMPLE WITH A .360 WAD- CUTTER."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Hmm."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "In the second case, the importer -- also under investigation for smuggling. This time there were witnesses who saw him jump out his apartment window... right in the middle of a family dinner."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "And now Jerry Watts slits his own throat with a straight razor!"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Jumping out a window... Gunshot to the head... Orthodox suicide."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "WHAT CAN WE REALLY SAY?"
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "No, not much room for Sus- fiction."
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "Not until this last case."
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "Say you're actually hardcore enough to go by cutting your own throat. But you've got a body- guard. Well, simple way would be in theJohn. When the knock comes on the door, ten minutes later, tub's full."
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "But our Mr. Watts... for some reason, we liked things complicated. For he felt the need to sneak up behind his bodyguard... and take the good time and trouble to cut his throat first."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Your coffee, sir. No sugar."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Hm."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Thanks, Charlie."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "WHAT'S THAT?"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "JERRY WATTS'S FILE."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Hmph."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Read it and you'll find it that much harder to believe he'd commit suicide."
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Beat the rap on a fraud count three times."
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "SURVORTYPE, YOU MIGHT SAY."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL8",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL6",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL8"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T11",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T12",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T8",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T11",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL6"
+    },
+    {
+      "text_id": "PG3:T8",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

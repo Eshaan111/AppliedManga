@@ -1,0 +1,164 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "WELL, NOT THAT IT HAS ANYTHING TO DO WITH SERVANTS LIKE US,",
+    "cleaned_text": "WELL, NOT THAT IT HAS ANYTHING TO DO WITH SERVANTS LIKE US,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "BUT...",
+    "cleaned_text": "BUT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "THAT'S EVEN BETTER FOR ME.",
+    "cleaned_text": "THAT\u2019S EVEN BETTER FOR ME.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "WHAT?",
+    "cleaned_text": "WHAT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "I HAVE THE PERFECT MEDICINE FOR THE BRIDE.",
+    "cleaned_text": "I HAVE THE PERFECT MEDICINE FOR THE BRIDE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "OH... OH, PLEASE. MY GOODNESS!",
+    "cleaned_text": "OH... OH, PLEASE. MY GOODNESS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "BUT CAN I SEE?",
+    "cleaned_text": "BUT CAN I SEE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "OF COURSE. HERE.",
+    "cleaned_text": "OF COURSE. HERE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "WOW! SO MANY! 2",
+    "cleaned_text": "WOW! SO MANY! 2",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character5",
+    "raw_text": "IT IS ALMOST TIME FOR yoU TO DEPART.",
+    "cleaned_text": "IT IS ALMOST TIME FOR YOU TO DEPART.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "TAKE GOOD CARE OF HIS PARENTS.",
+    "cleaned_text": "TAKE GOOD CARE OF HIS PARENTS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character7",
+    "raw_text": "BE MINDFUL OF YOUR HEALTH.",
+    "cleaned_text": "BE MINDFUL OF YOUR HEALTH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character6",
+    "raw_text": "YEAH, WE'RE COUNTING ON You.",
+    "cleaned_text": "YEAH, WE\u2019RE COUNTING ON YOU.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character11",
+    "raw_text": "THE FUTURE OF THE SAKAI FAMILY NOW RESTS IN YOUR HANDS.",
+    "cleaned_text": "THE FUTURE OF THE SAKAI FAMILY NOW RESTS IN YOUR HANDS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "UNKNOWN",
+    "raw_text": "MAYBE YOU SHOULD SELL THEM TO LADY MAO!",
+    "cleaned_text": "MAYBE YOU SHOULD SELL THEM TO LADY MAO!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character8",
+    "raw_text": "\u2022 . \u2022 \u2022 . \u2022 . \u2022 \u2022 HER GROOM, LORD SHIONO, IS",
+    "cleaned_text": "\u2022 . \u2022 \u2022 . \u2022 . \u2022 \u2022 HER GROOM, LORD SHIONO, IS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character9",
+    "raw_text": "THAT'S RATHER UNFORTUNATE FOR THE BRIDE,",
+    "cleaned_text": "THAT\u2019S RATHER UNFORTUNATE FOR THE BRIDE,",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "UNKNOWN",
+    "raw_text": "ISN'T IT? BUT IT CAN'T BE HELPED.",
+    "cleaned_text": "ISN'T IT? BUT IT CAN'T BE HELPED.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

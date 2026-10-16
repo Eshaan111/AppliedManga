@@ -1,0 +1,191 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "GOT YOUR TOMATO DEVIL RIGHT HERE.",
+    "cleaned_text": "GOT YOUR TOMATO DEVIL RIGHT HERE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "IT REVIVES FROM ITS SEEDS, SO YOU SHOULD BURN IT.",
+    "cleaned_text": "IT REVIVES FROM ITS SEEDS, SO YOU SHOULD BURN IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "GOOD WORK, DENJI. THIS GUY'S CORPSE'LL FETCH A PRETTY PENNY ON THE BLACK MARKET.",
+    "cleaned_text": "GOOD WORK, DENJI. THIS GUY'S CORPSE'LL FETCH A PRETTY PENNY ON THE BLACK MARKET.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "THE REWARD'S 400 GRAND.",
+    "cleaned_text": "THE REWARD\u2019S 400 GRAND.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "THANKS !!",
+    "cleaned_text": "THANKS!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "UNKNOWN",
+    "raw_text": "I'M TAKING OHT 17O GRAND tO COVER YOUR LOAN AND INTEREST PAYMENTS.",
+    "cleaned_text": "I\u2019M TAKING OUT 170 GRAND TO COVER YOUR LOAN AND INTEREST PAYMENTS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "UNKNOWN",
+    "raw_text": "AND THEN THERE'S THE COMMISSION FOR REFERRING YOL AND ASSOCIATED FEES...",
+    "cleaned_text": "AND THEN THERE'S THE COMMISSION FOR REFERRING YOL AND ASSOCIATED FEES...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "ONLY 70 GRAND LEFT...",
+    "cleaned_text": "ONLY 70 GRAND LEFT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "AFTER PAYING THE WATER BILL",
+    "cleaned_text": "AFTER PAYING THE WATER BILL.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "AND THE OTHER LOANS,",
+    "cleaned_text": "AND THE OTHER LOANS,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "THERE'S A MEASLY 1800 YEN LEFT. IT'S A GODDAMN MIRACLE, THE MONEY JUST VANISHED INTO THIN AIR.",
+    "cleaned_text": "THERE'S A MEASLY 1800 YEN LEFT. IT'S A GODDAMN MIRACLE, THE MONEY JUST VANISHED INTO THIN AIR.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "THERE'S NOTHIN' TA EAT AT HOME EITHER...",
+    "cleaned_text": "THERE'S NOTHIN' TO EAT AT HOME EITHER...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "WE GOTTA GET BY ON JUST THIS FOR THE MONTH.",
+    "cleaned_text": "WE GOTTA GET BY ON JUST THIS FOR THE MONTH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "POCHITA...",
+    "cleaned_text": "POCHITA...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "DINNER TODAY'S GONNA BE ONE SLICE OF BREAD.",
+    "cleaned_text": "DINNER TODAY\u2019S GONNA BE ONE SLICE OF BREAD.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character9",
+    "raw_text": "WHY'RE YOU USING A BRAT LIKE HIM AS A DEVIL HUNTER?",
+    "cleaned_text": "WHY\u2019RE YOU USING A BRAT LIKE HIM AS A DEVIL HUNTER?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character8",
+    "raw_text": "TO GET BACK THE MONEY WE'RE OWED.",
+    "cleaned_text": "TO GET BACK THE MONEY WE\u2019RE OWED.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character8",
+    "raw_text": "THOUGH IT WAS HIS PIECE OF SHIT POPS WHO DIED WITHOLT PAYING UP.",
+    "cleaned_text": "THOUGH IT WAS HIS PIECE OF SHIT POPS WHO DIED WITHOUT PAYING UP.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character6",
+    "raw_text": "STILL, IS IT REALLY OKAY TO HIRE A SHITHEAD WITH A PET DEVIL AS A DEVIL HUNTER?",
+    "cleaned_text": "STILL, IS IT REALLY OKAY TO HIRE A SHITHEAD WITH A PET DEVIL AS A DEVIL HUNTER?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "THING IS, A REAL DEVIL HUNTER, WON'T JUST LET YAKUZA TAKE THE CORPSE AFTERWARDS.",
+    "cleaned_text": "THING IS, A REAL DEVIL HUNTER, WON'T JUST LET YAKUZA TAKE THE CORPSE AFTERWARDS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "HIS OTHER REDEEMING QUALITY IS THAT HE ALWAYS DOES AS HE'S TOLD.",
+    "cleaned_text": "HIS OTHER REDEEMING QUALITY IS THAT HE ALWAYS DOES AS HE\u2019S TOLD.",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

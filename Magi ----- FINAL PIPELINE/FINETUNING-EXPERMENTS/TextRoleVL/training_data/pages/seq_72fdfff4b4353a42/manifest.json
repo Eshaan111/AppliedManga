@@ -1,0 +1,257 @@
+{
+  "sequence_id": "seq_72fdfff4b4353a42",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "They say that if a boy and girl go to see this movie together, they're guaranteed to start dating!"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Has there a problem"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Uh... what!?"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Oh? Presi- dent,"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "were you"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "About to invite me to go with you?"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "A movie that makes boys and girls who see it start dating..."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Are you"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Oh, my"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "Going to say that we should see it?"
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "wouldn't that be the same as..."
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "A Confes- Slow!?"
+    },
+    {
+      "id": "PG1:T13",
+      "page": 1,
+      "text": "Shirogane realizes the dilemma he is in!!"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "In matters of love, there is an absolute rule that \"The One who Falls in Love Loses!!\""
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "In other words, \"The One who Confesses Loses!!\""
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Both parties, with their incredible pride,"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Refuse to allow themselves to be the one to confess!!"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "What should I do...?"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Is my only option to try and trick her to get out of it...?"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "For example..."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "do... do you want to go sell the tickets with me?"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "Oh?"
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "You seem rather flustered..."
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "How cute..."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "I will not!!"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "I will not run from this!!"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "You will be the one to flee, Shinomya!!"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Yes, I was going to invite you, shinomiya."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "I don't believe in such rumors,"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "And I was under the impression that you didn't either."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Well, Shinomiya?"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Do you want to see this movie with me?"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL8",
+      "page": 1
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL8"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T11",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T7",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T8",
+      "tail_id": "PG3:TAIL3"
+    }
+  ]
+}

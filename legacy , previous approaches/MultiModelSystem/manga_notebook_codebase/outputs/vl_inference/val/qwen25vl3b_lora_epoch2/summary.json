@@ -1,0 +1,41 @@
+{
+  "metric": "Accepted-group speaker accuracy, sequence-wide character permutation",
+  "completed_sequences": 16,
+  "available_sequences": 16,
+  "input_groups": 421,
+  "labelled_groups": 309,
+  "labelled_coverage": 0.7339667458432304,
+  "correct": 150,
+  "speaker_accuracy": 0.4854368932038835,
+  "valid_json_responses": 16,
+  "complete_valid_responses": 15,
+  "missing_predictions": 0,
+  "unexpected_ids": 1,
+  "invalid_speakers": 0,
+  "token_limit_responses": 0,
+  "class_accuracy": {
+    "character": {
+      "count": 273,
+      "correct": 150,
+      "accuracy": 0.5494505494505495
+    },
+    "UNKNOWN": {
+      "count": 13,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "NARRATION": {
+      "count": 23,
+      "correct": 0,
+      "accuracy": 0.0
+    }
+  },
+  "scoring_targets_sha256": "c4a9a81ac17601181bb7ba793e4f2234f4f1c2c8c6a1009f01535071860b95aa",
+  "scorer_sha256": "f3a6112a97a98bac4c86a7f658cd5fce1c24ef4787c6493c9a06c7b35d42f8e4",
+  "output_sha256": {
+    "raw_responses.jsonl": "9b249f7a1b16b28f8304626462412d9180270397435e6b82ed98bba52077c472",
+    "predictions.jsonl": "882b4e0d725ce24f8d15304e76124a89a67860770e5e055085a3c5634f91c08c",
+    "prediction_audit.jsonl": "d23211b9fc39fbbc15b5caf693802745b0fc699aee03329e8ec5be53130045c2",
+    "evaluation.jsonl": "31b839081026c857c07f11910891fcbb79e9e33110ef58629981bda2e6e09345"
+  }
+}

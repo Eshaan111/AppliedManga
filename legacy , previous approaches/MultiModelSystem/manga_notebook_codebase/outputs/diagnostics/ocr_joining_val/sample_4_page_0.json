@@ -1,0 +1,779 @@
+{
+  "sequence_id": "seq_84541a1f4b159018",
+  "page_index": 0,
+  "raw_count": 42,
+  "target_count": 11,
+  "filter_exclusions": [
+    {
+      "candidate": {
+        "id": "c19",
+        "text": "THUNK",
+        "score": 0.9928320646286011,
+        "box": [
+          443.0,
+          717.0,
+          548.0,
+          793.0
+        ]
+      },
+      "reason": "sound_effect_word"
+    },
+    {
+      "candidate": {
+        "id": "c20",
+        "text": "THUD",
+        "score": 0.9791766405105591,
+        "box": [
+          544.0,
+          720.0,
+          634.0,
+          798.0
+        ]
+      },
+      "reason": "sound_effect_word"
+    }
+  ],
+  "excluded_sound_effects": [
+    {
+      "id": "c19",
+      "text": "THUNK",
+      "score": 0.9928320646286011,
+      "box": [
+        443.0,
+        717.0,
+        548.0,
+        793.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "THUD",
+      "score": 0.9791766405105591,
+      "box": [
+        544.0,
+        720.0,
+        634.0,
+        798.0
+      ]
+    }
+  ],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c2",
+        "c5",
+        "c8"
+      ],
+      "text": "SHOULD BE ABOUT TIME...",
+      "box": [
+        615.0,
+        122.0,
+        709.0,
+        180.0
+      ],
+      "id": "g0",
+      "score": 0.99641086657842,
+      "target_index": 0,
+      "target_text": "SHOULD BE ABOUT TIME...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c1",
+        "c4",
+        "c7",
+        "c9"
+      ],
+      "text": "DAMMIT! AGAIN?!I CAN'T KEEP CONTROL.",
+      "box": [
+        163.0,
+        130.0,
+        249.0,
+        194.0
+      ],
+      "id": "g1",
+      "score": 0.9994684159755707,
+      "target_index": 1,
+      "target_text": "DAMMIT! AGAIN?! I CAN'T KEEP CONTROL.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c0",
+        "c3",
+        "c6"
+      ],
+      "text": "THIS ITADORI KID!",
+      "box": [
+        72.0,
+        130.0,
+        135.0,
+        181.0
+      ],
+      "id": "g2",
+      "score": 0.9998588562011719,
+      "target_index": 2,
+      "target_text": "THIS ITADORI KID!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c10"
+      ],
+      "text": "FWo0..",
+      "box": [
+        29.0,
+        325.0,
+        205.0,
+        475.0
+      ],
+      "id": "g3",
+      "score": 0.81561678647995,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c11",
+        "c12"
+      ],
+      "text": "WHAT IS HE?!",
+      "box": [
+        596.0,
+        515.0,
+        681.0,
+        567.0
+      ],
+      "id": "g4",
+      "score": 0.9979996681213379,
+      "target_index": 3,
+      "target_text": "WHAT IS HE?!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c13",
+        "c14",
+        "c15",
+        "c16"
+      ],
+      "text": "WAS EVERY- THING OKAY?",
+      "box": [
+        195.0,
+        556.0,
+        255.0,
+        623.0
+      ],
+      "id": "g5",
+      "score": 0.999900221824646,
+      "target_index": 5,
+      "target_text": "WAS EVERYTHING OKAY?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c17"
+      ],
+      "text": "OH...",
+      "box": [
+        540.0,
+        615.0,
+        585.0,
+        638.0
+      ],
+      "id": "g6",
+      "score": 0.9974724650382996,
+      "target_index": 4,
+      "target_text": "OH...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c18"
+      ],
+      "text": "TP",
+      "box": [
+        200.0,
+        715.0,
+        329.0,
+        870.0
+      ],
+      "id": "g7",
+      "score": 0.9375190734863281,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c21",
+        "c22",
+        "c24",
+        "c26",
+        "c27"
+      ],
+      "text": "YOU REALLY CAN CONTROL /T.",
+      "box": [
+        342.0,
+        731.0,
+        419.0,
+        814.0
+      ],
+      "id": "g8",
+      "score": 0.9596478104591369,
+      "target_index": 7,
+      "target_text": "YOU REALLY CAN CONTROL IT.",
+      "similarity": 0.975609756097561
+    },
+    {
+      "candidate_ids": [
+        "c23",
+        "c25"
+      ],
+      "text": "WHAT A SURPRISE!",
+      "box": [
+        641.0,
+        755.0,
+        724.0,
+        788.0
+      ],
+      "id": "g9",
+      "score": 0.9847313463687897,
+      "target_index": 6,
+      "target_text": "WHAT A SURPRISE!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c29",
+        "c31",
+        "c33",
+        "c35"
+      ],
+      "text": "YEAH, BUT HE'S KIND OF ANNOYING.",
+      "box": [
+        636.0,
+        942.0,
+        716.0,
+        1006.0
+      ],
+      "id": "g10",
+      "score": 0.9875750690698624,
+      "target_index": 8,
+      "target_text": "YEAH, BUT HE'S KIND OF ANNOYING.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c28",
+        "c30",
+        "c32",
+        "c34"
+      ],
+      "text": "I CAN HEAR HIS VOICE.",
+      "box": [
+        446.0,
+        943.0,
+        493.0,
+        1008.0
+      ],
+      "id": "g11",
+      "score": 0.9708348363637924,
+      "target_index": 9,
+      "target_text": "I CAN HEAR HIS VOICE.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c36",
+        "c37",
+        "c38",
+        "c39",
+        "c40",
+        "c41"
+      ],
+      "text": "IT'S A MIRACLE THAT'S THE ONLY SIDE EFFECT.",
+      "box": [
+        386.0,
+        1060.0,
+        460.0,
+        1152.0
+      ],
+      "id": "g12",
+      "score": 0.9986384709676107,
+      "target_index": 10,
+      "target_text": "IT'S A MIRACLE THAT'S THE ONLY SIDE EFFECT.",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "THIS",
+      "score": 0.999925434589386,
+      "box": [
+        85.0,
+        130.0,
+        122.0,
+        149.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "DAMMIT!",
+      "score": 0.9998545050621033,
+      "box": [
+        174.0,
+        130.0,
+        238.0,
+        148.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "SHOULD",
+      "score": 0.999985933303833,
+      "box": [
+        623.0,
+        122.0,
+        701.0,
+        143.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "ITADORI",
+      "score": 0.9997064471244812,
+      "box": [
+        72.0,
+        147.0,
+        135.0,
+        164.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "AGAIN?!I",
+      "score": 0.9991742372512817,
+      "box": [
+        169.0,
+        147.0,
+        242.0,
+        164.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "BE ABOUT",
+      "score": 0.9895051717758179,
+      "box": [
+        615.0,
+        142.0,
+        709.0,
+        160.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "KID!",
+      "score": 0.9999446868896484,
+      "box": [
+        87.0,
+        162.0,
+        121.0,
+        181.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "CAN'T KEEP",
+      "score": 0.9997169375419617,
+      "box": [
+        163.0,
+        162.0,
+        249.0,
+        179.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "TIME...",
+      "score": 0.9997414946556091,
+      "box": [
+        630.0,
+        159.0,
+        691.0,
+        180.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "CONTROL.",
+      "score": 0.999127984046936,
+      "box": [
+        166.0,
+        178.0,
+        247.0,
+        194.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "FWo0..",
+      "score": 0.81561678647995,
+      "box": [
+        29.0,
+        325.0,
+        205.0,
+        475.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "WHAT",
+      "score": 0.9999908804893494,
+      "box": [
+        605.0,
+        515.0,
+        671.0,
+        545.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "IS HE?!",
+      "score": 0.9960084557533264,
+      "box": [
+        596.0,
+        540.0,
+        681.0,
+        567.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "WAS",
+      "score": 0.9999333024024963,
+      "box": [
+        206.0,
+        556.0,
+        245.0,
+        578.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "EVERY-",
+      "score": 0.9997251629829407,
+      "box": [
+        195.0,
+        573.0,
+        255.0,
+        592.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "THING",
+      "score": 0.9999796152114868,
+      "box": [
+        203.0,
+        591.0,
+        250.0,
+        606.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "OKAY?",
+      "score": 0.9999628067016602,
+      "box": [
+        199.0,
+        605.0,
+        255.0,
+        623.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "OH...",
+      "score": 0.9974724650382996,
+      "box": [
+        540.0,
+        615.0,
+        585.0,
+        638.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "TP",
+      "score": 0.9375190734863281,
+      "box": [
+        200.0,
+        715.0,
+        329.0,
+        870.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "THUNK",
+      "score": 0.9928320646286011,
+      "box": [
+        443.0,
+        717.0,
+        548.0,
+        793.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "THUD",
+      "score": 0.9791766405105591,
+      "box": [
+        544.0,
+        720.0,
+        634.0,
+        798.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "YOU",
+      "score": 0.9181311726570129,
+      "box": [
+        362.0,
+        731.0,
+        403.0,
+        753.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "REALLY",
+      "score": 0.9999673366546631,
+      "box": [
+        351.0,
+        748.0,
+        412.0,
+        768.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "WHAT A",
+      "score": 0.9695106148719788,
+      "box": [
+        653.0,
+        755.0,
+        712.0,
+        773.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "CAN",
+      "score": 0.9999788403511047,
+      "box": [
+        363.0,
+        765.0,
+        401.0,
+        784.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "SURPRISE!",
+      "score": 0.9999520778656006,
+      "box": [
+        641.0,
+        771.0,
+        724.0,
+        788.0
+      ]
+    },
+    {
+      "id": "c26",
+      "text": "CONTROL",
+      "score": 0.9999491572380066,
+      "box": [
+        342.0,
+        780.0,
+        419.0,
+        798.0
+      ]
+    },
+    {
+      "id": "c27",
+      "text": "/T.",
+      "score": 0.8802125453948975,
+      "box": [
+        372.0,
+        796.0,
+        392.0,
+        814.0
+      ]
+    },
+    {
+      "id": "c28",
+      "text": "I CAN",
+      "score": 0.88422030210495,
+      "box": [
+        446.0,
+        943.0,
+        490.0,
+        966.0
+      ]
+    },
+    {
+      "id": "c29",
+      "text": "YEAH,",
+      "score": 0.9996756315231323,
+      "box": [
+        654.0,
+        942.0,
+        699.0,
+        961.0
+      ]
+    },
+    {
+      "id": "c30",
+      "text": "HEAR",
+      "score": 0.9999383687973022,
+      "box": [
+        449.0,
+        958.0,
+        489.0,
+        978.0
+      ]
+    },
+    {
+      "id": "c31",
+      "text": "BUT HE'S",
+      "score": 0.963370680809021,
+      "box": [
+        639.0,
+        958.0,
+        712.0,
+        976.0
+      ]
+    },
+    {
+      "id": "c32",
+      "text": "HIS",
+      "score": 0.9997294545173645,
+      "box": [
+        458.0,
+        974.0,
+        485.0,
+        992.0
+      ]
+    },
+    {
+      "id": "c33",
+      "text": "KIND OF",
+      "score": 0.9878641963005066,
+      "box": [
+        641.0,
+        973.0,
+        712.0,
+        992.0
+      ]
+    },
+    {
+      "id": "c34",
+      "text": "VOICE.",
+      "score": 0.999451220035553,
+      "box": [
+        448.0,
+        986.0,
+        493.0,
+        1008.0
+      ]
+    },
+    {
+      "id": "c35",
+      "text": "ANNOYING.",
+      "score": 0.9993897676467896,
+      "box": [
+        636.0,
+        992.0,
+        716.0,
+        1006.0
+      ]
+    },
+    {
+      "id": "c36",
+      "text": "IT'S A",
+      "score": 0.9937170147895813,
+      "box": [
+        397.0,
+        1060.0,
+        447.0,
+        1078.0
+      ]
+    },
+    {
+      "id": "c37",
+      "text": "MIRACLE",
+      "score": 0.9998974204063416,
+      "box": [
+        388.0,
+        1074.0,
+        456.0,
+        1093.0
+      ]
+    },
+    {
+      "id": "c38",
+      "text": "THAT'S",
+      "score": 0.9996535778045654,
+      "box": [
+        398.0,
+        1090.0,
+        449.0,
+        1106.0
+      ]
+    },
+    {
+      "id": "c39",
+      "text": "THE ONLY",
+      "score": 0.9996967315673828,
+      "box": [
+        386.0,
+        1103.0,
+        460.0,
+        1122.0
+      ]
+    },
+    {
+      "id": "c40",
+      "text": "SIDE",
+      "score": 0.9997531175613403,
+      "box": [
+        400.0,
+        1118.0,
+        442.0,
+        1138.0
+      ]
+    },
+    {
+      "id": "c41",
+      "text": "EFFECT.",
+      "score": 0.9991129636764526,
+      "box": [
+        390.0,
+        1135.0,
+        455.0,
+        1152.0
+      ]
+    }
+  ],
+  "transcript": "SHOULD BE ABOUT TIME...\nDAMMIT! AGAIN?!I CAN'T KEEP CONTROL.\nTHIS ITADORI KID!\nFWo0..\nWHAT IS HE?!\nWAS EVERY- THING OKAY?\nOH...\nTP\nYOU REALLY CAN CONTROL /T.\nWHAT A SURPRISE!\nYEAH, BUT HE'S KIND OF ANNOYING.\nI CAN HEAR HIS VOICE.\nIT'S A MIRACLE THAT'S THE ONLY SIDE EFFECT.",
+  "sample_index": 4,
+  "preview_file": "sample_4_page_0.html"
+}

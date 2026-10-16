@@ -1,0 +1,12 @@
+[Page 01.png]
+character1: • • • • • • • • •
+character2: HEY THERE, APOTHECARY.
+
+[Page 02.png]
+UNKNOWN: TODAY IS OUR LADY’S WEDDING DAY. YOU CAN’T SELL YOUR WARES.
+character1: HEY.
+
+[Page 03.png]
+character10: ........
+character10: AH-HA...
+NARRATION: SFX: AH HA HA HA

@@ -1,0 +1,215 @@
+{
+  "sequence_id": "seq_fc4c2b84b6ec32ff",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "p-p- PLEASE, boss! Oh, god!"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Oh, god, you gonna do me now, please don't--"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "KLIK"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Oh, thank you, man... Oh, I'm sorry..."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Oh sweet Jesus, thank you, thank you..."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Thank you... Thank you..."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "enough."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "I WANT YOU TO GET UP... AND I WANT YOU TO WALK AWAY."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "AND LET ME EXPLAIN SOMETHING BEFORE YOU GO."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "You're out of here. For good."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "SEE YOU AROUND, HEAR YOU AROUND..."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "...YOU DIE THAT VERY DAY."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "N-No! BOSS!"
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "you gotta FORGIVE us, boss! We ain't gonna ever--"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "Pingge"
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "Eee- yada!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "You're out."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Go."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "A- ASH..."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Oh shit, oh shit..."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Listen up."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

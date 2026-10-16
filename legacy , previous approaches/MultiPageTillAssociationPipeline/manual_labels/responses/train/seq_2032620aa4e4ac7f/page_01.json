@@ -1,0 +1,40 @@
+{
+  "sequence_id": "seq_2032620aa4e4ac7f",
+  "page_number": 1,
+  "split": "train",
+  "stage_fingerprint": {
+    "bubbles_clean.json": "8d73dbe8553d2e9602dd302aca38f496c3d7aae50d27c870880dbabde53ea5cd",
+    "ocr_clean.json": "3747f456a43f89bfdf6263e135a317f3c5e4bee60336ec97d9aa3a8181d2e5e6",
+    "bubble_gt_labels.json": "45eff11f480b8e31de60b19280823ad99de3de28a61d1b37d2e269fdb611d53d",
+    "characters.json": "8bc911521951923c22f9aa162c3ae72a8020fe91b7b510e9b5dad4b8bd190ddc"
+  },
+  "detections_sha256": "8bc911521951923c22f9aa162c3ae72a8020fe91b7b510e9b5dad4b8bd190ddc",
+  "page_sha256": "952423eefaf0862b89c7cad32e3231b1701e11577d4ef7009dfd5485c3acb30b",
+  "answer": "character1 - A2, A4\ncharacter2 - A3",
+  "rejected_answer": "A5, A1",
+  "character_appearances": {
+    "character1": [
+      "A2",
+      "A4"
+    ],
+    "character2": [
+      "A3"
+    ]
+  },
+  "rejected_appearances": [
+    "A5",
+    "A1"
+  ],
+  "unassigned_appearances": [],
+  "bubble_speaker_overrides": {
+    "B4": "character2"
+  },
+  "added_appearances": [],
+  "appearance_to_detection": {
+    "A1": "C1",
+    "A2": "C2",
+    "A3": "C3",
+    "A4": "C4",
+    "A5": "C5"
+  }
+}

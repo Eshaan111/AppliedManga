@@ -1,0 +1,218 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "NOW... HOW WILL YOU REACT...?",
+    "cleaned_text": "NOW... HOW WILL YOU REACT...?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "SHINOMIYA THOUGHT FOR AN INSTANT...",
+    "cleaned_text": "SHINOMIYA THOUGHT FOR AN INSTANT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "BUT WHAT WENT THROUGH HER MIND WAS NO ORDINARY PROCESS OF THOUGHT!",
+    "cleaned_text": "BUT WHAT WENT THROUGH HER MIND WAS NO ORDINARY PROCESS OF THOUGHT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "HE'S ATTACKED ME...",
+    "cleaned_text": "HE'S ATTACKED ME...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "BY REVEALING THAT HE WANTS TO SEE THE MOVIE, HE'S LEFT THE CHOICE OF WHETHER TO GO OR NOT UP TO ME.",
+    "cleaned_text": "BY REVEALING THAT HE WANTS TO SEE THE MOVIE, HE\u2019S LEFT THE CHOICE OF WHETHER TO GO OR NOT UP TO ME.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "A FINE COUNTER- ATTACK..",
+    "cleaned_text": "A FINE COUNTER-ATTACK...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "I Have The OPTION OF REFUSING HIM,",
+    "cleaned_text": "I Have The Option Of Refusing Him,",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "BUT THAT WOULD RENDER ALL I'VE DONE UP TO THIS POINT MEANING- LESS...",
+    "cleaned_text": "BUT THAT WOULD RENDER ALL I'VE DONE UP TO THIS POINT MEANING-LESS...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "ALL I'VE DONE.",
+    "cleaned_text": "ALL I'VE DONE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "CAREFULLY PREPARING A FAKE PRIZE...",
+    "cleaned_text": "CAREFULLY PREPARING A FAKE PRIZE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "SLUPPING UTRINTO FUJIWARA'S MAILBOX",
+    "cleaned_text": "SLUPPING UTRINTO FUJIWARA'S MAILBOX",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "AND FINDING AMOVIEON A WEEKEND ONONEOF HIS RARE BREAKS!!",
+    "cleaned_text": "AND FINDING A MOVIE ON A WEEKEND ON ONE OF HIS RARE BREAKS!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "IF I REFUSE HIM HERE, WITH HIS MENTAL WEAKNESS",
+    "cleaned_text": "IF I REFUSE HIM HERE, WITH HIS MENTAL WEAKNESS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "HE MAY VERY WELL NEVER INVITE ME TO A MOVIE AGAIN.",
+    "cleaned_text": "HE MAY VERY WELL NEVER INVITE ME TO A MOVIE AGAIN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "AS A WOMAN, I CANNOT ALLOW THAT!",
+    "cleaned_text": "AS A WOMAN, I CANNOT ALLOW THAT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "THAT IS NOT AN OPTION!!",
+    "cleaned_text": "THAT IS NOT AN OPTION!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "I CANNOT RETREAT!",
+    "cleaned_text": "I CANNOT RETREAT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "YOU'RE RIGHT.",
+    "cleaned_text": "YOU\u2019RE RIGHT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "I DO SORT OF BELIEVE IT...",
+    "cleaned_text": "I DO SORT OF BELIEVE IT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "BUT I WAS HOPING SOMEONE WOULD GIVE ME A SINCERE INVITATION TO SEE IT...",
+    "cleaned_text": "BUT I WAS HOPING SOMEONE WOULD GIVE ME A SINCERE INVITATION TO SEE IT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "SHINOMIYA USED THE SKILL \"FEIGNING INNOCENCE!!\"",
+    "cleaned_text": "SHINOMIYA USED THE SKILL \"FEIGNING INNOCENCE!!\"",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "ONE OF THE SECRET TECHNIQUES PASSED DOWN FROM FATHER TO CHILD IN THE SHINOMIYA FAMILY!",
+    "cleaned_text": "ONE OF THE SECRET TECHNIQUES PASSED DOWN FROM FATHER TO CHILD IN THE SHINOMIYA FAMILY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "AGAINST THIS CAREFULLY CALCULATED EXPRESSION AND SUDDEN CHANGE IN VOICE, EVEN THE HEART OF A GOD WOULD BE SET AFLUTTER!",
+    "cleaned_text": "AGAINST THIS CAREFULLY CALCULATED EXPRESSION AND SUDDEN CHANGE IN VOICE, EVEN THE HEART OF A GOD WOULD BE SET AFLUTTER!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "SHIROGANE'S THOUGHTS WERE THROWN INTO DISARRAY!!",
+    "cleaned_text": "SHIROGANE'S THOUGHTS WERE THROWN INTO DISARRAY!!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

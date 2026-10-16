@@ -1,0 +1,245 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character20",
+    "raw_text": "MAN, I WAS DOING SO WELL. I REALLY THOUGHT I HAD IT NAILED.",
+    "cleaned_text": "MAN, I WAS DOING SO WELL. I REALLY THOUGHT I HAD IT NAILED.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character20",
+    "raw_text": "BUT I GUESS THERE'S NOTHING I CAN DO ABOUT IT NOW.",
+    "cleaned_text": "BUT I GUESS THERE'S NOTHING I CAN DO ABOUT IT NOW.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "SEE!? THAT RIGHT THERE! OKAWA, YOU'RE ALWAYS SO LAID BACK! WHERE'S YOUR THIRST FOR BLOOD?",
+    "cleaned_text": "SEE!? THAT RIGHT THERE! OKAWA, YOU'RE ALWAYS SO LAID BACK! WHERE'S YOUR THIRST FOR BLOOD?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character20",
+    "raw_text": "WELL, IT'S FINALLY TIME. US THIBD YEARS ARE RETIRING FROM THE EQUESTRIAN CLUB TODAY!",
+    "cleaned_text": "WELL, IT\u2019S FINALLY TIME. US THIRD YEARS ARE RETIRING FROM THE EQUESTRIAN CLUB TODAY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character20",
+    "raw_text": "THE FIRST YEARS' FIRST COMPETITION IS IN OCTOBER, SO CONTINLIE DOING YOUR BEST AND MAKE THE CLUB PROUD!",
+    "cleaned_text": "THE FIRST YEAR\u2019S FIRST COMPETITION IS IN OCTOBER, SO CONTINUING DOING YOUR BEST AND MAKE THE CLUB PROUD!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "RIGHT!",
+    "cleaned_text": "RIGHT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "YODA, WE'D LIKE YOU TO TAKE OVER AS THE NEXT CLUB PRESIDENT.",
+    "cleaned_text": "YODA, WE'D LIKE YOU TO TAKE OVER AS THE NEXT CLUB PRESIDENT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "THANK YOU!",
+    "cleaned_text": "THANK YOU!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "AND FOR THE VICE- PRESI- DENT...",
+    "cleaned_text": "AND FOR THE VICE-PRESIDENT...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character5",
+    "raw_text": "I GUESS THAT MAKES SENSE. YODA-SAN IS THE ONLY SECOND YEAR HERE... THEY'RE GOING TO MAKE ONE OF US FIRST YEARS THE VICE- PRESIDENT?",
+    "cleaned_text": "I GUESS THAT MAKES SENSE. YODA-SAN IS THE ONLY SECOND YEAR HERE... THEY'RE GOING TO MAKE ONE OF US FIRST YEARS THE VICE-PRESIDENT?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "I BET IT'S GOING TO BE MIKAGE. SHE'S THE BEST OUT OF ALL OF US HERE, ONE IN FIVE ODDS... PLEASE DON'T LET It bE ME .\u2022\u2022",
+    "cleaned_text": "I BET IT\u2019S GOING TO BE MIKAGE. SHE\u2019S THE BEST OUT OF ALL OF US HERE, ONE IN FIVE ODDS... PLEASE DON\u2019T LET IT BE ME .\u2022\u2022.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "HACHIKEN. WE'RE COUNTING ON YOU.",
+    "cleaned_text": "HACHIKEN. WE\u2019RE COUNTING ON YOU.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "UNKNOWN",
+    "raw_text": "WHAAAT!? WAIT JUST A MINUTE!!",
+    "cleaned_text": "WHAAAT!? WAIT JUST A MINUTE!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character19",
+    "raw_text": "CON- GRATS!",
+    "cleaned_text": "CON- GRATS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "UNKNOWN",
+    "raw_text": "GOOD LUCK, HACHIKEN! HEY, YOU MADE VICE- PRESIDENT!",
+    "cleaned_text": "GOOD LUCK, HACHIKEN! HEY, YOU MADE VICE-PRESIDENT!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character15",
+    "raw_text": "GOOD LUCK!",
+    "cleaned_text": "GOOD LUCK!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "GOOD WORK TODAY, EVERY- BODY!",
+    "cleaned_text": "GOOD WORK TODAY, EVERYBODY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "YEAH, GREAT JOB GUYS!",
+    "cleaned_text": "YEAH, GREAT JOB GUYS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "YODA. HACHIKEN. YOU'RE TAKING OVER, SO CAN YOU HANG BACK FOR A MINLITE? SURE.",
+    "cleaned_text": "YODA. HACHIKEN. YOU'RE TAKING OVER, SO CAN YOU HANG BACK FOR A MINUTE? SURE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "UNKNOWN",
+    "raw_text": "EHHH HHH!?",
+    "cleaned_text": "EHHH HHH!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "WHY DID YOU CHOOSE ME?",
+    "cleaned_text": "WHY DID YOU CHOOSE ME?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "THERE'S NO WAY YOU CAN TELL ME THAT MIKAGE ISN'T WAY BETTER THAN I AM!",
+    "cleaned_text": "THERE'S NO WAY YOU CAN TELL ME THAT MIKAGE ISN'T WAY BETTER THAN I AM!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "THIS IS ABOUT BEING A TEAM MANAGER. IT HAS NOTHING TO DO WITH HOW GOOD YOU ARE.",
+    "cleaned_text": "THIS IS ABOUT BEING A TEAM MANAGER. IT HAS NOTHING TO DO WITH HOW GOOD YOU ARE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character20",
+    "raw_text": "HACHIKEN, YOU'RE HONEST WITH YOURSELF AND OTHERS NO MATTER WHAT THE SITUATION IS, AREN'T YOU?",
+    "cleaned_text": "HACHIKEN, YOU\u2019RE HONEST WITH YOURSELF AND OTHERS NO MATTER WHAT THE SITUATION IS, AREN\u2019T YOU?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "HM?",
+    "cleaned_text": "HM?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "I GUESS... BUT I'M STILL AGAINST THIS, YOU KNOW. I'M NOT EVEN COMPLETELY SURE WHY I CHOSE THIS SCHOOL, EITHER...",
+    "cleaned_text": "I GUESS... BUT I'M STILL AGAINST THIS, YOU KNOW. I'M NOT EVEN COMPLETELY SURE WHY I CHOSE THIS SCHOOL, EITHER...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character2",
+    "raw_text": "SEE? THAT'S EXACTLY THE HONESTY I WAS TALKING ABOUT. But don't GO BraGGinG aBout thinGs like that!",
+    "cleaned_text": "SEE? THAT\u2019S EXACTLY THE HONESTY I WAS TALKING ABOUT. But don't BRAGGING about things like that!",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

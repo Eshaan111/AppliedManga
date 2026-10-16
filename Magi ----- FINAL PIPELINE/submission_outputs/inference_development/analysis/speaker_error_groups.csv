@@ -1,0 +1,608 @@
+sequence_id,box_id,predicted_speaker,speaker_status,text_role,tail_override,members,reference_speakers,wrong_matched_weight,matched_known_weight,reason,text
+seq_535e0754d805105b,PG2:T4,NARRATION,narrator,NARRATED,False,1,"{""character3"": 39.0}",39.0,39.0,box-like evidence is incomplete near crop borders; requires faint retry,"IN THE SECOND CASE, THE IMPORTER -- ALSO UNDER INVESTIGATION FOR SMUGGLING. THIS TIME THERE WERE WITNESSES WHO SAW HIM JUMP OUT HIS APARTMENT WINDOW... RIGHT IN THE MIDDLE OF A FAMILY DINNER"
+seq_fb6d15ad78b7191c,PG3:M2,character2,partially_linked,SPOKEN,False,2,"{""character3"": 33.0}",33.0,33.0,white region with meaningful visible sharp edges,"THERE WAS AN INCIDENT OF “GROWLING SOUNDS OF A BEAST” BEING HEARD FROM THE NEIGHBORHOOD, AND THE LADY WAS WORRIED THAT “IT MIGHT BE A GHOUL”.…."
+seq_88c1ad85c0fc1e9a,PG3:M1,UNKNOWN,conflicting_entities,SPOKEN,False,3,"{""character1"": 32.85714285714286}",32.85714285714286,32.85714285714286,white region with meaningful visible sharp edges,"THE CIRCUM-STANCES WERE EXTRA-ORDINARY. ANYWAY, HE WASN'T A MEMBER OF THE SYNDICATE. JUST A VERY TINY MOUSE THAT WANTED STEPPING A CHORE FOR POCKET MONEY, AS IT WERE."
+seq_9032e5551cf1a9d2,PG2:T10,UNKNOWN,unassociated,SPOKEN,True,1,"{""character4"": 29.0}",29.0,29.0,Magi text-to-tail association forces SPOKEN,"FOR EXAMPLE, IF YOU MAKE THEM STAND ON SLIGHTLY HIGHER GROUND WITH THEIR FRONT LEGS LIKE THIS… SEE? NOW HER BACK LOOKS STRAIGHT, DOESN’T IT?"
+seq_9032e5551cf1a9d2,PG3:T1,character3,linked,SPOKEN,False,1,"{""character4"": 29.0}",29.0,29.0,white region with substantial curved sides; overrides box-like approximation,"IN THE SPOTS WHERE THEIR BACK CURVES IN, YOU LEAVE THE HAIR LONGER, AND WHERE THEIR BACK STICKS OUT MORE, YOU CUT THE HAIR SHORTER."
+seq_fb6d15ad78b7191c,PG1:M1,character5,linked,SPOKEN,False,3,"{""character1"": 28.5, ""character2"": 6.0}",28.5,34.5,white region with meaningful visible sharp edges,"JEEZ, IS HE BEING CONSCIENTIOUS, OR NAN... AH, THAT ""NAN"" CAN HAVE ANOTHER ""NAN"" IN IT... 1 GET IT. SHUT UP."
+seq_ac5793f8168efdd1,PG2:M3,UNKNOWN,conflicting_entities,SPOKEN,False,2,"{""NARRATION"": 26.63888888888889}",26.63888888888889,26.63888888888889,white region with meaningful visible sharp edges,THE QUINX HAVE “EXPERIMEN— TAL BODIES” SO TO SPEAK. THEY ARE HUMANS WHO HAD THEIR NATURAL Enemy’s “Ghoul POWER” INSERT-Ed INTO THEM.
+seq_0dc2e3d874c804fc,PG3:M1,UNKNOWN,conflicting_entities,SPOKEN,True,3,"{""character2"": 14.0, ""character3"": 12.0}",26.0,26.0,Magi text-to-tail association forces SPOKEN,MARVIN CALLED HIM A PUNK? DUDE DOESN'T KNOW SHIT ABOUT HIM EITHER. ! I RECALL YOU NOT TOO WISE ONE TIME ON ASH YOURSELF.
+seq_fb6d15ad78b7191c,PG3:M3,character2,linked,SPOKEN,True,2,"{""character3"": 26.0}",26.0,26.0,Magi text-to-tail association forces SPOKEN,"WHEN WE INFORMED THE LADY OF THAT SHE SAID ""FROM TODAY ON, I'LL BE ABLE TO SLEEP SOUNDLY"" AND WAS EXTREMELY RELIEVED."
+seq_fa5b05d0f22bff15,PG3:M1,character3,partially_linked,SPOKEN,False,2,"{""character2"": 25.0}",25.0,25.0,white region with substantial curved sides; overrides box-like approximation,“IF WE’RE GONNA KILL HIM... ...WHY NOT KILL HIM AFTER HE CONSUMES THE REST OF SUKUNA?”
+seq_952f154fb1505883,PG1:M1,character1,partially_linked,SPOKEN,True,3,"{""character6"": 8.0, ""character7"": 9.0, ""character8"": 15.0}",24.0,32.0,Magi text-to-tail association forces SPOKEN,"I BET IT’S GOING TO BE MIKAGE. SHE’S THE BEST OUT OF ALL OF US HERE, ONE IN FIVE ODDS... PLEASE DON’T LET IT BE ME .••."
+seq_b251c8e1ba8b91f8,PG1:T5,NARRATION,narrator,NARRATED,False,1,"{""character2"": 24.0}",24.0,24.0,region may have leaked outside the bubble; uncertain extraction,"BY REVEALING THAT HE WANTS TO SEE THE MOVIE, HE’S LEFT THE CHOICE OF WHETHER TO GO OR NOT UP TO ME."
+seq_91119fd54cd62066,PG1:T1,character1,linked,SPOKEN,False,1,"{""character1"": 24.0}",24.0,24.0,white region with substantial curved sides; overrides box-like approximation,"STILL, EVEN FOR A NEW YORK REAL ESTATE BROKER, HE DID SEEM TO HAVE A LOT OF CASH TO THROW AROUND."
+seq_f1f5fb7a11b950f3,PG2:T10,character10,linked,SPOKEN,False,1,"{""character1"": 24.0}",24.0,24.0,white region with meaningful visible sharp edges,"...YOU UNDERSTAND THE PLACE THAT WE, AT THE CCG, HAVE BEEN PUT INTO RIGHT NOW, DON'T YOU?"
+seq_098e260f231aa789,PG2:M1,UNKNOWN,conflicting_entities,SPOKEN,True,2,"{""character1"": 24.0}",24.0,24.0,Magi text-to-tail association forces SPOKEN,IF WE MAKE AN ACHIEVEMENT THEN WE WILL HAND THAT OVER TO YOU. IF YOU’D JUST GIVE US THE DATA...
+seq_fa5b05d0f22bff15,PG3:M2,character1,linked,SPOKEN,False,2,"{""character2"": 23.0}",23.0,23.0,white region with meaningful visible sharp edges,...FIND THE REMAINING PARTS OF SUKUNA... .AND DIE AFTER TAKING THEM ALL INTO YOUR BODY.
+seq_4833e23eec54344b,PG2:M1,NARRATION,narrator,NARRATED,False,2,"{""character1"": 23.0}",23.0,23.0,region may have leaked outside the bubble; uncertain extraction,...BUT WE WERE ATTACKED BY A STRANGE MONSTER... ...AND I WAS CAPTURED TOO.
+seq_5f407d0064bb4a43,PG1:M1,character5,linked,SPOKEN,False,2,"{""character1"": 23.0}",23.0,23.0,white region with meaningful visible sharp edges,"THE MASTER OF THIS HOUSE, LORD YOSHIAKI, IS A GOOD MAN, BUT HE'S NOT VERY COMPETENT AT MANAGING FINANCES."
+seq_098e260f231aa789,PG1:M4,character2,linked,SPOKEN,False,2,"{""character2"": 23.0}",23.0,23.0,white region with meaningful visible sharp edges,"AND WITH THAT REASON DEMANDING “HAND OVER YOUR DATA…” IS NOTHING MORE THAN TYRANNY, DON’T YOU THINK?"
+seq_88c1ad85c0fc1e9a,PG3:M2,character3,linked,SPOKEN,False,2,"{""character1"": 22.75}",22.75,22.75,white region with meaningful visible sharp edges,"IF IVE PUT YOU OUT IN ANY WAY, APOLOGIZE. I HOPE YOU DON'T THINK THAT I TAKE YOUR POSITION LIGHTLY."
+seq_098e260f231aa789,PG1:M1,character1,linked,SPOKEN,False,3,"{""character1"": 22.7}",22.7,22.7,white region with substantial curved sides; overrides box-like approximation,AGREE THAT TELLING YOU TO FREELY SHOW ME YOUR PRECIOUS DATA CAN ONLY BE CALLED TYRANNI- CAL... BUT...
+seq_72fdfff4b4353a42,PG2:T1,UNKNOWN,unassociated,SPOKEN,False,1,"{""NARRATION"": 22.0}",22.0,22.0,white region with meaningful visible sharp edges,"IN MATTERS OF LOVE, THERE IS AN ABSOLUTE RULE THAT “THE ONE WHO FALLS IN LOVE LOSES!!”"
+seq_9032e5551cf1a9d2,PG3:M1,character5,linked,SPOKEN,True,2,"{""character2"": 13.0, ""character3"": 8.75}",21.75,21.75,Magi text-to-tail association forces SPOKEN,CALL IT COMMITMENT TO SHOWING HOW BEAUTIFUL THEY CAN TRULY BE!! ITS NO DIFFERENT THAN PUTTING ON MAKEUP!!
+seq_a3bd36201a0cd61b,PG3:M3,character18,linked,SPOKEN,False,2,"{""NARRATION"": 21.0}",21.0,21.0,white region with meaningful visible curved sides,"CONSTANTLY TAKING FIRST PLACE IN MOCK EXAMINATIONS! A GENIUS AMONG GENIUSES, THE TOP SCORER IN THE ENTIRE COUNTRY!"
+seq_637459fc880bf35a,PG3:T9,NARRATION,narrator,NARRATED,False,1,"{""character1"": 21.0}",21.0,21.0,no substantial white/solid-color region around text,"LEMME TELL YOU, THOUGH.. ONE FINE DAY I SWEAR I’M GONNA SNAP THAT WORTHLESS LITTLE QUEER’S NECK."
+seq_71033fec4de494fc,PG2:T9,character8,linked,SPOKEN,True,1,"{""character3"": 21.0}",21.0,21.0,Magi text-to-tail association forces SPOKEN,"THE OTHER DAY, I WAS WALKING THROUGH THE FOREST WHEN A VIPER SUDDENLY JUMPED OUT IN FRONT OF ME."
+seq_44b9a316b2919cfe,PG1:M1,character2,linked,SPOKEN,False,2,"{""character2"": 21.0}",21.0,21.0,white region with meaningful visible sharp edges,"ARE PERFORMING SOLO INVESTI- GATIONS... IT SEEMS THEY ARE INVESTIGATING ABOUT THE GHOUL CALLED ""TORSO""..."
+seq_b8b5563330fdc89d,PG2:T4,character10,linked,SPOKEN,False,1,"{""character2"": 20.0}",20.0,20.0,white region with meaningful visible sharp edges,"OH, MY DARLIN’, OH, MY DARLIN’, OH, MY DARLIN’ CLEMEN TINE..."
+seq_98d98dac2a89a339,PG2:M1,UNKNOWN,conflicting_entities,SPOKEN,True,2,"{""character1"": 20.0}",20.0,20.0,Magi text-to-tail association forces SPOKEN,"WELL, BUT, EVEN IF I TELL THEM THEY WON'T LISTEN TO ME ANYHOW... OUCH!"
+seq_f1f5fb7a11b950f3,PG3:M1,character9,linked,SPOKEN,True,2,"{""character1"": 20.0}",20.0,20.0,Magi text-to-tail association forces SPOKEN,"INVESTIGATORS THAT RIVAL SPECIAL CLASS ARIMA... SECURING NEW, STRONG, BATTLE-CAPABLE PEOPLE IS URGENT BUSINESS."
+seq_88c1ad85c0fc1e9a,PG3:M4,character3,linked,SPOKEN,True,2,"{""character1"": 19.933333333333334}",19.933333333333334,19.933333333333334,Magi text-to-tail association forces SPOKEN,"ONCE AGAIN, I'VE UNDER-ESTIMATED YOU. AND YET I'VE KNOWN FROM THE START YOU WERE BORN TO LEAD."
+seq_d62d309820d28efa,PG3:T3,character3,linked,SPOKEN,True,1,"{""character1"": 19.875}",19.875,19.875,Magi text-to-tail association forces SPOKEN,"I CAN'T SLEEP, SO I KEEP THINKING ABOUT THE DEBT, WHICH JUST MAKES IT WORSE..."
+seq_dcebdbbf614a9b4d,PG3:T9,NARRATION,narrator,NARRATED,False,1,"{""character2"": 19.0}",19.0,19.0,box-like region with straight perpendicular sides,"IF WE’RE NOT GOING TO FILLET IT, THEN WHAT ARE YOU GOING TO DO WITH IT!?"
+seq_535e0754d805105b,PG2:M1,NARRATION,narrator,NARRATED,False,3,"{""character3"": 17.0, ""character5"": 2.0}",19.0,19.0,box-like evidence is incomplete near crop borders; requires faint retry,SUSPICION OF MOB TIES. SHOT HIMSELF IN THE RIGHT TEMPLE WITH A .380 WAD-CUTTER. HMM.
+seq_de542b63e6b19bc2,PG1:M2,NARRATION,narrator,NARRATED,False,2,"{""character2"": 19.0}",19.0,19.0,box-like region with straight perpendicular sides,"NO ONE WENT TO SEE HIM BESIDES ME. “DON’T END UP LIKE ME,” HUH?"
+seq_5f407d0064bb4a43,PG1:T4,character1,linked,SPOKEN,False,1,"{""character1"": 19.0}",19.0,19.0,white region with substantial curved sides; overrides box-like approximation,"RUMOR HAS IT THAT HIS WIFE, LADY MIZUE, KEEPS HIM ON A TIGHT LEASH, TOO."
+seq_aef69e98002294bc,PG2:T8,NARRATION,narrator,NARRATED,False,1,"{""character1"": 19.0}",19.0,19.0,region may have leaked outside the bubble; uncertain extraction,"“RUFFIANS WILL RECEIVE A WARM WELCOME” OR SOMETHING. working with them Ah, but would be scary though."
+seq_98d98dac2a89a339,PG1:M2,character1,linked,SPOKEN,False,2,"{""character1"": 19.0}",19.0,19.0,white region with substantial curved sides; overrides box-like approximation,"I’M TRYING MY BEST TO NOT JUST CAUSE PROBLEMS… FOR SENSEI, BUT…"
+seq_fb6d15ad78b7191c,PG1:T4,character2,linked,SPOKEN,True,1,"{""character2"": 19.0}",19.0,19.0,Magi text-to-tail association forces SPOKEN,"HE SAID ""I WILL BE RETURNING THE BOOK I BORROWED SO TELL ME A CONVENIENT TIME."""
+seq_58858a2227cf3761,PG2:M1,UNKNOWN,conflicting_entities,SPOKEN,False,3,"{""character1"": 13.0, ""character2"": 6.0}",19.0,19.0,separate regions agree: SPOKEN,"THAT FLUFFY AND FLAKY TEXTURE, AND THAT WHIP CREAM SPILLING OUT. OHH-? FROM THE SHELL?"
+seq_535e0754d805105b,PG1:T12,UNKNOWN,unassociated,SPOKEN,True,1,"{""character3"": 18.0}",18.0,18.0,Magi text-to-tail association forces SPOKEN,"THE FIRST WAS ON JANUARY THE FIFTH, RICHARD BACH, AGED 45. LIVED ON EAST 152ND."
+seq_91119fd54cd62066,PG1:T4,NARRATION,narrator,NARRATED,False,1,"{""character2"": 18.0}",18.0,18.0,region may have leaked outside the bubble; uncertain extraction,"LOBO SAID IN HIS LETTER THAT THOSE JAPANESE REPORTERS WOULD BE ARRIVING ON THE 8TH, RIGHT?"
+seq_864aaca43a3580bb,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character4"": 18.0}",18.0,18.0,region may have leaked outside the bubble; uncertain extraction,"AS THE OCCULT RESEARCH CLUB, WE’RE HYPOTHESIZING ABOUT THE OCCULT! IT’S A RESPECTABLE CLUB ACTIVITY!"
+seq_ec05f45d71c43f2c,PG1:T8,NARRATION,narrator,NARRATED,False,1,"{""character1"": 18.0}",18.0,18.0,no substantial white/solid-color region around text,"PAIN, REGRET, HUMILIATION... THE MORE PEOPLE DWELL ON BAD MEMORIES..."
+seq_da71f7a842c91090,PG3:M1,character2,linked,SPOKEN,False,3,"{""NARRATION"": 18.0}",18.0,18.0,white region with meaningful visible sharp edges,KIKUSUIAN SHOP'S KIKUFUKU MOCHI A SENDAI CITY SPECIALTY. KIKUSUIAN SHOP'S KIKUFUKU MOCHI GOJO'S RECOMMENDATION IS THE EDAMAME AND CREAM FLAVOR.
+seq_4833e23eec54344b,PG2:M3,character1,linked,SPOKEN,True,2,"{""character2"": 18.0}",18.0,18.0,Magi text-to-tail association forces SPOKEN,SO IT’S NOT YOUR FAULT. I’M THE ONE WHO PICKED IT UP IN THE FIRST PLACE.
+seq_098e260f231aa789,PG3:T1,character11,linked,SPOKEN,False,1,"{""character2"": 18.0}",18.0,18.0,white region with substantial curved sides; overrides box-like approximation,"EVEN IF IT WERE A HUMAN THAT’S AN “UPRIGHT INVESTIGATOR” DOING THIS SORT OF THING,"
+seq_58858a2227cf3761,PG2:M4,character2,linked,SPOKEN,True,2,"{""character1"": 18.0}",18.0,18.0,Magi text-to-tail association forces SPOKEN,"I'M SURPRISINGLY ADDICTED TO IT. IT CALMS ME DOWN SOMEHOW. HOW ABOUT YOU, ONII-SAN?"
+seq_cd727990f22c777b,PG2:T17,NARRATION,narrator,NARRATED,False,1,"{""character2"": 17.37777777777778}",17.37777777777778,17.37777777777778,no substantial white/solid-color region around text,YOU DON'T HAVE TO DO ANYTHING! YOU CAN—BE’LIKE A’PHANTOM MEMBER=KINDA FITTING FOR THE’OCCULT RESEARCH CLUB HUH?
+seq_7db7a000adeceacf,PG2:T11,character8,linked,SPOKEN,True,1,"{""character3"": 17.0}",17.0,17.0,Magi text-to-tail association forces SPOKEN,"SO, YOU’RE LIKE A GUY WHO NEVER TURNS DOWN PEOPLE WHO COME ASKING FOR HELP?"
+seq_f164203a45862778,PG1:M3,character1,linked,SPOKEN,False,2,"{""character1"": 17.0}",17.0,17.0,white region with substantial curved sides; overrides box-like approximation,OKAY THEN... I DIDN'T WANT TO HAVE TO RESORT TO THIS...
+seq_2fae297a18af2a57,PG1:M1,character1,linked,SPOKEN,True,2,"{""character2"": 17.0}",17.0,17.0,Magi text-to-tail association forces SPOKEN,"GOOD WORK, DENJI. THIS GUY'S CORPSE'LL FETCH A PRETTY PENNY ON THE BLACK MARKET."
+seq_2fae297a18af2a57,PG3:M1,character2,linked,SPOKEN,True,2,"{""character2"": 17.0}",17.0,17.0,Magi text-to-tail association forces SPOKEN,"THING IS, A REAL DEVIL HUNTER, WON'T JUST LET YAKUZA TAKE THE CORPSE AFTERWARDS."
+seq_0dc2e3d874c804fc,PG1:T3,UNKNOWN,unassociated,SPOKEN,True,1,"{""character1"": 17.0}",17.0,17.0,Magi text-to-tail association forces SPOKEN,"HE CAN'T BE TRUSTED EXCEPT TO TRY AND PUT A COLLAR ON YOU, UNDERSTAND?!"
+seq_f9a4e67ae3c018f6,PG3:T14,NARRATION,narrator,NARRATED,False,1,"{""character4"": 17.0}",17.0,17.0,region may have leaked outside the bubble; uncertain extraction,"NATIONALLY, THE AVERAGE NUMBER OF UNEXPLAINED DEATHS AND MISSING PERSONS EXCEEDS 10,000 ANNUALLY."
+seq_f9248d307dec033f,PG2:M2,character4,linked,SPOKEN,False,2,"{""character2"": 17.0}",17.0,17.0,white region with meaningful visible sharp edges,"OH, WAIT A MINUTE! WE DON'T HAVE TIME FOR THAT SORT OF THING TODAY!"
+seq_aef69e98002294bc,PG2:M3,NARRATION,narrator,NARRATED,False,3,"{""character2"": 17.0}",17.0,17.0,group has members without a qualifying region,"IT’S TUESDAY, SO SHE’S PROBABLY AT THE USUAL CURRY SHOP. It’s free nan day."
+seq_f1f5fb7a11b950f3,PG3:T2,character9,linked,SPOKEN,False,1,"{""character1"": 17.0}",17.0,17.0,white region with substantial curved sides; overrides box-like approximation,"WE ALSO HAVE TO FIGHT AGAINST THOSE GUYS, IN ADDITION TO DOING THE NORMAL INVESTIGATIONS."
+seq_fb6d15ad78b7191c,PG1:M2,character2,linked,SPOKEN,True,2,"{""character2"": 17.0}",17.0,17.0,Magi text-to-tail association forces SPOKEN,"....THOUGH IT'S FINE NOT TO DO IT PERSONALLY, SINCE WE'RE ALL BUSY."
+seq_098e260f231aa789,PG2:T1,character11,linked,SPOKEN,True,1,"{""character1"": 17.0}",17.0,17.0,Magi text-to-tail association forces SPOKEN,I DO NOT WANT TO EXPOSE MY SUBORDINATES TO DANGER DUE TO MY CARELESSNESS..!
+seq_ac5793f8168efdd1,PG2:T1,UNKNOWN,unassociated,SPOKEN,False,1,"{""character1"": 17.0}",17.0,17.0,white region with meaningful visible sharp edges,"I TOLD YOU NOT TO TAKE ACTION ON YOUR OWN, DIDN'T J.…!?"
+seq_9032e5551cf1a9d2,PG2:T9,character14,linked,SPOKEN,False,1,"{""character4"": 16.0}",16.0,16.0,white region with meaningful visible curved sides,THERE ARE A LOT OF DIFFERENT TECHNIQUES TO SHOW THEM OFF THE BEST WAY POSSIBLE.
+seq_dcebdbbf614a9b4d,PG2:T8,character6,linked,SPOKEN,True,1,"{""character2"": 16.0}",16.0,16.0,Magi text-to-tail association forces SPOKEN,I WILL BRING YOU... TO A NEW PLANE OF EXISTENCE...
+seq_b8b5563330fdc89d,PG2:T1,NARRATION,narrator,NARRATED,False,1,"{""character4"": 16.0}",16.0,16.0,no substantial white/solid-color region around text,"DON'T CONCERN YOURSELF, SOLDIER... IT'S ALWAYS LIKE THIS IN THESE PARTS."
+seq_dce8be23c3281228,PG1:T4,character1,linked,SPOKEN,True,1,"{""character1"": 16.0}",16.0,16.0,Magi text-to-tail association forces SPOKEN,"...GRIFF...IS SOMETHING WRONG, OR...?"
+seq_c2de6cb4b3c91103,PG1:T11,character7,linked,SPOKEN,False,1,"{""character3"": 16.0}",16.0,16.0,white region with meaningful visible curved sides,"YOU KNOW, I THOUGHT YOU MIGHT COME BUT I WASN'T EXPECTING YOU QUITE SO EARLY"
+seq_fc4c2b84b6ec32ff,PG1:T4,character3,linked,SPOKEN,False,1,"{""character1"": 16.0}",16.0,16.0,white region with meaningful visible sharp edges,"OH, THANK YOU, MAN... OH, I'M SORRY..."
+seq_864aaca43a3580bb,PG2:M2,NARRATION,narrator,NARRATED,False,2,"{""character3"": 16.0}",16.0,16.0,region may have leaked outside the bubble; uncertain extraction,YUJI ITA- DORI! YOU'RE A MEMBER OF THE TRACK-AND-FIELD TEAM! NOT THE OCCULT RESEARCH CLUB!
+seq_ec05f45d71c43f2c,PG2:T3,UNKNOWN,unassociated,SPOKEN,False,1,"{""character1"": 16.0}",16.0,16.0,white region with meaningful visible sharp edges,"THE MORE EVIL PLACED ON A CURSED OBJECT, THE MORE IT DEFLECTS OTHER CURSES."
+seq_98d98dac2a89a339,PG1:M1,character2,linked,SPOKEN,True,2,"{""character1"": 16.0}",16.0,16.0,Magi text-to-tail association forces SPOKEN,...THE SAME AS USUAL. EVERYONE IS GOING AT THEIR OWN PACE.
+seq_5f9ee35846b7e635,PG1:T6,character1,linked,SPOKEN,True,1,"{""character1"": 16.0}",16.0,16.0,Magi text-to-tail association forces SPOKEN,WE CANNOT ALLOW SOMEONE WHO HAS SLAIN SO MANY MEN TO STAY HERE FOR FOREVER.
+seq_fb6d15ad78b7191c,PG3:T10,character6,linked,SPOKEN,False,1,"{""character3"": 15.916666666666666}",15.916666666666666,15.916666666666666,white region with substantial curved sides; overrides box-like approximation,"BUT, AS A RESULT OF RANK 3 YONE-BAYASHI AND I INVESTIGATING AROUND THE AREA,"
+seq_b251c8e1ba8b91f8,PG2:T4,NARRATION,narrator,NARRATED,False,1,"{""character2"": 15.0}",15.0,15.0,no substantial white/solid-color region around text,AND FINDING A MOVIE ON A WEEKEND ON ONE OF HIS RARE BREAKS!!
+seq_f164203a45862778,PG3:M2,character7,linked,SPOKEN,True,2,"{""character2"": 15.0}",15.0,15.0,Magi text-to-tail association forces SPOKEN,"LOOK, MY EYES ARE WIDE OPEN!! JUST LIKE A FISH!!"
+seq_f7ee32f1dd417802,PG1:T4,character1,linked,SPOKEN,False,1,"{""character1"": 15.0}",15.0,15.0,white region with substantial curved sides; overrides box-like approximation,"IF YOU CAN'T DO IT, WE'LL CUT YOU UP AND SELL THE PIECES."
+seq_535e0754d805105b,PG3:T7,character3,linked,SPOKEN,False,1,"{""character5"": 15.0}",15.0,15.0,white region with meaningful visible sharp edges,READ IT AND YOU’LL FIND IT THAT MUCH HARDER TO BELIEVE HE’D COMMIT SUICIDE.
+seq_71033fec4de494fc,PG2:M1,NARRATION,narrator,NARRATED,False,2,"{""character3"": 15.0}",15.0,15.0,box-like region with straight perpendicular sides,"I'M SERIOUS! IF YOU SEE A VIPER, TRY ASKING IF HE'S VENOMOUS!"
+seq_cd727990f22c777b,PG3:T13,character6,linked,SPOKEN,False,1,"{""character4"": 15.0}",15.0,15.0,white region with substantial curved sides; overrides box-like approximation,"WHOA, THAT’S IMPRESSIVE. HE DID THAT WITHOUT CURSED ENERGY, JUST NATURAL ABILITY!"
+seq_98544ce821c3f74b,PG1:T2,NARRATION,narrator,NARRATED,False,1,"{""character1"": 15.0}",15.0,15.0,region may have leaked outside the bubble; uncertain extraction,THE PRESENCE OF THE CURSED OBJECT! I CAN FEEL IT EVEN STRONGER NOW!
+seq_f9a4e67ae3c018f6,PG3:T4,character1,linked,SPOKEN,False,1,"{""character4"": 15.0}",15.0,15.0,white region with meaningful visible sharp edges,THE CURSED OBJECT YOU HAVE IS EXTREMELY DANGEROUS. HAND IT OVER RIGHT AWAY.
+seq_de542b63e6b19bc2,PG1:T4,NARRATION,narrator,NARRATED,False,1,"{""character1"": 15.0}",15.0,15.0,no substantial white/solid-color region around text,IS IT TRYING TO SWALLOW THE CURSED OBJECT AND THE STUDENTS ALL AT ONCE?
+seq_fa5b05d0f22bff15,PG2:T8,character3,linked,SPOKEN,False,1,"{""character2"": 15.0}",15.0,15.0,white region with substantial curved sides; overrides box-like approximation,"...THE CURSE INSIDE YOU, SUKUNA, WILL DIE AS WELL!"
+seq_f9248d307dec033f,PG2:M1,character1,linked,SPOKEN,True,2,"{""character2"": 15.0}",15.0,15.0,Magi text-to-tail association forces SPOKEN,"OH, OOPS. A DELIVERY? I DIDN'T KNOW WE WERE EXPECTING ONE."
+seq_98d98dac2a89a339,PG3:M5,UNKNOWN,conflicting_entities,SPOKEN,False,2,"{""character5"": 15.0}",15.0,15.0,white region with substantial curved sides; overrides box-like approximation,"SO, HOW ABOUT IT? WHAT ABOUT THAT ""NEWLY ESTABLISHED UNIT""?"
+seq_f1f5fb7a11b950f3,PG3:T5,character9,linked,SPOKEN,False,1,"{""character1"": 15.0}",15.0,15.0,white region with meaningful visible sharp edges,THE QUINX MEMBERS THAT YOU’RE COMMANDING CAN BECOME AN EARNEST HOPE FOR THE CCG.
+seq_44b9a316b2919cfe,PG2:T11,character3,linked,SPOKEN,False,1,"{""character1"": 15.0}",15.0,15.0,white region with substantial curved sides; overrides box-like approximation,I UNDERSTAND... WHEN I GET BACK I'LL GIVE HER A LECTURE.
+seq_098e260f231aa789,PG2:M2,UNKNOWN,conflicting_entities,SPOKEN,False,2,"{""character2"": 15.0}",15.0,15.0,white region with substantial curved sides; overrides box-like approximation,"LISTEN TO ME. YOU, ALL OF YOU GUYS, WELL..."
+seq_952f154fb1505883,PG1:T8,character3,linked,SPOKEN,True,1,"{""character1"": 14.0}",14.0,14.0,Magi text-to-tail association forces SPOKEN,"YODA, WE'D LIKE YOU TO TAKE OVER AS THE NEXT CLUB PRESIDENT."
+seq_7db7a000adeceacf,PG1:T1,character1,linked,SPOKEN,False,1,"{""character1"": 14.0}",14.0,14.0,white region with substantial curved sides; overrides box-like approximation,"IF YOU WANT TO PUT IT ANOTHER WAY, YOU’RE EASY TO READ."
+seq_f164203a45862778,PG3:M3,character7,linked,SPOKEN,True,2,"{""character1"": 14.0}",14.0,14.0,Magi text-to-tail association forces SPOKEN,THEN KEEP THEM THAT WAY!! DON'T CLOSE THEM AN INCH!!
+seq_2fae297a18af2a57,PG3:T4,character8,linked,SPOKEN,True,1,"{""character2"": 14.0}",14.0,14.0,Magi text-to-tail association forces SPOKEN,THOUGH IT WAS HIS PIECE OF SHIT POPS WHO DIED WITHOUT PAYING UP.
+seq_b9b5a9ad9a64ced9,PG3:T10,character1,linked,SPOKEN,False,1,"{""character5"": 14.0}",14.0,14.0,white region with meaningful visible sharp edges,"YOU COULD COUNT ON ONE HAND THE NUMBER OF GIRLS HE EVER KILLED,"
+seq_d8bc3c6ac1bb6017,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character1"": 14.0}",14.0,14.0,region may have leaked outside the bubble; uncertain extraction,C-CALL... CALL AN AMBU... AMBU...
+seq_637459fc880bf35a,PG3:T7,NARRATION,narrator,NARRATED,False,1,"{""character4"": 14.0}",14.0,14.0,region may have leaked outside the bubble; uncertain extraction,"JESUS CHRIST, MARV, PULL YOURSELF TOGETHER! HE'S JUST A GODDAMN KID!"
+seq_88c1ad85c0fc1e9a,PG1:T8,character1,linked,SPOKEN,False,1,"{""character1"": 14.0}",14.0,14.0,white region with substantial curved sides; overrides box-like approximation,YOU ADD LEMON JUICE AND A DASH OF GINGER TO THE BASE OF VODKA.
+seq_71033fec4de494fc,PG1:M2,character1,linked,SPOKEN,True,2,"{""character3"": 14.0}",14.0,14.0,Magi text-to-tail association forces SPOKEN,"HAHA, you SURE SCARE EASY KID~ BUT THAT'S A GOOD THING."
+seq_71033fec4de494fc,PG3:M1,character2,linked,SPOKEN,False,2,"{""character3"": 18.0, ""character1"": 14.0}",14.0,32.0,white region with meaningful visible sharp edges,"THAT’S HOW WE USED TO DO IT, BUT NOW THERE ARE ANIMAL PROTECTION LAWS... EHH... But Then The Winner IS ALREADY PRE-DETERMINED..."
+seq_98544ce821c3f74b,PG3:M2,NARRATION,narrator,NARRATED,False,2,"{""character4"": 14.0}",14.0,14.0,region may have leaked outside the bubble; uncertain extraction,IT DOESN'T HAVE TO BE ALL THE TIME. JUST WHENEVER YOU CAN.
+seq_f9a4e67ae3c018f6,PG1:T1,character1,linked,SPOKEN,False,1,"{""character1"": 14.0}",14.0,14.0,white region with meaningful visible sharp edges,"WHEN IT’S YOUR TIME TO GO, MAKE SURE YOU’RE SURROUNDED BY OTHERS."
+seq_aef69e98002294bc,PG1:T4,NARRATION,narrator,NARRATED,False,1,"{""character1"": 14.0}",14.0,14.0,region may have leaked outside the bubble; uncertain extraction,They are beings who can survive only by consuming the meat of humans.
+seq_f1f5fb7a11b950f3,PG2:T4,NARRATION,narrator,NARRATED,False,1,"{""character1"": 14.0}",14.0,14.0,region may have leaked outside the bubble; uncertain extraction,"To ""create investigators who would surpass Arima Kishou"", didn't he?"
+seq_098e260f231aa789,PG1:T3,character4,linked,SPOKEN,False,1,"{""character2"": 14.0}",14.0,14.0,white region with meaningful visible sharp edges,"WE HAVE OUR OWN WAY OF DOING THINGS, SO PLEASE GIVE UP."
+seq_9032e5551cf1a9d2,PG2:T1,character5,linked,SPOKEN,False,1,"{""character4"": 13.0}",13.0,13.0,white region with substantial curved sides; overrides box-like approximation,WE'RE CLEANING UP THE COWS AND GETTING THEM READY FOR THE COMPETITION.
+seq_f164203a45862778,PG1:T10,character1,linked,SPOKEN,False,1,"{""character1"": 13.0}",13.0,13.0,white region with meaningful visible curved sides,HOW MANY ONE THINGS YOU CAN'T DEAL WITH ARE THERE!!?
+seq_dcebdbbf614a9b4d,PG3:T11,NARRATION,narrator,NARRATED,False,1,"{""character2"": 13.0}",13.0,13.0,box-like region with straight perpendicular sides,CAN YOU EVEN TAKE CARE OF A FISH ON YOUR OWN!?
+seq_2fae297a18af2a57,PG3:T8,character3,linked,SPOKEN,False,1,"{""character2"": 13.0}",13.0,13.0,white region with substantial curved sides; overrides box-like approximation,HIS OTHER REDEEMING QUALITY IS THAT HE ALWAYS DOES AS HE’S TOLD.
+seq_b8b5563330fdc89d,PG1:T4,character4,linked,SPOKEN,False,1,"{""character2"": 13.0}",13.0,13.0,white region with substantial curved sides; overrides box-like approximation,TIMES LIKE THIS. YOU ALMOST WISH YOU WERE BACK IN THE STATES.
+seq_b8b5563330fdc89d,PG1:T8,character1,linked,SPOKEN,False,1,"{""character1"": 13.0}",13.0,13.0,white region with meaningful visible sharp edges,"HE TRIPPED RIGHT OFF HIS HEAD, MAN. ALL THE WAY OFF"
+seq_535e0754d805105b,PG2:T5,character1,linked,SPOKEN,False,1,"{""character2"": 13.0}",13.0,13.0,white region with meaningful visible sharp edges,AND NOW JERRY WATTS SLITS HIS OWN THROAT WITH A STRAIGHT RAZOR!
+seq_fc4c2b84b6ec32ff,PG2:T8,NARRATION,narrator,NARRATED,False,1,"{""character1"": 13.0}",13.0,13.0,box-like region with straight perpendicular sides,"YOU GOTTA FORGIVE US, BOSS! WE AIN'T GONNA EVER--"
+seq_71033fec4de494fc,PG2:T16,NARRATION,narrator,NARRATED,False,1,"{""character2"": 13.0}",13.0,13.0,box-like region with straight perpendicular sides,"IT’S NOT JUST KAIDOU, TODAY HAS BEEN FULL OF ANNOYING PEOPLE."
+seq_864aaca43a3580bb,PG1:T10,character9,linked,SPOKEN,False,1,"{""character1"": 13.0}",13.0,13.0,white region with meaningful visible sharp edges,"HE WAS LAST SEEN HERE! AT THIS SCHOOL, DURING CONSTRUCTION!"
+seq_ec05f45d71c43f2c,PG1:T1,UNKNOWN,unassociated,SPOKEN,False,1,"{""character1"": 13.0}",13.0,13.0,white region with substantial curved sides; overrides box-like approximation,THE MAJORITY ARE THE RESULT OF NEGATIVE ENERGY THAT FLOWS OUT OF PEOPLE
+seq_ec05f45d71c43f2c,PG1:T14,NARRATION,narrator,NARRATED,False,1,"{""character1"": 13.0}",13.0,13.0,no substantial white/solid-color region around text,...THE MORE THESE PLACES BECOME RECEPTIVE TO THOSE FEELINGS.
+seq_fa5b05d0f22bff15,PG2:T5,character1,linked,SPOKEN,True,1,"{""character2"": 13.0}",13.0,13.0,Magi text-to-tail association forces SPOKEN,WE ACTUALLY DON'T HAVE ANYONE THAT CAN SEAL THEM PROPERLY RIGHT NOW.
+seq_4833e23eec54344b,PG3:T6,character2,linked,SPOKEN,False,1,"{""character3"": 13.0}",13.0,13.0,white region with meaningful visible sharp edges,I SEE. SORRY TO BOTHER YOU AT A TIME LIKE THIS.
+seq_45c9871f52e99417,PG1:T2,character2,linked,SPOKEN,True,1,"{""character1"": 13.0}",13.0,13.0,Magi text-to-tail association forces SPOKEN,"...BUT IF YOU'RE TALKING ABOUT POTENTIAL DAMAGE, YES."
+seq_fb6d15ad78b7191c,PG1:T12,character5,linked,SPOKEN,False,1,"{""character1"": 13.0}",13.0,13.0,white region with substantial curved sides; overrides box-like approximation,I WONDER IF THAT GUY HAS THAT SORT OF FEELING...
+seq_44b9a316b2919cfe,PG3:T2,NARRATION,narrator,NARRATED,False,1,"{""character1"": 13.0}",13.0,13.0,region may have leaked outside the bubble; uncertain extraction,to say nothing of creating investigators like Special Class Arima...
+seq_720a7023d4f2ffcb,PG3:M1,character1,linked,SPOKEN,False,2,"{""character3"": 13.0}",13.0,13.0,white region with substantial curved sides; overrides box-like approximation,BUT MASTER WAS BORN FOR THE SWORD. HE'S A LIVING SWORD.
+seq_c2de6cb4b3c91103,PG2:T4,character2,linked,SPOKEN,False,1,"{""character3"": 12.833333333333334}",12.833333333333334,12.833333333333334,white region with meaningful visible sharp edges,ARE YOU SURE? THE BACON’S WONDERFUL. A FARM IN SURRY.
+seq_864aaca43a3580bb,PG1:T16,character1,linked,SPOKEN,True,1,"{""character1"": 11.6, ""character3"": 1.0}",12.6,12.6,Magi text-to-tail association forces SPOKEN,THE COMMOTION IS A RESULT OF HIS LINGERING SPIRIT! COURT THEORY!
+seq_952f154fb1505883,PG1:M3,character5,linked,SPOKEN,True,2,"{""character4"": 16.0, ""character5"": 12.0}",12.0,28.0,Magi text-to-tail association forces SPOKEN,I GUESS THAT MAKES SENSE. YODA-SAN IS THE ONLY SECOND YEAR HERE... THEY'RE GOING TO MAKE ONE OF US FIRST YEARS THE VICE-PRESIDENT?
+seq_b251c8e1ba8b91f8,PG1:T1,character2,linked,SPOKEN,False,1,"{""character1"": 12.0}",12.0,12.0,white region with meaningful visible curved sides,NOW... HOW WILL YOU REACT...?
+seq_b251c8e1ba8b91f8,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character2"": 12.0}",12.0,12.0,region may have leaked outside the bubble; uncertain extraction,HE MAY VERY WELL NEVER INVITE ME TO A MOVIE AGAIN.
+seq_06ec0acde37dffa4,PG1:M1,character5,linked,SPOKEN,False,2,"{""character1"": 12.0}",12.0,12.0,white region with meaningful visible sharp edges,UM... OUR NEXT CLASS WILL BE COOKING PRACTICE.
+seq_06ec0acde37dffa4,PG2:M1,character10,linked,SPOKEN,False,2,"{""character2"": 12.0}",12.0,12.0,white region with meaningful visible sharp edges,"WHAT’S WRONG, PRESIDENT!? WHY ARE YOU HYPERVENTILATING!?"
+seq_1c1d4f5e71a2f554,PG1:M1,UNKNOWN,conflicting_entities,SPOKEN,True,2,"{""character2"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,IT’S RAW FISH! IT’S ALL SLIMY AND SLIPPERY AND COLD!
+seq_1c1d4f5e71a2f554,PG3:T2,character2,linked,SPOKEN,False,1,"{""character2"": 12.0}",12.0,12.0,white region with meaningful visible curved sides,"WE'RE GOING TO BE CUTTING UP LIVE FISH, AREN'T WE?"
+seq_2fae297a18af2a57,PG3:T1,character9,linked,SPOKEN,True,1,"{""character3"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,WHY’RE YOU USING A BRAT LIKE HIM AS A DEVIL HUNTER?
+seq_d8bc3c6ac1bb6017,PG1:T6,UNKNOWN,unassociated,SPOKEN,False,1,"{""NARRATION"": 12.0}",12.0,12.0,white region with meaningful visible sharp edges,"MARCH 4, 1985. JEROME PARK, THE BRONX, NYC"
+seq_535e0754d805105b,PG1:M1,UNKNOWN,conflicting_entities,SPOKEN,True,3,"{""character2"": 12.0, ""character4"": 16.0}",12.0,28.0,Magi text-to-tail association forces SPOKEN,"OTHER PEOPLE'S LIVES DIDN'T MEAN A THING TO THEM... BUT THEIR OWN, THEY HAD A PRETTY HIGH OPINION OF HARDLY THE SUICIDAL TYPE."
+seq_637459fc880bf35a,PG2:T8,NARRATION,narrator,NARRATED,False,1,"{""character2"": 12.0}",12.0,12.0,region may have leaked outside the bubble; uncertain extraction,BUT I WAS THINKING THAT YOU WERE ALSO A FAT PIG.
+seq_88c1ad85c0fc1e9a,PG2:T7,character7,linked,SPOKEN,True,1,"{""character1"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,"ANGIE, TOUSSAINT, YOU BOYS STAY IN THE NEXT ROOM."
+seq_88c1ad85c0fc1e9a,PG3:T10,character1,linked,SPOKEN,False,1,"{""character1"": 12.0}",12.0,12.0,white region with meaningful visible sharp edges,THAT’S WHY I’M SURPRISED YOU EVEN CAME TO KNOW ABOUT IT.
+seq_0ef2ec294597f572,PG2:T3,character3,linked,SPOKEN,True,1,"{""character1"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,"HA, HA! THAT WAS SOME CORNY SHIT, HUH?"
+seq_83ff2f28f5c13c40,PG1:T1,UNKNOWN,unassociated,SPOKEN,True,1,"{""character1"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,I... I'VE BEEN LISTENING TO YOU FOR YEARS.
+seq_71033fec4de494fc,PG3:T4,character9,linked,SPOKEN,True,1,"{""character1"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,WH... WHAT'S WITH THE TV …?
+seq_864aaca43a3580bb,PG1:M1,NARRATION,narrator,NARRATED,False,2,"{""character1"": 12.0}",12.0,12.0,region may have leaked outside the bubble; uncertain extraction,"MR.YOSHIDA, A CONSTRUCTION COMPANY EMPLOYEE, WENT MISSING! CONSTRUCTION COMPANY EMPLOYEE MISSING"
+seq_864aaca43a3580bb,PG2:T14,NARRATION,narrator,NARRATED,False,1,"{""character3"": 12.0}",12.0,12.0,region may have leaked outside the bubble; uncertain extraction,THIS MEANS THE OCCULT RESEARCH CLUB DOESN'T MEET THE THREE-MEMBER MINIMUM!
+seq_cd727990f22c777b,PG2:T13,character6,linked,SPOKEN,True,1,"{""character2"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,A SPORTS CLUB WOULD PROBABLY BE A BETTER FIT...
+seq_98544ce821c3f74b,PG2:T7,character2,linked,SPOKEN,True,1,"{""character5"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,WILL YOU STOP TRYING TO ACT ALL COOL BEFORE YOU DIE?
+seq_98544ce821c3f74b,PG3:T9,character2,linked,SPOKEN,True,1,"{""character5"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,I WOULDN'T COME HERE SO OFTEN IF I WASN'T SO BORED!
+seq_45c9871f52e99417,PG2:T3,UNKNOWN,unassociated,SPOKEN,True,1,"{""character2"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,...WILL THERE BE FEWER PEOPLE KILLED BY CURSES?
+seq_45c9871f52e99417,PG3:T3,NARRATION,narrator,NARRATED,False,1,"{""character1"": 12.0}",12.0,12.0,no substantial white/solid-color region around text,"THAT’S NUMBER: TWO. ONE-TENTH OF IT THE WAY THERE, HUH?"
+seq_98d98dac2a89a339,PG3:M3,character8,linked,SPOKEN,True,2,"{""character4"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,"WELL, I DON'T KNOW WHAT THE HIGHER UPS ARE THINKING."
+seq_44b9a316b2919cfe,PG2:M1,character4,linked,SPOKEN,True,2,"{""character1"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,LET’S GO GET THE INVESTIGATION DATA FROM THE TEAM INVESTIGATING TORSO.
+seq_098e260f231aa789,PG1:T11,character3,linked,SPOKEN,False,1,"{""character1"": 12.0}",12.0,12.0,white region with substantial curved sides; overrides box-like approximation,IT’S JUST AS YOU SAID; I MISMANAGED CONTROL...
+seq_5f9ee35846b7e635,PG1:T5,character1,linked,SPOKEN,True,1,"{""character1"": 12.0}",12.0,12.0,Magi text-to-tail association forces SPOKEN,I WOULD BE GRATEFUL IF HE LEFT AS SOON AS POSSIBLE.
+seq_72fdfff4b4353a42,PG3:T3,character1,linked,SPOKEN,False,1,"{""character2"": 11.0}",11.0,11.0,white region with meaningful visible sharp edges,"YOU WILL BE THE ONE TO FLEE, SHINOMIYA!!"
+seq_72fdfff4b4353a42,PG3:T4,character1,linked,SPOKEN,False,1,"{""character2"": 11.0}",11.0,11.0,white region with meaningful visible curved sides,"YES, I WAS GOING TO INVITE YOU, SHINOMIYA."
+seq_72fdfff4b4353a42,PG3:T6,character1,linked,SPOKEN,True,1,"{""character2"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,AND I WAS UNDER THE IMPRESSION THAT YOU DIDN'T EITHER.
+seq_1c1d4f5e71a2f554,PG1:T14,character2,linked,SPOKEN,True,1,"{""character2"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,I DON'T EVEN KNOW HOW TO RESPOND TO THAT..
+seq_032cbb4dc8686963,PG1:M1,UNKNOWN,conflicting_entities,SPOKEN,True,2,"{""character1"": 8.0, ""character2"": 3.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,IT HAS TO BE YOU... I...
+seq_f164203a45862778,PG3:T1,NARRATION,narrator,NARRATED,False,1,"{""character2"": 11.0}",11.0,11.0,region may have leaked outside the bubble; uncertain extraction,THIS IS A LOT EASIER THAN I THOUGHT IT’D BE.
+seq_d8afceb0e8f9122d,PG2:T7,character4,linked,SPOKEN,False,1,"{""character2"": 11.0}",11.0,11.0,white region with substantial curved sides; overrides box-like approximation,I DOUBT I'LL PAY OFF THIS DEBT BEFORE I DIE.
+seq_88c1ad85c0fc1e9a,PG1:T10,UNKNOWN,unassociated,SPOKEN,False,1,"{""character1"": 11.0}",11.0,11.0,white region with substantial curved sides; overrides box-like approximation,PLEASE TRY IT. I HOPE IT’S TO YOUR LIKING.
+seq_d749b853cf795b6a,PG1:T6,UNKNOWN,unassociated,SPOKEN,True,1,"{""character1"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,YOU USED TO CRY OVER EVERY ASSIGNMENT I GAVE YOU.
+seq_d749b853cf795b6a,PG2:T7,character1,linked,SPOKEN,True,1,"{""character1"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,..I HEAR YOU'VE BEEN SPENDING A LOT LATELY.
+seq_eaad741293da2ac1,PG1:T1,character1,linked,SPOKEN,True,1,"{""character1"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,YOU LOOK TIRED. HOW ‘BOUT GET SOME COFFEE?
+seq_fc4c2b84b6ec32ff,PG1:T5,character3,linked,SPOKEN,False,1,"{""character1"": 11.0}",11.0,11.0,white region with meaningful visible sharp edges,"OH SWEET JESUS, THANK YOU THANK YOU..."
+seq_71033fec4de494fc,PG1:T22,character1,linked,SPOKEN,True,1,"{""character3"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,DO YOU KNOW WHERE SNAKES TEND TO BITE THE MOST?
+seq_71033fec4de494fc,PG2:T1,character3,linked,SPOKEN,True,1,"{""character3"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,IT’S DANGEROUS EVEN IF YOU ONLY GET A SMALL BITE.
+seq_864aaca43a3580bb,PG1:T1,character1,linked,SPOKEN,False,1,"{""character1"": 11.0}",11.0,11.0,white region with substantial curved sides; overrides box-like approximation,THE PLAYERS STATED THAT JUST BEFORE GETTING SICK...
+seq_864aaca43a3580bb,PG3:T4,NARRATION,narrator,NARRATED,False,1,"{""character6"": 11.0}",11.0,11.0,region may have leaked outside the bubble; uncertain extraction,WE NEED YOU IF WE'RE TO TAKE OVER THE COUNTRY.
+seq_864aaca43a3580bb,PG3:T11,character7,linked,SPOKEN,True,1,"{""character6"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,LET’S MAKE IT A FAIR FIGHT! ON THE FIELD!
+seq_ec05f45d71c43f2c,PG3:T9,character3,linked,SPOKEN,True,1,"{""character2"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,LIKE I SAID! THE OCCULT RESEARCH CLUB HAS IT!
+seq_45c9871f52e99417,PG1:T1,character2,linked,SPOKEN,True,1,"{""character1"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,"WELL, THIS IS A PRETTY UNUSUAL CIRCUMSTANCE..."
+seq_5f407d0064bb4a43,PG2:T6,character6,linked,SPOKEN,True,1,"{""character1"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,"OH! WHAT IS IT, WHAT IS IT?!"
+seq_aef69e98002294bc,PG2:T15,character3,linked,SPOKEN,False,1,"{""character1"": 11.0}",11.0,11.0,white region with substantial curved sides; overrides box-like approximation,"AH, A NEAR MISS, HUH.…?"
+seq_f1f5fb7a11b950f3,PG3:T1,NARRATION,narrator,NARRATED,False,1,"{""character1"": 11.0}",11.0,11.0,no substantial white/solid-color region around text,THE AFOREMENTIONED GHOUL ORGANIZATION IS CONTINUING TO INCREASE THEIR STRENGTH.
+seq_f1f5fb7a11b950f3,PG3:T6,character14,linked,SPOKEN,False,1,"{""character1"": 11.0}",11.0,11.0,white region with substantial curved sides; overrides box-like approximation,IN ORDER TO MAKE “INVESTIGATORS WHO SURPASS ARIMA KISHOU”
+seq_44b9a316b2919cfe,PG2:T10,character3,linked,SPOKEN,False,1,"{""character2"": 11.0}",11.0,11.0,white region with substantial curved sides; overrides box-like approximation,IT SEEMS SHE WAS UP LATE LAST NIGHT….
+seq_098e260f231aa789,PG2:T7,character9,linked,SPOKEN,True,1,"{""character2"": 11.0}",11.0,11.0,Magi text-to-tail association forces SPOKEN,IS THAT SORT OF THING FITTING FOR A GHOUL INVESTIGATOR?
+seq_58858a2227cf3761,PG2:M2,character2,partially_linked,SPOKEN,False,3,"{""character2"": 4.0, ""character1"": 11.0}",11.0,15.0,white region with meaningful visible sharp edges,"“TODAY”? YEAH, I DO WHENEVER I HAVE SOME FREE TIME."
+seq_720a7023d4f2ffcb,PG3:T7,character1,linked,SPOKEN,False,1,"{""character3"": 11.0}",11.0,11.0,white region with substantial curved sides; overrides box-like approximation,"OTSU, YOU PROBABLY DON'T UNDERSTAND BECAUSE YOU'RE A WOMAN,"
+seq_b251c8e1ba8b91f8,PG2:T5,character1,linked,SPOKEN,False,1,"{""character2"": 10.0}",10.0,10.0,white region with meaningful visible sharp edges,"IF I REFUSE HIM HERE, WITH HIS MENTAL WEAKNESS"
+seq_ee880b9612205860,PG1:T3,NARRATION,narrator,NARRATED,False,1,"{""character1"": 10.0}",10.0,10.0,region may have leaked outside the bubble; uncertain extraction,I SUPPOSE CONFESSING IS THE DUTY OF THE MAN.
+seq_1c1d4f5e71a2f554,PG2:T4,NARRATION,narrator,NARRATED,False,1,"{""character3"": 10.0}",10.0,10.0,curved/sharp solid-color region; not white,THAT THEY EVEN GOT A FISH TANK LAST YEAR.
+seq_dcebdbbf614a9b4d,PG2:M2,UNKNOWN,conflicting_entities,SPOKEN,False,2,"{""character1"": 10.0}",10.0,10.0,white region with substantial curved sides; overrides box-like approximation,TH... THAT’S THE SPIRIT...
+seq_b136f32c2233b97c,PG3:T7,character2,linked,SPOKEN,False,1,"{""character1"": 10.0}",10.0,10.0,white region with substantial curved sides; overrides box-like approximation,IT’D BE NICE IF YOU COULD HAVE A NORMAL LIFE
+seq_27e88136c1812f85,PG2:M2,character1,linked,SPOKEN,False,2,"{""character2"": 10.0}",10.0,10.0,white region with meaningful visible sharp edges,I'LL BE YOUR HEART. IN EXCHANGE...
+seq_96839890d69d7698,PG1:T5,UNKNOWN,unassociated,SPOKEN,True,1,"{""character1"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,YOU DON'T SMELL LIKE A DEVIL OR A HUMAN.
+seq_b8b5563330fdc89d,PG1:T1,character1,linked,SPOKEN,True,1,"{""character1"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,PROB’LY TAKIN’ ADVANTAGE OF THE CONFUSION...
+seq_f492843aa3a0240c,PG2:T7,NARRATION,narrator,NARRATED,False,1,"{""character3"": 10.0}",10.0,10.0,region may have leaked outside the bubble; uncertain extraction,MAX. YOUR FRIEND... MAX LOBO.
+seq_535e0754d805105b,PG3:T8,character3,linked,SPOKEN,True,1,"{""character3"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,BEAT THE RAP ON A FRAUD COUNT THREE TIMES.
+seq_fc4c2b84b6ec32ff,PG1:T6,character4,linked,SPOKEN,False,1,"{""character1"": 10.0}",10.0,10.0,white region with meaningful visible sharp edges,THANK YOU... THANK YOU...
+seq_71033fec4de494fc,PG2:T10,character8,linked,SPOKEN,True,1,"{""character3"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,AND WHAT DO YOU THINK THE SNAKE DID NEXT?
+seq_864aaca43a3580bb,PG1:T6,character1,linked,SPOKEN,False,1,"{""character1"": 10.0}",10.0,10.0,white region with meaningful visible sharp edges,... THEY HEARD STRANGE NOISES AND VOICES.
+seq_864aaca43a3580bb,PG2:M1,NARRATION,narrator,NARRATED,False,2,"{""character3"": 10.0}",10.0,10.0,region may have leaked outside the bubble; uncertain extraction,THIS ISN'T SOME KID'S GAME! STOP SPREADING RUMORS!
+seq_98544ce821c3f74b,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character5"": 10.0}",10.0,10.0,region may have leaked outside the bubble; uncertain extraction,"LIKE I SAID, I DON'T CARE, GRANDPA."
+seq_98544ce821c3f74b,PG3:T2,character2,linked,SPOKEN,True,1,"{""character5"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,THEY'RE NOT FOR YOU. THEY'RE FOR THE NURSES.
+seq_f9a4e67ae3c018f6,PG2:T5,NARRATION,narrator,NARRATED,False,1,"{""character3"": 10.0}",10.0,10.0,region may have leaked outside the bubble; uncertain extraction,"YUP, THAT SHOULD BE IT FOR THE DOCUMENTS."
+seq_ec05f45d71c43f2c,PG3:T6,NARRATION,narrator,NARRATED,False,1,"{""character1"": 10.0}",10.0,10.0,region may have leaked outside the bubble; uncertain extraction,...WAS THE CURSED ENERGY...
+seq_84541a1f4b159018,PG1:T3,NARRATION,narrator,NARRATED,False,1,"{""character2"": 10.0}",10.0,10.0,region may have leaked outside the bubble; uncertain extraction,DAMMIT! AGAIN?!I CAN'T KEEP CONTROL.
+seq_fa5b05d0f22bff15,PG1:T11,character2,linked,SPOKEN,True,1,"{""character1"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,"TWENTY? OH, COUNTING BOTH FINGERS AND TOES."
+seq_fa5b05d0f22bff15,PG2:T10,character1,linked,SPOKEN,False,1,"{""character2"": 10.0}",10.0,10.0,white region with substantial curved sides; overrides box-like approximation,THEY’RE MAKING A FUSS ABOUT KILLING YOU RIGHT AWAY.
+seq_4e5d126a68879ddf,PG3:M1,character8,linked,SPOKEN,True,2,"{""character1"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,"• . • • . • . • • HER GROOM, LORD SHIONO, IS"
+seq_5f407d0064bb4a43,PG1:T5,character2,linked,SPOKEN,False,1,"{""character1"": 10.0}",10.0,10.0,white region with substantial curved sides; overrides box-like approximation,WITH LORD YOSHIKUNI BEING THE WAY HE IS..
+seq_aef69e98002294bc,PG2:T9,character2,linked,SPOKEN,False,1,"{""character2"": 10.0}",10.0,10.0,white region with substantial curved sides; overrides box-like approximation,"SORRY TO HOLD YOU UP DURING SUCH A BUSY TIME,"
+seq_aef69e98002294bc,PG3:T5,NARRATION,narrator,NARRATED,False,1,"{""character4"": 10.0}",10.0,10.0,no substantial white/solid-color region around text,CAN YOU FUNCTION PROPERLY AS AN INVESTIGATOR LIKE THAT?
+seq_44b9a316b2919cfe,PG3:T1,NARRATION,narrator,NARRATED,False,1,"{""character1"": 10.0}",10.0,10.0,region may have leaked outside the bubble; uncertain extraction,is taking my best efforts just to unify the team
+seq_44b9a316b2919cfe,PG3:T4,character5,linked,SPOKEN,True,1,"{""character3"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,"YOU GUYS AREN'T RESPONSIBLE FOR TORSO, ARE YOU?"
+seq_44b9a316b2919cfe,PG3:T8,character5,linked,SPOKEN,False,1,"{""character3"": 10.0}",10.0,10.0,white region with substantial curved sides; overrides box-like approximation,AS TO SNATCH UP ANOTHER GROUP'S JOB...
+seq_098e260f231aa789,PG2:T6,character9,linked,SPOKEN,True,1,"{""character2"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,HOW TROUBLESOME. DOING THINGS LIKE THIS…..
+seq_2e4b837ead6b88ae,PG1:T11,character3,linked,SPOKEN,True,1,"{""character1"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,"..EVEN IF WE DON'T HAVE THE DATA,"
+seq_58858a2227cf3761,PG1:T16,character2,linked,SPOKEN,False,1,"{""character1"": 10.0}",10.0,10.0,white region with substantial curved sides; overrides box-like approximation,"OH... YEAH, THOUGH IT’S EMBARRASSING."
+seq_41d68dfc426cc19e,PG1:T4,character3,linked,SPOKEN,True,1,"{""character3"": 10.0}",10.0,10.0,Magi text-to-tail association forces SPOKEN,"OH, WORKING HARD THERE, OTSU? BE CAREFUL"
+seq_f1f5fb7a11b950f3,PG2:T2,NARRATION,narrator,NARRATED,False,1,"{""character1"": 9.714285714285714}",9.714285714285714,9.714285714285714,no substantial white/solid-color region around text,"WHEN YOU WERE LEFT IN CHARGE OF THE ""QUINX'B"
+seq_2032620aa4e4ac7f,PG1:T2,character1,linked,SPOKEN,True,1,"{""character1"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,HUH? DOES KOMABA SEEM DIFFERENT THAN USUAL?
+seq_952f154fb1505883,PG2:T4,UNKNOWN,unassociated,SPOKEN,True,1,"{""character6"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,WHAAAT!? WAIT JUST A MINUTE!!
+seq_72fdfff4b4353a42,PG1:T11,character4,linked,SPOKEN,True,1,"{""character3"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,WOULDN'T THAT BE THE SAME AS...
+seq_b251c8e1ba8b91f8,PG2:T7,character3,linked,SPOKEN,False,1,"{""character2"": 9.0}",9.0,9.0,white region with meaningful visible sharp edges,"AS A WOMAN, I CANNOT ALLOW THAT!"
+seq_ee880b9612205860,PG1:T12,character2,linked,SPOKEN,True,1,"{""NARRATION"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,SHIROGANE SEARCHED FRANTICALLY FOR HIS NEXT MOVE!!
+seq_d8afceb0e8f9122d,PG2:T5,character4,linked,SPOKEN,True,1,"{""character2"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,"WELL, NORMALITY’S JUST A DREAM FOR HS THOUGH."
+seq_d7af6c64ebc22bbe,PG3:T3,NARRATION,narrator,NARRATED,False,1,"{""character1"": 9.0}",9.0,9.0,region may have leaked outside the bubble; uncertain extraction,...WAS THAT HOW I WAS?
+seq_d7af6c64ebc22bbe,PG3:T5,NARRATION,narrator,NARRATED,False,1,"{""character1"": 9.0}",9.0,9.0,no substantial white/solid-color region around text,BUT I STILL DREAMED OF A BETTER LIFE.
+seq_d7af6c64ebc22bbe,PG3:T9,NARRATION,narrator,NARRATED,False,1,"{""character1"": 9.0}",9.0,9.0,no substantial white/solid-color region around text,"THERE’S NOTHIN’ WRONG WITH THAT, BUT."
+seq_b8b5563330fdc89d,PG1:T2,character1,linked,SPOKEN,False,1,"{""character1"": 9.0}",9.0,9.0,white region with meaningful visible sharp edges,...T' TORCH ANOTHER VILLAGE.
+seq_b8b5563330fdc89d,PG3:T3,NARRATION,narrator,NARRATED,False,1,"{""character4"": 9.0}",9.0,9.0,box-like evidence is incomplete near crop borders; requires faint retry,"IF SHE’S BLACK, INTRODUCE ME TO HER."
+seq_dce8be23c3281228,PG2:T3,character1,linked,SPOKEN,False,1,"{""character3"": 9.0}",9.0,9.0,white region with meaningful visible sharp edges,"STAY BACK, MAN! HE'S LOST IT!"
+seq_535e0754d805105b,PG1:T10,character3,linked,SPOKEN,True,1,"{""character5"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,I THINK CHARLIE HAS THE LIST...
+seq_c2de6cb4b3c91103,PG2:T6,UNKNOWN,unassociated,SPOKEN,True,1,"{""character3"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,YOU CAN TAKE IT AWAY. I'M DONE.
+seq_fc4c2b84b6ec32ff,PG2:T3,character2,linked,SPOKEN,True,1,"{""character2"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,AND LET ME EXPLAIN SOMETHING BEFORE YOU GO.
+seq_71033fec4de494fc,PG2:T8,character3,linked,SPOKEN,False,1,"{""character3"": 9.0}",9.0,9.0,white region with substantial curved sides; overrides box-like approximation,THERE'S A LOT OF VIPERS ON THE ISLAND.
+seq_864aaca43a3580bb,PG1:T14,character7,linked,SPOKEN,True,1,"{""character1"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,MR YOSHIDA’S BODY IS BURIED AT THE RUGBY FIELD
+seq_98544ce821c3f74b,PG3:T6,character2,linked,SPOKEN,True,1,"{""character5"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,THAT’S ENOUGH! MY CLUB FINISHES BEFORE FIVE!
+seq_98544ce821c3f74b,PG3:T17,NARRATION,narrator,NARRATED,False,1,"{""character4"": 9.0}",9.0,9.0,region may have leaked outside the bubble; uncertain extraction,YOU MAY FEEL LOST. DON'T EXPECT GRATITUDE.
+seq_ec05f45d71c43f2c,PG3:T2,NARRATION,narrator,NARRATED,False,1,"{""character2"": 9.0}",9.0,9.0,region may have leaked outside the bubble; uncertain extraction,BUT YOU BETTER EXPLAIN THIS TO MY FRIENDS!
+seq_ec05f45d71c43f2c,PG3:T7,NARRATION,narrator,NARRATED,False,1,"{""character1"": 9.0}",9.0,9.0,region may have leaked outside the bubble; uncertain extraction,...LINGERING IN THE BOX?!
+seq_da71f7a842c91090,PG1:T5,character2,linked,SPOKEN,True,1,"{""character2"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,I WASN'T GONNA COME AT FIRST...
+seq_da71f7a842c91090,PG3:T8,NARRATION,narrator,NARRATED,False,1,"{""character2"": 9.0}",9.0,9.0,region may have leaked outside the bubble; uncertain extraction,"MEGUMI HOLD ON TO THIS, WILL YA?"
+seq_5e4a9d63617d62bf,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character3"": 9.0}",9.0,9.0,no substantial white/solid-color region around text,"NO, IT'S NOT JUST THAT..."
+seq_84541a1f4b159018,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character1"": 9.0}",9.0,9.0,no substantial white/solid-color region around text,...HE MIGHT HAVE POTENTIAL ASA VESSEL.
+seq_fa5b05d0f22bff15,PG2:T11,character1,linked,SPOKEN,True,1,"{""character2"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,"BUT THAT WOULD BE A WASTE, RIGHT?"
+seq_4e5d126a68879ddf,PG1:T7,character2,linked,SPOKEN,False,1,"{""character2"": 9.0}",9.0,9.0,white region with substantial curved sides; overrides box-like approximation,I HAVE THE PERFECT MEDICINE FOR THE BRIDE.
+seq_4e5d126a68879ddf,PG3:T2,UNKNOWN,unassociated,SPOKEN,True,1,"{""character1"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,MAYBE YOU SHOULD SELL THEM TO LADY MAO!
+seq_4e5d126a68879ddf,PG3:M2,UNKNOWN,conflicting_entities,SPOKEN,True,2,"{""character1"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,ISN'T IT? BUT IT CAN'T BE HELPED.
+seq_5f407d0064bb4a43,PG1:T1,character5,linked,SPOKEN,False,1,"{""character1"": 9.0}",9.0,9.0,white region with substantial curved sides; overrides box-like approximation,LORD SHIONO AGREED TO ASSUME THE FAMILY'S DEBT.
+seq_07838fb26cd1be54,PG2:T4,character6,linked,SPOKEN,True,1,"{""character1"": 9.0}",9.0,9.0,Magi text-to-tail association forces SPOKEN,"YES, THERE ARE A LOT OF RATS."
+seq_f1f5fb7a11b950f3,PG1:T6,NARRATION,narrator,NARRATED,False,1,"{""character1"": 9.0}",9.0,9.0,region may have leaked outside the bubble; uncertain extraction,"IF WE’RE COMPARED TO THE PRESENT HIRAKO SQUAD,"
+seq_fb6d15ad78b7191c,PG3:T5,character7,linked,SPOKEN,False,1,"{""character3"": 9.0}",9.0,9.0,white region with substantial curved sides; overrides box-like approximation,MY ANEMIA WAS ACTING UP AGAIN...
+seq_58858a2227cf3761,PG2:T8,character2,linked,SPOKEN,False,1,"{""character1"": 9.0}",9.0,9.0,white region with substantial curved sides; overrides box-like approximation,"TODAY, I MADE SOME FOR LUNCH TOO."
+seq_58858a2227cf3761,PG3:T3,character6,linked,SPOKEN,False,1,"{""character1"": 9.0}",9.0,9.0,white region with substantial curved sides; overrides box-like approximation,UM... RIGHT HERE IS OKAY?
+seq_a3bd36201a0cd61b,PG3:T6,character12,linked,SPOKEN,False,1,"{""NARRATION"": 8.0}",8.0,8.0,white region with meaningful visible sharp edges,AND HE IS THE MAN SHE SUPPORTS.
+seq_a3bd36201a0cd61b,PG3:T9,character18,linked,SPOKEN,False,1,"{""NARRATION"": 8.0}",8.0,8.0,white region with meaningful visible sharp edges,A MAN OF UNPARALLELED WISDOM AND INTELLECT.
+seq_b251c8e1ba8b91f8,PG2:T1,NARRATION,narrator,NARRATED,False,1,"{""character2"": 8.0}",8.0,8.0,no substantial white/solid-color region around text,CAREFULLY PREPARING A FAKE PRIZE...
+seq_06ec0acde37dffa4,PG1:T16,character1,linked,SPOKEN,False,1,"{""character2"": 8.0}",8.0,8.0,white region with substantial curved sides; overrides box-like approximation,FILLETING FISH SHOULD BE NOTHING...
+seq_2fae297a18af2a57,PG3:T2,character8,linked,SPOKEN,True,1,"{""character2"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,TO GET BACK THE MONEY WE’RE OWED.
+seq_d7af6c64ebc22bbe,PG3:T2,NARRATION,narrator,NARRATED,False,1,"{""character1"": 8.0}",8.0,8.0,region may have leaked outside the bubble; uncertain extraction,WHEN THEY WERE ALREADY SO WELL OFF?
+seq_b8b5563330fdc89d,PG3:T10,character1,linked,SPOKEN,True,1,"{""character3"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,"THAT WAS A TRUE EPIC PISS, GRIFF"
+seq_535e0754d805105b,PG1:T2,character1,linked,SPOKEN,True,1,"{""character2"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,THE GUY LYING FACE-DOWN IS HIS BODYGUARD.
+seq_fa2eee6269a5dad3,PG2:T3,character2,linked,SPOKEN,True,1,"{""character2"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,here... in my hand.
+seq_88c1ad85c0fc1e9a,PG1:T9,character1,linked,SPOKEN,False,1,"{""character1"": 8.0}",8.0,8.0,white region with substantial curved sides; overrides box-like approximation,THE ACHIEVEMENT HERE IS IN THE PROPORTIONS.
+seq_eaad741293da2ac1,PG1:T3,character1,linked,SPOKEN,True,1,"{""character1"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,GUESS I'LL BE ON MY WAY THEN.
+seq_0dc2e3d874c804fc,PG2:T4,character9,linked,SPOKEN,False,1,"{""character1"": 8.0}",8.0,8.0,white region with meaningful visible sharp edges,IF YOU REALLY MEAN IT...
+seq_71033fec4de494fc,PG1:T25,character1,linked,SPOKEN,True,1,"{""character3"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,YES! THEY GO FOR THE FEET!
+seq_71033fec4de494fc,PG3:T8,character2,linked,SPOKEN,False,1,"{""character1"": 8.0}",8.0,8.0,white region with meaningful visible sharp edges,THEY'RE NOT GOING TO FIGHT LIVE!?
+seq_cd727990f22c777b,PG3:T10,character12,linked,SPOKEN,True,1,"{""character3"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,"WELL, SUIT YOURSELF WE DON'T CARE."
+seq_de542b63e6b19bc2,PG1:T14,NARRATION,narrator,NARRATED,False,1,"{""character2"": 8.0}",8.0,8.0,box-like region with straight perpendicular sides,I GUESS SO. BUT...
+seq_f7f9d9dbf5b05cb5,PG3:T1,character4,linked,SPOKEN,True,1,"{""character3"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,YOU’RE CURSED SO I WILL EXORCISE YOU!
+seq_07838fb26cd1be54,PG1:T7,character2,linked,SPOKEN,True,1,"{""character2"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,COME TO THINK OF IT...
+seq_aef69e98002294bc,PG1:T3,NARRATION,narrator,NARRATED,False,1,"{""character1"": 8.0}",8.0,8.0,region may have leaked outside the bubble; uncertain extraction,they have organs characteristic of their predation.
+seq_f1f5fb7a11b950f3,PG3:T7,character14,linked,SPOKEN,True,1,"{""character1"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,YOU YOURSELF HAVE TO SURPASS HIM TOO.
+seq_ac5793f8168efdd1,PG2:T13,character4,linked,SPOKEN,False,1,"{""character4"": 8.0}",8.0,8.0,white region with meaningful visible sharp edges,SQUAD LEADER . URIE- KUN…!!
+seq_41d68dfc426cc19e,PG1:T1,character1,linked,SPOKEN,True,1,"{""character1"": 8.0}",8.0,8.0,Magi text-to-tail association forces SPOKEN,I MADE SOME OKAYU WITH POTATOES TODAY.
+seq_41d68dfc426cc19e,PG3:T1,character6,linked,SPOKEN,False,1,"{""character3"": 8.0}",8.0,8.0,white region with substantial curved sides; overrides box-like approximation,OTSU WILL STAY HERE BY YOUR SIDE.
+seq_2e4b837ead6b88ae,PG1:T12,character3,linked,SPOKEN,False,1,"{""character1"": 7.923076923076923}",7.923076923076923,7.923076923076923,white region with substantial curved sides; overrides box-like approximation,HEAD-QUARTERS SHOULD HAVE THE INVESTIGATION’S PROGRESS REPORTS.
+seq_cd727990f22c777b,PG3:T15,character6,linked,SPOKEN,True,1,"{""character4"": 7.833333333333333}",7.833333333333333,7.833333333333333,Magi text-to-tail association forces SPOKEN,I WONDER IF HE'S LIKE ZENIN SENPAI?
+seq_84541a1f4b159018,PG1:T18,character1,linked,SPOKEN,True,1,"{""character1"": 7.8}",7.8,7.8,Magi text-to-tail association forces SPOKEN,IT’SA MIRACLE THAT’S THE ONLY SIDE EFFECT.
+seq_535e0754d805105b,PG2:T8,character3,linked,SPOKEN,True,1,"{""character5"": 7.666666666666667}",7.666666666666667,7.666666666666667,Magi text-to-tail association forces SPOKEN,"NO, NOT MUCH ROOM FOR SUS- PICION."
+seq_d7af6c64ebc22bbe,PG3:T4,NARRATION,narrator,NARRATED,False,1,"{""character1"": 7.6}",7.6,7.6,no substantial white/solid-color region around text,AS LONG AS I-HAD POCHITA THAT WAS ENOUGH!
+seq_952f154fb1505883,PG2:T1,character1,linked,SPOKEN,True,1,"{""character2"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,HACHIKEN. WE’RE COUNTING ON YOU.
+seq_7db7a000adeceacf,PG2:T5,character2,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with substantial curved sides; overrides box-like approximation,YOU REALLY CAN'T COUNT ON THAT.
+seq_7db7a000adeceacf,PG3:T3,character1,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with substantial curved sides; overrides box-like approximation,"C’MON, BE THE NEW VICE-PRESIDENT!"
+seq_b251c8e1ba8b91f8,PG2:T8,character3,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,THAT IS NOT AN OPTION!!
+seq_032cbb4dc8686963,PG2:T12,character1,linked,SPOKEN,True,1,"{""character1"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,...ARE YOU SURE?
+seq_f164203a45862778,PG1:T13,character1,linked,SPOKEN,False,1,"{""character1"": 7.0}",7.0,7.0,white region with substantial curved sides; overrides box-like approximation,BUT I DON'T HAVE A CHOICE.
+seq_dcebdbbf614a9b4d,PG3:T8,character3,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with meaningful visible curved sides,HOW WOULD 1 EVEN DO THAT!?
+seq_27e88136c1812f85,PG3:T1,character3,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with substantial curved sides; overrides box-like approximation,SHOW ME MORE OF YOUR DREAMS.
+seq_d7af6c64ebc22bbe,PG3:T1,NARRATION,narrator,NARRATED,False,1,"{""character1"": 7.0}",7.0,7.0,region may have leaked outside the bubble; uncertain extraction,WHY DID THEY WANT A BETTER LIFE
+seq_f1c007d2d64e6aad,PG1:T6,character5,linked,SPOKEN,True,1,"{""character1"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,THE GUN DEVIL WANTS YOUR HEART.
+seq_b8b5563330fdc89d,PG1:T6,character1,linked,SPOKEN,False,1,"{""character3"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,HE WENT TO TAKE A LEAK.
+seq_535e0754d805105b,PG3:T9,character3,linked,SPOKEN,False,1,"{""character5"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,"SURVIVOR TYPE, YOU MIGHT SAY."
+seq_fa2eee6269a5dad3,PG2:T5,character2,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,"forty-two Westwood, Los Angeles.."
+seq_637459fc880bf35a,PG3:T2,character3,linked,SPOKEN,False,1,"{""character3"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,"EASY, MARVIN, EASY!!"
+seq_c2de6cb4b3c91103,PG1:T10,character4,linked,SPOKEN,False,1,"{""character3"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,"WHY, GOOD MORNING, ASH."
+seq_c2de6cb4b3c91103,PG2:T2,UNKNOWN,unassociated,SPOKEN,False,1,"{""character3"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,WOULD YOU CARE TO JOIN ME?
+seq_83ff2f28f5c13c40,PG1:T5,character1,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,go see. banana fish..
+seq_fc4c2b84b6ec32ff,PG2:T4,character2,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,YOU’RE OUT OF HERE. FOR GOOD
+seq_71033fec4de494fc,PG2:T21,character2,linked,SPOKEN,True,1,"{""character1"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,OH! IS THAT THE MON- 600SE!?
+seq_71033fec4de494fc,PG3:T6,character1,linked,SPOKEN,False,1,"{""character3"": 7.0}",7.0,7.0,white region with substantial curved sides; overrides box-like approximation,I’LL BE PLAYING IT ON VCR.
+seq_864aaca43a3580bb,PG3:T5,NARRATION,narrator,NARRATED,False,1,"{""character3"": 7.0}",7.0,7.0,region may have leaked outside the bubble; uncertain extraction,THIS TEACHER IS SKETCHIER THAN THE STUDENTS
+seq_cd727990f22c777b,PG3:T16,character6,linked,SPOKEN,True,1,"{""character4"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,I'VE WASTED TOO MUCH TIME WATCHING.
+seq_98544ce821c3f74b,PG1:T8,character2,linked,SPOKEN,True,1,"{""character3"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,"WHAT IS HE, A CAR?"
+seq_98544ce821c3f74b,PG2:T8,NARRATION,narrator,NARRATED,False,1,"{""character5"": 7.0}",7.0,7.0,region may have leaked outside the bubble; uncertain extraction,JUST BE YOUR USUAL SELF. OKAY?
+seq_f9a4e67ae3c018f6,PG2:T11,character1,linked,SPOKEN,True,1,"{""character3"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,HOW CAN YOU SAY THAT?!
+seq_f9a4e67ae3c018f6,PG3:T10,NARRATION,narrator,NARRATED,False,1,"{""character2"": 7.0}",7.0,7.0,region may have leaked outside the bubble; uncertain extraction,OH YEAH! I FOUND IT.
+seq_ec05f45d71c43f2c,PG2:T4,character4,linked,SPOKEN,False,1,"{""character1"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,USING POISON TO FEND OFF POISON.
+seq_ec05f45d71c43f2c,PG3:T5,NARRATION,narrator,NARRATED,False,1,"{""character1"": 7.0}",7.0,7.0,region may have leaked outside the bubble; uncertain extraction,WHAT I CHASED HERE...
+seq_ec05f45d71c43f2c,PG3:T10,NARRATION,narrator,NARRATED,False,1,"{""character1"": 7.0}",7.0,7.0,region may have leaked outside the bubble; uncertain extraction,WHERE DO THE MEMBERS LIVE?!
+seq_f7f9d9dbf5b05cb5,PG2:T7,character1,linked,SPOKEN,False,1,"{""character1"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,...HAS BEEN SET!
+seq_da71f7a842c91090,PG1:T7,NARRATION,narrator,NARRATED,False,1,"{""character2"": 7.0}",7.0,7.0,region may have leaked outside the bubble; uncertain extraction,"MAN, YOU’RE REALLY MESSED UP."
+seq_5e4a9d63617d62bf,PG2:T7,character2,linked,SPOKEN,False,1,"{""character3"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,DOESN'T MATTER WHAT ERA IT IS.
+seq_5e4a9d63617d62bf,PG2:T8,NARRATION,narrator,NARRATED,False,1,"{""character3"": 7.0}",7.0,7.0,region may have leaked outside the bubble; uncertain extraction,YOU GUYS ARE ALWAYS A PAIN!
+seq_84541a1f4b159018,PG2:T5,NARRATION,narrator,NARRATED,False,1,"{""character1"": 7.0}",7.0,7.0,region may have leaked outside the bubble; uncertain extraction,IF HE WAKES UP AND ISN'T POSSESSED
+seq_fa5b05d0f22bff15,PG1:T17,character1,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,AS YOU CAN SEE...
+seq_fa5b05d0f22bff15,PG2:T2,character3,linked,SPOKEN,True,1,"{""character2"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,IT’S THAT POWERFUL OF A CURSE.
+seq_fa5b05d0f22bff15,PG3:T4,character1,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with meaningful visible sharp edges,SO NOW YOU HAVE TWO OPTIONS.
+seq_45c9871f52e99417,PG2:T5,character7,linked,SPOKEN,True,1,"{""character2"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,DO YOU STILL HAVE THAT FINGER?
+seq_f9248d307dec033f,PG1:T4,character1,linked,SPOKEN,True,1,"{""character2"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,I’LL GET IT DONE RIGHT AWAY.
+seq_07838fb26cd1be54,PG3:T1,character5,linked,SPOKEN,True,1,"{""character2"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,WHY DON'T you GET...
+seq_98d98dac2a89a339,PG3:M2,character4,linked,SPOKEN,True,2,"{""character3"": 7.0, ""character4"": 10.0}",7.0,17.0,Magi text-to-tail association forces SPOKEN,"...LOOKS SO WEAK. THOSE GUYS ARE OUR THE HIRAKO SQUAD’S, RIVALS?"
+seq_fb6d15ad78b7191c,PG2:T6,character2,linked,SPOKEN,False,1,"{""character2"": 7.0}",7.0,7.0,white region with substantial curved sides; overrides box-like approximation,NO. Hurry up and go.
+seq_fb6d15ad78b7191c,PG3:T3,UNKNOWN,unassociated,SPOKEN,True,1,"{""character1"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,DID YOU DROP BY SHIBA-SENSEI'S PLACE?
+seq_2e4b837ead6b88ae,PG3:T1,character4,linked,SPOKEN,True,1,"{""character4"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,"TO THE COMMISSION OF COUNTER- GHOUL, PLEASE."
+seq_58858a2227cf3761,PG1:T4,NARRATION,narrator,NARRATED,False,1,"{""character2"": 7.0}",7.0,7.0,region may have leaked outside the bubble; uncertain extraction,Soon I'll have exhausted my funds.
+seq_ac5793f8168efdd1,PG1:T5,character1,linked,SPOKEN,True,1,"{""character3"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,I'M GOING TO FINISH HIM OFF.
+seq_8f7b98bae85cd5e5,PG2:T5,character1,linked,SPOKEN,True,1,"{""character2"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,YOU CAN’T STAND ..!?
+seq_8f7b98bae85cd5e5,PG2:T16,UNKNOWN,unassociated,SPOKEN,True,1,"{""character1"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,...DID TAKUAN DO THIS?
+seq_41d68dfc426cc19e,PG1:M1,character1,linked,SPOKEN,True,2,"{""character1"": 7.0}",7.0,7.0,Magi text-to-tail association forces SPOKEN,IF-- IF YOU DON'T EAT
+seq_41d68dfc426cc19e,PG2:T13,character3,linked,SPOKEN,False,1,"{""character3"": 7.0}",7.0,7.0,white region with substantial curved sides; overrides box-like approximation,STAY HERE A WHILE AND RECUPERATE.
+seq_ac5793f8168efdd1,PG2:T5,NARRATION,narrator,NARRATED,False,1,"{""character1"": 6.909090909090909}",6.909090909090909,6.909090909090909,no substantial white/solid-color region around text,"Shirazu-Ku you’re injured, aren’t you?"
+seq_f492843aa3a0240c,PG2:T8,NARRATION,narrator,NARRATED,False,1,"{""character1"": 3.666666666666667, ""character3"": 3.0}",6.666666666666667,6.666666666666667,region may have leaked outside the bubble; uncertain extraction,bana... na...
+seq_71033fec4de494fc,PG1:T17,character1,linked,SPOKEN,True,1,"{""character3"": 6.666666666666667}",6.666666666666667,6.666666666666667,Magi text-to-tail association forces SPOKEN,REAL VIPERS ARE ACTUALLY VERY DAN- GEROUS.
+seq_fa5b05d0f22bff15,PG2:T4,NARRATION,narrator,NARRATED,False,1,"{""character2"": 6.666666666666667}",6.666666666666667,6.666666666666667,no substantial white/solid-color region around text,"OOPS, I’MADE A,HOLE IN THE"
+seq_d749b853cf795b6a,PG2:T9,character1,linked,SPOKEN,False,1,"{""character1"": 6.6}",6.6,6.6,white region with meaningful visible sharp edges,DID YOU FINALLY FIND A GIRL- FRIEND?
+seq_952f154fb1505883,PG2:M1,UNKNOWN,conflicting_entities,SPOKEN,True,2,"{""character5"": 5.0, ""character4"": 6.0}",6.0,11.0,Magi text-to-tail association forces SPOKEN,"GOOD LUCK, HACHIKEN! HEY, YOU MADE VICE-PRESIDENT!"
+seq_b251c8e1ba8b91f8,PG1:T4,NARRATION,narrator,NARRATED,False,1,"{""character2"": 6.0}",6.0,6.0,region may have leaked outside the bubble; uncertain extraction,HE'S ATTACKED ME...
+seq_b251c8e1ba8b91f8,PG1:T6,NARRATION,narrator,NARRATED,False,1,"{""character2"": 6.0}",6.0,6.0,region may have leaked outside the bubble; uncertain extraction,A FINE COUNTER-ATTACK...
+seq_06ec0acde37dffa4,PG1:T13,character1,linked,SPOKEN,False,1,"{""character2"": 6.0}",6.0,6.0,white region with substantial curved sides; overrides box-like approximation,I HOPE I DO WELL.
+seq_1c1d4f5e71a2f554,PG1:T2,character2,linked,SPOKEN,False,1,"{""character2"": 6.0}",6.0,6.0,white region with meaningful visible curved sides,ARE YOU KIDDING ME!?
+seq_b136f32c2233b97c,PG3:T8,character2,linked,SPOKEN,False,1,"{""character1"": 6.0}",6.0,6.0,white region with substantial curved sides; overrides box-like approximation,AND DIE A NORMAL DEATH.
+seq_d7af6c64ebc22bbe,PG3:T6,NARRATION,narrator,NARRATED,False,1,"{""character1"": 6.0}",6.0,6.0,no substantial white/solid-color region around text,IGETIT EVERYONE’S GOT THEIR OWN DREAMS.
+seq_96839890d69d7698,PG3:T1,character10,linked,SPOKEN,True,1,"{""character1"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,IT’S A HUMAN...
+seq_535e0754d805105b,PG1:T1,character1,linked,SPOKEN,False,1,"{""character1"": 6.0}",6.0,6.0,white region with substantial curved sides; overrides box-like approximation,"SUICIDE, HUH..."
+seq_535e0754d805105b,PG1:T9,character1,linked,SPOKEN,False,1,"{""character1"": 6.0}",6.0,6.0,white region with meaningful visible sharp edges,WHEN WAS THE FIRST ONE?
+seq_535e0754d805105b,PG2:T9,character3,linked,SPOKEN,False,1,"{""character5"": 6.0}",6.0,6.0,white region with meaningful visible sharp edges,NOT UNTIL THIS LAST CASE.
+seq_91119fd54cd62066,PG1:T5,character1,linked,SPOKEN,True,1,"{""character1"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,"YEAH, WELL..."
+seq_637459fc880bf35a,PG3:T5,character5,linked,SPOKEN,True,1,"{""character1"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,JUST A PUNK...
+seq_d749b853cf795b6a,PG2:T11,character1,linked,SPOKEN,False,1,"{""character1"": 6.0}",6.0,6.0,white region with meaningful visible sharp edges,"DON'T FORGET ME, ASH."
+seq_d749b853cf795b6a,PG3:T2,NARRATION,narrator,NARRATED,False,1,"{""character2"": 6.0}",6.0,6.0,region may have leaked outside the bubble; uncertain extraction,THANK YOU FOR YOUR CONCERN.
+seq_71033fec4de494fc,PG2:T15,NARRATION,narrator,NARRATED,False,1,"{""character2"": 6.0}",6.0,6.0,box-like region with straight perpendicular sides,THIS GUY JUST WON'T STOP.
+seq_864aaca43a3580bb,PG3:T1,NARRATION,narrator,NARRATED,False,1,"{""character4"": 6.0}",6.0,6.0,region may have leaked outside the bubble; uncertain extraction,TRACK-AND-FIELD COACH MR. TAKAGI!
+seq_cd727990f22c777b,PG2:T16,character12,linked,SPOKEN,False,1,"{""character2"": 6.0}",6.0,6.0,white region with meaningful visible sharp edges,so THAT'S WHY...
+seq_98544ce821c3f74b,PG3:T14,character18,linked,SPOKEN,True,1,"{""character4"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,...HELP PEOPLE.
+seq_f9a4e67ae3c018f6,PG1:T2,character1,linked,SPOKEN,False,1,"{""character1"": 6.0}",6.0,6.0,white region with meaningful visible sharp edges,DON'T END UP LIKE ME.
+seq_ec05f45d71c43f2c,PG2:T2,character3,linked,SPOKEN,True,1,"{""character2"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,A TALISMAN SOUNDS HARMLESS ENOUGH.
+seq_ec05f45d71c43f2c,PG3:T8,character4,linked,SPOKEN,True,1,"{""character1"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,WHERE ARE THE CONTENTS?!
+seq_de542b63e6b19bc2,PG1:T11,NARRATION,narrator,NARRATED,False,1,"{""character2"": 6.0}",6.0,6.0,box-like region with straight perpendicular sides,HE WAS SHORT-TEMPERED AND STUBBORN.
+seq_f7f9d9dbf5b05cb5,PG3:T11,NARRATION,narrator,NARRATED,False,1,"{""character3"": 6.0}",6.0,6.0,region may have leaked outside the bubble; uncertain extraction,WHAT SHOULD I DO?!
+seq_da71f7a842c91090,PG1:T3,character3,linked,SPOKEN,True,1,"{""character1"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,WHAT’RE YOU DOING HERE?!
+seq_da71f7a842c91090,PG2:T7,character1,linked,SPOKEN,False,1,"{""character2"": 6.0}",6.0,6.0,white region with meaningful visible sharp edges,HOW DOES YOUR BODY FEEL?
+seq_da71f7a842c91090,PG2:T9,character1,linked,SPOKEN,True,1,"{""character2"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,CAN YOU SWITCH TO SUKUNA?
+seq_da71f7a842c91090,PG2:T11,NARRATION,narrator,NARRATED,False,1,"{""character2"": 6.0}",6.0,6.0,region may have leaked outside the bubble; uncertain extraction,THE CURSED OBJECT YOU ATE.
+seq_84541a1f4b159018,PG1:T13,NARRATION,narrator,NARRATED,False,1,"{""character1"": 6.0}",6.0,6.0,region may have leaked outside the bubble; uncertain extraction,YOU REALLY CAN CONTROL IT.
+seq_fa5b05d0f22bff15,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character2"": 6.0}",6.0,6.0,region may have leaked outside the bubble; uncertain extraction,THAT’S WHERE YOU COME IN.
+seq_fa5b05d0f22bff15,PG2:T7,character3,linked,SPOKEN,False,1,"{""character2"": 6.0}",6.0,6.0,white region with substantial curved sides; overrides box-like approximation,IF YOU DIE...
+seq_4833e23eec54344b,PG2:T3,character4,linked,SPOKEN,False,1,"{""character1"": 6.0}",6.0,6.0,white region with meaningful visible sharp edges,YOU PROBABLY WON'T BELIEVE ME.
+seq_f9248d307dec033f,PG1:T3,character1,linked,SPOKEN,True,1,"{""character2"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,"YES, MA'AM..."
+seq_4e5d126a68879ddf,PG3:T5,character9,linked,SPOKEN,True,1,"{""character2"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,"THAT’S RATHER UNFORTUNATE FOR THE BRIDE,"
+seq_07838fb26cd1be54,PG2:M1,UNKNOWN,conflicting_entities,SPOKEN,True,2,"{""character2"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,RAT TRAPS.. HERE.
+seq_07838fb26cd1be54,PG2:T5,character4,linked,SPOKEN,False,1,"{""character1"": 6.0}",6.0,6.0,white region with substantial curved sides; overrides box-like approximation,"I HATE THEM, REALLY."
+seq_aef69e98002294bc,PG1:T2,NARRATION,narrator,NARRATED,False,1,"{""character1"": 6.0}",6.0,6.0,region may have leaked outside the bubble; uncertain extraction,"although they have human forms,"
+seq_aef69e98002294bc,PG1:T5,character1,linked,SPOKEN,False,1,"{""character1"": 6.0}",6.0,6.0,white region with meaningful visible sharp edges,They are the natural enemy humanity
+seq_f1f5fb7a11b950f3,PG2:T1,NARRATION,narrator,NARRATED,False,1,"{""character1"": 6.0}",6.0,6.0,no substantial white/solid-color region around text,NUMEROUS MONTHS EARLIER...
+seq_44b9a316b2919cfe,PG2:T12,character3,linked,SPOKEN,True,1,"{""character1"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,"AKIRA-SAN, IT..."
+seq_2e4b837ead6b88ae,PG1:T7,character1,linked,SPOKEN,True,1,"{""character1"": 6.0}",6.0,6.0,Magi text-to-tail association forces SPOKEN,...OH YEAH?
+seq_91119fd54cd62066,PG1:T6,NARRATION,narrator,NARRATED,False,1,"{""character2"": 5.75}",5.75,5.75,region may have leaked outside the bubble; uncertain extraction,THAT’S THE DAY AFTER TO- MORROW!
+seq_f9043534f1171d4e,PG1:T8,NARRATION,narrator,NARRATED,False,1,"{""character1"": 5.714285714285714}",5.714285714285714,5.714285714285714,region may have leaked outside the bubble; uncertain extraction,"DAMMIT, I’CAN’T THINK STRAIGHT."
+seq_2e4b837ead6b88ae,PG1:T8,NARRATION,narrator,NARRATED,False,1,"{""character1"": 5.666666666666667}",5.666666666666667,5.666666666666667,region may have leaked outside the bubble; uncertain extraction,"Well then, that good?"
+seq_f9a4e67ae3c018f6,PG3:T5,NARRATION,narrator,NARRATED,False,1,"{""character2"": 5.625}",5.625,5.625,region may have leaked outside the bubble; uncertain extraction,WHO ARE YOU? I'M MOURN-
+seq_9032e5551cf1a9d2,PG2:T12,UNKNOWN,unassociated,SPOKEN,False,1,"{""character5"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,WOW! YOU’RE RIGHT!
+seq_2022b8c0e1f2d3c0,PG2:T12,character4,linked,SPOKEN,True,1,"{""character2"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,"SORRY, IT’S NOTHING."
+seq_06ec0acde37dffa4,PG1:T10,character1,linked,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,COOKING PRACTICE...
+seq_06ec0acde37dffa4,PG2:T13,character9,linked,SPOKEN,False,1,"{""character3"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,ANYTHING BUT FISH!!
+seq_f164203a45862778,PG1:T1,character1,linked,SPOKEN,False,1,"{""character1"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,...RIGHT?
+seq_f164203a45862778,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character2"": 5.0}",5.0,5.0,box-like region with straight perpendicular sides,"OH, I SEE!"
+seq_2fae297a18af2a57,PG1:T6,character1,linked,SPOKEN,True,1,"{""character2"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,THE REWARD’S 400 GRAND.
+seq_f7ee32f1dd417802,PG3:T1,character5,linked,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,A WOUND...
+seq_96839890d69d7698,PG1:T4,UNKNOWN,unassociated,SPOKEN,True,1,"{""character1"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,YOU’RE A STRANGE ONE.
+seq_b9b5a9ad9a64ced9,PG3:T3,character6,linked,SPOKEN,True,1,"{""character2"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,BUT I AM HAPPY!
+seq_f492843aa3a0240c,PG3:T1,character2,linked,SPOKEN,True,1,"{""character1"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,banana fish...
+seq_f492843aa3a0240c,PG3:T2,character2,linked,SPOKEN,False,1,"{""character1"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,saw it...
+seq_91119fd54cd62066,PG1:T2,character2,linked,SPOKEN,True,1,"{""character2"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,ALMOST FORGOT! INSPECTOR!
+seq_fa2eee6269a5dad3,PG1:T10,character1,linked,SPOKEN,True,1,"{""character2"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,h-h-help me...
+seq_fa2eee6269a5dad3,PG2:T1,NARRATION,narrator,NARRATED,False,1,"{""character1"": 5.0}",5.0,5.0,region may have leaked outside the bubble; uncertain extraction,ARE YOU...
+seq_c2de6cb4b3c91103,PG2:T1,UNKNOWN,unassociated,SPOKEN,False,1,"{""character3"": 5.0}",5.0,5.0,white region with meaningful visible sharp edges,I WAS JUST HAVING BREAK- FAST.
+seq_88c1ad85c0fc1e9a,PG1:T4,character3,linked,SPOKEN,False,1,"{""character1"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,"A DRINK, THEN?"
+seq_eaad741293da2ac1,PG1:T6,character1,linked,SPOKEN,False,1,"{""character1"": 5.0}",5.0,5.0,white region with meaningful visible sharp edges,"WHAT’S UP, ASH?"
+seq_fc4c2b84b6ec32ff,PG3:T4,character3,linked,SPOKEN,True,1,"{""character1"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,"OH SHIT, OH SHIT"
+seq_71033fec4de494fc,PG3:T3,character2,linked,SPOKEN,False,1,"{""character1"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,...HUH?
+seq_864aaca43a3580bb,PG2:T5,NARRATION,narrator,NARRATED,False,1,"{""character1"": 5.0}",5.0,5.0,no YOLO bubble matched this surviving Magi text,I'M SUCH AN IDIOT.
+seq_98544ce821c3f74b,PG2:M1,character2,partially_linked,SPOKEN,True,2,"{""character4"": 4.0, ""character5"": 5.0}",5.0,9.0,Magi text-to-tail association forces SPOKEN,"IT’S ABOUT YOUR PARENTS STOP, I DON’T CARE!"
+seq_f9a4e67ae3c018f6,PG2:T1,UNKNOWN,unassociated,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,MY GRANDPA IS DEAD.
+seq_f9a4e67ae3c018f6,PG2:T6,character3,linked,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with meaningful visible sharp edges,OKAY. THANKS FOR EVERYTHING.
+seq_de542b63e6b19bc2,PG2:T3,NARRATION,narrator,NARRATED,False,1,"{""character1"": 5.0}",5.0,5.0,no substantial white/solid-color region around text,IS THIS THE FOURTH FLOOR!
+seq_f9043534f1171d4e,PG1:T6,NARRATION,narrator,NARRATED,False,1,"{""character1"": 5.0}",5.0,5.0,no YOLO bubble matched this surviving Magi text,INCANTATION’S TIME! RAN OUT.
+seq_f7f9d9dbf5b05cb5,PG1:T1,character1,linked,SPOKEN,False,1,"{""character1"": 5.0}",5.0,5.0,white region with meaningful visible sharp edges,MORNIN'...
+seq_da71f7a842c91090,PG1:T14,character2,linked,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with meaningful visible sharp edges,DID YOU FIND IT?
+seq_84541a1f4b159018,PG1:T6,character1,linked,SPOKEN,True,1,"{""character2"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,WHAT IS HE?!
+seq_fa5b05d0f22bff15,PG2:T9,character1,linked,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with meaningful visible curved sides,OUR ELDERS ARE COWARDS.
+seq_fa5b05d0f22bff15,PG3:T5,character1,linked,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with meaningful visible sharp edges,DIE NOW OR..
+seq_45c9871f52e99417,PG3:T10,character8,linked,SPOKEN,True,1,"{""character2"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,HEH HEH...
+seq_c4448514b6de1ab9,PG1:T4,character2,linked,SPOKEN,False,1,"{""character1"": 5.0}",5.0,5.0,white region with meaningful visible sharp edges,"HEY THERE, APOTHECARY."
+seq_f9248d307dec033f,PG2:T6,character5,linked,SPOKEN,True,1,"{""character3"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,BECAUSE OF THE WEDDING?
+seq_4e5d126a68879ddf,PG1:T11,character3,linked,SPOKEN,False,1,"{""character1"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,BUT CAN I SEE?
+seq_4e5d126a68879ddf,PG2:T1,character5,linked,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with meaningful visible curved sides,OF COURSE. HERE.
+seq_4e5d126a68879ddf,PG2:T2,character5,linked,SPOKEN,False,1,"{""character1"": 5.0}",5.0,5.0,white region with meaningful visible sharp edges,WOW! SO MANY! 2
+seq_07838fb26cd1be54,PG1:T3,character5,linked,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,THAT WAS...
+seq_07838fb26cd1be54,PG1:T6,character3,linked,SPOKEN,True,1,"{""character1"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,SHEESH THAT SCARED ME.
+seq_f1f5fb7a11b950f3,PG2:T3,NARRATION,narrator,NARRATED,False,1,"{""character1"": 5.0}",5.0,5.0,no substantial white/solid-color region around text,THE BUREAU DIRECTOR TOLD YOU
+seq_fb6d15ad78b7191c,PG3:T7,character2,linked,SPOKEN,True,1,"{""character3"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,"AH, OH YEAH."
+seq_098e260f231aa789,PG2:T10,character2,linked,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,“YOU” IN PARTICULAR.
+seq_098e260f231aa789,PG3:T2,character5,linked,SPOKEN,False,1,"{""character2"": 5.0}",5.0,5.0,white region with substantial curved sides; overrides box-like approximation,IT’D BE NO GOOD.
+seq_58858a2227cf3761,PG1:T1,character2,linked,SPOKEN,False,1,"{""character1"": 5.0}",5.0,5.0,white region with meaningful visible sharp edges,WHERE ARE YOU HEADED?
+seq_8f7b98bae85cd5e5,PG3:T5,character5,linked,SPOKEN,True,1,"{""character1"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,WHAT DID HE SAY?
+seq_720a7023d4f2ffcb,PG3:T10,character1,linked,SPOKEN,False,1,"{""character3"": 5.0}",5.0,5.0,white region with meaningful visible curved sides,OR SO SOMEONE SAID.
+seq_41d68dfc426cc19e,PG1:T2,character1,linked,SPOKEN,True,1,"{""character1"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,THERE'S A WHOLE LOT!
+seq_41d68dfc426cc19e,PG2:T10,character3,linked,SPOKEN,True,1,"{""character3"": 5.0}",5.0,5.0,Magi text-to-tail association forces SPOKEN,ARE YOU IN PAIN?
+seq_d7af6c64ebc22bbe,PG3:T8,NARRATION,narrator,NARRATED,False,1,"{""character1"": 4.857142857142858}",4.857142857142858,4.857142857142858,no substantial white/solid-color region around text,"THERE'S NOTHING WRONG WITH THAT,"
+seq_864aaca43a3580bb,PG3:T6,NARRATION,narrator,NARRATED,False,1,"{""character3"": 4.8}",4.8,4.8,no substantial white/solid-color region around text,WHICH SIDE SHOULD ITAKE?
+seq_84541a1f4b159018,PG1:T17,NARRATION,narrator,NARRATED,False,1,"{""character3"": 4.75}",4.75,4.75,region may have leaked outside the bubble; uncertain extraction,ICAN HEAR HIS VOICE.
+seq_2032620aa4e4ac7f,PG1:T9,character1,linked,SPOKEN,True,1,"{""character1"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,OUT FOR BLOOD.
+seq_952f154fb1505883,PG3:T6,UNKNOWN,unassociated,SPOKEN,False,1,"{""character6"": 4.0}",4.0,4.0,white region with meaningful visible curved sides,EHHH HHH!?
+seq_7db7a000adeceacf,PG2:T3,character8,linked,SPOKEN,True,1,"{""character3"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,ARE YOU SURE?
+seq_72fdfff4b4353a42,PG2:T7,NARRATION,narrator,NARRATED,False,1,"{""character2"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,FOR EXAMPLE..
+seq_b251c8e1ba8b91f8,PG1:T9,NARRATION,narrator,NARRATED,False,1,"{""character2"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,ALL I'VE DONE.
+seq_b251c8e1ba8b91f8,PG2:T9,character3,linked,SPOKEN,False,1,"{""character2"": 4.0}",4.0,4.0,white region with substantial curved sides; overrides box-like approximation,I CANNOT RETREAT!
+seq_ee880b9612205860,PG1:T1,NARRATION,narrator,NARRATED,False,1,"{""character1"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,WELL...
+seq_ee880b9612205860,PG3:T5,character8,linked,SPOKEN,False,1,"{""NARRATION"": 4.0}",4.0,4.0,white region with meaningful visible sharp edges,BUT THAT ONE POINT
+seq_032cbb4dc8686963,PG2:T3,character3,linked,SPOKEN,False,1,"{""character1"": 4.0}",4.0,4.0,white region with meaningful visible curved sides,YOU WILL!?
+seq_f164203a45862778,PG2:T10,UNKNOWN,unassociated,SPOKEN,True,1,"{""character1"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,LET’S GET STARTED.
+seq_96839890d69d7698,PG2:T3,character6,linked,SPOKEN,True,1,"{""character2"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,H-..
+seq_dce8be23c3281228,PG1:T1,character1,linked,SPOKEN,False,1,"{""character1"": 4.0}",4.0,4.0,white region with meaningful visible sharp edges,...?
+seq_d8bc3c6ac1bb6017,PG2:T2,NARRATION,narrator,NARRATED,False,1,"{""character1"": 4.0}",4.0,4.0,no YOLO bubble matched this surviving Magi text,OH...
+seq_d8bc3c6ac1bb6017,PG2:T4,NARRATION,narrator,NARRATED,False,1,"{""character1"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,JERRY...
+seq_fa2eee6269a5dad3,PG1:T2,character1,linked,SPOKEN,False,1,"{""character2"": 4.0}",4.0,4.0,white region with meaningful visible curved sides,ahh...
+seq_c2de6cb4b3c91103,PG3:T4,NARRATION,narrator,NARRATED,False,1,"{""character3"": 4.0}",4.0,4.0,box-like region with straight perpendicular sides,"HA, HA."
+seq_88c1ad85c0fc1e9a,PG2:T8,character1,linked,SPOKEN,False,1,"{""character1"": 4.0}",4.0,4.0,white region with meaningful visible sharp edges,CALM YOURSELF ASH.
+seq_d749b853cf795b6a,PG2:T2,character1,linked,SPOKEN,False,1,"{""character1"": 4.0}",4.0,4.0,white region with meaningful visible sharp edges,IS THAT SO?
+seq_d749b853cf795b6a,PG3:T4,character1,linked,SPOKEN,True,1,"{""character4"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,"HEY, MAN."
+seq_0ef2ec294597f572,PG2:T7,character1,linked,SPOKEN,True,1,"{""character3"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,WHO IS IT?
+seq_fc4c2b84b6ec32ff,PG2:T7,NARRATION,narrator,NARRATED,False,1,"{""character3"": 4.0}",4.0,4.0,box-like region with straight perpendicular sides,N-NO! BOSS!
+seq_864aaca43a3580bb,PG3:T9,character17,linked,SPOKEN,True,1,"{""character4"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,NO CAN DO?
+seq_98544ce821c3f74b,PG1:T3,character2,linked,SPOKEN,True,1,"{""character1"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,"HEY, YOU!"
+seq_98544ce821c3f74b,PG3:T18,character18,linked,SPOKEN,False,1,"{""character4"": 4.0}",4.0,4.0,white region with meaningful visible sharp edges,JUST HELP THEM.
+seq_ec05f45d71c43f2c,PG3:T3,NARRATION,narrator,NARRATED,False,1,"{""character1"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,IT’S EMPTY?!
+seq_de542b63e6b19bc2,PG1:T10,NARRATION,narrator,NARRATED,False,1,"{""character1"": 4.0}",4.0,4.0,no substantial white/solid-color region around text,I’M TOO LATE!
+seq_f9043534f1171d4e,PG2:T2,NARRATION,narrator,NARRATED,False,1,"{""character1"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,WHAT RAW STRENGTH!
+seq_f7f9d9dbf5b05cb5,PG3:T8,NARRATION,narrator,NARRATED,False,1,"{""character3"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,I CAN'T TELL!
+seq_da71f7a842c91090,PG1:T12,NARRATION,narrator,NARRATED,False,1,"{""character2"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,SO...
+seq_5e4a9d63617d62bf,PG2:T4,NARRATION,narrator,NARRATED,False,1,"{""character3"": 4.0}",4.0,4.0,no substantial white/solid-color region around text,HE'S UNBELIEVABLY FAST!
+seq_84541a1f4b159018,PG1:T4,NARRATION,narrator,NARRATED,False,1,"{""character2"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,THIS IS ITADORI KID!
+seq_84541a1f4b159018,PG1:T9,NARRATION,narrator,NARRATED,False,1,"{""character1"": 4.0}",4.0,4.0,box-like evidence is incomplete near crop borders; requires faint retry,WHAT A SURPRISE!
+seq_fa5b05d0f22bff15,PG3:T3,NARRATION,narrator,NARRATED,False,1,"{""character2"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,THE HIGHER-UPS AGREED.
+seq_4833e23eec54344b,PG2:T6,character1,linked,SPOKEN,True,1,"{""character2"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,I BELIEVE YOU.
+seq_4833e23eec54344b,PG3:T4,character2,linked,SPOKEN,True,1,"{""character3"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,WHO PASSED AWAY?
+seq_45c9871f52e99417,PG1:T8,character2,linked,SPOKEN,True,1,"{""character1"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,PICK YOUR HELL.
+seq_45c9871f52e99417,PG3:T4,NARRATION,narrator,NARRATED,False,1,"{""character2"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,WHAT'S GONNA HAPPEN?
+seq_07838fb26cd1be54,PG1:T5,character5,linked,SPOKEN,False,1,"{""character2"": 4.0}",4.0,4.0,white region with substantial curved sides; overrides box-like approximation,JUST A RAT.
+seq_07838fb26cd1be54,PG3:T6,character5,linked,SPOKEN,False,1,"{""character2"": 4.0}",4.0,4.0,white region with substantial curved sides; overrides box-like approximation,AH...
+seq_aef69e98002294bc,PG1:T1,NARRATION,narrator,NARRATED,False,1,"{""character1"": 4.0}",4.0,4.0,region may have leaked outside the bubble; uncertain extraction,'Ghouls'...
+seq_aef69e98002294bc,PG2:T1,character3,linked,SPOKEN,False,1,"{""character1"": 4.0}",4.0,4.0,white region with substantial curved sides; overrides box-like approximation,HOW'S THAT FEEL?
+seq_98d98dac2a89a339,PG1:T7,character2,linked,SPOKEN,True,1,"{""character1"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,I'LL TELL EVERYONE.
+seq_98d98dac2a89a339,PG2:T3,character2,linked,SPOKEN,True,1,"{""character1"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,AH...
+seq_fb6d15ad78b7191c,PG3:T2,character2,linked,SPOKEN,True,1,"{""character3"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,GOOD WORK TODAY!
+seq_098e260f231aa789,PG3:T7,character5,linked,SPOKEN,True,1,"{""character3"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,SENSEI...
+seq_2e4b837ead6b88ae,PG1:T13,character3,linked,SPOKEN,True,1,"{""character1"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,WE’LL DO SOMETHING SOMEHOW
+seq_2e4b837ead6b88ae,PG3:T6,character6,linked,SPOKEN,False,1,"{""character3"": 4.0}",4.0,4.0,white region with meaningful visible curved sides,NO...
+seq_ac5793f8168efdd1,PG2:T2,NARRATION,narrator,NARRATED,False,1,"{""character2"": 4.0}",4.0,4.0,no substantial white/solid-color region around text,I WAS WITH URIE- KUN.
+seq_ac5793f8168efdd1,PG2:T4,character10,linked,SPOKEN,False,1,"{""character1"": 4.0}",4.0,4.0,white region with meaningful visible sharp edges,DON'T MAKE PETTY DISTINCTIONS
+seq_8f7b98bae85cd5e5,PG2:T2,character1,linked,SPOKEN,True,1,"{""character2"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,WHAT’S WRONG .?
+seq_8f7b98bae85cd5e5,PG2:T6,character1,linked,SPOKEN,True,1,"{""character3"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,DON'T PUSH YOURSELF!
+seq_5f9ee35846b7e635,PG1:T4,character2,linked,SPOKEN,False,1,"{""character2"": 4.0}",4.0,4.0,white region with substantial curved sides; overrides box-like approximation,YOU MEAN MUSASHI?
+seq_5f9ee35846b7e635,PG3:T1,character6,linked,SPOKEN,True,1,"{""character2"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,"OH, OH?"
+seq_41d68dfc426cc19e,PG2:T9,character3,linked,SPOKEN,True,1,"{""character3"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,THERE WE GO.
+seq_41d68dfc426cc19e,PG3:T4,character3,linked,SPOKEN,True,1,"{""character3"": 4.0}",4.0,4.0,Magi text-to-tail association forces SPOKEN,"LISTEN, MUSASHI."
+seq_d749b853cf795b6a,PG1:T7,NARRATION,narrator,NARRATED,False,1,"{""character1"": 3.666666666666667}",3.666666666666667,3.666666666666667,region may have leaked outside the bubble; uncertain extraction,HAVE YOU FOR- GOTTEN?
+seq_06ec0acde37dffa4,PG2:M2,character9,linked,SPOKEN,True,2,"{""character3"": 3.6}",3.6,3.6,Magi text-to-tail association forces SPOKEN,ICANT... MIYUKISHIROGANE Wants to PREPARE
+seq_fc4c2b84b6ec32ff,PG3:T3,character3,linked,SPOKEN,True,1,"{""character3"": 3.6}",3.6,3.6,Magi text-to-tail association forces SPOKEN,ASH...
+seq_98544ce821c3f74b,PG2:T9,NARRATION,narrator,NARRATED,False,1,"{""character4"": 3.6}",3.6,3.6,region may have leaked outside the bubble; uncertain extraction,y- YOU...
+seq_b251c8e1ba8b91f8,PG2:T10,character3,linked,SPOKEN,True,1,"{""character2"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,YOU’RE RIGHT.
+seq_1c1d4f5e71a2f554,PG2:T3,NARRATION,narrator,NARRATED,False,1,"{""character3"": 3.0}",3.0,3.0,curved/sharp solid-color region; not white,SOMEONE TOLD ME
+seq_f164203a45862778,PG3:T6,character3,linked,SPOKEN,False,1,"{""character2"": 3.0}",3.0,3.0,white region with meaningful visible sharp edges,HUUH!?
+seq_e8b4f75454f9491f,PG2:T2,character2,linked,SPOKEN,False,1,"{""character2"": 3.0}",3.0,3.0,white region with substantial curved sides; overrides box-like approximation,"US YAKUZA,"
+seq_535e0754d805105b,PG1:T5,character1,linked,SPOKEN,True,1,"{""character1"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,...
+seq_535e0754d805105b,PG3:T3,character3,linked,SPOKEN,True,1,"{""character5"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,"THANKS, CHARLIE,"
+seq_c2de6cb4b3c91103,PG1:T8,NARRATION,narrator,NARRATED,False,1,"{""character3"": 3.0}",3.0,3.0,region may have leaked outside the bubble; uncertain extraction,COME IN.
+seq_0ef2ec294597f572,PG3:T5,character4,linked,SPOKEN,True,1,"{""character2"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,ANYTHING HAPPEN?
+seq_eaad741293da2ac1,PG1:T9,character1,linked,SPOKEN,True,1,"{""character1"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,ALL RIGHT.
+seq_cd727990f22c777b,PG1:T3,character4,linked,SPOKEN,True,1,"{""character1"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,ALL RIGHT!
+seq_cd727990f22c777b,PG2:T1,character1,linked,SPOKEN,False,1,"{""character1"": 3.0}",3.0,3.0,white region with meaningful visible sharp edges,I WIN.
+seq_cd727990f22c777b,PG2:T18,NARRATION,narrator,NARRATED,False,1,"{""character1"": 3.0}",3.0,3.0,no YOLO bubble matched this surviving Magi text,FOR REAL?
+seq_cd727990f22c777b,PG3:T20,NARRATION,narrator,NARRATED,False,1,"{""character1"": 3.0}",3.0,3.0,region may have leaked outside the bubble; uncertain extraction,GOTTA HURRY!
+seq_98544ce821c3f74b,PG1:T1,NARRATION,narrator,NARRATED,False,1,"{""character1"": 3.0}",3.0,3.0,region may have leaked outside the bubble; uncertain extraction,!!!
+seq_f9a4e67ae3c018f6,PG3:T6,character9,linked,SPOKEN,True,1,"{""character2"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,CURSED OBJECT?
+seq_ec05f45d71c43f2c,PG1:T19,character3,linked,SPOKEN,False,1,"{""character2"": 3.0}",3.0,3.0,white region with meaningful visible sharp edges,A TALISMAN?
+seq_f9043534f1171d4e,PG2:T5,character1,linked,SPOKEN,True,1,"{""character2"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,FORGET IT!
+seq_f9043534f1171d4e,PG3:T4,NARRATION,narrator,NARRATED,False,1,"{""character1"": 3.0}",3.0,3.0,no substantial white/solid-color region around text,MATTER HOW STRONG
+seq_f7f9d9dbf5b05cb5,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character1"": 3.0}",3.0,3.0,region may have leaked outside the bubble; uncertain extraction,YOUR SECRET EXECUTION
+seq_da71f7a842c91090,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character2"": 3.0}",3.0,3.0,region may have leaked outside the bubble; uncertain extraction,THAT’S HILARIOUS.
+seq_45c9871f52e99417,PG1:T7,character1,linked,SPOKEN,True,1,"{""character1"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,ANY- WAY...
+seq_45c9871f52e99417,PG2:T4,character2,linked,SPOKEN,True,1,"{""character1"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,OF COURSE.
+seq_5f407d0064bb4a43,PG2:T2,character9,linked,SPOKEN,True,1,"{""character2"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,I SEE.
+seq_5f407d0064bb4a43,PG2:T7,character6,linked,SPOKEN,False,1,"{""character1"": 3.0}",3.0,3.0,white region with substantial curved sides; overrides box-like approximation,CAN'T WAIT!
+seq_07838fb26cd1be54,PG3:T2,character5,linked,SPOKEN,False,1,"{""character2"": 3.0}",3.0,3.0,white region with substantial curved sides; overrides box-like approximation,A CAT?
+seq_888a2728b36f1745,PG3:T3,character29,linked,SPOKEN,False,1,"{""character5"": 3.0}",3.0,3.0,white region with meaningful visible sharp edges,M-MISS SATO!
+seq_f1f5fb7a11b950f3,PG1:T5,character3,linked,SPOKEN,True,1,"{""character2"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,....
+seq_44b9a316b2919cfe,PG1:T6,character1,linked,SPOKEN,False,1,"{""character1"": 3.0}",3.0,3.0,white region with substantial curved sides; overrides box-like approximation,WHAAAT!?
+seq_44b9a316b2919cfe,PG3:T3,character5,linked,SPOKEN,False,1,"{""character3"": 3.0}",3.0,3.0,white region with meaningful visible sharp edges,THE DATA?
+seq_098e260f231aa789,PG1:T4,character1,linked,SPOKEN,False,1,"{""character1"": 3.0}",3.0,3.0,white region with meaningful visible sharp edges,BUT.!.
+seq_2e4b837ead6b88ae,PG3:M1,NARRATION,narrator,NARRATED,False,2,"{""character4"": 3.0}",3.0,3.0,box-like region with straight perpendicular sides,Urie Kuki (19) [Rank 2 Investigator. 173.5 cm 60 kg Quinx Squad Leader Urie Kuki (19) 173.5 cm 60 kg Quinx Squad Leader
+seq_2e4b837ead6b88ae,PG3:T5,NARRATION,narrator,NARRATED,False,1,"{""character4"": 3.0}",3.0,3.0,region may have leaked outside the bubble; uncertain extraction,SOMETHING WRONG?
+seq_ac5793f8168efdd1,PG2:T12,character4,linked,SPOKEN,False,1,"{""character4"": 3.0}",3.0,3.0,white region with meaningful visible sharp edges,HOLD ON!
+seq_8f7b98bae85cd5e5,PG3:T3,character5,linked,SPOKEN,True,1,"{""character4"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,...
+seq_720a7023d4f2ffcb,PG2:T1,character1,linked,SPOKEN,False,1,"{""character1"": 3.0}",3.0,3.0,white region with meaningful visible curved sides,...
+seq_a3d73a93577ffd94,PG2:T1,character4,linked,SPOKEN,False,1,"{""character1"": 3.0}",3.0,3.0,white region with substantial curved sides; overrides box-like approximation,MIYAMOTO MUSASHI.
+seq_a3d73a93577ffd94,PG3:T4,character5,linked,SPOKEN,False,1,"{""character2"": 3.0}",3.0,3.0,white region with meaningful visible curved sides,...
+seq_5f9ee35846b7e635,PG2:T4,character1,linked,SPOKEN,False,1,"{""character1"": 3.0}",3.0,3.0,white region with substantial curved sides; overrides box-like approximation,...
+seq_41d68dfc426cc19e,PG1:T8,character1,linked,SPOKEN,True,1,"{""character1"": 3.0}",3.0,3.0,Magi text-to-tail association forces SPOKEN,HUH!?
+seq_b251c8e1ba8b91f8,PG2:T3,NARRATION,narrator,NARRATED,False,1,"{""character2"": 2.875}",2.875,2.875,no substantial white/solid-color region around text,SLUPPING UTRINTO FUJIWARA'S MAILBOX
+seq_d8bc3c6ac1bb6017,PG2:T3,NARRATION,narrator,NARRATED,False,1,"{""character2"": 2.7142857142857144}",2.7142857142857144,2.7142857142857144,region may have leaked outside the bubble; uncertain extraction,MA'AM!?
+seq_f7ee32f1dd417802,PG2:T1,NARRATION,narrator,NARRATED,False,1,"{""character2"": 2.6363636363636362}",2.6363636363636362,2.6363636363636362,region may have leaked outside the bubble; uncertain extraction,CH- CHAIN-SAW?!
+seq_098e260f231aa789,PG3:T3,character5,linked,SPOKEN,True,1,"{""character3"": 2.6363636363636362}",2.6363636363636362,2.6363636363636362,Magi text-to-tail association forces SPOKEN,Talkinglike that.
+seq_06ec0acde37dffa4,PG2:T14,character9,linked,SPOKEN,False,1,"{""character2"": 2.6}",2.6,2.6,white region with substantial curved sides; overrides box-like approximation,HUH!?
+seq_952f154fb1505883,PG3:M1,character1,partially_linked,SPOKEN,False,2,"{""character3"": 2.0}",2.0,2.0,separate regions agree: SPOKEN,"YODA. HACHIKEN. YOU'RE TAKING OVER, SO CAN YOU HANG BACK FOR A MINUTE? SURE."
+seq_2022b8c0e1f2d3c0,PG2:T11,NARRATION,narrator,NARRATED,False,1,"{""character1"": 2.0}",2.0,2.0,no YOLO bubble matched this surviving Magi text,um.
+seq_dcebdbbf614a9b4d,PG1:T9,character3,linked,SPOKEN,False,1,"{""character2"": 2.0}",2.0,2.0,white region with substantial curved sides; overrides box-like approximation,YES.
+seq_dcebdbbf614a9b4d,PG3:T6,character3,linked,SPOKEN,False,1,"{""character2"": 2.0}",2.0,2.0,white region with meaningful visible sharp edges,HUUH WHH!?
+seq_e8b4f75454f9491f,PG3:T4,character4,linked,SPOKEN,False,1,"{""character3"": 2.0}",2.0,2.0,white region with meaningful visible sharp edges,DEATH!
+seq_d7af6c64ebc22bbe,PG2:T2,character6,linked,SPOKEN,True,1,"{""character2"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,HMM?
+seq_b8b5563330fdc89d,PG3:T1,character1,linked,SPOKEN,True,1,"{""character4"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,FAMILY?
+seq_b8b5563330fdc89d,PG3:T9,character1,linked,SPOKEN,True,1,"{""character3"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,SHEESH!
+seq_dce8be23c3281228,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character3"": 2.0}",2.0,2.0,no YOLO bubble matched this surviving Magi text,DAMNIT!
+seq_dce8be23c3281228,PG3:T1,character1,linked,SPOKEN,True,1,"{""character1"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,HNG!
+seq_535e0754d805105b,PG3:T6,NARRATION,narrator,NARRATED,False,1,"{""character5"": 2.0}",2.0,2.0,region may have leaked outside the bubble; uncertain extraction,HMPH.
+seq_91119fd54cd62066,PG1:T13,NARRATION,narrator,NARRATED,False,1,"{""character1"": 2.0}",2.0,2.0,box-like region with straight perpendicular sides,MMM.
+seq_0ef2ec294597f572,PG1:T3,NARRATION,narrator,NARRATED,False,1,"{""character2"": 2.0}",2.0,2.0,region may have leaked outside the bubble; uncertain extraction,REALLY.
+seq_0ef2ec294597f572,PG3:T4,NARRATION,narrator,NARRATED,False,1,"{""character2"": 2.0}",2.0,2.0,box-like region with straight perpendicular sides,YEAH.
+seq_eaad741293da2ac1,PG1:T10,character1,linked,SPOKEN,True,1,"{""character1"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,UM.
+seq_eaad741293da2ac1,PG3:T1,character3,linked,SPOKEN,True,1,"{""character3"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,PAPA.
+seq_0dc2e3d874c804fc,PG3:T3,character2,linked,SPOKEN,False,1,"{""character3"": 2.0}",2.0,2.0,white region with meaningful visible sharp edges,HUH?
+seq_864aaca43a3580bb,PG2:T15,character3,linked,SPOKEN,True,1,"{""character5"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,ITADORI!
+seq_cd727990f22c777b,PG3:T11,character4,linked,SPOKEN,True,1,"{""character2"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,YEAH.
+seq_98544ce821c3f74b,PG3:T12,character2,linked,SPOKEN,True,1,"{""character5"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,YEAH?
+seq_f9a4e67ae3c018f6,PG3:T7,NARRATION,narrator,NARRATED,False,1,"{""character3"": 2.0}",2.0,2.0,no YOLO bubble matched this surviving Magi text,FRIEND?
+seq_f9043534f1171d4e,PG2:T9,character3,linked,SPOKEN,True,1,"{""character2"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,I'VE ACTUALLY
+seq_f7f9d9dbf5b05cb5,PG3:T9,character1,linked,SPOKEN,True,1,"{""character3"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,CRAP!
+seq_84541a1f4b159018,PG2:T3,NARRATION,narrator,NARRATED,False,1,"{""character1"": 2.0}",2.0,2.0,no substantial white/solid-color region around text,HE’S HEAVY
+seq_45c9871f52e99417,PG2:T6,character6,linked,SPOKEN,True,1,"{""character1"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,YEAH.
+seq_c4448514b6de1ab9,PG2:T3,character1,linked,SPOKEN,True,1,"{""character1"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,HEY.
+seq_5f407d0064bb4a43,PG3:T4,character13,linked,SPOKEN,False,1,"{""character1"": 2.0}",2.0,2.0,white region with substantial curved sides; overrides box-like approximation,!!
+seq_aef69e98002294bc,PG2:T17,character2,linked,SPOKEN,True,1,"{""character2"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,YEP.
+seq_98d98dac2a89a339,PG1:T9,character1,linked,SPOKEN,True,1,"{""character1"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,OKAY.
+seq_98d98dac2a89a339,PG2:T6,character2,linked,SPOKEN,False,1,"{""character1"": 2.0}",2.0,2.0,white region with substantial curved sides; overrides box-like approximation,"..A GUY FROM THE ""NEWLY ESTABLISHED UNIT""?"
+seq_f1f5fb7a11b950f3,PG1:T16,character3,linked,SPOKEN,True,1,"{""character1"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,"SASAKI,"
+seq_fb6d15ad78b7191c,PG1:T15,character2,linked,SPOKEN,False,1,"{""character2"": 2.0}",2.0,2.0,white region with substantial curved sides; overrides box-like approximation,"SASAKI,"
+seq_fb6d15ad78b7191c,PG2:T8,character2,linked,SPOKEN,False,1,"{""character3"": 2.0}",2.0,2.0,white region with meaningful visible sharp edges,SENSEI!
+seq_fb6d15ad78b7191c,PG3:T4,NARRATION,narrator,NARRATED,False,1,"{""character3"": 2.0}",2.0,2.0,region may have leaked outside the bubble; uncertain extraction,YEAH.
+seq_2e4b837ead6b88ae,PG1:T15,NARRATION,narrator,NARRATED,False,1,"{""character2"": 2.0}",2.0,2.0,region may have leaked outside the bubble; uncertain extraction,OKAY!
+seq_58858a2227cf3761,PG1:T8,character2,linked,SPOKEN,True,1,"{""character1"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,HUH?
+seq_ac5793f8168efdd1,PG1:T6,character1,linked,SPOKEN,False,1,"{""character1"": 2.0}",2.0,2.0,white region with meaningful visible sharp edges,NO.
+seq_ac5793f8168efdd1,PG3:T8,NARRATION,narrator,NARRATED,False,1,"{""character5"": 2.0}",2.0,2.0,no YOLO bubble matched this surviving Magi text,"AHH,"
+seq_8f7b98bae85cd5e5,PG2:T15,UNKNOWN,unassociated,SPOKEN,False,1,"{""character1"": 2.0}",2.0,2.0,white region with substantial curved sides; overrides box-like approximation,haah.
+seq_5c5304b3f7796f8c,PG1:T5,character1,linked,SPOKEN,True,1,"{""character1"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,PISS!
+seq_5f9ee35846b7e635,PG1:T1,character1,linked,SPOKEN,False,1,"{""character1"": 2.0}",2.0,2.0,white region with meaningful visible curved sides,TAKUAN.
+seq_5f9ee35846b7e635,PG3:T3,character2,linked,SPOKEN,True,1,"{""character3"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,HMPH!
+seq_41d68dfc426cc19e,PG2:T1,character3,linked,SPOKEN,True,1,"{""character3"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,MUSASHI.
+seq_41d68dfc426cc19e,PG2:T7,character5,linked,SPOKEN,True,1,"{""character3"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,HERE.
+seq_41d68dfc426cc19e,PG3:T2,character1,linked,SPOKEN,True,1,"{""character1"": 2.0}",2.0,2.0,Magi text-to-tail association forces SPOKEN,EH.
+seq_41d68dfc426cc19e,PG3:T3,character3,linked,SPOKEN,False,1,"{""character3"": 2.0}",2.0,2.0,white region with meaningful visible curved sides,OH?
+seq_9032e5551cf1a9d2,PG2:T2,character5,linked,SPOKEN,False,1,"{""character5"": 1.7272727272727273}",1.7272727272727273,1.7272727272727273,white region with substantial curved sides; overrides box-like approximation,COM- PETITION?
+seq_9032e5551cf1a9d2,PG2:T6,NARRATION,narrator,NARRATED,False,1,"{""character4"": 1.0}",1.0,1.0,box-like region with straight perpendicular sides,ERO- TIC?
+seq_dcebdbbf614a9b4d,PG2:T11,NARRATION,narrator,NARRATED,False,1,"{""character1"": 1.0}",1.0,1.0,no substantial white/solid-color region around text,call
+seq_dcebdbbf614a9b4d,PG3:M3,character3,linked,SPOKEN,False,3,"{""character1"": 7.0, ""character2"": 1.0}",1.0,8.0,separate regions agree: SPOKEN,"NOOO! YOU CAN'T!!! IF YOU HAVE TO EAT SOMEONE, EAT ME!!"
+seq_dcebdbbf614a9b4d,PG3:T3,NARRATION,narrator,NARRATED,False,1,"{""character2"": 1.0}",1.0,1.0,box-like region with straight perpendicular sides,!?
+seq_210721b0d576149f,PG1:T7,NARRATION,narrator,NARRATED,False,1,"{""character2"": 1.0}",1.0,1.0,no YOLO bubble matched this surviving Magi text,wOOF
+seq_b9b5a9ad9a64ced9,PG1:T5,character5,linked,SPOKEN,True,1,"{""character2"": 1.0, ""character3"": 5.0}",1.0,6.0,Magi text-to-tail association forces SPOKEN,A FESTIVAL ...?
+seq_f492843aa3a0240c,PG1:T2,character1,linked,SPOKEN,True,1,"{""character1"": 1.0}",1.0,1.0,Magi text-to-tail association forces SPOKEN,ahh
+seq_f492843aa3a0240c,PG1:T3,character1,linked,SPOKEN,False,1,"{""character1"": 1.0}",1.0,1.0,white region with meaningful visible sharp edges,ahh
+seq_f492843aa3a0240c,PG2:T1,character2,linked,SPOKEN,False,1,"{""character1"": 1.0}",1.0,1.0,white region with meaningful visible sharp edges,ahh
+seq_f492843aa3a0240c,PG2:T2,character2,linked,SPOKEN,False,1,"{""character1"": 1.0}",1.0,1.0,white region with meaningful visible curved sides,ahh
+seq_fc4c2b84b6ec32ff,PG2:T10,character2,linked,SPOKEN,False,1,"{""character3"": 1.0}",1.0,1.0,white region with meaningful visible sharp edges,YAAA!
+seq_71033fec4de494fc,PG3:T14,character2,linked,SPOKEN,False,1,"{""character1"": 1.0}",1.0,1.0,white region with substantial curved sides; overrides box-like approximation,EHHHHH
+seq_864aaca43a3580bb,PG1:T15,NARRATION,narrator,NARRATED,False,1,"{""character1"": 1.0}",1.0,1.0,no YOLO bubble matched this surviving Magi text,TA-DAH!
+seq_864aaca43a3580bb,PG1:T17,NARRATION,narrator,NARRATED,False,1,"{""character3"": 1.0}",1.0,1.0,region may have leaked outside the bubble; uncertain extraction,!!
+seq_864aaca43a3580bb,PG2:T3,NARRATION,narrator,NARRATED,False,1,"{""character4"": 1.0}",1.0,1.0,region may have leaked outside the bubble; uncertain extraction,"TICKS ARE A TYPE OF PARASITE. THE TICK-BORNE DISEASE IS NO JOKE, SO BE CAREFUL!"
+seq_cd727990f22c777b,PG3:T14,character24,linked,SPOKEN,True,1,"{""character1"": 1.0}",1.0,1.0,Magi text-to-tail association forces SPOKEN,?
+seq_fa5b05d0f22bff15,PG1:T14,NARRATION,narrator,NARRATED,False,1,"{""character1"": 1.0}",1.0,1.0,no YOLO bubble matched this surviving Magi text,OM!
+seq_45c9871f52e99417,PG3:T9,NARRATION,narrator,NARRATED,False,1,"{""character1"": 1.0}",1.0,1.0,region may have leaked outside the bubble; uncertain extraction,HEH
+seq_f1f5fb7a11b950f3,PG2:T5,NARRATION,narrator,NARRATED,False,1,"{""character2"": 1.0}",1.0,1.0,no substantial white/solid-color region around text,Anima- san.
+seq_098e260f231aa789,PG1:M3,character1,linked,SPOKEN,True,2,"{""character1"": 1.0, ""character2"": 23.0}",1.0,24.0,Magi text-to-tail association forces SPOKEN,"...OR PERHAPS I SHOULD SAY RANK 1 SASAKI, WAS IT? THE SOURCE OF ALL THIS FROM THE START WAS"
+seq_2e4b837ead6b88ae,PG1:T10,character3,linked,SPOKEN,True,1,"{""character1"": 1.0}",1.0,1.0,Magi text-to-tail association forces SPOKEN,This’is no time to be ashamed.
+seq_58858a2227cf3761,PG3:T4,character6,linked,SPOKEN,True,1,"{""character1"": 1.0}",1.0,1.0,Magi text-to-tail association forces SPOKEN,?
+seq_ac5793f8168efdd1,PG3:T9,NARRATION,narrator,NARRATED,False,1,"{""character5"": 1.0}",1.0,1.0,no YOLO bubble matched this surviving Magi text,LOVER
+seq_8f7b98bae85cd5e5,PG1:T5,NARRATION,narrator,NARRATED,False,1,"{""character1"": 1.0}",1.0,1.0,region may have leaked outside the bubble; uncertain extraction,haah.
+seq_8f7b98bae85cd5e5,PG1:T11,character2,linked,SPOKEN,False,1,"{""character1"": 1.0}",1.0,1.0,white region with meaningful visible sharp edges,hah.
+seq_8f7b98bae85cd5e5,PG2:T1,character1,linked,SPOKEN,True,1,"{""character2"": 1.0}",1.0,1.0,Magi text-to-tail association forces SPOKEN,MASTER
+seq_8f7b98bae85cd5e5,PG2:T4,character1,linked,SPOKEN,True,1,"{""character2"": 1.0}",1.0,1.0,Magi text-to-tail association forces SPOKEN,YOU
+seq_a3d73a93577ffd94,PG3:T1,character5,linked,SPOKEN,False,1,"{""character2"": 1.0}",1.0,1.0,white region with substantial curved sides; overrides box-like approximation,haah
+seq_a3d73a93577ffd94,PG3:T2,character5,linked,SPOKEN,False,1,"{""character2"": 1.0}",1.0,1.0,white region with substantial curved sides; overrides box-like approximation,haah.
+seq_a3d73a93577ffd94,PG3:T3,NARRATION,narrator,NARRATED,False,1,"{""character2"": 1.0}",1.0,1.0,region may have leaked outside the bubble; uncertain extraction,haah
+seq_9032e5551cf1a9d2,PG1:T4,NARRATION,narrator,NARRATED,False,1,"{""character3"": 0.8571428571428572}",0.8571428571428572,0.8571428571428572,no substantial white/solid-color region around text,Uhebehe bebebe
+seq_71033fec4de494fc,PG1:T7,NARRATION,narrator,NARRATED,False,1,"{""character1"": 0.7777777777777778}",0.7777777777777778,0.7777777777777778,no YOLO bubble matched this surviving Magi text,WAAAAHH
+seq_8f7b98bae85cd5e5,PG2:T14,UNKNOWN,unassociated,SPOKEN,False,1,"{""character1"": 0.75}",0.75,0.75,white region with substantial curved sides; overrides box-like approximation,hagh
+seq_dce8be23c3281228,PG1:T9,NARRATION,narrator,NARRATED,False,1,"{""character2"": 0.6363636363636364}",0.6363636363636364,0.6363636363636364,no YOLO bubble matched this surviving Magi text,REYAAANAA

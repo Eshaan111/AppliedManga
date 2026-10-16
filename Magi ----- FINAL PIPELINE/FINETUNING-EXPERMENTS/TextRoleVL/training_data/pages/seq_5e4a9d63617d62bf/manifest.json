@@ -1,0 +1,201 @@
+{
+  "sequence_id": "seq_5e4a9d63617d62bf",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Wish"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "those aren't souvenirs."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "They're for me to eat on the bullet train home."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "behind you!"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "I've got a student watching, so..."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "...I hope you don't mind if I show off a little."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "!!"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "The first time I was in the middle of the"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "I am"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": ".!!"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "He's unbelievably fast!"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Hup"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "No, it's not just that..."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "It doesn't matter what era it is."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "You guys are always a pain!"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "You stupid JUUTSU sorcerer!"
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "??!!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "whoom,"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "But that doesn't matter to me."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "7."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "8. What is the"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "The first time I was in the middle of the day, I was in the morning."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "A. Yes, I"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "The first time I was in the"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T9",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

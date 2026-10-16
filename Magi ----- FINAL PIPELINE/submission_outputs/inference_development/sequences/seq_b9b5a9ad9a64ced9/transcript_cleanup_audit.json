@@ -1,0 +1,191 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "Sae",
+    "cleaned_text": "Sae",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "WHAT WAS THAT SOUND...",
+    "cleaned_text": "WHAT WAS THAT SOUND...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "ONLY AN IDIOT WOULDN'T KNOW THAT...",
+    "cleaned_text": "ONLY AN IDIOT WOULDN'T KNOW THAT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "A FESTIVAL ..?",
+    "cleaned_text": "A FESTIVAL ...?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "HEY, DID YOU TWO REALLY NOT MATE LAST NIGHT?",
+    "cleaned_text": "HEY, DID YOU TWO REALLY NOT DATE LAST NIGHT?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "DENJI'S SURPRISINGLY GENTLEMANLY!",
+    "cleaned_text": "DENJI'S SURPRISINGLY GENTLEMANLY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "YOU'RE SURE WOLFING DOWN THE RAMEN HERE...",
+    "cleaned_text": "YOU\u2019RE SURE ABOUT WOLFING DOWN THE RAMEN HERE...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "DOESN'T IT TASTE AWFUL?",
+    "cleaned_text": "DOESN'T IT TASTE AWFUL?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "WHO ARE YOU?",
+    "cleaned_text": "WHO ARE YOU?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "IT TASTES PRETTY GOOD TO ME.",
+    "cleaned_text": "IT TASTES PRETTY GOOD TO ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "DON'T TALK LIKE YOU KNOW ME!",
+    "cleaned_text": "DON'T TALK LIKE YOU KNOW ME!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "YOU JUST DON'T KNOW GOOD FLAVORS FROM BAD. WELL, NOT LIKE YOU CAN HELP IT.",
+    "cleaned_text": "YOU JUST DON'T KNOW GOOD FLAVORS FROM BAD. WELL, NOT LIKE YOU CAN HELP IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "APPARENTLY IF YOU ONLY EAT THE SAME SORTS OF THINGS WHEN YOU'RE A KID, IT DULLS YOUR SENSE OF TASTE ONCE YOU BECOME AN ADULT.",
+    "cleaned_text": "APPARENTLY IF YOU ONLY EAT THE SAME SORTS OF THINGS WHEN YOU\u2019RE A KID, IT DULLS YOUR SENSE OF TASTE ONCE YOU BECOME AN ADULT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "AND IF YOU LOSE YOUR SENSE OF TASTE, THEN YOUR OVERALL HAPPINESS DECREASES.",
+    "cleaned_text": "AND IF YOU LOSE YOUR SENSE OF TASTE, THEN YOUR OVERALL HAPPINESS DECREASES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character6",
+    "raw_text": "BUT I AM HAPPY!",
+    "cleaned_text": "BUT I AM HAPPY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character5",
+    "raw_text": "SHALL WE LEAVE?",
+    "cleaned_text": "SHALL WE LEAVE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "MY OLD MAN WAS THE NICEST GuY IN THE WORLD. HE TOOK ME TO ALL SORTS OF EXPENSIVE PLACES AND LET ME TRY GOOD FOOD.",
+    "cleaned_text": "MY OLD MAN WAS THE NICEST GUY IN THE WORLD. HE TOOK ME TO ALL SORTS OF EXPENSIVE PLACES AND LET ME TRY GOOD FOOD.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "HE WAS A YAKLIZA, BUT HE WAS A JUST YAKUIZA. YOU COULD SAY PEOPLE LIKE HIM WERE A NECESSARY EVIL...",
+    "cleaned_text": "HE WAS A YAKLIZA, BUT HE WAS A JUST YAKUIZA. YOU COULD SAY PEOPLE LIKE HIM WERE A NECESSARY EVIL...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "YOH COHLD COHNT ON ONE HAND THE NUMBER OF GIRLS HE EVER KILLED,",
+    "cleaned_text": "YOU COULD COUNT ON ONE HAND THE NUMBER OF GIRLS HE EVER KILLED,",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "AND HE'D TAKE THE MONEY FROM SELLING DRUGS AND BUY YOU ANYTHING YOU WANTED...",
+    "cleaned_text": "AND HE'D TAKE THE MONEY FROM SELLING DRUGS AND BUY YOU ANYTHING YOU WANTED...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "EVERYONE LOVED HIM. HE WAS A GOOD MAN, A REAL EDO MAN, THROUGH AND THROUGH...",
+    "cleaned_text": "EVERYONE LOVED HIM. HE WAS A GOOD MAN, A REAL Edo MAN, THROUGH AND THROUGH...",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

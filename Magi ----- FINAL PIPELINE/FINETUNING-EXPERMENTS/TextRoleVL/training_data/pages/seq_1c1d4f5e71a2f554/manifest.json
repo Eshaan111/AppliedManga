@@ -1,0 +1,305 @@
+{
+  "sequence_id": "seq_1c1d4f5e71a2f554",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Is there some kind of problem with that?"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Are you kidding me!?"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "It's only fish. Why can't you just touch it?"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "It's ITAWRISH!  First"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "On"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "It's all slimy and slippery and cold!"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "It feels like it's alive!!"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "I can't..."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Just thinking about it is making me sick..."
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "I'm gonna be honest, you sound kind of like a little girl right now..."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "It's not like it'll actually be live fish, right?"
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "And if you don't use it, it'll just get thrown away!"
+    },
+    {
+      "id": "PG1:T13",
+      "page": 1,
+      "text": "That would be rude to the fish!"
+    },
+    {
+      "id": "PG1:T14",
+      "page": 1,
+      "text": "I don't even know how to respond to that..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Well, if it isn't alive,"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Then I guess I could just barely do it..."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Someone told me"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "that they even got a fish tank last year."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Wow, they're really going all out."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Right?"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "It'll be kind of gross."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "Think you'll be okay?"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "DAUGHTER OF THE PRESIDENT OF A SHIP- BUILDING (OMPANY"
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "I'm a doctor's son, Remem- her?"
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "I'll be fine."
+    },
+    {
+      "id": "PG2:T12",
+      "page": 2,
+      "text": "SON OF A Hospital DIRE(For"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "That sounds like they're going to be alive..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "We're going to be cutting up live fish, aren't we?"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "\"Well, well,"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "You do need that to keep them alive..."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Yeah."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "I can't even touch DEAD fish! and now they're going to be alive!!?"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "You have GOT to be kidding me!!"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "W..."
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "Well, telling me isn't going to solve any- thing..."
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "If we do cooking practice like this..."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T14",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T9",
+      "tail_id": "PG3:TAIL3"
+    }
+  ]
+}

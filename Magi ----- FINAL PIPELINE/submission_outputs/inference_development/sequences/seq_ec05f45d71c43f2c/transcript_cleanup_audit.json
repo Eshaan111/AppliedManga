@@ -1,0 +1,326 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "THE MAJORITY ARE THE RESULT OF NEGATIVE ENERGY THAT FLOWS OUT OF PEOPLE",
+    "cleaned_text": "THE MAJORITY ARE THE RESULT OF NEGATIVE ENERGY THAT FLOWS OUT OF PEOPLE",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "THE RESULT OF A CURSE...",
+    "cleaned_text": "THE RESULT OF A CURSE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "A CURSE?",
+    "cleaned_text": "A CURSE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "IT DOESN'T MATTER IF YOU BELIEVE ME OR NOT!",
+    "cleaned_text": "IT DOESN'T MATTER IF YOU BELIEVE ME OR NOT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "ANY- WAY...",
+    "cleaned_text": "ANY- WAY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "PLACES WHERE CROWDS GATHER, LIKE SCHOOLS OR HOSPITALS...",
+    "cleaned_text": "PLACES WHERE CROWDS GATHER, LIKE SCHOOLS OR HOSPITALS...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "...ARE SUSCEPTIBLE TO RECEIVING THAT ENERGY.",
+    "cleaned_text": "...ARE SUSCEPTIBLE TO RECEIVING THAT ENERGY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "PAIN, REGRET, HUMILIATION... THE MORE PEOPLE DWELL ON BAD MEMORIES..",
+    "cleaned_text": "PAIN, REGRET, HUMILIATION... THE MORE PEOPLE DWELL ON BAD MEMORIES...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "CURSE",
+    "cleaned_text": "CURSE",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "CURSE",
+    "cleaned_text": "CURSE",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "NARRATION",
+    "raw_text": "...THE MORE THESE PLACES BECOME RECEPTIVE TO THOSE FEELINGS.",
+    "cleaned_text": "...THE MORE THESE PLACES BECOME RECEPTIVE TO THOSE FEELINGS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 11,
+    "speaker": "NARRATION",
+    "raw_text": "CURSE",
+    "cleaned_text": "CURSE",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 12,
+    "speaker": "NARRATION",
+    "raw_text": "CURSE",
+    "cleaned_text": "CURSE",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 13,
+    "speaker": "character3",
+    "raw_text": "FOR THAT REASON, A CURSED OBJECT IS OFTEN FOUND AT SUCH PLACES AS A TALISMAN. THE OBJECT YOU FOUND IS SUCH AN ITEM.",
+    "cleaned_text": "FOR THAT REASON, A CURSED OBJECT IS OFTEN FOUND AT SUCH PLACES AS A TALISMAN. THE OBJECT YOU FOUND IS SUCH AN ITEM.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 14,
+    "speaker": "character3",
+    "raw_text": "A TALISMAN?",
+    "cleaned_text": "A TALISMAN?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "ISN'T THAT A GOOD THING? HOW'S THAT DANGEROUS?",
+    "cleaned_text": "ISN'T THAT A GOOD THING? HOW'S THAT DANGEROUS?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "A TALISMAN SOUNDS HARMLESS ENOUGH.",
+    "cleaned_text": "A TALISMAN SOUNDS HARMLESS ENOUGH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "UNKNOWN",
+    "raw_text": "THE MORE EVIL PLACED ON A CURSED OBJECT, THE MORE IT DEFLECTS OTHER CURSES.",
+    "cleaned_text": "THE MORE EVIL PLACED ON A CURSED OBJECT, THE MORE IT DEFLECTS OTHER CURSES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "USING POISON TO FEND OFF POISON.",
+    "cleaned_text": "USING POISON TO FEND OFF POISON.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "AFTER MANY YEARS, THE SEAL WEAKENS AND THE TALISMAN ESSENTIALLY CHANGES FORM.",
+    "cleaned_text": "AFTER MANY YEARS, THE SEAL WEAKENS AND THE TALISMAN ESSENTIALLY CHANGES FORM.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "THEN IT ATTRACTS CURSES AND FEEDS ON THEM.",
+    "cleaned_text": "THEN IT ATTRACTS CURSES AND FEEDS ON THEM.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "COMPARED TO OTHER CURSED OBJECTS THE ONE PLACED AT YOUR SCHOOL IS EXTREMELY DANGEROUS AND IS CATEGORIZED AS SPECIAL GRADE.",
+    "cleaned_text": "COMPARED TO OTHER CURSED OBJECTS THE ONE PLACED AT YOUR SCHOOL IS EXTREMELY DANGEROUS AND IS CATEGORIZED AS SPECIAL GRADE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "NOW, BEFORE ANYONE DIES...",
+    "cleaned_text": "NOW, BEFORE ANYONE DIES...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "HAND IT OVER.",
+    "cleaned_text": "HAND IT OVER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character4",
+    "raw_text": "LIKE I SAID, I DON'T CARE.",
+    "cleaned_text": "LIKE I SAID, I DON'T CARE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "BUT YOU BETTER EXPLAIN THIS TO MY FRIENDS!",
+    "cleaned_text": "BUT YOU BETTER EXPLAIN THIS TO MY FRIENDS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "IT'S EMPTY?!",
+    "cleaned_text": "IT\u2019S EMPTY?!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "WHAT I CHASED HERE...",
+    "cleaned_text": "WHAT I CHASED HERE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "...WAS THE CURSED ENERGY...",
+    "cleaned_text": "...WAS THE CURSED ENERGY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "...LINGERING IN THE BOX?!",
+    "cleaned_text": "...LINGERING IN THE BOX?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character4",
+    "raw_text": "WHERE ARE THE CON- TENTS?!",
+    "cleaned_text": "WHERE ARE THE CONTENTS?!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "LIKE I SAID! THE OCCULT RESEARCH CLUB HAS IT!",
+    "cleaned_text": "LIKE I SAID! THE OCCULT RESEARCH CLUB HAS IT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "WHERE DO THE MEM- BERS LIVE?!",
+    "cleaned_text": "WHERE DO THE MEMBERS LIVE?!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character4",
+    "raw_text": "SURE... NOT SOME- WHERE OVER IN THE IZUMI DISTRI..",
+    "cleaned_text": "SURE... NOT SOME- WHERE OVER IN THE IZUMI DISTRI\u2026",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character4",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character3",
+    "raw_text": "WHAT'S WRONG?",
+    "cleaned_text": "WHAT\u2019S WRONG?",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

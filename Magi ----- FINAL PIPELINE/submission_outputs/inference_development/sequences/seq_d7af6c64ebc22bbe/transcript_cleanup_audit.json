@@ -1,0 +1,128 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "POCHITA!",
+    "cleaned_text": "POCHITA!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character6",
+    "raw_text": "HMM?",
+    "cleaned_text": "HMM?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character8",
+    "raw_text": "YOURE STILL ALIVE AFTER GETTING CUT TO PIECES?!",
+    "cleaned_text": "YOU\u2019RE STILL ALIVE AFTER GETTING CUT TO PIECES?!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character8",
+    "raw_text": "GROSS!",
+    "cleaned_text": "GROSS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character8",
+    "raw_text": "I REALLY HATE YOU DEVIL HUNTERS!",
+    "cleaned_text": "I REALLY HATE YOU DEVIL HUNTERS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character8",
+    "raw_text": "YOU GUYS! EAT HIM UP!",
+    "cleaned_text": "YOU GUYS! EAT HIM UP!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "WHY DID THEY WANT A BETTER LIFE",
+    "cleaned_text": "WHY DID THEY WANT A BETTER LIFE",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "WHEN THEY WERE ALREADY SO WELL OFF?",
+    "cleaned_text": "WHEN THEY WERE ALREADY SO WELL OFF?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "...WAS THAT HOW I WAS?",
+    "cleaned_text": "...WAS THAT HOW I WAS?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "AS LONG AS I-HAD POCHITA THAT WAS ENOUGH!",
+    "cleaned_text": "AS LONG AS I-HAD POCHITA THAT WAS ENOUGH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "BUTISTILL DREAMED OF A BETTER LIFE.",
+    "cleaned_text": "BUT I STILL DREAMED OF A BETTER LIFE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "IGETIT EVERYONE'S GOT THEIR OWN DREAMS.",
+    "cleaned_text": "IGETIT EVERYONE\u2019S GOT THEIR OWN DREAMS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "THERE'S OTHINP WRONG WITH THAT,",
+    "cleaned_text": "THERE'S NOTHING WRONG WITH THAT,",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "THERE'S NOTHINP WRONG WITH THAT, BUT.",
+    "cleaned_text": "THERE\u2019S NOTHIN\u2019 WRONG WITH THAT, BUT.",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

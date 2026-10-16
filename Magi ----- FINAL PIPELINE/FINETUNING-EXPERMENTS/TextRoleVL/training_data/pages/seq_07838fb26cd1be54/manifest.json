@@ -1,0 +1,147 @@
+{
+  "sequence_id": "seq_07838fb26cd1be54",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Do"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Agh!"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "That was..."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "SFX: Screech"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Just a rat."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Sheesh, that scared me."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "come to think of it..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "...there are quite a few..."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "RAT TRAPS..."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Here."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Yes, there are a lot of rats."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "I hate them, really."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Why don't you get..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "A cat?"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "A cat?"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "That would make sense, but..."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "They say some of the people here don't like cats, so..."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Ah..."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

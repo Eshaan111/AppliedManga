@@ -1,0 +1,657 @@
+{
+  "sequence_id": "seq_a3bd36201a0cd61b",
+  "page_index": 0,
+  "raw_count": 40,
+  "target_count": 8,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c1",
+        "c2",
+        "c5"
+      ],
+      "text": "AN INCREDIBLY PRESTIGIOUS ACADEMY,",
+      "box": [
+        174.0,
+        135.0,
+        288.0,
+        229.0
+      ],
+      "id": "g0",
+      "score": 0.999769851565361,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c3",
+        "c6",
+        "c8"
+      ],
+      "text": "SHUCHI'IN PRIVATE ACADEMY!!",
+      "box": [
+        671.0,
+        182.0,
+        754.0,
+        239.0
+      ],
+      "id": "g1",
+      "score": 0.9978265166282654,
+      "target_index": 0,
+      "target_text": "SHUCHI'IN PRIVATE ACADEMY!!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c4",
+        "c7",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "text": "ORIGINALLY ESTABLISHED TO EDUCATE THE CHILDREN OF NOBLES AND SAMURAI!",
+      "box": [
+        61.0,
+        196.0,
+        165.0,
+        337.0
+      ],
+      "id": "g2",
+      "score": 0.9995058264051165,
+      "target_index": 1,
+      "target_text": "AN INCREDIBLY PRESTIGIOUS ACADEMY, ORIGINALLY ESTABLISHED TO EDUCATE THE CHILDREN OF NOBLES AND SAMURAI!",
+      "similarity": 0.7972972972972973
+    },
+    {
+      "candidate_ids": [
+        "c14",
+        "c15",
+        "c16",
+        "c18",
+        "c21",
+        "c24"
+      ],
+      "text": "IN MODERN TIMES, NOW THAT THE ARISTOCRACY NO LONGER EXISTS,",
+      "box": [
+        672.0,
+        503.0,
+        777.0,
+        625.0
+      ],
+      "id": "g3",
+      "score": 0.9996723632017771,
+      "target_index": 2,
+      "target_text": "IN MODERN TIMES, NOW THAT THE ARISTOCRACY NO LONGER EXISTS,",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c17",
+        "c19",
+        "c22",
+        "c25",
+        "c28",
+        "c30"
+      ],
+      "text": "WHO WILL GO ON TO BECOME THE NEW LEADERS OF JAPAN!",
+      "box": [
+        232.0,
+        553.0,
+        342.0,
+        689.0
+      ],
+      "id": "g4",
+      "score": 0.9988925357659658,
+      "target_index": 4,
+      "target_text": "WHO WILL GO ON TO BECOME THE NEW LEADERS OF JAPAN!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c20",
+        "c23",
+        "c26",
+        "c27",
+        "c29",
+        "c31"
+      ],
+      "text": "ITS STUDENTS ARE THE CHILDREN OF WEALTHY FAMILIES,",
+      "box": [
+        398.0,
+        581.0,
+        483.0,
+        688.0
+      ],
+      "id": "g5",
+      "score": 0.9997415542602539,
+      "target_index": 3,
+      "target_text": "ITS STUDENTS ARE THE CHILDREN OF WEALTHY FAMILIES,",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c32",
+        "c33"
+      ],
+      "text": "AND THE ONES WHO LEAD THEM",
+      "box": [
+        62.0,
+        808.0,
+        419.0,
+        909.0
+      ],
+      "id": "g6",
+      "score": 0.9899569451808929,
+      "target_index": 5,
+      "target_text": "AND THE ONES WHO LEAD THEM",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c34",
+        "c35"
+      ],
+      "text": "EVERY- ONE,",
+      "box": [
+        145.0,
+        1025.0,
+        209.0,
+        1063.0
+      ],
+      "id": "g7",
+      "score": 0.9938279986381531,
+      "target_index": 6,
+      "target_text": "EVERYONE, LOOK!!",
+      "similarity": 0.8
+    },
+    {
+      "candidate_ids": [
+        "c36"
+      ],
+      "text": "LOOK!!",
+      "box": [
+        73.0,
+        1108.0,
+        148.0,
+        1130.0
+      ],
+      "id": "g8",
+      "score": 0.9998250007629395,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c37",
+        "c38",
+        "c39"
+      ],
+      "text": "CANNOTBYANYMEANING OF THE WORD, BE REFERRED TO AS ORDINARY\"PEOPLE!",
+      "box": [
+        347.0,
+        1112.0,
+        786.0,
+        1230.0
+      ],
+      "id": "g9",
+      "score": 0.9631928205490112,
+      "target_index": 7,
+      "target_text": "CANNOT, BY ANY MEANING OF THE WORD, BE REFERRED TO AS “ORDINARY” PEOPLE!",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "AN",
+      "score": 0.9992269277572632,
+      "box": [
+        215.0,
+        135.0,
+        247.0,
+        160.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "INCREDIBLY",
+      "score": 0.9999499320983887,
+      "box": [
+        180.0,
+        161.0,
+        283.0,
+        181.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "PRESTIGIOUS",
+      "score": 0.9999460577964783,
+      "box": [
+        174.0,
+        184.0,
+        288.0,
+        204.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "SHUCHI'IN",
+      "score": 0.9938877820968628,
+      "box": [
+        676.0,
+        182.0,
+        750.0,
+        200.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "ORIGINALLY",
+      "score": 0.9995864629745483,
+      "box": [
+        66.0,
+        196.0,
+        160.0,
+        214.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "ACADEMY,",
+      "score": 0.999956488609314,
+      "box": [
+        185.0,
+        205.0,
+        276.0,
+        229.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "PRIVATE",
+      "score": 0.9999409317970276,
+      "box": [
+        682.0,
+        201.0,
+        743.0,
+        219.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "ESTABLISHED",
+      "score": 0.9999799728393555,
+      "box": [
+        62.0,
+        215.0,
+        163.0,
+        235.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "ACADEMY!!",
+      "score": 0.9996508359909058,
+      "box": [
+        671.0,
+        219.0,
+        754.0,
+        239.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "TO EDUCATE",
+      "score": 0.9993883371353149,
+      "box": [
+        67.0,
+        237.0,
+        160.0,
+        255.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "THE",
+      "score": 0.9999939799308777,
+      "box": [
+        96.0,
+        256.0,
+        132.0,
+        276.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "CHILDREN OF",
+      "score": 0.9983449578285217,
+      "box": [
+        62.0,
+        278.0,
+        165.0,
+        295.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "NOBLES AND",
+      "score": 0.999940037727356,
+      "box": [
+        61.0,
+        297.0,
+        164.0,
+        318.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "SAMURAI!",
+      "score": 0.9993070363998413,
+      "box": [
+        74.0,
+        319.0,
+        152.0,
+        337.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "IN MODERN",
+      "score": 0.9993764162063599,
+      "box": [
+        677.0,
+        503.0,
+        773.0,
+        521.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "TIMES, NOW",
+      "score": 0.9993009567260742,
+      "box": [
+        675.0,
+        520.0,
+        773.0,
+        543.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "THAT THE",
+      "score": 0.999812126159668,
+      "box": [
+        687.0,
+        544.0,
+        763.0,
+        562.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "WHO WILL",
+      "score": 0.9949624538421631,
+      "box": [
+        242.0,
+        553.0,
+        331.0,
+        577.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "ARISTOCRACY",
+      "score": 0.999972403049469,
+      "box": [
+        672.0,
+        565.0,
+        777.0,
+        582.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "GO ON TO",
+      "score": 0.9995585680007935,
+      "box": [
+        242.0,
+        578.0,
+        333.0,
+        599.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "ITS",
+      "score": 0.9999448657035828,
+      "box": [
+        429.0,
+        581.0,
+        453.0,
+        598.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "NO LONGER",
+      "score": 0.9996363520622253,
+      "box": [
+        677.0,
+        585.0,
+        772.0,
+        602.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "BECOME",
+      "score": 0.999960720539093,
+      "box": [
+        249.0,
+        601.0,
+        325.0,
+        622.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "STUDENTS",
+      "score": 0.9999561309814453,
+      "box": [
+        406.0,
+        599.0,
+        475.0,
+        617.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "EXISTS,",
+      "score": 0.9999359250068665,
+      "box": [
+        694.0,
+        604.0,
+        754.0,
+        625.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "THE NEW",
+      "score": 0.999510645866394,
+      "box": [
+        247.0,
+        623.0,
+        328.0,
+        644.0
+      ]
+    },
+    {
+      "id": "c26",
+      "text": "ARE THE",
+      "score": 0.9996058344841003,
+      "box": [
+        409.0,
+        617.0,
+        472.0,
+        634.0
+      ]
+    },
+    {
+      "id": "c27",
+      "text": "CHILDREN",
+      "score": 0.9999873638153076,
+      "box": [
+        406.0,
+        635.0,
+        475.0,
+        652.0
+      ]
+    },
+    {
+      "id": "c28",
+      "text": "LEADERS OF",
+      "score": 0.9998902082443237,
+      "box": [
+        232.0,
+        645.0,
+        342.0,
+        668.0
+      ]
+    },
+    {
+      "id": "c29",
+      "text": "OF WEALTHY",
+      "score": 0.999431312084198,
+      "box": [
+        398.0,
+        653.0,
+        483.0,
+        670.0
+      ]
+    },
+    {
+      "id": "c30",
+      "text": "JAPAN!",
+      "score": 0.9994726181030273,
+      "box": [
+        253.0,
+        668.0,
+        320.0,
+        689.0
+      ]
+    },
+    {
+      "id": "c31",
+      "text": "FAMILIES,",
+      "score": 0.9995238184928894,
+      "box": [
+        406.0,
+        671.0,
+        474.0,
+        688.0
+      ]
+    },
+    {
+      "id": "c32",
+      "text": "AND THE ONES",
+      "score": 0.9903972148895264,
+      "box": [
+        76.0,
+        808.0,
+        399.0,
+        853.0
+      ]
+    },
+    {
+      "id": "c33",
+      "text": "WHO LEAD THEM",
+      "score": 0.9895166754722595,
+      "box": [
+        62.0,
+        864.0,
+        419.0,
+        909.0
+      ]
+    },
+    {
+      "id": "c34",
+      "text": "EVERY-",
+      "score": 0.9920861124992371,
+      "box": [
+        145.0,
+        1025.0,
+        209.0,
+        1042.0
+      ]
+    },
+    {
+      "id": "c35",
+      "text": "ONE,",
+      "score": 0.9955698847770691,
+      "box": [
+        155.0,
+        1044.0,
+        199.0,
+        1063.0
+      ]
+    },
+    {
+      "id": "c36",
+      "text": "LOOK!!",
+      "score": 0.9998250007629395,
+      "box": [
+        73.0,
+        1108.0,
+        148.0,
+        1130.0
+      ]
+    },
+    {
+      "id": "c37",
+      "text": "CANNOTBYANYMEANING",
+      "score": 0.9998326897621155,
+      "box": [
+        356.0,
+        1112.0,
+        778.0,
+        1154.0
+      ]
+    },
+    {
+      "id": "c38",
+      "text": "OF THE WORD, BE REFERRED",
+      "score": 0.9180429577827454,
+      "box": [
+        347.0,
+        1157.0,
+        786.0,
+        1188.0
+      ]
+    },
+    {
+      "id": "c39",
+      "text": "TO AS ORDINARY\"PEOPLE!",
+      "score": 0.9717028141021729,
+      "box": [
+        353.0,
+        1193.0,
+        785.0,
+        1230.0
+      ]
+    }
+  ],
+  "transcript": "AN INCREDIBLY PRESTIGIOUS ACADEMY,\nSHUCHI'IN PRIVATE ACADEMY!!\nORIGINALLY ESTABLISHED TO EDUCATE THE CHILDREN OF NOBLES AND SAMURAI!\nIN MODERN TIMES, NOW THAT THE ARISTOCRACY NO LONGER EXISTS,\nWHO WILL GO ON TO BECOME THE NEW LEADERS OF JAPAN!\nITS STUDENTS ARE THE CHILDREN OF WEALTHY FAMILIES,\nAND THE ONES WHO LEAD THEM\nEVERY- ONE,\nLOOK!!\nCANNOTBYANYMEANING OF THE WORD, BE REFERRED TO AS ORDINARY\"PEOPLE!",
+  "sample_index": 14,
+  "preview_file": "sample_14_page_0.html"
+}

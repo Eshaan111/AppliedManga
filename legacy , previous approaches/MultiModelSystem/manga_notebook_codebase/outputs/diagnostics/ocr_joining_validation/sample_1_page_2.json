@@ -1,0 +1,213 @@
+{
+  "sequence_id": "seq_e8b4f75454f9491f",
+  "page_index": 2,
+  "raw_count": 11,
+  "target_count": 3,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c1"
+      ],
+      "text": "MANGA DO NOT MIRROR",
+      "box": [
+        2.0,
+        13.0,
+        83.0,
+        75.0
+      ],
+      "id": "g0",
+      "score": 0.976751834154129,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c5"
+      ],
+      "text": "WHAT WE WANTED WAS A DEVIL'S POWER...",
+      "box": [
+        660.0,
+        149.0,
+        833.0,
+        270.0
+      ],
+      "id": "g1",
+      "score": 0.9998838007450104,
+      "target_index": 0,
+      "target_text": "WHAT WE WANTED WAS A DEVIL'S POWER...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c6",
+        "c7",
+        "c8",
+        "c9"
+      ],
+      "text": "AND WHAT I WANTED WAS DEVIL HUNTERS'...",
+      "box": [
+        107.0,
+        462.0,
+        245.0,
+        582.0
+      ],
+      "id": "g2",
+      "score": 0.9826432019472122,
+      "target_index": 1,
+      "target_text": "AND WHAT I WANTED WAS DEVIL HUNTERS'...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c10"
+      ],
+      "text": "DEATH!",
+      "box": [
+        196.0,
+        886.0,
+        398.0,
+        951.0
+      ],
+      "id": "g3",
+      "score": 0.9998934864997864,
+      "target_index": 2,
+      "target_text": "DEATH!",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "MANGA",
+      "score": 0.9998582601547241,
+      "box": [
+        2.0,
+        13.0,
+        77.0,
+        55.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "DO NOT MIRROR",
+      "score": 0.9536454081535339,
+      "box": [
+        14.0,
+        45.0,
+        83.0,
+        75.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "WHAT",
+      "score": 0.9999880194664001,
+      "box": [
+        710.0,
+        149.0,
+        786.0,
+        181.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "WE WANTED",
+      "score": 0.9999145865440369,
+      "box": [
+        670.0,
+        176.0,
+        822.0,
+        211.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "WAS A DEVIL'S",
+      "score": 0.9998699426651001,
+      "box": [
+        660.0,
+        208.0,
+        833.0,
+        239.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "POWER...",
+      "score": 0.9997626543045044,
+      "box": [
+        687.0,
+        235.0,
+        803.0,
+        270.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "AND WHAT",
+      "score": 0.9998693466186523,
+      "box": [
+        113.0,
+        462.0,
+        242.0,
+        496.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "I WANTED",
+      "score": 0.9431368112564087,
+      "box": [
+        112.0,
+        493.0,
+        241.0,
+        524.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "WAS DEVIL",
+      "score": 0.9998157024383545,
+      "box": [
+        107.0,
+        521.0,
+        245.0,
+        554.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "HUNTERS'...",
+      "score": 0.9877509474754333,
+      "box": [
+        111.0,
+        554.0,
+        240.0,
+        582.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "DEATH!",
+      "score": 0.9998934864997864,
+      "box": [
+        196.0,
+        886.0,
+        398.0,
+        951.0
+      ]
+    }
+  ],
+  "transcript": "MANGA DO NOT MIRROR\nWHAT WE WANTED WAS A DEVIL'S POWER...\nAND WHAT I WANTED WAS DEVIL HUNTERS'...\nDEATH!",
+  "sample_index": 1,
+  "preview_file": "sample_1_page_2.html"
+}

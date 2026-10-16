@@ -1,0 +1,191 @@
+{
+  "sequence_id": "seq_e8b4f75454f9491f",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "There's a devil out here?"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Can't see one..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Guess it's hiding somewhere..."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "MANGA STREAMLEN do not minor"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Denji boy... ya have our thanks."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Ah... yeah..."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "obedient like a dog."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Happy to work for cheap treats like a dog too,"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "What?"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "thing is though, I hate the stench of fucking dogs."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "MANGA STREAMLOR DO Nogmirror"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "us Yakuza,"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "We wanted to get stronger to make more money,"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "So we made a contract with a devil like you did."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "What we wanted was a devil's power..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "And what I wanted was devil hunters'..."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "MAN STRE: So not my"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Death!"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

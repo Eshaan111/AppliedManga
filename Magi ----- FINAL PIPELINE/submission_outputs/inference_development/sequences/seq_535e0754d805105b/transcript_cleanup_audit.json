@@ -1,0 +1,236 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "SUICIDE, HUH...",
+    "cleaned_text": "SUICIDE, HUH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "THE GUY LYING FACE-DOWN IS HIS BODYGUARD.",
+    "cleaned_text": "THE GUY LYING FACE-DOWN IS HIS BODYGUARD.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "THIS IS THE THIRD CASE THIS YEAR IN OUR JURISDICTION ALONE.",
+    "cleaned_text": "THIS IS THE THIRD CASE THIS YEAR IN OUR JURISDICTION ALONE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "'COURSE THEIR HANDS WERE PRETTY BLOODY TO BEGIN WITH.",
+    "cleaned_text": "'COURSE THEIR HANDS WERE PRETTY BLOODY TO BEGIN WITH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "UNKNOWN",
+    "raw_text": "OTHER PEOPLE'S LIVES DIDN'T MEAN A THING TO THEM... ...BUT THEIR OWN, THEY HAD A PRETTY HIGH OPINION OF HARDLY THE SUICIDAL TYPE.",
+    "cleaned_text": "OTHER PEOPLE'S LIVES DIDN'T MEAN A THING TO THEM... BUT THEIR OWN, THEY HAD A PRETTY HIGH OPINION OF HARDLY THE SUICIDAL TYPE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "WHEN WAS THE FIRST ONE?",
+    "cleaned_text": "WHEN WAS THE FIRST ONE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "I THINK CHARLIE HAS THE LIST...",
+    "cleaned_text": "I THINK CHARLIE HAS THE LIST...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "RIGHT HERE, SIR.",
+    "cleaned_text": "RIGHT HERE, SIR.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "UNKNOWN",
+    "raw_text": "THE FIRST WAS ON JANUARY THE FIFTH, RICHARD BACH, AGED 45. LIVED ON EAST 152ND.",
+    "cleaned_text": "THE FIRST WAS ON JANUARY THE FIFTH, RICHARD BACH, AGED 45. LIVED ON EAST 152ND.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "SUSPICION OF MOB TIES. SHOT HIMSELF IN THE RIGHT TEMPLE WITH A .380 WAD- CUTTER. HMM.",
+    "cleaned_text": "SUSPICION OF MOB TIES. SHOT HIMSELF IN THE RIGHT TEMPLE WITH A .380 WAD-CUTTER. HMM.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "IN THE SECOND CASE, THE IMPORTER -- ALSO UNDER INVESTIGATION FOR SMUGGLING. THIS TIME THERE WERE WITNESSES WHO SAW HIM JUMP OUT HIS APARTMENT WINDOW.. RIGHT IN THE MIDDLE OF A FAMILY DINNER",
+    "cleaned_text": "IN THE SECOND CASE, THE IMPORTER -- ALSO UNDER INVESTIGATION FOR SMUGGLING. THIS TIME THERE WERE WITNESSES WHO SAW HIM JUMP OUT HIS APARTMENT WINDOW... RIGHT IN THE MIDDLE OF A FAMILY DINNER",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "AND NOW JERRY WATTS SLITS HIS OWN THROAT WITH A STRAIGHT RAZOR!",
+    "cleaned_text": "AND NOW JERRY WATTS SLITS HIS OWN THROAT WITH A STRAIGHT RAZOR!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "JUMPING OUT A WINDOW... GUNSHOT TO THE HEAD.. ORTHODOX SUICIDE,",
+    "cleaned_text": "JUMPING OUT A WINDOW... GUNSHOT TO THE HEAD... ORTHODOX SUICIDE,",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "WHAT CAN WE REALLY SAY?",
+    "cleaned_text": "WHAT CAN WE REALLY SAY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "NO, NOT MUCH ROOM FOR SUS- PICION.",
+    "cleaned_text": "NO, NOT MUCH ROOM FOR SUS- PICION.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "NOT UNTIL THIS LAST CASE.",
+    "cleaned_text": "NOT UNTIL THIS LAST CASE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character5",
+    "raw_text": "SAY YOU'RE ACTUALLY HARDCORE ENOUGH TO GO BY CUTTING YOUR OWN THROAT. BUT YOUVE GOT A BODY- GUARD. WELL, SIMPLE WAY WOULD BE IN THEJOHN, WHEN THE KNOCK COMES ON THE DOOR, TEN MINUTES LATER, TUB'S FULL.",
+    "cleaned_text": "SAY YOU\u2019RE ACTUALLY HARDCORE ENOUGH TO GO BY CUTTING YOUR OWN THROAT. BUT YOU\u2019VE GOT A BODYGUARD. WELL, SIMPLE WAY WOULD BE IN THE JOHN, WHEN THE KNOCK COMES ON THE DOOR, TEN MINUTES LATER, TUB\u2019S FULL.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character5",
+    "raw_text": "BUT OUR MR. WATTS... FOR SOME REASON, HELIKED THINGS COMPLICATED FOR HE FELT THE NEED TO SNEAK UP BEHIND HIS BODYGUARD... AND TAKE THE GOOD TIME AND TROUBLE TO CUT HIS THROAT FIRST.",
+    "cleaned_text": "BUT OUR MR. WATTS... FOR SOME REASON, HE LIKED THINGS COMPLICATED FOR HE FELT THE NEED TO SNEAK UP BEHIND HIS BODYGUARD... AND TAKE THE GOOD TIME AND TROUBLE TO CUT HIS THROAT FIRST.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "YOUR COFFEE, SIR. NO SUGAR.",
+    "cleaned_text": "YOUR COFFEE, SIR. NO SUGAR.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "THANKS, CHARLIE,",
+    "cleaned_text": "THANKS, CHARLIE,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "WHAT'S THAT?",
+    "cleaned_text": "WHAT'S THAT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "HMPH.",
+    "cleaned_text": "HMPH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "READ IT AND YOU'LL FIND IT THAT MUCH HARDER TO BELIEVE HE'D COMMIT SUICIDE.",
+    "cleaned_text": "READ IT AND YOU\u2019LL FIND IT THAT MUCH HARDER TO BELIEVE HE\u2019D COMMIT SUICIDE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "BEAT THE RAP ON A FRAUD COUNT THREE TIMES.",
+    "cleaned_text": "BEAT THE RAP ON A FRAUD COUNT THREE TIMES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "SURVIVOR TYPE, YOU MIGHT SAY.",
+    "cleaned_text": "SURVIVOR TYPE, YOU MIGHT SAY.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "...?",
+    "cleaned_text": "...?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "HEY, MURPHY. WHAT'RE YOU GONNA DO WHEN YOU GET BACK HOME?",
+    "cleaned_text": "HEY, MURPHY. WHAT\u2019RE YOU GONNA DO WHEN YOU GET BACK HOME?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "HA, HA, HA! WHAT AM GONNA DO?",
+    "cleaned_text": "HA, HA, HA! WHAT AM GONNA DO?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "...GRIFF...IS SOMETHING WRONG, OR...?",
+    "cleaned_text": "...GRIFF...IS SOMETHING WRONG, OR...?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "...GRIFF...IS SOMETHING WRONG OR...?",
+    "cleaned_text": "...GRIFF...IS SOMETHING WRONG OR...?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "!?",
+    "cleaned_text": "!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "REYAAANAA",
+    "cleaned_text": "REYAAANAA",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character8",
+    "raw_text": "SHIT! SHIT!",
+    "cleaned_text": "SHIT! SHIT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "STAY BACK, MAN! HE'S LOST IT!",
+    "cleaned_text": "STAY BACK, MAN! HE'S LOST IT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "DAMNIT!",
+    "cleaned_text": "DAMNIT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "HNG!",
+    "cleaned_text": "HNG!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "lr": 0.001338508350120473,
+  "weight_decay": 0.013988081457939344,
+  "dropout": 0.3,
+  "batch_size": 4,
+  "epochs": 20,
+  "narration_sampling_weight": 2.5,
+  "num_heads": 8,
+  "dim_feedforward": 256
+}

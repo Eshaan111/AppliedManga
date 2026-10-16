@@ -1,0 +1,65 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022",
+    "cleaned_text": "\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "HEY THERE, APOTHECARY.",
+    "cleaned_text": "HEY THERE, APOTHECARY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "TODAY I5 OUR LADY'S WEDDING DAY. YOU CAN'T SELL YOUR WARES.",
+    "cleaned_text": "TODAY IS OUR LADY\u2019S WEDDING DAY. YOU CAN\u2019T SELL YOUR WARES.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "HEY.",
+    "cleaned_text": "HEY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character10",
+    "raw_text": "........",
+    "cleaned_text": "........",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character10",
+    "raw_text": "AH-HA...",
+    "cleaned_text": "AH-HA...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "SFX: AH HA HA HA",
+    "cleaned_text": "SFX: AH HA HA HA",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

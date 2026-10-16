@@ -1,0 +1,560 @@
+{
+  "sequence_id": "seq_f7f9d9dbf5b05cb5",
+  "page_index": 2,
+  "raw_count": 31,
+  "target_count": 11,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "text": "YOURE CURSED, SO I WILL EXORCISE YOU!",
+      "box": [
+        116.0,
+        95.0,
+        199.0,
+        175.0
+      ],
+      "id": "g0",
+      "score": 0.9958700656890869,
+      "target_index": 0,
+      "target_text": "YOU'RE CURSED, SO I WILL EXORCISE YOU!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c5",
+        "c7",
+        "c10",
+        "c11",
+        "c13"
+      ],
+      "text": "MORE IMPORTANTLY, YOU AND I ARE PRETTY BEAT UP.",
+      "box": [
+        363.0,
+        353.0,
+        450.0,
+        419.0
+      ],
+      "id": "g1",
+      "score": 0.9841625571250916,
+      "target_index": 2,
+      "target_text": "MORE IMPORTANTLY, YOU AND I ARE PRETTY BEAT UP.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c6",
+        "c8",
+        "c12"
+      ],
+      "text": "HOLD UP, IT'S NOT A PROBLEM.",
+      "box": [
+        637.0,
+        356.0,
+        716.0,
+        402.0
+      ],
+      "id": "g2",
+      "score": 0.983914832274119,
+      "target_index": 1,
+      "target_text": "HOLD UP. IT'S NOT A PROBLEM.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c9"
+      ],
+      "text": "SHッ",
+      "box": [
+        312.0,
+        383.0,
+        340.0,
+        434.0
+      ],
+      "id": "g3",
+      "score": 0.4292028844356537,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c14",
+        "c15",
+        "c16",
+        "c17"
+      ],
+      "text": "WE NEED TO GET TOA HOSPITAL.",
+      "box": [
+        125.0,
+        502.0,
+        191.0,
+        557.0
+      ],
+      "id": "g4",
+      "score": 0.9980545043945312,
+      "target_index": 3,
+      "target_text": "WE NEED TO GET TO A HOSPITAL.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c18",
+        "c22",
+        "c25"
+      ],
+      "text": "WHAT SHOULD I DO?!",
+      "box": [
+        64.0,
+        629.0,
+        126.0,
+        678.0
+      ],
+      "id": "g5",
+      "score": 0.9752174814542135,
+      "target_index": 9,
+      "target_text": "WHAT SHOULD I DO?!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c21",
+        "c24",
+        "c26",
+        "c27",
+        "c28"
+      ],
+      "text": "IS IT THE CURSED OBJECT OR ITADORI TALKING RIGHT NOW?",
+      "box": [
+        602.0,
+        635.0,
+        710.0,
+        701.0
+      ],
+      "id": "g6",
+      "score": 0.9973642230033875,
+      "target_index": 4,
+      "target_text": "IS IT THE CURSED OBJECT OR ITADORI TALKING RIGHT NOW?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c19"
+      ],
+      "text": "CRAP!",
+      "box": [
+        268.0,
+        639.0,
+        315.0,
+        657.0
+      ],
+      "id": "g7",
+      "score": 0.9999872446060181,
+      "target_index": 8,
+      "target_text": "CRAP!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c20",
+        "c23"
+      ],
+      "text": "I CAN'T TELL!",
+      "box": [
+        348.0,
+        640.0,
+        406.0,
+        674.0
+      ],
+      "id": "g8",
+      "score": 0.9892904460430145,
+      "target_index": 5,
+      "target_text": "I CAN'T TELL!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c29",
+        "c30"
+      ],
+      "text": "WHAT'S THE SITUATION?",
+      "box": [
+        563.0,
+        879.0,
+        668.0,
+        918.0
+      ],
+      "id": "g9",
+      "score": 0.9998577833175659,
+      "target_index": 10,
+      "target_text": "WHAT'S THE SITUATION?",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [
+    {
+      "target_index": 6,
+      "speaker": "character3",
+      "text": "..."
+    },
+    {
+      "target_index": 7,
+      "speaker": "character2",
+      "text": "?"
+    }
+  ],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "YOURE",
+      "score": 0.9999624490737915,
+      "box": [
+        128.0,
+        95.0,
+        188.0,
+        112.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "CURSED,",
+      "score": 0.9998296499252319,
+      "box": [
+        124.0,
+        112.0,
+        192.0,
+        128.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "SO I WILL",
+      "score": 0.9796421527862549,
+      "box": [
+        117.0,
+        126.0,
+        197.0,
+        143.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "EXORCISE",
+      "score": 0.9999555349349976,
+      "box": [
+        116.0,
+        142.0,
+        199.0,
+        159.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "YOU!",
+      "score": 0.9999605417251587,
+      "box": [
+        138.0,
+        157.0,
+        179.0,
+        175.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "MORE",
+      "score": 0.9999516010284424,
+      "box": [
+        384.0,
+        353.0,
+        427.0,
+        367.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "HOLD UP,",
+      "score": 0.9958806037902832,
+      "box": [
+        642.0,
+        356.0,
+        711.0,
+        373.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "IMPORTANTLY,",
+      "score": 0.9997718930244446,
+      "box": [
+        363.0,
+        367.0,
+        450.0,
+        381.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "IT'S NOT A",
+      "score": 0.9558880925178528,
+      "box": [
+        637.0,
+        371.0,
+        716.0,
+        388.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "SHッ",
+      "score": 0.4292028844356537,
+      "box": [
+        312.0,
+        383.0,
+        340.0,
+        434.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "YOU AND I",
+      "score": 0.9360373020172119,
+      "box": [
+        372.0,
+        381.0,
+        441.0,
+        392.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "ARE PRETTY",
+      "score": 0.9992994070053101,
+      "box": [
+        364.0,
+        393.0,
+        445.0,
+        407.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "PROBLEM.",
+      "score": 0.9999758005142212,
+      "box": [
+        637.0,
+        388.0,
+        715.0,
+        402.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "BEAT UP.",
+      "score": 0.9857525825500488,
+      "box": [
+        377.0,
+        406.0,
+        433.0,
+        419.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "WE NEED",
+      "score": 0.9982182383537292,
+      "box": [
+        128.0,
+        502.0,
+        191.0,
+        519.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "TO GET",
+      "score": 0.9945418834686279,
+      "box": [
+        132.0,
+        514.0,
+        186.0,
+        531.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "TOA",
+      "score": 0.9999330639839172,
+      "box": [
+        142.0,
+        529.0,
+        178.0,
+        544.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "HOSPITAL.",
+      "score": 0.9995248317718506,
+      "box": [
+        125.0,
+        543.0,
+        191.0,
+        557.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "WHAT",
+      "score": 0.9999911785125732,
+      "box": [
+        73.0,
+        629.0,
+        117.0,
+        647.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "CRAP!",
+      "score": 0.9999872446060181,
+      "box": [
+        268.0,
+        639.0,
+        315.0,
+        657.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "I CAN'T",
+      "score": 0.9786577820777893,
+      "box": [
+        348.0,
+        640.0,
+        406.0,
+        658.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "IS IT THE",
+      "score": 0.9884598851203918,
+      "box": [
+        626.0,
+        635.0,
+        685.0,
+        648.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "SHOULD",
+      "score": 0.9999729990959167,
+      "box": [
+        64.0,
+        645.0,
+        126.0,
+        662.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "TELL!",
+      "score": 0.9999231100082397,
+      "box": [
+        355.0,
+        655.0,
+        402.0,
+        674.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "CURSED OBJECT",
+      "score": 0.9997854828834534,
+      "box": [
+        602.0,
+        645.0,
+        710.0,
+        663.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "I DO?!",
+      "score": 0.9256882667541504,
+      "box": [
+        67.0,
+        660.0,
+        123.0,
+        678.0
+      ]
+    },
+    {
+      "id": "c26",
+      "text": "OR ITADORI",
+      "score": 0.9991763234138489,
+      "box": [
+        618.0,
+        661.0,
+        693.0,
+        675.0
+      ]
+    },
+    {
+      "id": "c27",
+      "text": "TALKING",
+      "score": 0.9999857544898987,
+      "box": [
+        629.0,
+        674.0,
+        683.0,
+        688.0
+      ]
+    },
+    {
+      "id": "c28",
+      "text": "RIGHT NOW?",
+      "score": 0.9994136691093445,
+      "box": [
+        616.0,
+        687.0,
+        696.0,
+        701.0
+      ]
+    },
+    {
+      "id": "c29",
+      "text": "WHAT'S THE",
+      "score": 0.9998005628585815,
+      "box": [
+        563.0,
+        879.0,
+        668.0,
+        899.0
+      ]
+    },
+    {
+      "id": "c30",
+      "text": "SITUATION?",
+      "score": 0.9999150037765503,
+      "box": [
+        564.0,
+        898.0,
+        667.0,
+        918.0
+      ]
+    }
+  ],
+  "transcript": "YOURE CURSED, SO I WILL EXORCISE YOU!\nMORE IMPORTANTLY, YOU AND I ARE PRETTY BEAT UP.\nHOLD UP, IT'S NOT A PROBLEM.\nSHッ\nWE NEED TO GET TOA HOSPITAL.\nWHAT SHOULD I DO?!\nIS IT THE CURSED OBJECT OR ITADORI TALKING RIGHT NOW?\nCRAP!\nI CAN'T TELL!\nWHAT'S THE SITUATION?",
+  "sample_index": 11,
+  "preview_file": "sample_11_page_2.html"
+}

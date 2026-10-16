@@ -1,0 +1,434 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "WOAHH!! ...THE SNAKE!!?",
+    "cleaned_text": "WOAHH!! ...THE SNAKE!!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "WRIGGLE",
+    "cleaned_text": "WRIGGLE",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "TAKE IT OFF! TAKE It OFF!!",
+    "cleaned_text": "TAKE IT OFF! TAKE IT OFF!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "THIS IS BAD! It's TOING TO BITE ME!",
+    "cleaned_text": "THIS IS BAD! It's TOING TO BITE ME!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "WAAAAAHHH",
+    "cleaned_text": "WAAAAHH",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "NANKURU- NAISA.",
+    "cleaned_text": "NANKURU- NAISA.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "VIPER SAKE",
+    "cleaned_text": "VIPER SAKE",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "HAHA, you SURE SCARE EASy KID~ BUT THAT'S A GOOD THING.",
+    "cleaned_text": "HAHA, you SURE SCARE EASY KID~ BUT THAT'S A GOOD THING.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "PANT PANT",
+    "cleaned_text": "PANT PANT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "REAL VIPERS ARE ACTUALLY VERY DAN- GEROUS.<",
+    "cleaned_text": "REAL VIPERS ARE ACTUALLY VERY DAN- GEROUS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character2",
+    "raw_text": "IF YOU SEE A VIPER OLTSIDE, YOU SHOULD GET OUT OF THERE RIGHT AWAY!",
+    "cleaned_text": "IF YOU SEE A VIPER OUTSIDE, YOU SHOULD GET OUT OF THERE RIGHT AWAY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 11,
+    "speaker": "NARRATION",
+    "raw_text": "OW",
+    "cleaned_text": "OW",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 12,
+    "speaker": "character2",
+    "raw_text": "IF YOU GET BITTEN, YOU MIGHT END UP LOSING YOUR LIFE.",
+    "cleaned_text": "IF YOU GET BITTEN, YOU MIGHT END UP LOSING YOUR LIFE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 13,
+    "speaker": "character1",
+    "raw_text": "DO YOU KNOW WHERE SNAKES TEND TO BITE THE MOST?",
+    "cleaned_text": "DO YOU KNOW WHERE SNAKES TEND TO BITE THE MOST?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 14,
+    "speaker": "NARRATION",
+    "raw_text": "GULP...",
+    "cleaned_text": "GULP...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 15,
+    "speaker": "character1",
+    "raw_text": "UH..? THE LEGS?",
+    "cleaned_text": "UH..? THE LEGS?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 16,
+    "speaker": "character1",
+    "raw_text": "YES! THEY GO FOR THE FEET!",
+    "cleaned_text": "YES! THEY GO FOR THE FEET!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 17,
+    "speaker": "character2",
+    "raw_text": "A BITE TO THE FEET WILL PUT YOU TO SLEEP, AND THEN YOU MIGHT NEVER SNAKE UP AGAIN!",
+    "cleaned_text": "A BITE TO THE FEET WILL PUT YOU TO SLEEP, AND THEN YOU MIGHT NEVER SNAKE UP AGAIN!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 18,
+    "speaker": "character2",
+    "raw_text": "...GET IT?",
+    "cleaned_text": "...GET IT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "IT'S DANGEROUS EVEN IF YOU ONLY GET A SMALL BITE.",
+    "cleaned_text": "IT\u2019S DANGEROUS EVEN IF YOU ONLY GET A SMALL BITE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "THAT'S BECAUSE VIPERS ARE VENOMOUS!",
+    "cleaned_text": "THAT\u2019S BECAUSE VIPERS ARE VENOMOUS!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "I'M SERIOUS! IF YOU SEE A VIPER, TRY ASKING IF HE'S VENOMOUS!",
+    "cleaned_text": "I'M SERIOUS! IF YOU SEE A VIPER, TRY ASKING IF HE'S VENOMOUS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "HE'LL TELL YOU \"I MAY BE VENOMOUS, BUT I'VE GOT A GREAT POISON- ALITY\"!",
+    "cleaned_text": "HE\u2019LL TELL YOU \u201cI MAY BE VENOMOUS, BUT I\u2019VE GOT A GREAT POISON- ALITY\u201d!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "GET IT?",
+    "cleaned_text": "GET IT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "THERE'S A LOT OF VIPERS ON THE ISLAND.",
+    "cleaned_text": "THERE'S A LOT OF VIPERS ON THE ISLAND.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character8",
+    "raw_text": "THE OTHER DAY, I WAS WALKING THROUGH THE FOREST WHEN A VIPER SUDDENLY JUMPED OUT IN FRONT OF ME.",
+    "cleaned_text": "THE OTHER DAY, I WAS WALKING THROUGH THE FOREST WHEN A VIPER SUDDENLY JUMPED OUT IN FRONT OF ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character8",
+    "raw_text": "AND WHAT DO YOU THINK THE SNAKE DID NEXT?",
+    "cleaned_text": "AND WHAT DO YOU THINK THE SNAKE DID NEXT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "FANGFULLY, IT MOVED OUT OF THE WAY! I DIDN'T EVEN HAVE TO ASP!",
+    "cleaned_text": "FANGFULLY, IT MOVED OUT OF THE WAY! I DIDN'T EVEN HAVE TO ASP!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "GET IT?",
+    "cleaned_text": "GET IT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "NARRATION",
+    "raw_text": "HAHAHA",
+    "cleaned_text": "HAHAHA",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "NARRATION",
+    "raw_text": "THIS GuY JUST WON'T STOP.",
+    "cleaned_text": "THIS GUY JUST WON'T STOP.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "NARRATION",
+    "raw_text": "IT'S NOT JUST KAIDOU, TODAY HAS BEEN FULL OF ANNOYING PEOPLE.",
+    "cleaned_text": "IT\u2019S NOT JUST KAIDOU, TODAY HAS BEEN FULL OF ANNOYING PEOPLE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 13,
+    "speaker": "character1",
+    "raw_text": "WE DON'T ACTUALLY HAVE A LOT OF TIME...",
+    "cleaned_text": "WE DON'T ACTUALLY HAVE A LOT OF TIME...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 14,
+    "speaker": "character2",
+    "raw_text": "OH, THAT'S RIGHT~",
+    "cleaned_text": "OH, THAT\u2019S RIGHT~",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 15,
+    "speaker": "character2",
+    "raw_text": "LET'S START THE SHOW THEN...",
+    "cleaned_text": "LET\u2019S START THE SHOW THEN...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 16,
+    "speaker": "character2",
+    "raw_text": "OH! IS THAT THE MON- 600SE!?",
+    "cleaned_text": "OH! IS THAT THE MON- 600SE!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "HERE WE GO.",
+    "cleaned_text": "HERE WE GO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "...HUH?",
+    "cleaned_text": "...HUH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character9",
+    "raw_text": "WH... WHAT'S WITH THE TV \u2026?",
+    "cleaned_text": "WH... WHAT'S WITH THE TV \u2026?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "IT'S THE VIPER VS MON- GOOSE FIGHT.",
+    "cleaned_text": "IT\u2019S THE VIPER VS MON-GOOSE FIGHT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "I'LL BE PLAYING IT ON VCR.",
+    "cleaned_text": "I\u2019LL BE PLAYING IT ON VCR.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "THEY'RE NOT GOING TO FIGHT LIVE!?",
+    "cleaned_text": "THEY'RE NOT GOING TO FIGHT LIVE!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "THAT'S HOW WE USED TO DO IT, BUT NOW THERE ARE ANIMAL .PROTECTION LAWS... EHH... But Then The WiNner IS ALREADY PRE-DETER- MINED...",
+    "cleaned_text": "THAT\u2019S HOW WE USED TO DO IT, BUT NOW THERE ARE ANIMAL PROTECTION LAWS... EHH... But Then The Winner IS ALREADY PRE-DETERMINED...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "IT DOESN'T REALLY MATTER, THE MONGOOSE IS STRONGER EVERY TIME.",
+    "cleaned_text": "IT DOESN'T REALLY MATTER, THE MONGOOSE IS STRONGER EVERY TIME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "I'VE BEEN DOING THIS JOB FOR A LONG TIME BUT I'VE NEVER SEEN THE VIPER WIN.",
+    "cleaned_text": "I'VE BEEN DOING THIS JOB FOR A LONG TIME BUT I'VE NEVER SEEN THE VIPER WIN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "THE FIGHT IS MUCH GARDER FOR THE SNAKE.",
+    "cleaned_text": "THE FIGHT IS MUCH HARDER FOR THE SNAKE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character2",
+    "raw_text": "EHHHHH",
+    "cleaned_text": "EHHHHH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character2",
+    "raw_text": "OKAY, TIME TO START THE VIDEO.",
+    "cleaned_text": "OKAY, TIME TO START THE VIDEO.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

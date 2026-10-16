@@ -1,0 +1,224 @@
+{
+  "sequence_id": "seq_fa2eee6269a5dad3",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "..."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "ahh..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "koff"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "think"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "HEY..."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Trump"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "awhh"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "koff"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Q..."
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "h-h-help me..."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "!"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "ARE YOU..."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "No. You're DEFIN7EGY not all right."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "here... in my hand..."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "WHAT..."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "forty-two westwood, Los Angeles..."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "go see... banana fish..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "!"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "WHAT? What did you say?!"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "little star"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "How do you know... who ARE you?!"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Hey!"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "--RAN THIS WAY!"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Here!"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "!"
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "...uh."
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "little STAR"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T9",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T10",
+      "tail_id": "PG3:TAIL3"
+    }
+  ]
+}

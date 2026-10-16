@@ -1,0 +1,164 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "?",
+    "cleaned_text": "?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "AH",
+    "cleaned_text": "AH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "WH... W-WHAT'S WRONG, MIKAGE!?",
+    "cleaned_text": "WH... W-WHAT'S WRONG, MIKAGE!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "AH",
+    "cleaned_text": "AH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "OH, IT'S NOTHING!",
+    "cleaned_text": "OH, IT\u2019S NOTHING!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "\"NOTHING!?\" KOMABA, DID YOU DO SOMETHING!?",
+    "cleaned_text": "\u201cNOTHING!?\u201d KOMABA, DID YOU DO SOMETHING!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "IT'S NOTHING!",
+    "cleaned_text": "IT\u2019S NOTHING!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "IT'S NONE OF YOUR BUSINESS!",
+    "cleaned_text": "IT\u2019S NONE OF YOUR BUSINESS!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "WAIT",
+    "cleaned_text": "WAIT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "HEY!!",
+    "cleaned_text": "HEY!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "AH... UM.. ARE YOU ALL RIGHT?",
+    "cleaned_text": "AH... UM.. ARE YOU ALL RIGHT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "um.",
+    "cleaned_text": "um.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character4",
+    "raw_text": "SORRY, IT'S NOTHING.",
+    "cleaned_text": "SORRY, IT\u2019S NOTHING.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "character2",
+    "raw_text": "I'M FINE, REALLY!",
+    "cleaned_text": "I\u2019M FINE, REALLY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "character2",
+    "raw_text": "DON'T WORRY ABOUT IT!",
+    "cleaned_text": "DON'T WORRY ABOUT IT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "A YOUNG WOMAN'S TEARS ARE SURE TO LEAD A YOUNG MAN ASTRAY.\u2026. SOMETHING DEFINITELY HAPPENED, BUT HACHIKEN IS LEFT WONDERING..",
+    "cleaned_text": "A YOUNG WOMAN'S TEARS ARE SURE TO LEAD A YOUNG MAN ASTRAY\u2026. SOMETHING DEFINITELY HAPPENED, BUT HACHIKEN IS LEFT WONDERING..",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "SNIFF",
+    "cleaned_text": "SNIFF",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "WHAT THE HECK HAPPENED .?",
+    "cleaned_text": "WHAT THE HECK HAPPENED...?",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

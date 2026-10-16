@@ -1,0 +1,30 @@
+[Page 01.png]
+character2: HUH? WHERE ARE THE OTHER TWO?
+character1: WELL...
+character1: SQUAD LEADER URIE AND RANK 3 SHIRAZU...
+character2: ARE PERFORMING SOLO INVESTI- GATIONS... IT SEEMS THEY ARE INVESTIGATING ABOUT THE GHOUL CALLED "TORSO".….
+character1: WHAAAT!?
+NARRATION: "Torso" is estimated to be a dangerous A rate ghoul...
+character2: WERE YOU ABLE TO GET IN TOUCH WITH THOSE TWO?
+character2: EVEN THOUGH THOSE INEXPERIENCED TWO SHOULD BE BEHAVING MODESTLY...
+character1: I-I WAS NOT ABLE TO.
+
+[Page 02.png]
+character4: LET'S GO GET THE INVESTI- GATION DATA FROM THE TEAM INVESTIGATING TORSO.
+character2: MUT SUKI- KUN, you COME YOO!
+character1: okAy.
+character2: THOSE IDIOTS
+character2: ..................
+character2: WHERE IS SAIKO-CHAN TODAY?
+character1: UMM... I GREETED HER WHEN I WAS LEAVING BUT...
+character3: IT SEEMS SHE WAS UP LATE LAST NIGHT….
+character3: I UNDER- STAND... WHEN I GET BACK I'LL GIVE HER A LECTURE.
+character3: AKIRA-SAN, IT...
+
+[Page 03.png]
+NARRATION: is taking my best efforts just to unify the team
+NARRATION: to say nothing of creating investigators like Special Class Arima...
+character5: THE DATA?
+character5: YOU GUYS AREN'T RESPONSIBLE FOR TORSO, ARE YOU?
+UNKNOWN: I UNDER- STAND THAT YOU'RE GETTING DESPERATE BECAUSE HIRAKO'S SQUAD HAS A BIG LEAD ON YOU BUT I REALLY WONDER ABOUT YOU GOING SO FAR
+character5: AS TO SNATCH UP ANOTHER GROUP'S JOB...

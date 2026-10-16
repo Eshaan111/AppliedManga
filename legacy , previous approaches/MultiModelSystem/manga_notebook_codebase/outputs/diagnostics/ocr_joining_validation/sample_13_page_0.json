@@ -1,0 +1,1425 @@
+{
+  "sequence_id": "seq_952f154fb1505883",
+  "page_index": 0,
+  "raw_count": 92,
+  "target_count": 14,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c2",
+        "c4",
+        "c6",
+        "c8",
+        "c11",
+        "c14"
+      ],
+      "text": "BUT I GUESS THERE'S NOTHING I CAN DO ABOUT IT NOW.",
+      "box": [
+        342.0,
+        124.0,
+        412.0,
+        242.0
+      ],
+      "id": "g0",
+      "score": 0.9852425966944013,
+      "target_index": 1,
+      "target_text": "BUT I GUESS THERE'S NOTHING I CAN DO ABOUT IT NOW.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c1",
+        "c3",
+        "c5",
+        "c7",
+        "c9",
+        "c12",
+        "c15",
+        "c17"
+      ],
+      "text": "MAN, I WAS DOING SO WELL. I REALLY THOUGHT I HAD IT NAILED.",
+      "box": [
+        722.0,
+        125.0,
+        793.0,
+        258.0
+      ],
+      "id": "g1",
+      "score": 0.9919557496905327,
+      "target_index": 0,
+      "target_text": "MAN, I WAS DOING SO WELL. I REALLY THOUGHT I HAD IT NAILED.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c10",
+        "c13",
+        "c16",
+        "c18"
+      ],
+      "text": "SEE!? THAT RIGHT THERE!",
+      "box": [
+        129.0,
+        202.0,
+        180.0,
+        270.0
+      ],
+      "id": "g2",
+      "score": 0.9999136626720428,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c19",
+        "c20",
+        "c21",
+        "c22",
+        "c23",
+        "c24",
+        "c25"
+      ],
+      "text": "OKAWA, YOU'RE ALWAYS SO LAID BACK! WHERE'S YOUR THIRST FOR BLOOD?",
+      "box": [
+        49.0,
+        271.0,
+        147.0,
+        385.0
+      ],
+      "id": "g3",
+      "score": 0.9995978389467511,
+      "target_index": 2,
+      "target_text": "SEE!? THAT RIGHT THERE! OKAWA, YOU'RE ALWAYS SO LAID BACK! WHERE'S YOUR THIRST FOR BLOOD?",
+      "similarity": 0.8547008547008547
+    },
+    {
+      "candidate_ids": [
+        "c26",
+        "c27",
+        "c28",
+        "c30",
+        "c32",
+        "c35",
+        "c37",
+        "c39"
+      ],
+      "text": "THE FIRST YEARS'FIRST COMPETITION IS IN OCTOBER, SO CONTINUE DOING YOUR BEST AND MAKE THE CLUB PROUD!",
+      "box": [
+        163.0,
+        505.0,
+        278.0,
+        638.0
+      ],
+      "id": "g4",
+      "score": 0.9967918545007706,
+      "target_index": 4,
+      "target_text": "THE FIRST YEARS' FIRST COMPETITION IS IN OCTOBER, SO CONTINUE DOING YOUR BEST AND MAKE THE CLUB PROUD!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c29",
+        "c31",
+        "c33",
+        "c36",
+        "c38",
+        "c40",
+        "c41",
+        "c42"
+      ],
+      "text": "WELL, IT'S FINALLY TIME. US THIRD YEARS ARE RETIRING FROM THE EQUESTRIAN CLUB TODAY!",
+      "box": [
+        631.0,
+        534.0,
+        728.0,
+        666.0
+      ],
+      "id": "g5",
+      "score": 0.9985037744045258,
+      "target_index": 3,
+      "target_text": "WELL, IT'S FINALLY TIME. US THIRD YEARS ARE RETIRING FROM THE EQUESTRIAN CLUB TODAY!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c34"
+      ],
+      "text": "RIGHT!",
+      "box": [
+        57.0,
+        585.0,
+        100.0,
+        599.0
+      ],
+      "id": "g6",
+      "score": 0.9998878836631775,
+      "target_index": 5,
+      "target_text": "RIGHT!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c43",
+        "c45",
+        "c49",
+        "c57",
+        "c67"
+      ],
+      "text": "I BET IT'S GOING TO BE MIKAGE.",
+      "box": [
+        211.0,
+        937.0,
+        268.0,
+        1014.0
+      ],
+      "id": "g7",
+      "score": 0.9392011761665344,
+      "target_index": 11,
+      "target_text": "I BET IT'S GOING TO BE MIKAGE.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c47",
+        "c51",
+        "c59",
+        "c62",
+        "c70",
+        "c77",
+        "c81",
+        "c86",
+        "c87",
+        "c89"
+      ],
+      "text": "I GUESS THAT MAKES SENSE. YODA-SAN IS THE ONLY SECOND YEAR HERE...",
+      "box": [
+        379.0,
+        948.0,
+        440.0,
+        1084.0
+      ],
+      "id": "g8",
+      "score": 0.9958980321884155,
+      "target_index": 9,
+      "target_text": "I GUESS THAT MAKES SENSE. YODA-SAN IS THE ONLY SECOND YEAR HERE...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c48",
+        "c55",
+        "c65",
+        "c72",
+        "c79",
+        "c84"
+      ],
+      "text": "YODA, WE'D LIKE YOU TO TAKE OVER AS THE NEXT CLUB PRESIDENT.",
+      "box": [
+        734.0,
+        950.0,
+        831.0,
+        1049.0
+      ],
+      "id": "g9",
+      "score": 0.9926753044128418,
+      "target_index": 6,
+      "target_text": "YODA, WE'D LIKE YOU TO TAKE OVER AS THE NEXT CLUB PRESIDENT.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c46",
+        "c50",
+        "c58",
+        "c69",
+        "c74",
+        "c76",
+        "c80"
+      ],
+      "text": "THEY'RE GOING TO MAKE ONE OF US FIRST YEARS THE VICE- PRESIDENT?",
+      "box": [
+        291.0,
+        956.0,
+        366.0,
+        1051.0
+      ],
+      "id": "g10",
+      "score": 0.9955658912658691,
+      "target_index": 10,
+      "target_text": "THEY'RE GOING TO MAKE ONE OF US FIRST YEARS THE VICE-PRESIDENT?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c44",
+        "c56",
+        "c60",
+        "c68",
+        "c75",
+        "c82"
+      ],
+      "text": "ONE IN FIVE ODDS... PLEASE DON'T LET IT BE ME",
+      "box": [
+        48.0,
+        957.0,
+        120.0,
+        1058.0
+      ],
+      "id": "g11",
+      "score": 0.98491370677948,
+      "target_index": 13,
+      "target_text": "ONE IN FIVE ODDS... PLEASE DON'T LET IT BE ME...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c54",
+        "c64"
+      ],
+      "text": "THANK YOu!",
+      "box": [
+        649.0,
+        972.0,
+        693.0,
+        1003.0
+      ],
+      "id": "g12",
+      "score": 0.8998128771781921,
+      "target_index": 7,
+      "target_text": "THANK YOU!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c53",
+        "c63",
+        "c71",
+        "c78",
+        "c83"
+      ],
+      "text": "AND FOR THE VICE- PRESI- DENT...",
+      "box": [
+        528.0,
+        972.0,
+        594.0,
+        1056.0
+      ],
+      "id": "g13",
+      "score": 0.9910257935523987,
+      "target_index": 8,
+      "target_text": "AND FOR THE VICE-PRESIDENT...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c52",
+        "c61",
+        "c66",
+        "c73"
+      ],
+      "text": "SHE'S THE BEST OUT OF ALL OF US HERE.",
+      "box": [
+        132.0,
+        972.0,
+        203.0,
+        1032.0
+      ],
+      "id": "g14",
+      "score": 0.9973977208137512,
+      "target_index": 12,
+      "target_text": "SHE'S THE BEST OUT OF ALL OF US HERE.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c85"
+      ],
+      "text": "000",
+      "box": [
+        233.0,
+        1048.0,
+        251.0,
+        1082.0
+      ],
+      "id": "g15",
+      "score": 0.6735418438911438,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c88"
+      ],
+      "text": "0oo",
+      "box": [
+        158.0,
+        1072.0,
+        173.0,
+        1107.0
+      ],
+      "id": "g16",
+      "score": 0.586085855960846,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c90"
+      ],
+      "text": "poo",
+      "box": [
+        322.0,
+        1082.0,
+        341.0,
+        1114.0
+      ],
+      "id": "g17",
+      "score": 0.6724135279655457,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c91"
+      ],
+      "text": "0oo",
+      "box": [
+        73.0,
+        1103.0,
+        88.0,
+        1141.0
+      ],
+      "id": "g18",
+      "score": 0.6736249327659607,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "BUT I",
+      "score": 0.9562128186225891,
+      "box": [
+        353.0,
+        124.0,
+        401.0,
+        142.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "MAN,",
+      "score": 0.9998683333396912,
+      "box": [
+        738.0,
+        125.0,
+        776.0,
+        143.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "GUESS",
+      "score": 0.9998792409896851,
+      "box": [
+        350.0,
+        142.0,
+        404.0,
+        159.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "I WAS",
+      "score": 0.9953354597091675,
+      "box": [
+        732.0,
+        142.0,
+        781.0,
+        160.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "THERE'S",
+      "score": 0.9999341368675232,
+      "box": [
+        346.0,
+        158.0,
+        408.0,
+        174.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "DOING",
+      "score": 0.9999669790267944,
+      "box": [
+        734.0,
+        158.0,
+        780.0,
+        175.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "NOTHING",
+      "score": 0.9999651312828064,
+      "box": [
+        344.0,
+        174.0,
+        409.0,
+        191.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "SO WELL.",
+      "score": 0.999519944190979,
+      "box": [
+        722.0,
+        174.0,
+        792.0,
+        191.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "I CAN DO",
+      "score": 0.9439657926559448,
+      "box": [
+        342.0,
+        191.0,
+        412.0,
+        208.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "I REALLY",
+      "score": 0.9767332077026367,
+      "box": [
+        723.0,
+        191.0,
+        793.0,
+        208.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "SEE!?",
+      "score": 0.9997571706771851,
+      "box": [
+        130.0,
+        202.0,
+        178.0,
+        223.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "ABOUT IT",
+      "score": 0.9970760345458984,
+      "box": [
+        342.0,
+        205.0,
+        411.0,
+        225.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "THOUGHT",
+      "score": 0.9999218583106995,
+      "box": [
+        725.0,
+        209.0,
+        791.0,
+        223.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "THAT",
+      "score": 0.999994158744812,
+      "box": [
+        135.0,
+        220.0,
+        176.0,
+        238.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "NOW.",
+      "score": 0.9996650218963623,
+      "box": [
+        355.0,
+        224.0,
+        398.0,
+        242.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "I HAD IT",
+      "score": 0.9647092819213867,
+      "box": [
+        726.0,
+        224.0,
+        790.0,
+        241.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "RIGHT",
+      "score": 0.9999901652336121,
+      "box": [
+        132.0,
+        237.0,
+        179.0,
+        255.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "NAILED.",
+      "score": 0.9995909333229065,
+      "box": [
+        729.0,
+        241.0,
+        786.0,
+        258.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "THERE!",
+      "score": 0.9999131560325623,
+      "box": [
+        129.0,
+        254.0,
+        180.0,
+        270.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "OKAWA,",
+      "score": 0.9997610449790955,
+      "box": [
+        70.0,
+        271.0,
+        127.0,
+        288.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "YOU'RE",
+      "score": 0.9981288313865662,
+      "box": [
+        71.0,
+        287.0,
+        126.0,
+        304.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "ALWAYS SO",
+      "score": 0.9999337792396545,
+      "box": [
+        57.0,
+        304.0,
+        142.0,
+        321.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "LAID BACK!",
+      "score": 0.9997547268867493,
+      "box": [
+        58.0,
+        321.0,
+        139.0,
+        338.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "WHERE'S",
+      "score": 0.999920666217804,
+      "box": [
+        65.0,
+        338.0,
+        131.0,
+        352.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "YOUR THIRST",
+      "score": 0.9999399781227112,
+      "box": [
+        49.0,
+        353.0,
+        147.0,
+        372.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "FOR BLOOD?",
+      "score": 0.9997458457946777,
+      "box": [
+        53.0,
+        372.0,
+        144.0,
+        385.0
+      ]
+    },
+    {
+      "id": "c26",
+      "text": "THE FIRST",
+      "score": 0.9999517798423767,
+      "box": [
+        184.0,
+        505.0,
+        259.0,
+        522.0
+      ]
+    },
+    {
+      "id": "c27",
+      "text": "YEARS'FIRST",
+      "score": 0.9999333024024963,
+      "box": [
+        172.0,
+        521.0,
+        270.0,
+        538.0
+      ]
+    },
+    {
+      "id": "c28",
+      "text": "COMPETITION IS",
+      "score": 0.9959296584129333,
+      "box": [
+        167.0,
+        539.0,
+        276.0,
+        556.0
+      ]
+    },
+    {
+      "id": "c29",
+      "text": "WELL, IT'S",
+      "score": 0.9998260736465454,
+      "box": [
+        644.0,
+        534.0,
+        718.0,
+        551.0
+      ]
+    },
+    {
+      "id": "c30",
+      "text": "IN OCTOBER, SO",
+      "score": 0.9996142983436584,
+      "box": [
+        165.0,
+        557.0,
+        278.0,
+        571.0
+      ]
+    },
+    {
+      "id": "c31",
+      "text": "FINALLY TIME.",
+      "score": 0.999045729637146,
+      "box": [
+        631.0,
+        551.0,
+        728.0,
+        568.0
+      ]
+    },
+    {
+      "id": "c32",
+      "text": "CONTINUE DOING",
+      "score": 0.9998268485069275,
+      "box": [
+        165.0,
+        574.0,
+        278.0,
+        588.0
+      ]
+    },
+    {
+      "id": "c33",
+      "text": "US THIRD",
+      "score": 0.9916640520095825,
+      "box": [
+        648.0,
+        570.0,
+        715.0,
+        584.0
+      ]
+    },
+    {
+      "id": "c34",
+      "text": "RIGHT!",
+      "score": 0.9998878836631775,
+      "box": [
+        57.0,
+        585.0,
+        100.0,
+        599.0
+      ]
+    },
+    {
+      "id": "c35",
+      "text": "YOUR BEST AND",
+      "score": 0.9804680347442627,
+      "box": [
+        163.0,
+        588.0,
+        278.0,
+        604.0
+      ]
+    },
+    {
+      "id": "c36",
+      "text": "YEARS ARE",
+      "score": 0.9980195164680481,
+      "box": [
+        641.0,
+        585.0,
+        723.0,
+        601.0
+      ]
+    },
+    {
+      "id": "c37",
+      "text": "MAKE THE CLUB",
+      "score": 0.9993066787719727,
+      "box": [
+        164.0,
+        605.0,
+        278.0,
+        622.0
+      ]
+    },
+    {
+      "id": "c38",
+      "text": "RETIRING",
+      "score": 0.999942421913147,
+      "box": [
+        649.0,
+        602.0,
+        714.0,
+        616.0
+      ]
+    },
+    {
+      "id": "c39",
+      "text": "PROUD!",
+      "score": 0.9993042349815369,
+      "box": [
+        192.0,
+        621.0,
+        250.0,
+        638.0
+      ]
+    },
+    {
+      "id": "c40",
+      "text": "FROM THE",
+      "score": 0.9998620748519897,
+      "box": [
+        644.0,
+        617.0,
+        719.0,
+        634.0
+      ]
+    },
+    {
+      "id": "c41",
+      "text": "EQUESTRIAN",
+      "score": 0.9998725056648254,
+      "box": [
+        638.0,
+        636.0,
+        726.0,
+        650.0
+      ]
+    },
+    {
+      "id": "c42",
+      "text": "CLUB TODAY!",
+      "score": 0.9997978210449219,
+      "box": [
+        636.0,
+        652.0,
+        727.0,
+        666.0
+      ]
+    },
+    {
+      "id": "c43",
+      "text": "I BET",
+      "score": 0.9196851849555969,
+      "box": [
+        220.0,
+        937.0,
+        261.0,
+        952.0
+      ]
+    },
+    {
+      "id": "c44",
+      "text": "ONE",
+      "score": 0.9999933242797852,
+      "box": [
+        66.0,
+        957.0,
+        103.0,
+        975.0
+      ]
+    },
+    {
+      "id": "c45",
+      "text": "IT'S",
+      "score": 0.8615667819976807,
+      "box": [
+        225.0,
+        952.0,
+        256.0,
+        967.0
+      ]
+    },
+    {
+      "id": "c46",
+      "text": "THEY'RE",
+      "score": 0.9998888969421387,
+      "box": [
+        302.0,
+        956.0,
+        355.0,
+        970.0
+      ]
+    },
+    {
+      "id": "c47",
+      "text": "I GUESS",
+      "score": 0.9683036208152771,
+      "box": [
+        382.0,
+        948.0,
+        436.0,
+        962.0
+      ]
+    },
+    {
+      "id": "c48",
+      "text": "YODA, WE'D",
+      "score": 0.9719222784042358,
+      "box": [
+        742.0,
+        950.0,
+        824.0,
+        967.0
+      ]
+    },
+    {
+      "id": "c49",
+      "text": "GOING",
+      "score": 0.9998688697814941,
+      "box": [
+        219.0,
+        968.0,
+        263.0,
+        982.0
+      ]
+    },
+    {
+      "id": "c50",
+      "text": "GOING TO",
+      "score": 0.994173526763916,
+      "box": [
+        299.0,
+        970.0,
+        358.0,
+        984.0
+      ]
+    },
+    {
+      "id": "c51",
+      "text": "THAT",
+      "score": 0.9999879598617554,
+      "box": [
+        393.0,
+        961.0,
+        426.0,
+        976.0
+      ]
+    },
+    {
+      "id": "c52",
+      "text": "SHE'S THE",
+      "score": 0.9982905983924866,
+      "box": [
+        132.0,
+        972.0,
+        203.0,
+        986.0
+      ]
+    },
+    {
+      "id": "c53",
+      "text": "AND",
+      "score": 0.9999923706054688,
+      "box": [
+        547.0,
+        972.0,
+        579.0,
+        991.0
+      ]
+    },
+    {
+      "id": "c54",
+      "text": "THANK",
+      "score": 0.9999927282333374,
+      "box": [
+        649.0,
+        972.0,
+        693.0,
+        987.0
+      ]
+    },
+    {
+      "id": "c55",
+      "text": "LIKE YOU",
+      "score": 0.999535083770752,
+      "box": [
+        748.0,
+        964.0,
+        817.0,
+        984.0
+      ]
+    },
+    {
+      "id": "c56",
+      "text": "IN FIVE",
+      "score": 0.9802061319351196,
+      "box": [
+        57.0,
+        976.0,
+        111.0,
+        990.0
+      ]
+    },
+    {
+      "id": "c57",
+      "text": "TO BE",
+      "score": 0.9168587923049927,
+      "box": [
+        219.0,
+        983.0,
+        262.0,
+        998.0
+      ]
+    },
+    {
+      "id": "c58",
+      "text": "MAKE ONE",
+      "score": 0.9985435009002686,
+      "box": [
+        297.0,
+        985.0,
+        360.0,
+        996.0
+      ]
+    },
+    {
+      "id": "c59",
+      "text": "MAKES",
+      "score": 0.9999513626098633,
+      "box": [
+        386.0,
+        976.0,
+        432.0,
+        990.0
+      ]
+    },
+    {
+      "id": "c60",
+      "text": "ODDS...",
+      "score": 0.9980716705322266,
+      "box": [
+        55.0,
+        991.0,
+        112.0,
+        1008.0
+      ]
+    },
+    {
+      "id": "c61",
+      "text": "BEST OUT",
+      "score": 0.9964169263839722,
+      "box": [
+        132.0,
+        985.0,
+        202.0,
+        1002.0
+      ]
+    },
+    {
+      "id": "c62",
+      "text": "SENSE.",
+      "score": 0.9996504187583923,
+      "box": [
+        385.0,
+        990.0,
+        431.0,
+        1004.0
+      ]
+    },
+    {
+      "id": "c63",
+      "text": "FOR THE",
+      "score": 0.9558672904968262,
+      "box": [
+        528.0,
+        988.0,
+        594.0,
+        1007.0
+      ]
+    },
+    {
+      "id": "c64",
+      "text": "YOu!",
+      "score": 0.7996330261230469,
+      "box": [
+        653.0,
+        985.0,
+        689.0,
+        1003.0
+      ]
+    },
+    {
+      "id": "c65",
+      "text": "TO TAKE",
+      "score": 0.999742865562439,
+      "box": [
+        752.0,
+        983.0,
+        815.0,
+        1000.0
+      ]
+    },
+    {
+      "id": "c66",
+      "text": "OF ALL OF",
+      "score": 0.9975107908248901,
+      "box": [
+        133.0,
+        1001.0,
+        202.0,
+        1018.0
+      ]
+    },
+    {
+      "id": "c67",
+      "text": "MIKAGE.",
+      "score": 0.9980262517929077,
+      "box": [
+        211.0,
+        997.0,
+        268.0,
+        1014.0
+      ]
+    },
+    {
+      "id": "c68",
+      "text": "PLEASE",
+      "score": 0.999981164932251,
+      "box": [
+        54.0,
+        1008.0,
+        114.0,
+        1025.0
+      ]
+    },
+    {
+      "id": "c69",
+      "text": "OF US FIRST",
+      "score": 0.9777753353118896,
+      "box": [
+        292.0,
+        999.0,
+        365.0,
+        1010.0
+      ]
+    },
+    {
+      "id": "c70",
+      "text": "YODA-SAN",
+      "score": 0.999963641166687,
+      "box": [
+        379.0,
+        1003.0,
+        440.0,
+        1017.0
+      ]
+    },
+    {
+      "id": "c71",
+      "text": "VICE-",
+      "score": 0.9994975328445435,
+      "box": [
+        538.0,
+        1006.0,
+        579.0,
+        1024.0
+      ]
+    },
+    {
+      "id": "c72",
+      "text": "OVER AS THE",
+      "score": 0.9863752722740173,
+      "box": [
+        734.0,
+        1000.0,
+        831.0,
+        1017.0
+      ]
+    },
+    {
+      "id": "c73",
+      "text": "US HERE.",
+      "score": 0.997372567653656,
+      "box": [
+        133.0,
+        1016.0,
+        199.0,
+        1032.0
+      ]
+    },
+    {
+      "id": "c74",
+      "text": "YEARS",
+      "score": 0.999969482421875,
+      "box": [
+        307.0,
+        1011.0,
+        350.0,
+        1025.0
+      ]
+    },
+    {
+      "id": "c75",
+      "text": "DON'T LET",
+      "score": 0.9441721439361572,
+      "box": [
+        48.0,
+        1025.0,
+        120.0,
+        1038.0
+      ]
+    },
+    {
+      "id": "c76",
+      "text": "THE VICE-",
+      "score": 0.9986933469772339,
+      "box": [
+        295.0,
+        1024.0,
+        354.0,
+        1037.0
+      ]
+    },
+    {
+      "id": "c77",
+      "text": "IS THE",
+      "score": 0.9958639740943909,
+      "box": [
+        388.0,
+        1016.0,
+        430.0,
+        1030.0
+      ]
+    },
+    {
+      "id": "c78",
+      "text": "PRESI-",
+      "score": 0.9998889565467834,
+      "box": [
+        537.0,
+        1024.0,
+        588.0,
+        1039.0
+      ]
+    },
+    {
+      "id": "c79",
+      "text": "NEXT CLUB",
+      "score": 0.9986451268196106,
+      "box": [
+        743.0,
+        1018.0,
+        822.0,
+        1031.0
+      ]
+    },
+    {
+      "id": "c80",
+      "text": "PRESIDENT?",
+      "score": 0.9999171495437622,
+      "box": [
+        291.0,
+        1037.0,
+        366.0,
+        1051.0
+      ]
+    },
+    {
+      "id": "c81",
+      "text": "ONLY",
+      "score": 0.9999847412109375,
+      "box": [
+        392.0,
+        1029.0,
+        427.0,
+        1043.0
+      ]
+    },
+    {
+      "id": "c82",
+      "text": "IT BE ME",
+      "score": 0.9870578050613403,
+      "box": [
+        50.0,
+        1040.0,
+        117.0,
+        1058.0
+      ]
+    },
+    {
+      "id": "c83",
+      "text": "DENT...",
+      "score": 0.9998828172683716,
+      "box": [
+        537.0,
+        1040.0,
+        588.0,
+        1056.0
+      ]
+    },
+    {
+      "id": "c84",
+      "text": "PRESIDENT.",
+      "score": 0.9998311996459961,
+      "box": [
+        741.0,
+        1032.0,
+        824.0,
+        1049.0
+      ]
+    },
+    {
+      "id": "c85",
+      "text": "000",
+      "score": 0.6735418438911438,
+      "box": [
+        233.0,
+        1048.0,
+        251.0,
+        1082.0
+      ]
+    },
+    {
+      "id": "c86",
+      "text": "SECOND",
+      "score": 0.999950110912323,
+      "box": [
+        384.0,
+        1043.0,
+        435.0,
+        1057.0
+      ]
+    },
+    {
+      "id": "c87",
+      "text": "YEAR",
+      "score": 0.9957377314567566,
+      "box": [
+        391.0,
+        1056.0,
+        427.0,
+        1070.0
+      ]
+    },
+    {
+      "id": "c88",
+      "text": "0oo",
+      "score": 0.586085855960846,
+      "box": [
+        158.0,
+        1072.0,
+        173.0,
+        1107.0
+      ]
+    },
+    {
+      "id": "c89",
+      "text": "HERE...",
+      "score": 0.9995867609977722,
+      "box": [
+        385.0,
+        1070.0,
+        431.0,
+        1084.0
+      ]
+    },
+    {
+      "id": "c90",
+      "text": "poo",
+      "score": 0.6724135279655457,
+      "box": [
+        322.0,
+        1082.0,
+        341.0,
+        1114.0
+      ]
+    },
+    {
+      "id": "c91",
+      "text": "0oo",
+      "score": 0.6736249327659607,
+      "box": [
+        73.0,
+        1103.0,
+        88.0,
+        1141.0
+      ]
+    }
+  ],
+  "transcript": "BUT I GUESS THERE'S NOTHING I CAN DO ABOUT IT NOW.\nMAN, I WAS DOING SO WELL. I REALLY THOUGHT I HAD IT NAILED.\nSEE!? THAT RIGHT THERE!\nOKAWA, YOU'RE ALWAYS SO LAID BACK! WHERE'S YOUR THIRST FOR BLOOD?\nTHE FIRST YEARS'FIRST COMPETITION IS IN OCTOBER, SO CONTINUE DOING YOUR BEST AND MAKE THE CLUB PROUD!\nWELL, IT'S FINALLY TIME. US THIRD YEARS ARE RETIRING FROM THE EQUESTRIAN CLUB TODAY!\nRIGHT!\nI BET IT'S GOING TO BE MIKAGE.\nI GUESS THAT MAKES SENSE. YODA-SAN IS THE ONLY SECOND YEAR HERE...\nYODA, WE'D LIKE YOU TO TAKE OVER AS THE NEXT CLUB PRESIDENT.\nTHEY'RE GOING TO MAKE ONE OF US FIRST YEARS THE VICE- PRESIDENT?\nONE IN FIVE ODDS... PLEASE DON'T LET IT BE ME\nTHANK YOu!\nAND FOR THE VICE- PRESI- DENT...\nSHE'S THE BEST OUT OF ALL OF US HERE.\n000\n0oo\npoo\n0oo",
+  "sample_index": 13,
+  "preview_file": "sample_13_page_0.html"
+}

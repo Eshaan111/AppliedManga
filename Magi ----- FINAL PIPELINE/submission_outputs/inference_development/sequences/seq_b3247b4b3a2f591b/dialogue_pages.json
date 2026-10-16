@@ -1,0 +1,17 @@
+[
+  [
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THE CALM BEFORE THE STORM.",
+      "needs_review": false
+    }
+  ],
+  [],
+  []
+]

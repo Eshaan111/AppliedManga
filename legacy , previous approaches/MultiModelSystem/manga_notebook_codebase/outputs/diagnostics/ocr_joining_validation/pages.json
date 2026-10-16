@@ -1,0 +1,482 @@
+[
+  {
+    "sequence_id": "seq_b8b5563330fdc89d",
+    "sample_index": 0,
+    "page_index": 0,
+    "preview": "sample_0_page_0.html",
+    "result": "sample_0_page_0.json",
+    "transcript": "sample_0_page_0.txt",
+    "raw_count": 62,
+    "group_count": 14
+  },
+  {
+    "sequence_id": "seq_b8b5563330fdc89d",
+    "sample_index": 0,
+    "page_index": 1,
+    "preview": "sample_0_page_1.html",
+    "result": "sample_0_page_1.json",
+    "transcript": "sample_0_page_1.txt",
+    "raw_count": 46,
+    "group_count": 13
+  },
+  {
+    "sequence_id": "seq_b8b5563330fdc89d",
+    "sample_index": 0,
+    "page_index": 2,
+    "preview": "sample_0_page_2.html",
+    "result": "sample_0_page_2.json",
+    "transcript": "sample_0_page_2.txt",
+    "raw_count": 28,
+    "group_count": 8
+  },
+  {
+    "sequence_id": "seq_e8b4f75454f9491f",
+    "sample_index": 1,
+    "page_index": 0,
+    "preview": "sample_1_page_0.html",
+    "result": "sample_1_page_0.json",
+    "transcript": "sample_1_page_0.txt",
+    "raw_count": 31,
+    "group_count": 10
+  },
+  {
+    "sequence_id": "seq_e8b4f75454f9491f",
+    "sample_index": 1,
+    "page_index": 1,
+    "preview": "sample_1_page_1.html",
+    "result": "sample_1_page_1.json",
+    "transcript": "sample_1_page_1.txt",
+    "raw_count": 14,
+    "group_count": 5
+  },
+  {
+    "sequence_id": "seq_e8b4f75454f9491f",
+    "sample_index": 1,
+    "page_index": 2,
+    "preview": "sample_1_page_2.html",
+    "result": "sample_1_page_2.json",
+    "transcript": "sample_1_page_2.txt",
+    "raw_count": 11,
+    "group_count": 4
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "sample_index": 2,
+    "page_index": 0,
+    "preview": "sample_2_page_0.html",
+    "result": "sample_2_page_0.json",
+    "transcript": "sample_2_page_0.txt",
+    "raw_count": 22,
+    "group_count": 8
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "sample_index": 2,
+    "page_index": 1,
+    "preview": "sample_2_page_1.html",
+    "result": "sample_2_page_1.json",
+    "transcript": "sample_2_page_1.txt",
+    "raw_count": 13,
+    "group_count": 4
+  },
+  {
+    "sequence_id": "seq_5f9ee35846b7e635",
+    "sample_index": 2,
+    "page_index": 2,
+    "preview": "sample_2_page_2.html",
+    "result": "sample_2_page_2.json",
+    "transcript": "sample_2_page_2.txt",
+    "raw_count": 9,
+    "group_count": 5
+  },
+  {
+    "sequence_id": "seq_b9b5a9ad9a64ced9",
+    "sample_index": 3,
+    "page_index": 0,
+    "preview": "sample_3_page_0.html",
+    "result": "sample_3_page_0.json",
+    "transcript": "sample_3_page_0.txt",
+    "raw_count": 25,
+    "group_count": 8
+  },
+  {
+    "sequence_id": "seq_b9b5a9ad9a64ced9",
+    "sample_index": 3,
+    "page_index": 1,
+    "preview": "sample_3_page_1.html",
+    "result": "sample_3_page_1.json",
+    "transcript": "sample_3_page_1.txt",
+    "raw_count": 42,
+    "group_count": 19
+  },
+  {
+    "sequence_id": "seq_b9b5a9ad9a64ced9",
+    "sample_index": 3,
+    "page_index": 2,
+    "preview": "sample_3_page_2.html",
+    "result": "sample_3_page_2.json",
+    "transcript": "sample_3_page_2.txt",
+    "raw_count": 47,
+    "group_count": 12
+  },
+  {
+    "sequence_id": "seq_84541a1f4b159018",
+    "sample_index": 4,
+    "page_index": 0,
+    "preview": "sample_4_page_0.html",
+    "result": "sample_4_page_0.json",
+    "transcript": "sample_4_page_0.txt",
+    "raw_count": 42,
+    "group_count": 13
+  },
+  {
+    "sequence_id": "seq_84541a1f4b159018",
+    "sample_index": 4,
+    "page_index": 1,
+    "preview": "sample_4_page_1.html",
+    "result": "sample_4_page_1.json",
+    "transcript": "sample_4_page_1.txt",
+    "raw_count": 39,
+    "group_count": 11
+  },
+  {
+    "sequence_id": "seq_84541a1f4b159018",
+    "sample_index": 4,
+    "page_index": 2,
+    "preview": "sample_4_page_2.html",
+    "result": "sample_4_page_2.json",
+    "transcript": "sample_4_page_2.txt",
+    "raw_count": 42,
+    "group_count": 13
+  },
+  {
+    "sequence_id": "seq_d749b853cf795b6a",
+    "sample_index": 5,
+    "page_index": 0,
+    "preview": "sample_5_page_0.html",
+    "result": "sample_5_page_0.json",
+    "transcript": "sample_5_page_0.txt",
+    "raw_count": 40,
+    "group_count": 9
+  },
+  {
+    "sequence_id": "seq_d749b853cf795b6a",
+    "sample_index": 5,
+    "page_index": 1,
+    "preview": "sample_5_page_1.html",
+    "result": "sample_5_page_1.json",
+    "transcript": "sample_5_page_1.txt",
+    "raw_count": 45,
+    "group_count": 13
+  },
+  {
+    "sequence_id": "seq_d749b853cf795b6a",
+    "sample_index": 5,
+    "page_index": 2,
+    "preview": "sample_5_page_2.html",
+    "result": "sample_5_page_2.json",
+    "transcript": "sample_5_page_2.txt",
+    "raw_count": 18,
+    "group_count": 5
+  },
+  {
+    "sequence_id": "seq_2032620aa4e4ac7f",
+    "sample_index": 6,
+    "page_index": 0,
+    "preview": "sample_6_page_0.html",
+    "result": "sample_6_page_0.json",
+    "transcript": "sample_6_page_0.txt",
+    "raw_count": 29,
+    "group_count": 9
+  },
+  {
+    "sequence_id": "seq_2032620aa4e4ac7f",
+    "sample_index": 6,
+    "page_index": 1,
+    "preview": "sample_6_page_1.html",
+    "result": "sample_6_page_1.json",
+    "transcript": "sample_6_page_1.txt",
+    "raw_count": 10,
+    "group_count": 9
+  },
+  {
+    "sequence_id": "seq_2032620aa4e4ac7f",
+    "sample_index": 6,
+    "page_index": 2,
+    "preview": "sample_6_page_2.html",
+    "result": "sample_6_page_2.json",
+    "transcript": "sample_6_page_2.txt",
+    "raw_count": 26,
+    "group_count": 6
+  },
+  {
+    "sequence_id": "seq_b136f32c2233b97c",
+    "sample_index": 7,
+    "page_index": 0,
+    "preview": "sample_7_page_0.html",
+    "result": "sample_7_page_0.json",
+    "transcript": "sample_7_page_0.txt",
+    "raw_count": 8,
+    "group_count": 4
+  },
+  {
+    "sequence_id": "seq_b136f32c2233b97c",
+    "sample_index": 7,
+    "page_index": 1,
+    "preview": "sample_7_page_1.html",
+    "result": "sample_7_page_1.json",
+    "transcript": "sample_7_page_1.txt",
+    "raw_count": 22,
+    "group_count": 6
+  },
+  {
+    "sequence_id": "seq_b136f32c2233b97c",
+    "sample_index": 7,
+    "page_index": 2,
+    "preview": "sample_7_page_2.html",
+    "result": "sample_7_page_2.json",
+    "transcript": "sample_7_page_2.txt",
+    "raw_count": 28,
+    "group_count": 10
+  },
+  {
+    "sequence_id": "seq_d8afceb0e8f9122d",
+    "sample_index": 8,
+    "page_index": 0,
+    "preview": "sample_8_page_0.html",
+    "result": "sample_8_page_0.json",
+    "transcript": "sample_8_page_0.txt",
+    "raw_count": 28,
+    "group_count": 9
+  },
+  {
+    "sequence_id": "seq_d8afceb0e8f9122d",
+    "sample_index": 8,
+    "page_index": 1,
+    "preview": "sample_8_page_1.html",
+    "result": "sample_8_page_1.json",
+    "transcript": "sample_8_page_1.txt",
+    "raw_count": 22,
+    "group_count": 8
+  },
+  {
+    "sequence_id": "seq_d8afceb0e8f9122d",
+    "sample_index": 8,
+    "page_index": 2,
+    "preview": "sample_8_page_2.html",
+    "result": "sample_8_page_2.json",
+    "transcript": "sample_8_page_2.txt",
+    "raw_count": 19,
+    "group_count": 7
+  },
+  {
+    "sequence_id": "seq_96839890d69d7698",
+    "sample_index": 9,
+    "page_index": 0,
+    "preview": "sample_9_page_0.html",
+    "result": "sample_9_page_0.json",
+    "transcript": "sample_9_page_0.txt",
+    "raw_count": 14,
+    "group_count": 6
+  },
+  {
+    "sequence_id": "seq_96839890d69d7698",
+    "sample_index": 9,
+    "page_index": 1,
+    "preview": "sample_9_page_1.html",
+    "result": "sample_9_page_1.json",
+    "transcript": "sample_9_page_1.txt",
+    "raw_count": 9,
+    "group_count": 5
+  },
+  {
+    "sequence_id": "seq_96839890d69d7698",
+    "sample_index": 9,
+    "page_index": 2,
+    "preview": "sample_9_page_2.html",
+    "result": "sample_9_page_2.json",
+    "transcript": "sample_9_page_2.txt",
+    "raw_count": 15,
+    "group_count": 6
+  },
+  {
+    "sequence_id": "seq_45c9871f52e99417",
+    "sample_index": 10,
+    "page_index": 0,
+    "preview": "sample_10_page_0.html",
+    "result": "sample_10_page_0.json",
+    "transcript": "sample_10_page_0.txt",
+    "raw_count": 48,
+    "group_count": 9
+  },
+  {
+    "sequence_id": "seq_45c9871f52e99417",
+    "sample_index": 10,
+    "page_index": 1,
+    "preview": "sample_10_page_1.html",
+    "result": "sample_10_page_1.json",
+    "transcript": "sample_10_page_1.txt",
+    "raw_count": 25,
+    "group_count": 8
+  },
+  {
+    "sequence_id": "seq_45c9871f52e99417",
+    "sample_index": 10,
+    "page_index": 2,
+    "preview": "sample_10_page_2.html",
+    "result": "sample_10_page_2.json",
+    "transcript": "sample_10_page_2.txt",
+    "raw_count": 16,
+    "group_count": 9
+  },
+  {
+    "sequence_id": "seq_f7f9d9dbf5b05cb5",
+    "sample_index": 11,
+    "page_index": 0,
+    "preview": "sample_11_page_0.html",
+    "result": "sample_11_page_0.json",
+    "transcript": "sample_11_page_0.txt",
+    "raw_count": 27,
+    "group_count": 12
+  },
+  {
+    "sequence_id": "seq_f7f9d9dbf5b05cb5",
+    "sample_index": 11,
+    "page_index": 1,
+    "preview": "sample_11_page_1.html",
+    "result": "sample_11_page_1.json",
+    "transcript": "sample_11_page_1.txt",
+    "raw_count": 19,
+    "group_count": 7
+  },
+  {
+    "sequence_id": "seq_f7f9d9dbf5b05cb5",
+    "sample_index": 11,
+    "page_index": 2,
+    "preview": "sample_11_page_2.html",
+    "result": "sample_11_page_2.json",
+    "transcript": "sample_11_page_2.txt",
+    "raw_count": 31,
+    "group_count": 10
+  },
+  {
+    "sequence_id": "seq_da71f7a842c91090",
+    "sample_index": 12,
+    "page_index": 0,
+    "preview": "sample_12_page_0.html",
+    "result": "sample_12_page_0.json",
+    "transcript": "sample_12_page_0.txt",
+    "raw_count": 44,
+    "group_count": 17
+  },
+  {
+    "sequence_id": "seq_da71f7a842c91090",
+    "sample_index": 12,
+    "page_index": 1,
+    "preview": "sample_12_page_1.html",
+    "result": "sample_12_page_1.json",
+    "transcript": "sample_12_page_1.txt",
+    "raw_count": 32,
+    "group_count": 12
+  },
+  {
+    "sequence_id": "seq_da71f7a842c91090",
+    "sample_index": 12,
+    "page_index": 2,
+    "preview": "sample_12_page_2.html",
+    "result": "sample_12_page_2.json",
+    "transcript": "sample_12_page_2.txt",
+    "raw_count": 51,
+    "group_count": 17
+  },
+  {
+    "sequence_id": "seq_952f154fb1505883",
+    "sample_index": 13,
+    "page_index": 0,
+    "preview": "sample_13_page_0.html",
+    "result": "sample_13_page_0.json",
+    "transcript": "sample_13_page_0.txt",
+    "raw_count": 92,
+    "group_count": 19
+  },
+  {
+    "sequence_id": "seq_952f154fb1505883",
+    "sample_index": 13,
+    "page_index": 1,
+    "preview": "sample_13_page_1.html",
+    "result": "sample_13_page_1.json",
+    "transcript": "sample_13_page_1.txt",
+    "raw_count": 19,
+    "group_count": 9
+  },
+  {
+    "sequence_id": "seq_952f154fb1505883",
+    "sample_index": 13,
+    "page_index": 2,
+    "preview": "sample_13_page_2.html",
+    "result": "sample_13_page_2.json",
+    "transcript": "sample_13_page_2.txt",
+    "raw_count": 68,
+    "group_count": 15
+  },
+  {
+    "sequence_id": "seq_a3bd36201a0cd61b",
+    "sample_index": 14,
+    "page_index": 0,
+    "preview": "sample_14_page_0.html",
+    "result": "sample_14_page_0.json",
+    "transcript": "sample_14_page_0.txt",
+    "raw_count": 40,
+    "group_count": 10
+  },
+  {
+    "sequence_id": "seq_a3bd36201a0cd61b",
+    "sample_index": 14,
+    "page_index": 1,
+    "preview": "sample_14_page_1.html",
+    "result": "sample_14_page_1.json",
+    "transcript": "sample_14_page_1.txt",
+    "raw_count": 42,
+    "group_count": 12
+  },
+  {
+    "sequence_id": "seq_a3bd36201a0cd61b",
+    "sample_index": 14,
+    "page_index": 2,
+    "preview": "sample_14_page_2.html",
+    "result": "sample_14_page_2.json",
+    "transcript": "sample_14_page_2.txt",
+    "raw_count": 47,
+    "group_count": 16
+  },
+  {
+    "sequence_id": "seq_de542b63e6b19bc2",
+    "sample_index": 15,
+    "page_index": 0,
+    "preview": "sample_15_page_0.html",
+    "result": "sample_15_page_0.json",
+    "transcript": "sample_15_page_0.txt",
+    "raw_count": 34,
+    "group_count": 11
+  },
+  {
+    "sequence_id": "seq_de542b63e6b19bc2",
+    "sample_index": 15,
+    "page_index": 1,
+    "preview": "sample_15_page_1.html",
+    "result": "sample_15_page_1.json",
+    "transcript": "sample_15_page_1.txt",
+    "raw_count": 7,
+    "group_count": 4
+  },
+  {
+    "sequence_id": "seq_de542b63e6b19bc2",
+    "sample_index": 15,
+    "page_index": 2,
+    "preview": "sample_15_page_2.html",
+    "result": "sample_15_page_2.json",
+    "transcript": "sample_15_page_2.txt",
+    "raw_count": 8,
+    "group_count": 4
+  }
+]

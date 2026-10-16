@@ -1,0 +1,101 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "BITE ME!",
+    "cleaned_text": "BITE ME!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "DO NOT MIRROR",
+    "cleaned_text": "DO NOT MIRROR",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "I HEARD DEVILS CAN HEAL BY DRINKING BLOOD! YOU DON'T WANNA DIE THEN BITE ME!",
+    "cleaned_text": "I HEARD DEVILS CAN HEAL BY DRINKING BLOOD! YOU DON'T WANNA DIE THEN BITE ME!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "I AIN'T RUNNIN' A CHARITY THOUGH...",
+    "cleaned_text": "I AIN'T RUNNIN' A CHARITY THOUGH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "THIS IS A CONTRACT.",
+    "cleaned_text": "THIS IS A CONTRACT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "I'LL HELP YOU... SO NOW YOU GOTTA HELP ME.",
+    "cleaned_text": "I'LL HELP YOU... SO NOW YOU GOTTA HELP ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "I DON'T WANNA DIE EITHER...",
+    "cleaned_text": "I DON'T WANNA DIE EITHER...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "HOW'S ABOLT HIRIN' ME AS A DEVIL HUNTER?",
+    "cleaned_text": "HOW\u2019S ABOUT HIRING ME AS A DEVIL HUNTER?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "so HUNGRY I CAN'T SLEEP...",
+    "cleaned_text": "so HUNGRY I CAN'T SLEEP...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "I CAN'T SLEEP, SO I KEEP THINKIN' ABOLT THE DEBT, WHICH JUST MAKES IT WORSE...",
+    "cleaned_text": "I CAN'T SLEEP, SO I KEEP THINKING ABOUT THE DEBT, WHICH JUST MAKES IT WORSE...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "...I'VE DECIDED. IF I SLEEP TONIGHT, I'M GONNA DREAM ABOUT...",
+    "cleaned_text": "...I'VE DECIDED. IF I SLEEP TONIGHT, I'M GONNA DREAM ABOUT...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

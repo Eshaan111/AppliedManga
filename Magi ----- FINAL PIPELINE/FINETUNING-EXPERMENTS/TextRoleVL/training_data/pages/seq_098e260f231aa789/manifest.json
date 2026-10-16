@@ -1,0 +1,277 @@
+{
+  "sequence_id": "seq_098e260f231aa789",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "It will be dangerous if the newcomers were to have a standoff with the target Ghoul..."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "I must go ahead and stop them even more than I'd have to go for a subordinate...."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "We have our own way of doing things, so please give up."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "BUT ...!"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "...or perhaps I should say, rank 1 sasaki, was it?"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "The source of all this from the start was"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "that you couldn't control your subordinates, wasn't it?"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "And with that reason demanding \"hand over your data\"..."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Is nothing more than tyranny, don't you think?"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "sensei... let's go already... we don't have time for..."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "It's just as you said; I mismanaged control..."
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "Agree that telling you to freely show me your"
+    },
+    {
+      "id": "PG1:T13",
+      "page": 1,
+      "text": "Precious data can only be called Tyranni- Cal..."
+    },
+    {
+      "id": "PG1:T14",
+      "page": 1,
+      "text": "BUT..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "I do not want to expose my subordinates to danger due to my carelessness...!"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "If we make an achievement then we will hand that over to you."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "IF YOU'D JUST GIVE US THE DATA..."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "SIGH----"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Did you think it'd turn out alright if you just bowed your head...?"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "How troublesome. Doing things like this..."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Is that sort of thing fitting for a Ghoul Investiga- Tor?"
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "Listen to me. You, all of you guys,"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "Well..."
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "\"YOU\" in particular."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Even if it were a human that's an \"upright investigator\" doing this sort of thing,"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "It'd be no good."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "\"Talk-                                                            "
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "WE HAVE AN INVESTIGA- TION."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Please accept it."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "How's the situation looking?"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "sensei..."
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "So... I'm not sure if I'm a fan of the"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T7",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

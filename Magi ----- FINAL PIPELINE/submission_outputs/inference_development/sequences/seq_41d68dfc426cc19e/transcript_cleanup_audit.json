@@ -1,0 +1,209 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "I MADE SOME OKAYU WITH POTATOES TODAY.",
+    "cleaned_text": "I MADE SOME OKAYU WITH POTATOES TODAY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "THERE'S A WHOLE LOT!",
+    "cleaned_text": "THERE'S A WHOLE LOT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "HMPH.",
+    "cleaned_text": "HMPH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "OH, WORKING HARD THERE, OTSU? BE CAREFUL",
+    "cleaned_text": "OH, WORKING HARD THERE, OTSU? BE CAREFUL",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "Otsu's all happy because she can be with Master more since he can't fight.",
+    "cleaned_text": "Otsu\u2019s all happy because she can be with Master more since he can\u2019t fight.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "NOT HUNGRY.",
+    "cleaned_text": "NOT HUNGRY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "HUH!?",
+    "cleaned_text": "HUH!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "IF-- IF YOU DON'T EAT",
+    "cleaned_text": "IF-- IF YOU DON'T EAT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "NOT HUNGRY RIGHT NOW.",
+    "cleaned_text": "NOT HUNGRY RIGHT NOW.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "MUSASHI.",
+    "cleaned_text": "MUSASHI.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "UNKNOWN",
+    "raw_text": "WILL YOU NOT EAT? IT WAS DELICIOUS. A bit salty though...",
+    "cleaned_text": "WILL YOU NOT EAT? IT WAS DELICIOUS. A bit salty though...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "I'LL... HAVE SOME LATER.",
+    "cleaned_text": "I'LL... HAVE SOME LATER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "I DON'T WANT ANY RIGHT NOW.",
+    "cleaned_text": "I DON'T WANT ANY RIGHT NOW.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character5",
+    "raw_text": "HERE.",
+    "cleaned_text": "HERE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "AH. Latet",
+    "cleaned_text": "AH. Latet",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "THERE WE GO.",
+    "cleaned_text": "THERE WE GO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "ARE YOU IN PAIN?",
+    "cleaned_text": "ARE YOU IN PAIN?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "UNKNOWN",
+    "raw_text": "A SINGLE STROKE OF THE SWORD WITH EVERYTHING HE HAD FROM BEHIND... EVEN THE YOSHIOKA COULDN'T CARE ABOUT HOW THEY LOOK TO OTHERS.",
+    "cleaned_text": "A SINGLE STROKE OF THE SWORD WITH EVERYTHING HE HAD FROM BEHIND... EVEN THE YOSHIOKA COULDN'T CARE ABOUT HOW THEY LOOK TO OTHERS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character3",
+    "raw_text": "STAY HERE A WHILE AND RECUPERATE.",
+    "cleaned_text": "STAY HERE A WHILE AND RECUPERATE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character6",
+    "raw_text": "OTSU WILL STAY HERE BY YOUR SIDE.",
+    "cleaned_text": "OTSU WILL STAY HERE BY YOUR SIDE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "EH.",
+    "cleaned_text": "EH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "OH?",
+    "cleaned_text": "OH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "LISTEN, MUSASHI.",
+    "cleaned_text": "LISTEN, MUSASHI.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

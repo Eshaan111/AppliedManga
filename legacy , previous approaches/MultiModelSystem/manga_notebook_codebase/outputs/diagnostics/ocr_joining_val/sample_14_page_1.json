@@ -1,0 +1,713 @@
+{
+  "sequence_id": "seq_a3bd36201a0cd61b",
+  "page_index": 1,
+  "raw_count": 42,
+  "target_count": 8,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c1",
+        "c3"
+      ],
+      "text": "IT'S THE STUDENT COUNCIL!!",
+      "box": [
+        664.0,
+        135.0,
+        787.0,
+        265.0
+      ],
+      "id": "g0",
+      "score": 0.9947405457496643,
+      "target_index": 0,
+      "target_text": "IT'S THE STUDENT COUNCIL!!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c2"
+      ],
+      "text": "M",
+      "box": [
+        833.0,
+        181.0,
+        851.0,
+        192.0
+      ],
+      "id": "g1",
+      "score": 0.4066613018512726,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c4",
+        "c6",
+        "c8",
+        "c10"
+      ],
+      "text": "SHUCHI'IN ACADEMY VICE- PRESIDENT:",
+      "box": [
+        768.0,
+        452.0,
+        864.0,
+        537.0
+      ],
+      "id": "g2",
+      "score": 0.9985349923372269,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c5"
+      ],
+      "text": "BANKS.",
+      "box": [
+        250.0,
+        470.0,
+        289.0,
+        484.0
+      ],
+      "id": "g3",
+      "score": 0.9998469948768616,
+      "target_index": 3,
+      "target_text": "BANKS.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c7"
+      ],
+      "text": "TRAINS.",
+      "box": [
+        355.0,
+        493.0,
+        401.0,
+        508.0
+      ],
+      "id": "g4",
+      "score": 0.999940037727356,
+      "target_index": 2,
+      "target_text": "TRAINS.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c9"
+      ],
+      "text": "CARS.",
+      "box": [
+        178.0,
+        507.0,
+        218.0,
+        526.0
+      ],
+      "id": "g5",
+      "score": 0.9999849200248718,
+      "target_index": 4,
+      "target_text": "CARS.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c16",
+        "c18",
+        "c20"
+      ],
+      "text": "HER FAMILY'S ASSETS TOTAL TWO HUNDRED TRILLION YEN.",
+      "box": [
+        467.0,
+        577.0,
+        542.0,
+        697.0
+      ],
+      "id": "g6",
+      "score": 0.999915633882795,
+      "target_index": 1,
+      "target_text": "HER FAMILY'S ASSETS TOTAL TWO HUNDRED TRILLION YEN.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c15",
+        "c17"
+      ],
+      "text": "KAGUYA SHINOMIYA",
+      "box": [
+        764.0,
+        623.0,
+        869.0,
+        668.0
+      ],
+      "id": "g7",
+      "score": 0.9999777972698212,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c19",
+        "c22",
+        "c24",
+        "c26",
+        "c27"
+      ],
+      "text": "WITH EASILY OVER ONE THOUSAND CHILD COM- PANIES,",
+      "box": [
+        248.0,
+        680.0,
+        326.0,
+        765.0
+      ],
+      "id": "g8",
+      "score": 0.9939176321029664,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c21",
+        "c23",
+        "c25",
+        "c28",
+        "c29",
+        "c30",
+        "c31"
+      ],
+      "text": "THE SHINOMIYA GROUP IS COUNTED AMONG THE BIG FOUR ZAIBATSU.",
+      "box": [
+        109.0,
+        688.0,
+        229.0,
+        863.0
+      ],
+      "id": "g9",
+      "score": 0.9985607010977608,
+      "target_index": 5,
+      "target_text": "WITH EASILY OVER ONE THOUSAND CHILD COMPANIES, THE SHINOMIYA GROUP IS COUNTED AMONG THE BIG FOUR ZAIBATSU.",
+      "similarity": 0.7153284671532847
+    },
+    {
+      "candidate_ids": [
+        "c32",
+        "c34",
+        "c36",
+        "c38",
+        "c40"
+      ],
+      "text": "THE LEADER OF THE ENTIRE GROUP.",
+      "box": [
+        73.0,
+        1006.0,
+        151.0,
+        1134.0
+      ],
+      "id": "g10",
+      "score": 0.9996326923370361,
+      "target_index": 7,
+      "target_text": "THE LEADER OF THE ENTIRE GROUP.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c33",
+        "c35",
+        "c37",
+        "c39",
+        "c41"
+      ],
+      "text": "AND SHE IS THE DAUGHTER OF GAN'AN SHINOMIYA,",
+      "box": [
+        424.0,
+        1012.0,
+        561.0,
+        1139.0
+      ],
+      "id": "g11",
+      "score": 0.9970226287841797,
+      "target_index": 6,
+      "target_text": "AND SHE IS THE DAUGHTER OF GAN'AN SHINOMIYA,",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "IT'S THE",
+      "score": 0.9994782209396362,
+      "box": [
+        673.0,
+        135.0,
+        776.0,
+        183.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "STUDENT",
+      "score": 0.987115740776062,
+      "box": [
+        674.0,
+        178.0,
+        777.0,
+        222.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "M",
+      "score": 0.4066613018512726,
+      "box": [
+        833.0,
+        181.0,
+        851.0,
+        192.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "COUNCIL!!",
+      "score": 0.9976276755332947,
+      "box": [
+        664.0,
+        214.0,
+        787.0,
+        265.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "SHUCHI'IN",
+      "score": 0.9947459101676941,
+      "box": [
+        772.0,
+        452.0,
+        862.0,
+        476.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "BANKS.",
+      "score": 0.9998469948768616,
+      "box": [
+        250.0,
+        470.0,
+        289.0,
+        484.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "ACADEMY",
+      "score": 0.99997478723526,
+      "box": [
+        775.0,
+        476.0,
+        859.0,
+        497.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "TRAINS.",
+      "score": 0.999940037727356,
+      "box": [
+        355.0,
+        493.0,
+        401.0,
+        508.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "VICE-",
+      "score": 0.9996187090873718,
+      "box": [
+        792.0,
+        497.0,
+        842.0,
+        519.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "CARS.",
+      "score": 0.9999849200248718,
+      "box": [
+        178.0,
+        507.0,
+        218.0,
+        526.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "PRESIDENT:",
+      "score": 0.9998005628585815,
+      "box": [
+        768.0,
+        519.0,
+        864.0,
+        537.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "HER",
+      "score": 0.999983012676239,
+      "box": [
+        489.0,
+        577.0,
+        521.0,
+        597.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "FAMILY'S",
+      "score": 0.9999281764030457,
+      "box": [
+        474.0,
+        595.0,
+        535.0,
+        613.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "ASSETS",
+      "score": 0.9999619126319885,
+      "box": [
+        480.0,
+        612.0,
+        529.0,
+        630.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "TOTAL TWO",
+      "score": 0.9999186396598816,
+      "box": [
+        467.0,
+        629.0,
+        542.0,
+        646.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "KAGUYA",
+      "score": 0.9999854564666748,
+      "box": [
+        778.0,
+        623.0,
+        857.0,
+        646.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "HUNDRED",
+      "score": 0.9999455213546753,
+      "box": [
+        471.0,
+        646.0,
+        538.0,
+        663.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "SHINOMIYA",
+      "score": 0.9999701380729675,
+      "box": [
+        764.0,
+        647.0,
+        869.0,
+        668.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "TRILLION",
+      "score": 0.9999569058418274,
+      "box": [
+        474.0,
+        663.0,
+        536.0,
+        680.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "WITH EASILY",
+      "score": 0.9998885989189148,
+      "box": [
+        248.0,
+        680.0,
+        326.0,
+        697.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "YEN.",
+      "score": 0.999715268611908,
+      "box": [
+        487.0,
+        678.0,
+        522.0,
+        697.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "THE",
+      "score": 0.9999938011169434,
+      "box": [
+        147.0,
+        688.0,
+        191.0,
+        712.0
+      ]
+    },
+    {
+      "id": "c22",
+      "text": "OVER ONE",
+      "score": 0.9704729914665222,
+      "box": [
+        252.0,
+        697.0,
+        322.0,
+        714.0
+      ]
+    },
+    {
+      "id": "c23",
+      "text": "SHINOMIYA",
+      "score": 0.9999536871910095,
+      "box": [
+        114.0,
+        712.0,
+        224.0,
+        736.0
+      ]
+    },
+    {
+      "id": "c24",
+      "text": "THOUSAND",
+      "score": 0.9999603033065796,
+      "box": [
+        250.0,
+        714.0,
+        324.0,
+        731.0
+      ]
+    },
+    {
+      "id": "c25",
+      "text": "GROUP IS",
+      "score": 0.9990150928497314,
+      "box": [
+        121.0,
+        738.0,
+        217.0,
+        763.0
+      ]
+    },
+    {
+      "id": "c26",
+      "text": "CHILD COM-",
+      "score": 0.9994083642959595,
+      "box": [
+        248.0,
+        731.0,
+        326.0,
+        748.0
+      ]
+    },
+    {
+      "id": "c27",
+      "text": "PANIES,",
+      "score": 0.9998579025268555,
+      "box": [
+        260.0,
+        747.0,
+        313.0,
+        765.0
+      ]
+    },
+    {
+      "id": "c28",
+      "text": "COUNTED",
+      "score": 0.9999670386314392,
+      "box": [
+        123.0,
+        764.0,
+        214.0,
+        788.0
+      ]
+    },
+    {
+      "id": "c29",
+      "text": "AMONG THE",
+      "score": 0.992277979850769,
+      "box": [
+        109.0,
+        789.0,
+        229.0,
+        813.0
+      ]
+    },
+    {
+      "id": "c30",
+      "text": "BIG FOUR",
+      "score": 0.999893844127655,
+      "box": [
+        120.0,
+        814.0,
+        218.0,
+        838.0
+      ]
+    },
+    {
+      "id": "c31",
+      "text": "ZAIBATSU.",
+      "score": 0.9988234639167786,
+      "box": [
+        119.0,
+        839.0,
+        218.0,
+        863.0
+      ]
+    },
+    {
+      "id": "c32",
+      "text": "THE",
+      "score": 0.9999938011169434,
+      "box": [
+        90.0,
+        1006.0,
+        135.0,
+        1034.0
+      ]
+    },
+    {
+      "id": "c33",
+      "text": "AND",
+      "score": 0.9999709129333496,
+      "box": [
+        468.0,
+        1012.0,
+        516.0,
+        1039.0
+      ]
+    },
+    {
+      "id": "c34",
+      "text": "LEADER",
+      "score": 0.9999840259552002,
+      "box": [
+        75.0,
+        1033.0,
+        150.0,
+        1058.0
+      ]
+    },
+    {
+      "id": "c35",
+      "text": "SHE IS THE",
+      "score": 0.986005425453186,
+      "box": [
+        438.0,
+        1039.0,
+        547.0,
+        1063.0
+      ]
+    },
+    {
+      "id": "c36",
+      "text": "OF THE",
+      "score": 0.9982607960700989,
+      "box": [
+        73.0,
+        1055.0,
+        151.0,
+        1084.0
+      ]
+    },
+    {
+      "id": "c37",
+      "text": "DAUGHTER OF",
+      "score": 0.9995399117469788,
+      "box": [
+        424.0,
+        1065.0,
+        561.0,
+        1086.0
+      ]
+    },
+    {
+      "id": "c38",
+      "text": "ENTIRE",
+      "score": 0.999943733215332,
+      "box": [
+        78.0,
+        1083.0,
+        148.0,
+        1109.0
+      ]
+    },
+    {
+      "id": "c39",
+      "text": "GAN'AN",
+      "score": 0.9996787905693054,
+      "box": [
+        454.0,
+        1091.0,
+        531.0,
+        1113.0
+      ]
+    },
+    {
+      "id": "c40",
+      "text": "GROUP.",
+      "score": 0.9999811053276062,
+      "box": [
+        74.0,
+        1109.0,
+        150.0,
+        1134.0
+      ]
+    },
+    {
+      "id": "c41",
+      "text": "SHINOMIYA,",
+      "score": 0.9999181032180786,
+      "box": [
+        434.0,
+        1115.0,
+        549.0,
+        1139.0
+      ]
+    }
+  ],
+  "transcript": "IT'S THE STUDENT COUNCIL!!\nM\nSHUCHI'IN ACADEMY VICE- PRESIDENT:\nBANKS.\nTRAINS.\nCARS.\nHER FAMILY'S ASSETS TOTAL TWO HUNDRED TRILLION YEN.\nKAGUYA SHINOMIYA\nWITH EASILY OVER ONE THOUSAND CHILD COM- PANIES,\nTHE SHINOMIYA GROUP IS COUNTED AMONG THE BIG FOUR ZAIBATSU.\nTHE LEADER OF THE ENTIRE GROUP.\nAND SHE IS THE DAUGHTER OF GAN'AN SHINOMIYA,",
+  "sample_index": 14,
+  "preview_file": "sample_14_page_1.html"
+}

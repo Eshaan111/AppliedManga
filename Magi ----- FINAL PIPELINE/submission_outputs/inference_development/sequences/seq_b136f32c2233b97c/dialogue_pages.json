@@ -1,0 +1,133 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "HI",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T2",
+        "PG1:T3"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "POCHITA... I'LL PROBABLY GET MYSELF KILLED FIGHTING DEVILS BEFORE LONG.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T2",
+      "box_ids": [
+        "PG2:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IF THAT HAPPENS, I'M WORRIED ABOUT WHAT'LL HAPPEN TO YOU.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T3",
+        "PG2:T4"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YOU MIGHT STARVE TO DEATH, OR MAYBE GET TAKEN OUT BY ANOTHER DEVIL HUNTER.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I HEARD THERE ARE DEVILS WHO CAN TAKE OVER DEAD PEOPLE'S BODIES.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T1",
+        "PG3:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IF YOU CAN DO THAT... THEN I'LL GIVE YA MY BODY...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M2",
+      "box_ids": [
+        "PG3:T3",
+        "PG3:T4"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AFTER I'M IN MY GRAVE, THE YAKUIZA'LL FORGET ABOLIT ME. YOU CAN LEAVE THIS TOWN...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T5",
+      "box_ids": [
+        "PG3:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND THEN...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "YEAH...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T7",
+      "box_ids": [
+        "PG3:T7"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'D BE NICE IF YOU COULD HAVE A NORMAL LIFE",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T8",
+      "box_ids": [
+        "PG3:T8"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND DIE A NORMAL DEATH.",
+      "needs_review": false
+    }
+  ]
+]

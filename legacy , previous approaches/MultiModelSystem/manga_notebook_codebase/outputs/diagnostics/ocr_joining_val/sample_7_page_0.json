@@ -1,0 +1,177 @@
+{
+  "sequence_id": "seq_b136f32c2233b97c",
+  "page_index": 0,
+  "raw_count": 8,
+  "target_count": 1,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "text": "I'LL PROBABLY GET MYSELF KILLED FIGHTING DEVILS BEFORE LONG.",
+      "box": [
+        53.0,
+        542.0,
+        242.0,
+        641.0
+      ],
+      "id": "g0",
+      "score": 0.997912809252739,
+      "target_index": 0,
+      "target_text": "POCHITA... I'LL PROBABLY GET MYSELF KILLED FIGHTING DEVILS BEFORE LONG.",
+      "similarity": 0.9345794392523364
+    },
+    {
+      "candidate_ids": [
+        "c1"
+      ],
+      "text": "POCHITA...",
+      "box": [
+        253.0,
+        554.0,
+        364.0,
+        584.0
+      ],
+      "id": "g1",
+      "score": 0.9963144063949585,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c5"
+      ],
+      "text": "MANGA",
+      "box": [
+        798.0,
+        1212.0,
+        870.0,
+        1252.0
+      ],
+      "id": "g2",
+      "score": 0.9999515414237976,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c6",
+        "c7"
+      ],
+      "text": "STREAM DONOTMIRROR",
+      "box": [
+        802.0,
+        1222.0,
+        891.0,
+        1274.0
+      ],
+      "id": "g3",
+      "score": 0.9991306364536285,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "I'LL PROBABLY",
+      "score": 0.9998217225074768,
+      "box": [
+        70.0,
+        542.0,
+        226.0,
+        569.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "POCHITA...",
+      "score": 0.9963144063949585,
+      "box": [
+        253.0,
+        554.0,
+        364.0,
+        584.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "GET MYSELF KILLED",
+      "score": 0.9998676180839539,
+      "box": [
+        53.0,
+        568.0,
+        242.0,
+        592.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "FIGHTING DEVILS",
+      "score": 0.9999331831932068,
+      "box": [
+        53.0,
+        593.0,
+        241.0,
+        616.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "BEFORE LONG.",
+      "score": 0.9920287132263184,
+      "box": [
+        71.0,
+        617.0,
+        222.0,
+        641.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "MANGA",
+      "score": 0.9999515414237976,
+      "box": [
+        798.0,
+        1212.0,
+        870.0,
+        1252.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "STREAM",
+      "score": 0.9992063641548157,
+      "box": [
+        802.0,
+        1222.0,
+        891.0,
+        1267.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "DONOTMIRROR",
+      "score": 0.9990549087524414,
+      "box": [
+        808.0,
+        1243.0,
+        877.0,
+        1274.0
+      ]
+    }
+  ],
+  "transcript": "I'LL PROBABLY GET MYSELF KILLED FIGHTING DEVILS BEFORE LONG.\nPOCHITA...\nMANGA\nSTREAM DONOTMIRROR",
+  "sample_index": 7,
+  "preview_file": "sample_7_page_0.html"
+}

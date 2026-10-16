@@ -1,0 +1,123 @@
+{
+  "audited_at": "2026-10-15T16:14:24.636386+00:00",
+  "output_dir": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\cache_artifact_contour_full_inference\\seq_2fae297a18af2a57\\a922ef5f36d9a3aa\\outputs",
+  "notebook_sha256": "07b06bf976307017a42f3e05931a8519af5a74b77f74109fc29cb4e6f8fc21dc",
+  "reference_labels_read": false,
+  "model_inference_run": false,
+  "predictions_modified": false,
+  "schema": {
+    "transcript.jsonl": {
+      "valid": true,
+      "sequence_ids": [
+        "seq_2fae297a18af2a57"
+      ]
+    },
+    "transcript_raw.jsonl": {
+      "valid": true,
+      "sequence_ids": [
+        "seq_2fae297a18af2a57"
+      ]
+    }
+  },
+  "membership": {
+    "exact_once": true,
+    "surviving_boxes": 24,
+    "grouped_members": 24
+  },
+  "original_boxes": 28,
+  "groups": 21,
+  "deleted_boxes": [
+    {
+      "box_id": "PG1:T1",
+      "reason": "Gemma classification",
+      "paddle": "MANGA STREAM DO NOT MIRROR",
+      "magi": "MANGA STREAN, DO NOTMIROR"
+    },
+    {
+      "box_id": "PG1:T7",
+      "reason": "Paddle OCR empty; no Magi punctuation fallback",
+      "paddle": "",
+      "magi": "Though you look at the bottom-of-the-the-the-art-a-a-a-a-a-th-th-th-th-th-th-th-th-th-th-th-th-th-th-th-th-th-th-"
+    },
+    {
+      "box_id": "PG2:T9",
+      "reason": "Gemma classification",
+      "paddle": "MANGA STREAM DO NOT MIRROR",
+      "magi": "MANGEST STANDARD DO NOT NIRROR"
+    },
+    {
+      "box_id": "PG3:T3",
+      "reason": "Gemma classification",
+      "paddle": "MANGA STREAM.. DO NOT BRROR",
+      "magi": "MANGAS STREAM, do not monitor"
+    }
+  ],
+  "roles": {
+    "SPOKEN": 21
+  },
+  "speaker_status": {
+    "linked": 19,
+    "unassociated": 2
+  },
+  "review_groups": [
+    "PG1:T9",
+    "PG1:T10"
+  ],
+  "tail_override_groups": 20,
+  "noncontiguous_merge_groups": [],
+  "cleanup_changed_entries": 6,
+  "cleanup_numeric_change_flags": [
+    {
+      "page_index": 0,
+      "row_index": 5,
+      "speaker": "UNKNOWN",
+      "raw_text": "I'M TAKING OHT 17O GRAND tO COVER YOUR LOAN AND INTEREST PAYMENTS.",
+      "cleaned_text": "I\u2019M TAKING TO GRAND TO COVER YOUR LOAN AND INTEREST PAYMENTS.",
+      "changed": true,
+      "empty_output_fallback": false
+    }
+  ],
+  "direct_decision_cases": [
+    {
+      "paddle": "",
+      "magi": "Readable sentence.",
+      "decision": [
+        "Artifact",
+        "Paddle OCR empty; no Magi punctuation fallback"
+      ]
+    },
+    {
+      "paddle": "",
+      "magi": "...",
+      "decision": [
+        "Text",
+        "Magi punctuation fallback: Paddle OCR empty"
+      ]
+    },
+    {
+      "paddle": "I",
+      "magi": "I",
+      "decision": [
+        null,
+        null
+      ]
+    },
+    {
+      "paddle": "0",
+      "magi": "0",
+      "decision": [
+        null,
+        null
+      ]
+    },
+    {
+      "paddle": "~~~~~",
+      "magi": "",
+      "decision": [
+        null,
+        null
+      ]
+    }
+  ],
+  "limits": "A single saved run and synthetic checks; no accuracy claim. Numeric flags require review. Saved outputs may precede current notebook edits."
+}

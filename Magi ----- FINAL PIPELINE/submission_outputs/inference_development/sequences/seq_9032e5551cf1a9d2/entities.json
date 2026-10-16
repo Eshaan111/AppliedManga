@@ -1,0 +1,732 @@
+{
+  "entities": {
+    "E1": {
+      "clusters": [
+        "PG1:CL1",
+        "PG2:CL1",
+        "PG3:CL4"
+      ],
+      "members": [
+        {
+          "page_index": 0,
+          "character_index": 0,
+          "character_id": "PG1:C1",
+          "cluster_id": "PG1:CL1"
+        },
+        {
+          "page_index": 0,
+          "character_index": 5,
+          "character_id": "PG1:C6",
+          "cluster_id": "PG1:CL1"
+        },
+        {
+          "page_index": 1,
+          "character_index": 0,
+          "character_id": "PG2:C1",
+          "cluster_id": "PG2:CL1"
+        },
+        {
+          "page_index": 1,
+          "character_index": 9,
+          "character_id": "PG2:C10",
+          "cluster_id": "PG2:CL1"
+        },
+        {
+          "page_index": 1,
+          "character_index": 11,
+          "character_id": "PG2:C12",
+          "cluster_id": "PG2:CL1"
+        },
+        {
+          "page_index": 2,
+          "character_index": 4,
+          "character_id": "PG3:C5",
+          "cluster_id": "PG3:CL4"
+        }
+      ]
+    },
+    "E2": {
+      "clusters": [
+        "PG1:CL2",
+        "PG2:CL6"
+      ],
+      "members": [
+        {
+          "page_index": 0,
+          "character_index": 1,
+          "character_id": "PG1:C2",
+          "cluster_id": "PG1:CL2"
+        },
+        {
+          "page_index": 0,
+          "character_index": 7,
+          "character_id": "PG1:C8",
+          "cluster_id": "PG1:CL2"
+        },
+        {
+          "page_index": 0,
+          "character_index": 10,
+          "character_id": "PG1:C11",
+          "cluster_id": "PG1:CL2"
+        },
+        {
+          "page_index": 1,
+          "character_index": 5,
+          "character_id": "PG2:C6",
+          "cluster_id": "PG2:CL6"
+        }
+      ]
+    },
+    "E3": {
+      "clusters": [
+        "PG1:CL3",
+        "PG2:CL4",
+        "PG3:CL1"
+      ],
+      "members": [
+        {
+          "page_index": 0,
+          "character_index": 2,
+          "character_id": "PG1:C3",
+          "cluster_id": "PG1:CL3"
+        },
+        {
+          "page_index": 0,
+          "character_index": 12,
+          "character_id": "PG1:C13",
+          "cluster_id": "PG1:CL3"
+        },
+        {
+          "page_index": 1,
+          "character_index": 3,
+          "character_id": "PG2:C4",
+          "cluster_id": "PG2:CL4"
+        },
+        {
+          "page_index": 1,
+          "character_index": 6,
+          "character_id": "PG2:C7",
+          "cluster_id": "PG2:CL4"
+        },
+        {
+          "page_index": 2,
+          "character_index": 0,
+          "character_id": "PG3:C1",
+          "cluster_id": "PG3:CL1"
+        },
+        {
+          "page_index": 2,
+          "character_index": 1,
+          "character_id": "PG3:C2",
+          "cluster_id": "PG3:CL1"
+        },
+        {
+          "page_index": 2,
+          "character_index": 9,
+          "character_id": "PG3:C10",
+          "cluster_id": "PG3:CL1"
+        },
+        {
+          "page_index": 2,
+          "character_index": 10,
+          "character_id": "PG3:C11",
+          "cluster_id": "PG3:CL1"
+        }
+      ]
+    },
+    "E4": {
+      "clusters": [
+        "PG1:CL4"
+      ],
+      "members": [
+        {
+          "page_index": 0,
+          "character_index": 3,
+          "character_id": "PG1:C4",
+          "cluster_id": "PG1:CL4"
+        }
+      ]
+    },
+    "E5": {
+      "clusters": [
+        "PG1:CL5",
+        "PG2:CL2",
+        "PG3:CL3"
+      ],
+      "members": [
+        {
+          "page_index": 0,
+          "character_index": 4,
+          "character_id": "PG1:C5",
+          "cluster_id": "PG1:CL5"
+        },
+        {
+          "page_index": 1,
+          "character_index": 1,
+          "character_id": "PG2:C2",
+          "cluster_id": "PG2:CL2"
+        },
+        {
+          "page_index": 2,
+          "character_index": 3,
+          "character_id": "PG3:C4",
+          "cluster_id": "PG3:CL3"
+        },
+        {
+          "page_index": 2,
+          "character_index": 7,
+          "character_id": "PG3:C8",
+          "cluster_id": "PG3:CL3"
+        },
+        {
+          "page_index": 2,
+          "character_index": 11,
+          "character_id": "PG3:C12",
+          "cluster_id": "PG3:CL3"
+        },
+        {
+          "page_index": 2,
+          "character_index": 14,
+          "character_id": "PG3:C15",
+          "cluster_id": "PG3:CL3"
+        }
+      ]
+    },
+    "E6": {
+      "clusters": [
+        "PG1:CL6"
+      ],
+      "members": [
+        {
+          "page_index": 0,
+          "character_index": 6,
+          "character_id": "PG1:C7",
+          "cluster_id": "PG1:CL6"
+        }
+      ]
+    },
+    "E7": {
+      "clusters": [
+        "PG1:CL7"
+      ],
+      "members": [
+        {
+          "page_index": 0,
+          "character_index": 8,
+          "character_id": "PG1:C9",
+          "cluster_id": "PG1:CL7"
+        }
+      ]
+    },
+    "E8": {
+      "clusters": [
+        "PG1:CL8",
+        "PG2:CL10",
+        "PG3:CL8"
+      ],
+      "members": [
+        {
+          "page_index": 0,
+          "character_index": 9,
+          "character_id": "PG1:C10",
+          "cluster_id": "PG1:CL8"
+        },
+        {
+          "page_index": 1,
+          "character_index": 12,
+          "character_id": "PG2:C13",
+          "cluster_id": "PG2:CL10"
+        },
+        {
+          "page_index": 2,
+          "character_index": 12,
+          "character_id": "PG3:C13",
+          "cluster_id": "PG3:CL8"
+        }
+      ]
+    },
+    "E9": {
+      "clusters": [
+        "PG1:CL9"
+      ],
+      "members": [
+        {
+          "page_index": 0,
+          "character_index": 11,
+          "character_id": "PG1:C12",
+          "cluster_id": "PG1:CL9"
+        }
+      ]
+    },
+    "E10": {
+      "clusters": [
+        "PG2:CL3"
+      ],
+      "members": [
+        {
+          "page_index": 1,
+          "character_index": 2,
+          "character_id": "PG2:C3",
+          "cluster_id": "PG2:CL3"
+        }
+      ]
+    },
+    "E11": {
+      "clusters": [
+        "PG2:CL5"
+      ],
+      "members": [
+        {
+          "page_index": 1,
+          "character_index": 4,
+          "character_id": "PG2:C5",
+          "cluster_id": "PG2:CL5"
+        }
+      ]
+    },
+    "E12": {
+      "clusters": [
+        "PG2:CL7"
+      ],
+      "members": [
+        {
+          "page_index": 1,
+          "character_index": 7,
+          "character_id": "PG2:C8",
+          "cluster_id": "PG2:CL7"
+        }
+      ]
+    },
+    "E13": {
+      "clusters": [
+        "PG2:CL8"
+      ],
+      "members": [
+        {
+          "page_index": 1,
+          "character_index": 8,
+          "character_id": "PG2:C9",
+          "cluster_id": "PG2:CL8"
+        }
+      ]
+    },
+    "E14": {
+      "clusters": [
+        "PG2:CL9"
+      ],
+      "members": [
+        {
+          "page_index": 1,
+          "character_index": 10,
+          "character_id": "PG2:C11",
+          "cluster_id": "PG2:CL9"
+        }
+      ]
+    },
+    "E15": {
+      "clusters": [
+        "PG3:CL2"
+      ],
+      "members": [
+        {
+          "page_index": 2,
+          "character_index": 2,
+          "character_id": "PG3:C3",
+          "cluster_id": "PG3:CL2"
+        }
+      ]
+    },
+    "E16": {
+      "clusters": [
+        "PG3:CL5"
+      ],
+      "members": [
+        {
+          "page_index": 2,
+          "character_index": 5,
+          "character_id": "PG3:C6",
+          "cluster_id": "PG3:CL5"
+        }
+      ]
+    },
+    "E17": {
+      "clusters": [
+        "PG3:CL6"
+      ],
+      "members": [
+        {
+          "page_index": 2,
+          "character_index": 6,
+          "character_id": "PG3:C7",
+          "cluster_id": "PG3:CL6"
+        }
+      ]
+    },
+    "E18": {
+      "clusters": [
+        "PG3:CL7"
+      ],
+      "members": [
+        {
+          "page_index": 2,
+          "character_index": 8,
+          "character_id": "PG3:C9",
+          "cluster_id": "PG3:CL7"
+        }
+      ]
+    },
+    "E19": {
+      "clusters": [
+        "PG3:CL9"
+      ],
+      "members": [
+        {
+          "page_index": 2,
+          "character_index": 13,
+          "character_id": "PG3:C14",
+          "cluster_id": "PG3:CL9"
+        }
+      ]
+    },
+    "E20": {
+      "clusters": [
+        "PG3:CL10"
+      ],
+      "members": [
+        {
+          "page_index": 2,
+          "character_index": 15,
+          "character_id": "PG3:C16",
+          "cluster_id": "PG3:CL10"
+        }
+      ]
+    },
+    "E21": {
+      "clusters": [
+        "PG3:CL11"
+      ],
+      "members": [
+        {
+          "page_index": 2,
+          "character_index": 16,
+          "character_id": "PG3:C17",
+          "cluster_id": "PG3:CL11"
+        }
+      ]
+    }
+  },
+  "char_to_entity": {
+    "PG1:C1": "E1",
+    "PG1:C6": "E1",
+    "PG1:C2": "E2",
+    "PG1:C8": "E2",
+    "PG1:C11": "E2",
+    "PG1:C3": "E3",
+    "PG1:C13": "E3",
+    "PG1:C4": "E4",
+    "PG1:C5": "E5",
+    "PG1:C7": "E6",
+    "PG1:C9": "E7",
+    "PG1:C10": "E8",
+    "PG1:C12": "E9",
+    "PG2:C1": "E1",
+    "PG2:C10": "E1",
+    "PG2:C12": "E1",
+    "PG2:C2": "E5",
+    "PG2:C3": "E10",
+    "PG2:C4": "E3",
+    "PG2:C7": "E3",
+    "PG2:C5": "E11",
+    "PG2:C6": "E2",
+    "PG2:C8": "E12",
+    "PG2:C9": "E13",
+    "PG2:C11": "E14",
+    "PG2:C13": "E8",
+    "PG3:C1": "E3",
+    "PG3:C2": "E3",
+    "PG3:C10": "E3",
+    "PG3:C11": "E3",
+    "PG3:C3": "E15",
+    "PG3:C4": "E5",
+    "PG3:C8": "E5",
+    "PG3:C12": "E5",
+    "PG3:C15": "E5",
+    "PG3:C5": "E1",
+    "PG3:C6": "E16",
+    "PG3:C7": "E17",
+    "PG3:C9": "E18",
+    "PG3:C13": "E8",
+    "PG3:C14": "E19",
+    "PG3:C16": "E20",
+    "PG3:C17": "E21"
+  },
+  "decisions": [
+    {
+      "page_index": 0,
+      "cluster_id": "PG1:CL1",
+      "entity_id": "E1",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 0,
+      "cluster_id": "PG1:CL2",
+      "entity_id": "E2",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 0,
+      "cluster_id": "PG1:CL3",
+      "entity_id": "E3",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 0,
+      "cluster_id": "PG1:CL4",
+      "entity_id": "E4",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 0,
+      "cluster_id": "PG1:CL5",
+      "entity_id": "E5",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 0,
+      "cluster_id": "PG1:CL6",
+      "entity_id": "E6",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 0,
+      "cluster_id": "PG1:CL7",
+      "entity_id": "E7",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 0,
+      "cluster_id": "PG1:CL8",
+      "entity_id": "E8",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 0,
+      "cluster_id": "PG1:CL9",
+      "entity_id": "E9",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 1,
+      "cluster_id": "PG2:CL1",
+      "entity_id": "E1",
+      "reason": "matched",
+      "score": 0.9491521355373087,
+      "best_pair": {
+        "current": "PG2:C10",
+        "existing": "PG1:C6"
+      }
+    },
+    {
+      "page_index": 1,
+      "cluster_id": "PG2:CL2",
+      "entity_id": "E5",
+      "reason": "matched",
+      "score": 0.8633501240192616,
+      "best_pair": {
+        "current": "PG2:C2",
+        "existing": "PG1:C5"
+      }
+    },
+    {
+      "page_index": 1,
+      "cluster_id": "PG2:CL3",
+      "entity_id": "E10",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 1,
+      "cluster_id": "PG2:CL4",
+      "entity_id": "E3",
+      "reason": "matched",
+      "score": 0.8919705515527874,
+      "best_pair": {
+        "current": "PG2:C4",
+        "existing": "PG1:C13"
+      }
+    },
+    {
+      "page_index": 1,
+      "cluster_id": "PG2:CL5",
+      "entity_id": "E11",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 1,
+      "cluster_id": "PG2:CL6",
+      "entity_id": "E2",
+      "reason": "matched",
+      "score": 0.8688900793435536,
+      "best_pair": {
+        "current": "PG2:C6",
+        "existing": "PG1:C11"
+      }
+    },
+    {
+      "page_index": 1,
+      "cluster_id": "PG2:CL7",
+      "entity_id": "E12",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 1,
+      "cluster_id": "PG2:CL8",
+      "entity_id": "E13",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 1,
+      "cluster_id": "PG2:CL9",
+      "entity_id": "E14",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 1,
+      "cluster_id": "PG2:CL10",
+      "entity_id": "E8",
+      "reason": "matched",
+      "score": 0.8336007431328422,
+      "best_pair": {
+        "current": "PG2:C13",
+        "existing": "PG1:C10"
+      }
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL1",
+      "entity_id": "E3",
+      "reason": "matched",
+      "score": 0.9751165775408133,
+      "best_pair": {
+        "current": "PG3:C11",
+        "existing": "PG1:C13"
+      }
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL2",
+      "entity_id": "E15",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL3",
+      "entity_id": "E5",
+      "reason": "matched",
+      "score": 0.9187141189229504,
+      "best_pair": {
+        "current": "PG3:C8",
+        "existing": "PG2:C2"
+      }
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL4",
+      "entity_id": "E1",
+      "reason": "matched",
+      "score": 0.9156130661675692,
+      "best_pair": {
+        "current": "PG3:C5",
+        "existing": "PG2:C12"
+      }
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL5",
+      "entity_id": "E16",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL6",
+      "entity_id": "E17",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL7",
+      "entity_id": "E18",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL8",
+      "entity_id": "E8",
+      "reason": "matched",
+      "score": 0.8659122855436296,
+      "best_pair": {
+        "current": "PG3:C13",
+        "existing": "PG2:C13"
+      }
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL9",
+      "entity_id": "E19",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL10",
+      "entity_id": "E20",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    },
+    {
+      "page_index": 2,
+      "cluster_id": "PG3:CL11",
+      "entity_id": "E21",
+      "reason": "new_entity",
+      "score": null,
+      "best_pair": null
+    }
+  ]
+}

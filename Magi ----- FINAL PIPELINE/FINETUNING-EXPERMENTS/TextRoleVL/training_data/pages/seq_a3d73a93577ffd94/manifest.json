@@ -1,0 +1,75 @@
+{
+  "sequence_id": "seq_a3d73a93577ffd94",
+  "texts": [
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Miyamoto Musashi."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "The fastest way for me to rise in the ranks of the martial arts masters at this point in time..."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "...Is to slay you."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "!?!???!?"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "haha,"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "haha,"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Yeah,"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "haah..."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "haah..."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "..."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL1"
+    }
+  ]
+}

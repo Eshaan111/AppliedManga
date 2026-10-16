@@ -1,0 +1,1421 @@
+{
+  "sequence_id": "seq_fb6d15ad78b7191c",
+  "pages": [
+    {
+      "name": "01.png",
+      "sha256": "1e07c7a7191e77cee71f0d1264d059e9b516202cc4d677a1adbf9ae833edd0d8",
+      "width": 978,
+      "height": 1400
+    },
+    {
+      "name": "02.png",
+      "sha256": "bf4b8f5a0e6adfb8f4d83bdd2f9c23840adbbafaedc4bb8697f3044a4dfe62bf",
+      "width": 974,
+      "height": 1400
+    },
+    {
+      "name": "03.png",
+      "sha256": "f2c1803755f69b6febcd41aefa9621b7ae1b325a65ae093b91610934b634f5dd",
+      "width": 980,
+      "height": 1400
+    }
+  ],
+  "narration_method": "contour_narrator2",
+  "contour": {
+    "module_sha256": "d3762e035328fa996247aad9583ac6dc600c61c5d360788d5f99f0f8e7ad6a0b",
+    "grouping_sha256": "bfeac1c6433f3e6490e18bc61e472485eab9907511ccfc0d4de6ac9c0224f971",
+    "check": {
+      "expand": 0.2,
+      "dark_threshold": 180,
+      "white_threshold": 210,
+      "close_kernel": 3,
+      "text_padding": 2,
+      "min_text_coverage": 0.95,
+      "min_white_fraction": 0.85,
+      "min_border_dark_fraction": 0.2,
+      "min_candidate_iou": 0.35,
+      "max_area_ratio": 1.7,
+      "rectangle_fill": 0.88,
+      "rounded_max_fill": 0.9,
+      "min_solidity": 0.85,
+      "boundary_samples": 256,
+      "curve_window": 12,
+      "straight_tolerance_px": 0.8,
+      "straight_tolerance_fraction": 0.015,
+      "sharp_turn_deg": 18,
+      "mixed_min_flat": 0.15,
+      "mixed_min_curved": 0.12,
+      "crop_edge_margin_px": 1,
+      "max_crop_edge_fraction": 0.02,
+      "min_supported_boundary_fraction": 0.85,
+      "max_unsupported_fraction": 0.1
+    },
+    "region": {
+      "min_text_coverage": 0.9,
+      "min_outside_fraction": 0.15,
+      "min_area_ratio": 1.15,
+      "min_white_fraction": 0.85,
+      "min_solid_fraction": 0.85,
+      "color_tolerance": 25,
+      "min_visible_points": 16,
+      "min_curved_fraction": 0.12,
+      "min_curve_run": 6,
+      "min_sharp_fraction": 0.12,
+      "min_sharp_run": 6,
+      "curve_arc_text_scale": 0.35,
+      "curve_arc_min_px": 10,
+      "curve_turn_min_deg": 20,
+      "curve_direction_consistency": 0.65,
+      "curve_bulge_text_scale": 0.025,
+      "rectangle_fill": 0.94,
+      "box_axis_tolerance_deg": 12,
+      "box_axis_fraction": 0.9,
+      "edge_margin": 2
+    },
+    "faint_region": {
+      "local_window": 15,
+      "min_contrast": 7,
+      "max_line_gray": 245,
+      "close_kernel": 3,
+      "canny_low": 8,
+      "canny_high": 24,
+      "suspicious_crop_fraction": 0.25,
+      "min_visible_support": 0.65,
+      "caption_crop_fraction": 0.1,
+      "caption_visible_fraction": 0.8
+    },
+    "group_faint": {
+      "enabled": true,
+      "local_window": 15,
+      "min_local_contrast": 7,
+      "max_line_gray": 245,
+      "close_kernel": 3
+    }
+  },
+  "bubble_weights_sha256": "8f953bce05813fa68c9c99d487cb7c6a4fd38bb827ac5ab4bca042b209a0f744",
+  "bubble_settings": {
+    "imgsz": 1024,
+    "confidence": 0.25
+  },
+  "character_checkpoint": {
+    "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2\\magi_crop_last_2_blocks.pt",
+    "sha256": "7625eacf104d44ececb33ac7f3157487a5dd3ee474e2532a1a1f0b812b8848ff",
+    "epoch": 20,
+    "trained_blocks": 2
+  },
+  "entity_threshold": 0.82,
+  "association_head": "original_magi",
+  "tail_override": true,
+  "ocr_filter": {
+    "method": "Paddle-only local Gemma",
+    "agreement_deletion": false,
+    "punctuation_fallback_requires_bubble": true
+  },
+  "dependencies": {
+    "helpers": [
+      {
+        "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\contour_narrator2.py",
+        "sha256": "d3762e035328fa996247aad9583ac6dc600c61c5d360788d5f99f0f8e7ad6a0b",
+        "role": "background regions and SPOKEN/NARRATED"
+      },
+      {
+        "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\contour_grouping.py",
+        "sha256": "bfeac1c6433f3e6490e18bc61e472485eab9907511ccfc0d4de6ac9c0224f971",
+        "role": "individual boundaries, faint retry and overlap groups"
+      }
+    ],
+    "models": {
+      "magi": {
+        "path": "C:\\MODELS\\magiv2",
+        "revision": "local-magiv2-1",
+        "files": [
+          {
+            "name": ".cache\\huggingface\\trees\\fbc890fec52977142e8ee00bfe26e9458b65517c.json",
+            "size": 1100,
+            "mtime_ns": 1791119353761620600,
+            "sha256": "d4a8bba2b21ab3182d7daee383f12bf3b36487512794d81c310097b44952a78f"
+          },
+          {
+            "name": "config.json",
+            "size": 13383,
+            "mtime_ns": 1791119354550928100,
+            "sha256": "d55b3b0b6c16d61c97c4afd79b0d0e9b2371a4a3442f7dbef2ff838cb089e19f"
+          },
+          {
+            "name": "configuration_magiv2.py",
+            "size": 1696,
+            "mtime_ns": 1791119354527241500,
+            "sha256": "28e65be99f4287dea300a49ae65ced263054b756113d1f37baf8f1b0fd94e72b"
+          },
+          {
+            "name": "modelling_magiv2.py",
+            "size": 40723,
+            "mtime_ns": 1791119354527241500,
+            "sha256": "1188ebcb84985fe812e222e51bf0889c586bdbe6f2913f7cbefaf43ffe74e6de"
+          },
+          {
+            "name": "processing_magiv2.py",
+            "size": 10060,
+            "mtime_ns": 1791119354589654400,
+            "sha256": "2ff8e760e65848ee5d02eaca84ce24381ced97e4cbcf26d2f838d05362a946a8"
+          },
+          {
+            "name": "pytorch_model.bin",
+            "size": 2063693064,
+            "mtime_ns": 1791119926878338600,
+            "sha256": null
+          },
+          {
+            "name": "utils.py",
+            "size": 16433,
+            "mtime_ns": 1791119354531240700,
+            "sha256": "ea9d9182ee2d02f8dba1cca634dfc3e3528bab50de9e9efa286822ac5ee3195f"
+          }
+        ]
+      },
+      "character_checkpoint": {
+        "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2\\magi_crop_last_2_blocks.pt",
+        "sha256": "7625eacf104d44ececb33ac7f3157487a5dd3ee474e2532a1a1f0b812b8848ff",
+        "epoch": 20,
+        "trained_blocks": 2
+      },
+      "gemma": {
+        "path": "C:\\MODELS\\gemma-3-4b-it",
+        "files": {
+          ".cache\\huggingface\\trees\\093f9f388b31de276ce2de164bdc2081324b9767.json": {
+            "size": 2512,
+            "mtime_ns": 1791875061597372100,
+            "sha256": "89efc16588c41cb66780c44550e1fd2565d5a1f61d553d67ab2c1d51d8c5ea52"
+          },
+          "added_tokens.json": {
+            "size": 35,
+            "mtime_ns": 1791875062145788000,
+            "sha256": "50b2f405ba56a26d4913fd772089992252d7f942123cc0a034d96424221ba946"
+          },
+          "chat_template.json": {
+            "size": 1615,
+            "mtime_ns": 1791875062110519500,
+            "sha256": "fe16baf728db49457cde32802cd7efc0ac8a7a9877dbe22fe3322b2d9dc6ccd9"
+          },
+          "config.json": {
+            "size": 855,
+            "mtime_ns": 1791875062131300400,
+            "sha256": "9059f680f4dbd1957f35cb44b9fdd6948f4792db7a7a35ee353ea42e68adf7ff"
+          },
+          "generation_config.json": {
+            "size": 215,
+            "mtime_ns": 1791875062111024200,
+            "sha256": "fd9324becc53c4be610db39e13a613006f09fd6ef71a95fb6320dc33157490a3"
+          },
+          "model-00001-of-00002.safetensors": {
+            "size": 4961251752,
+            "mtime_ns": 1791876735697633300,
+            "sha256": null
+          },
+          "model-00002-of-00002.safetensors": {
+            "size": 3639026128,
+            "mtime_ns": 1791876345346965700,
+            "sha256": null
+          },
+          "model.safetensors.index.json": {
+            "size": 90558,
+            "mtime_ns": 1791875062184167800,
+            "sha256": "77f4b67de084c31c7bcd373b039908108eee6c6181607e6d53da730e5f0bc659"
+          },
+          "preprocessor_config.json": {
+            "size": 570,
+            "mtime_ns": 1791875062589246400,
+            "sha256": "f688d6bb20c5017601c4011de7ca656da8485b540b05013efdaf986c0fcc918d"
+          },
+          "processor_config.json": {
+            "size": 70,
+            "mtime_ns": 1791875062624605200,
+            "sha256": "3ffd5f11778dc73e2b69b3c00535e4121e1badf7018136263cd17b5b34fbaa53"
+          },
+          "special_tokens_map.json": {
+            "size": 662,
+            "mtime_ns": 1791875062601103700,
+            "sha256": "2f7b0adf4fb469770bb1490e3e35df87b1dc578246c5e7e6fc76ecf33213a397"
+          },
+          "tokenizer.json": {
+            "size": 33384568,
+            "mtime_ns": 1791875065820501000,
+            "sha256": "4667f2089529e8e7657cfb6d1c19910ae71ff5f28aa7ab2ff2763330affad795"
+          },
+          "tokenizer.model": {
+            "size": 4689074,
+            "mtime_ns": 1791875065306063200,
+            "sha256": null
+          },
+          "tokenizer_config.json": {
+            "size": 1156999,
+            "mtime_ns": 1791875062719203800,
+            "sha256": "bfe25c2735e395407beb78456ea9a6984a1f00d8c16fa04a8b75f2a614cf53e1"
+          }
+        }
+      },
+      "bubble": {
+        "path": "C:\\MODELS\\manga_bubbles\\bubbles_detect.pt",
+        "sha256": "8f953bce05813fa68c9c99d487cb7c6a4fd38bb827ac5ab4bca042b209a0f744"
+      },
+      "paddle": {
+        "text_detection_model_name": "PP-OCRv5_server_det",
+        "text_recognition_model_name": "en_PP-OCRv5_mobile_rec",
+        "text_detection_model_dir": "C:\\Users\\ESHAAN\\.paddlex\\official_models\\PP-OCRv5_server_det",
+        "text_recognition_model_dir": "C:\\Users\\ESHAAN\\.paddlex\\official_models\\en_PP-OCRv5_mobile_rec"
+      }
+    },
+    "cache_policy": "Read/write CACHE_ROOT only; no external cache discovery",
+    "input_images": [
+      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_fb6d15ad78b7191c\\01.png",
+      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_fb6d15ad78b7191c\\02.png",
+      "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\TaskData\\development\\images\\seq_fb6d15ad78b7191c\\03.png"
+    ]
+  },
+  "manifest": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\paddleOCR-Magi\\cache_batch_artifact_contour\\seq_fb6d15ad78b7191c\\bdf76dd7562c31bc\\manifest.json",
+  "stages": {
+    "magi_raw": {
+      "file": "magi_raw.json",
+      "signature": "b9265bf8d8e6117743a22224f2951772232150b5f04de7a0619e9e0ce6f8f064",
+      "data_hash": "08236859ead66310f7f040d46eec26beb5d570fef320654bd22a5ef8c8c6899d",
+      "settings": {
+        "model": {
+          "path": "C:\\MODELS\\magiv2",
+          "revision": "local-magiv2-1",
+          "files": [
+            {
+              "name": ".cache\\huggingface\\trees\\fbc890fec52977142e8ee00bfe26e9458b65517c.json",
+              "size": 1100,
+              "mtime_ns": 1791119353761620600,
+              "sha256": "d4a8bba2b21ab3182d7daee383f12bf3b36487512794d81c310097b44952a78f"
+            },
+            {
+              "name": "config.json",
+              "size": 13383,
+              "mtime_ns": 1791119354550928100,
+              "sha256": "d55b3b0b6c16d61c97c4afd79b0d0e9b2371a4a3442f7dbef2ff838cb089e19f"
+            },
+            {
+              "name": "configuration_magiv2.py",
+              "size": 1696,
+              "mtime_ns": 1791119354527241500,
+              "sha256": "28e65be99f4287dea300a49ae65ced263054b756113d1f37baf8f1b0fd94e72b"
+            },
+            {
+              "name": "modelling_magiv2.py",
+              "size": 40723,
+              "mtime_ns": 1791119354527241500,
+              "sha256": "1188ebcb84985fe812e222e51bf0889c586bdbe6f2913f7cbefaf43ffe74e6de"
+            },
+            {
+              "name": "processing_magiv2.py",
+              "size": 10060,
+              "mtime_ns": 1791119354589654400,
+              "sha256": "2ff8e760e65848ee5d02eaca84ce24381ced97e4cbcf26d2f838d05362a946a8"
+            },
+            {
+              "name": "pytorch_model.bin",
+              "size": 2063693064,
+              "mtime_ns": 1791119926878338600,
+              "sha256": null
+            },
+            {
+              "name": "utils.py",
+              "size": 16433,
+              "mtime_ns": 1791119354531240700,
+              "sha256": "ea9d9182ee2d02f8dba1cca634dfc3e3528bab50de9e9efa286822ac5ee3195f"
+            }
+          ]
+        },
+        "torch": "2.14.0+cu126",
+        "torchvision": "0.29.0+cu126",
+        "transformers": "4.57.6",
+        "do_ocr": true
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:19:35.337676+00:00"
+    },
+    "embeddings": {
+      "file": "embeddings.json",
+      "signature": "d4039bb3eaff29dce1bf64a42db175c6440324ab6f64ca2d5c132699788e6291",
+      "data_hash": "314478daf54be274c836b6c23704f37a1189b16d2d187b7aeefac6abdb31c5e5",
+      "settings": {
+        "magi": {
+          "signature": "b9265bf8d8e6117743a22224f2951772232150b5f04de7a0619e9e0ce6f8f064",
+          "data_hash": "08236859ead66310f7f040d46eec26beb5d570fef320654bd22a5ef8c8c6899d"
+        },
+        "model": {
+          "path": "C:\\MODELS\\magiv2",
+          "revision": "local-magiv2-1",
+          "files": [
+            {
+              "name": ".cache\\huggingface\\trees\\fbc890fec52977142e8ee00bfe26e9458b65517c.json",
+              "size": 1100,
+              "mtime_ns": 1791119353761620600,
+              "sha256": "d4a8bba2b21ab3182d7daee383f12bf3b36487512794d81c310097b44952a78f"
+            },
+            {
+              "name": "config.json",
+              "size": 13383,
+              "mtime_ns": 1791119354550928100,
+              "sha256": "d55b3b0b6c16d61c97c4afd79b0d0e9b2371a4a3442f7dbef2ff838cb089e19f"
+            },
+            {
+              "name": "configuration_magiv2.py",
+              "size": 1696,
+              "mtime_ns": 1791119354527241500,
+              "sha256": "28e65be99f4287dea300a49ae65ced263054b756113d1f37baf8f1b0fd94e72b"
+            },
+            {
+              "name": "modelling_magiv2.py",
+              "size": 40723,
+              "mtime_ns": 1791119354527241500,
+              "sha256": "1188ebcb84985fe812e222e51bf0889c586bdbe6f2913f7cbefaf43ffe74e6de"
+            },
+            {
+              "name": "processing_magiv2.py",
+              "size": 10060,
+              "mtime_ns": 1791119354589654400,
+              "sha256": "2ff8e760e65848ee5d02eaca84ce24381ced97e4cbcf26d2f838d05362a946a8"
+            },
+            {
+              "name": "pytorch_model.bin",
+              "size": 2063693064,
+              "mtime_ns": 1791119926878338600,
+              "sha256": null
+            },
+            {
+              "name": "utils.py",
+              "size": 16433,
+              "mtime_ns": 1791119354531240700,
+              "sha256": "ea9d9182ee2d02f8dba1cca634dfc3e3528bab50de9e9efa286822ac5ee3195f"
+            }
+          ]
+        },
+        "checkpoint": {
+          "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\Magi\\FINETUNING-EXPERMENTS\\fineTuningMagiCharSimHeads2\\magi_crop_last_2_blocks.pt",
+          "sha256": "7625eacf104d44ececb33ac7f3157487a5dd3ee474e2532a1a1f0b812b8848ff",
+          "epoch": 20,
+          "trained_blocks": 2
+        },
+        "crop_preprocessing": "original_RGB",
+        "mask_ratio": 0.0,
+        "batch_size": 32,
+        "normalization": "L2",
+        "torch": "2.14.0+cu126",
+        "transformers": "4.57.6"
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:22:54.751343+00:00"
+    },
+    "paddle_ocr": {
+      "file": "paddle_ocr.json",
+      "signature": "4cfbe4b592808c9a2fc0902c93e0bfb6b5bf0fbd3ee2f9c414130cbc5d6e2a49",
+      "data_hash": "9ea8d37c5b15356c3916a7810a939fd1415a0189a2ed66d93a158c849eec2c3c",
+      "settings": {
+        "magi": {
+          "signature": "b9265bf8d8e6117743a22224f2951772232150b5f04de7a0619e9e0ce6f8f064",
+          "data_hash": "08236859ead66310f7f040d46eec26beb5d570fef320654bd22a5ef8c8c6899d"
+        },
+        "paddle": {
+          "lang": "en",
+          "device": "gpu:0",
+          "ocr_version": "PP-OCRv5",
+          "use_doc_orientation_classify": false,
+          "use_doc_unwarping": false,
+          "use_textline_orientation": false
+        },
+        "local_models": {
+          "text_detection_model_name": "PP-OCRv5_server_det",
+          "text_recognition_model_name": "en_PP-OCRv5_mobile_rec",
+          "text_detection_model_dir": "C:\\Users\\ESHAAN\\.paddlex\\official_models\\PP-OCRv5_server_det",
+          "text_recognition_model_dir": "C:\\Users\\ESHAAN\\.paddlex\\official_models\\en_PP-OCRv5_mobile_rec"
+        },
+        "packages": {
+          "paddlepaddle-gpu": "3.2.0",
+          "paddleocr": "3.7.0",
+          "paddlex": "3.7.2",
+          "numpy": "1.26.4",
+          "pillow": "11.3.0"
+        }
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:25:53.751906+00:00"
+    },
+    "ocr_selection": {
+      "file": "ocr_selection.json",
+      "signature": "7a2462b2fcb1739f67c53ee6152a1ee8434d72cbde71768fbc9ba7e55eadd030",
+      "data_hash": "34ca16a2abbd8c28314d161af06c77a4af9107055c9f846a2395644e6f35853e",
+      "settings": {
+        "magi": {
+          "signature": "b9265bf8d8e6117743a22224f2951772232150b5f04de7a0619e9e0ce6f8f064",
+          "data_hash": "08236859ead66310f7f040d46eec26beb5d570fef320654bd22a5ef8c8c6899d"
+        },
+        "paddle": {
+          "signature": "4cfbe4b592808c9a2fc0902c93e0bfb6b5bf0fbd3ee2f9c414130cbc5d6e2a49",
+          "data_hash": "9ea8d37c5b15356c3916a7810a939fd1415a0189a2ed66d93a158c849eec2c3c"
+        },
+        "algorithm": "b8160e0c6300980d3808a30864ba43a46e9f569501862dd826d853a64bc0ec4b",
+        "punctuation": "0e013d1143e9f9f7b53e464ba72e0f1d0cc8a72de7ee0a547d254d405f3abb72"
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:50:13.847796+00:00"
+    },
+    "artifact_labels": {
+      "file": "artifact_labels.json",
+      "signature": "9bd43d4b474b4154ae032413d12922392cfde519ea45d5f53cd491042c8c608f",
+      "data_hash": "b0bc2d581a84792b523003d05337aefd6fbd3b4d306194a1295d2e7ef124b57d",
+      "settings": {
+        "ocr": {
+          "signature": "7a2462b2fcb1739f67c53ee6152a1ee8434d72cbde71768fbc9ba7e55eadd030",
+          "data_hash": "34ca16a2abbd8c28314d161af06c77a4af9107055c9f846a2395644e6f35853e"
+        },
+        "model": {
+          "path": "C:\\MODELS\\gemma-3-4b-it",
+          "files": {
+            ".cache\\huggingface\\trees\\093f9f388b31de276ce2de164bdc2081324b9767.json": {
+              "size": 2512,
+              "mtime_ns": 1791875061597372100,
+              "sha256": "89efc16588c41cb66780c44550e1fd2565d5a1f61d553d67ab2c1d51d8c5ea52"
+            },
+            "added_tokens.json": {
+              "size": 35,
+              "mtime_ns": 1791875062145788000,
+              "sha256": "50b2f405ba56a26d4913fd772089992252d7f942123cc0a034d96424221ba946"
+            },
+            "chat_template.json": {
+              "size": 1615,
+              "mtime_ns": 1791875062110519500,
+              "sha256": "fe16baf728db49457cde32802cd7efc0ac8a7a9877dbe22fe3322b2d9dc6ccd9"
+            },
+            "config.json": {
+              "size": 855,
+              "mtime_ns": 1791875062131300400,
+              "sha256": "9059f680f4dbd1957f35cb44b9fdd6948f4792db7a7a35ee353ea42e68adf7ff"
+            },
+            "generation_config.json": {
+              "size": 215,
+              "mtime_ns": 1791875062111024200,
+              "sha256": "fd9324becc53c4be610db39e13a613006f09fd6ef71a95fb6320dc33157490a3"
+            },
+            "model-00001-of-00002.safetensors": {
+              "size": 4961251752,
+              "mtime_ns": 1791876735697633300,
+              "sha256": null
+            },
+            "model-00002-of-00002.safetensors": {
+              "size": 3639026128,
+              "mtime_ns": 1791876345346965700,
+              "sha256": null
+            },
+            "model.safetensors.index.json": {
+              "size": 90558,
+              "mtime_ns": 1791875062184167800,
+              "sha256": "77f4b67de084c31c7bcd373b039908108eee6c6181607e6d53da730e5f0bc659"
+            },
+            "preprocessor_config.json": {
+              "size": 570,
+              "mtime_ns": 1791875062589246400,
+              "sha256": "f688d6bb20c5017601c4011de7ca656da8485b540b05013efdaf986c0fcc918d"
+            },
+            "processor_config.json": {
+              "size": 70,
+              "mtime_ns": 1791875062624605200,
+              "sha256": "3ffd5f11778dc73e2b69b3c00535e4121e1badf7018136263cd17b5b34fbaa53"
+            },
+            "special_tokens_map.json": {
+              "size": 662,
+              "mtime_ns": 1791875062601103700,
+              "sha256": "2f7b0adf4fb469770bb1490e3e35df87b1dc578246c5e7e6fc76ecf33213a397"
+            },
+            "tokenizer.json": {
+              "size": 33384568,
+              "mtime_ns": 1791875065820501000,
+              "sha256": "4667f2089529e8e7657cfb6d1c19910ae71ff5f28aa7ab2ff2763330affad795"
+            },
+            "tokenizer.model": {
+              "size": 4689074,
+              "mtime_ns": 1791875065306063200,
+              "sha256": null
+            },
+            "tokenizer_config.json": {
+              "size": 1156999,
+              "mtime_ns": 1791875062719203800,
+              "sha256": "bfe25c2735e395407beb78456ea9a6984a1f00d8c16fa04a8b75f2a614cf53e1"
+            }
+          }
+        },
+        "system": "Classify the Paddle OCR text of one manga text box. Return exactly Text or Artifact. Text includes dialogue, narration, names, Japanese words/names, unfinished sentences, multiple sentences and multiple lines. Profanity and figurative language are allowed. Integers, integer-only text and numbers within meaningful dialogue are Text. Punctuation-only expressions are Text. Vocal reactions, screams, disgust, hesitation and stretched spoken words such as AAAAHH!!!, NOO!! and EWWW! are Text. Distinguish a human vocal reaction from a written environmental or action sound effect: Whoosh, BAM, CLANG and similar sound effects are Artifact. Artifact also includes nonsensical OCR noise, scan-group watermarks, website links and isolated code-like strings such as 2-B, 3-2 and V45S. Single Text Char are Artifacts Do not reject an unfamiliar name or a meaningful sentence simply because it contains a number or identifier. If uncertain, prefer Text. Do not correct, rewrite or explain the text.",
+        "examples": [
+          [
+            "GAAAAAAHH!!!",
+            "Text"
+          ],
+          [
+            "AAAAHH!!!",
+            "Text"
+          ],
+          [
+            "AAAH!",
+            "Text"
+          ],
+          [
+            "NOO!!",
+            "Text"
+          ],
+          [
+            "EWWW!",
+            "Text"
+          ],
+          [
+            "UGH... THAT SMELLS AWFUL!",
+            "Text"
+          ],
+          [
+            "HUH?!",
+            "Text"
+          ],
+          [
+            "OH...",
+            "Text"
+          ],
+          [
+            "UM... I THINK SO.",
+            "Text"
+          ],
+          [
+            "HAHAHA!",
+            "Text"
+          ],
+          [
+            "OW! THAT HURTS!",
+            "Text"
+          ],
+          [
+            "YAAAY!!",
+            "Text"
+          ],
+          [
+            "I SAID TO NOT DO THAT.",
+            "Text"
+          ],
+          [
+            "But our characters were unaware",
+            "Text"
+          ],
+          [
+            "NANIKAWA",
+            "Text"
+          ],
+          [
+            "SHIROGANE, WAIT!",
+            "Text"
+          ],
+          [
+            "IT'S A GODDAMN MIRACLE, THE MONEY JUST VANISHED INTO THIN AIR.",
+            "Text"
+          ],
+          [
+            "IF SHE SUCCEEDS IN LURING OUT ONE PERSON IN THIS PLACE,",
+            "Text"
+          ],
+          [
+            "WAIT! WHERE DID EVERYONE GO? I WAS JUST HERE.",
+            "Text"
+          ],
+          [
+            "I TRUSTED YOU. NOW TELL ME WHAT HAPPENED.",
+            "Text"
+          ],
+          [
+            "WE HAVE TO LEAVE.\nTHE TRAIN IS ALREADY HERE!",
+            "Text"
+          ],
+          [
+            "Among the six who possessed the aptitude,\nSaiko-chan had the highest aptitude.",
+            "Text"
+          ],
+          [
+            "123",
+            "Text"
+          ],
+          [
+            "42",
+            "Text"
+          ],
+          [
+            "0",
+            "Text"
+          ],
+          [
+            "I HAVE 2 QUESTIONS.",
+            "Text"
+          ],
+          [
+            "WE HAVE 3 MINUTES LEFT!",
+            "Text"
+          ],
+          [
+            "HE PAID 500 YEN FOR IT.",
+            "Text"
+          ],
+          [
+            "I AM IN CLASS 2-B.",
+            "Text"
+          ],
+          [
+            "THE SCORE IS 3-2. WE CAN STILL WIN!",
+            "Text"
+          ],
+          [
+            "...",
+            "Text"
+          ],
+          [
+            "!!!!",
+            "Text"
+          ],
+          [
+            "...!!!",
+            "Text"
+          ],
+          [
+            "?!",
+            "Text"
+          ],
+          [
+            "\u3082\u3057\u3082\u3057",
+            "Artifact"
+          ],
+          [
+            "\u3057\u3057",
+            "Artifact"
+          ],
+          [
+            "\u3082",
+            "Artifact"
+          ],
+          [
+            "a ~",
+            "Artifact"
+          ],
+          [
+            "~~~~~ ",
+            "Artifact"
+          ],
+          [
+            "~~~~~ ",
+            "Artifact"
+          ],
+          [
+            "Whoosh!!",
+            "Artifact"
+          ],
+          [
+            "VOOSH",
+            "Artifact"
+          ],
+          [
+            "KIRK",
+            "Artifact"
+          ],
+          [
+            "bEE",
+            "Artifact"
+          ],
+          [
+            "WFAG",
+            "Artifact"
+          ],
+          [
+            "VOOOSH",
+            "Artifact"
+          ],
+          [
+            "O",
+            "Artifact"
+          ],
+          [
+            "K",
+            "Artifact"
+          ],
+          [
+            "AKK",
+            "Artifact"
+          ],
+          [
+            "HUPP",
+            "Artifact"
+          ],
+          [
+            "CRASHHH",
+            "Artifact"
+          ],
+          [
+            "SHHH",
+            "Artifact"
+          ],
+          [
+            "KRASHHH",
+            "Artifact"
+          ],
+          [
+            "BAM",
+            "Artifact"
+          ],
+          [
+            "CLANG!",
+            "Artifact"
+          ],
+          [
+            "THUD",
+            "Artifact"
+          ],
+          [
+            "CRASH!!",
+            "Artifact"
+          ],
+          [
+            "RUSTLE RUSTLE",
+            "Artifact"
+          ],
+          [
+            "CLICK",
+            "Artifact"
+          ],
+          [
+            "SPLASH!",
+            "Artifact"
+          ],
+          [
+            "SFX",
+            "Artifact"
+          ],
+          [
+            "SKX",
+            "Artifact"
+          ],
+          [
+            "www.google.com",
+            "Artifact"
+          ],
+          [
+            "https://mangastream.com/read/123",
+            "Artifact"
+          ],
+          [
+            "MANGA STREAM DO NOT MIRROR",
+            "Artifact"
+          ],
+          [
+            "M4NGA STRE4M",
+            "Artifact"
+          ],
+          [
+            "DO NOT REDISTRIBUTE",
+            "Artifact"
+          ],
+          [
+            "oo",
+            "Artifact"
+          ],
+          [
+            "Chapter 32",
+            "Artifact"
+          ],
+          [
+            "Chapter 12",
+            "Artifact"
+          ],
+          [
+            "Chapter Over",
+            "Artifact"
+          ],
+          [
+            "Chapter End",
+            "Artifact"
+          ],
+          [
+            "To be Continued",
+            "Artifact"
+          ],
+          [
+            "Chapter",
+            "Artifact"
+          ],
+          [
+            "XZQWZXQ",
+            "Artifact"
+          ],
+          [
+            "2-B",
+            "Artifact"
+          ],
+          [
+            "3-2",
+            "Artifact"
+          ],
+          [
+            "V45S",
+            "Artifact"
+          ]
+        ],
+        "input": "paddle_only",
+        "quantization": "nf4",
+        "max_new_tokens": 8,
+        "transformers": "4.57.6",
+        "bitsandbytes": "0.50.2",
+        "algorithm": "b7a203c6cc6b892a13d94ccae6c6a848807a5023e7b6c06bd4a51b28cd9fc55c",
+        "classifier": "98b48e42a948ca50b5bd81b63231208c541e9cf87d08e1a0b0423452d15f9c0e",
+        "direct": "957a8e5b5907dbd7ad0618d162a31692c77de6c27cb7f166a48459cc1874195c"
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:50:46.096361+00:00"
+    },
+    "character_cleanup": {
+      "file": "character_cleanup.json",
+      "signature": "30186a28c81453dd90a2ef1b4eb793135e4643f658d6691af109f95a1aba2df9",
+      "data_hash": "d36afb8593bf6cc89935e7e75f45d8694197bee7966e5dd02f64694a123279a1",
+      "settings": {
+        "magi": {
+          "signature": "b9265bf8d8e6117743a22224f2951772232150b5f04de7a0619e9e0ce6f8f064",
+          "data_hash": "08236859ead66310f7f040d46eec26beb5d570fef320654bd22a5ef8c8c6899d"
+        },
+        "embeddings": {
+          "signature": "d4039bb3eaff29dce1bf64a42db175c6440324ab6f64ca2d5c132699788e6291",
+          "data_hash": "314478daf54be274c836b6c23704f37a1189b16d2d187b7aeefac6abdb31c5e5"
+        },
+        "cleanup": {
+          "min_iou": 0.9,
+          "min_cosine": 0.95,
+          "algorithm": "contained_direct_outer_match_v1"
+        }
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:56:18.797291+00:00"
+    },
+    "entities": {
+      "file": "entities.json",
+      "signature": "a079bfd63176b8297f7b63caf68eae67afc4c54f185b001637ab6f65aceca132",
+      "data_hash": "6250b21d8f87154200f3d7b9eaa1b85c0ad5b84c6f506da8029021776f57a04a",
+      "settings": {
+        "characters": {
+          "signature": "30186a28c81453dd90a2ef1b4eb793135e4643f658d6691af109f95a1aba2df9",
+          "data_hash": "d36afb8593bf6cc89935e7e75f45d8694197bee7966e5dd02f64694a123279a1"
+        },
+        "threshold": 0.82,
+        "algorithm": "sequential_best_member_one_cluster_per_entity_per_page"
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:56:18.819643+00:00"
+    },
+    "text_entities": {
+      "file": "text_entities.json",
+      "signature": "6e6b1aa65761e2d29e3eb9dd10264e4e08247ed9b9c4b5a73e8e959fea816039",
+      "data_hash": "54f475b602db1310a5cafa036bbc4f02a6eb5ccf6ef343649127fa377661bd6a",
+      "settings": {
+        "magi": {
+          "signature": "b9265bf8d8e6117743a22224f2951772232150b5f04de7a0619e9e0ce6f8f064",
+          "data_hash": "08236859ead66310f7f040d46eec26beb5d570fef320654bd22a5ef8c8c6899d"
+        },
+        "characters": {
+          "signature": "30186a28c81453dd90a2ef1b4eb793135e4643f658d6691af109f95a1aba2df9",
+          "data_hash": "d36afb8593bf6cc89935e7e75f45d8694197bee7966e5dd02f64694a123279a1"
+        },
+        "selector": {
+          "signature": "7a2462b2fcb1739f67c53ee6152a1ee8434d72cbde71768fbc9ba7e55eadd030",
+          "data_hash": "34ca16a2abbd8c28314d161af06c77a4af9107055c9f846a2395644e6f35853e"
+        },
+        "artifacts": {
+          "signature": "9bd43d4b474b4154ae032413d12922392cfde519ea45d5f53cd491042c8c608f",
+          "data_hash": "b0bc2d581a84792b523003d05337aefd6fbd3b4d306194a1295d2e7ef124b57d"
+        },
+        "entities": {
+          "signature": "a079bfd63176b8297f7b63caf68eae67afc4c54f185b001637ab6f65aceca132",
+          "data_hash": "6250b21d8f87154200f3d7b9eaa1b85c0ad5b84c6f506da8029021776f57a04a"
+        }
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:56:18.824145+00:00"
+    },
+    "contour_bubbles": {
+      "file": "contour_bubbles.json",
+      "signature": "31529c22f8658316e92df2486c5441603ed9003eb032cb4e6de51f941af2547f",
+      "data_hash": "01bb2772e5d2338e92e904df3a9943b3295ea152b884c253a40573fcbed462b0",
+      "settings": {
+        "weights_sha256": "8f953bce05813fa68c9c99d487cb7c6a4fd38bb827ac5ab4bca042b209a0f744",
+        "settings": {
+          "imgsz": 1024,
+          "confidence": 0.25
+        },
+        "ultralytics": "8.4.163",
+        "image_mode": "original_RGB",
+        "algorithm": "579f042a4f435f319240b7d2ce494aa9dad42c9ce083b542acdab2f8e769db35"
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:56:19.039236+00:00"
+    },
+    "artifact_filter": {
+      "file": "artifact_filter.json",
+      "signature": "23c0b773734aabaa1f86f21dfa6c192fed78a03837910c56b7596cdf847caaa3",
+      "data_hash": "b0bc2d581a84792b523003d05337aefd6fbd3b4d306194a1295d2e7ef124b57d",
+      "settings": {
+        "labels": {
+          "signature": "9bd43d4b474b4154ae032413d12922392cfde519ea45d5f53cd491042c8c608f",
+          "data_hash": "b0bc2d581a84792b523003d05337aefd6fbd3b4d306194a1295d2e7ef124b57d"
+        },
+        "bubbles": {
+          "signature": "31529c22f8658316e92df2486c5441603ed9003eb032cb4e6de51f941af2547f",
+          "data_hash": "01bb2772e5d2338e92e904df3a9943b3295ea152b884c253a40573fcbed462b0"
+        },
+        "contour": {
+          "module_sha256": "d3762e035328fa996247aad9583ac6dc600c61c5d360788d5f99f0f8e7ad6a0b",
+          "grouping_sha256": "bfeac1c6433f3e6490e18bc61e472485eab9907511ccfc0d4de6ac9c0224f971",
+          "check": {
+            "expand": 0.2,
+            "dark_threshold": 180,
+            "white_threshold": 210,
+            "close_kernel": 3,
+            "text_padding": 2,
+            "min_text_coverage": 0.95,
+            "min_white_fraction": 0.85,
+            "min_border_dark_fraction": 0.2,
+            "min_candidate_iou": 0.35,
+            "max_area_ratio": 1.7,
+            "rectangle_fill": 0.88,
+            "rounded_max_fill": 0.9,
+            "min_solidity": 0.85,
+            "boundary_samples": 256,
+            "curve_window": 12,
+            "straight_tolerance_px": 0.8,
+            "straight_tolerance_fraction": 0.015,
+            "sharp_turn_deg": 18,
+            "mixed_min_flat": 0.15,
+            "mixed_min_curved": 0.12,
+            "crop_edge_margin_px": 1,
+            "max_crop_edge_fraction": 0.02,
+            "min_supported_boundary_fraction": 0.85,
+            "max_unsupported_fraction": 0.1
+          },
+          "region": {
+            "min_text_coverage": 0.9,
+            "min_outside_fraction": 0.15,
+            "min_area_ratio": 1.15,
+            "min_white_fraction": 0.85,
+            "min_solid_fraction": 0.85,
+            "color_tolerance": 25,
+            "min_visible_points": 16,
+            "min_curved_fraction": 0.12,
+            "min_curve_run": 6,
+            "min_sharp_fraction": 0.12,
+            "min_sharp_run": 6,
+            "curve_arc_text_scale": 0.35,
+            "curve_arc_min_px": 10,
+            "curve_turn_min_deg": 20,
+            "curve_direction_consistency": 0.65,
+            "curve_bulge_text_scale": 0.025,
+            "rectangle_fill": 0.94,
+            "box_axis_tolerance_deg": 12,
+            "box_axis_fraction": 0.9,
+            "edge_margin": 2
+          },
+          "faint_region": {
+            "local_window": 15,
+            "min_contrast": 7,
+            "max_line_gray": 245,
+            "close_kernel": 3,
+            "canny_low": 8,
+            "canny_high": 24,
+            "suspicious_crop_fraction": 0.25,
+            "min_visible_support": 0.65,
+            "caption_crop_fraction": 0.1,
+            "caption_visible_fraction": 0.8
+          },
+          "group_faint": {
+            "enabled": true,
+            "local_window": 15,
+            "min_local_contrast": 7,
+            "max_line_gray": 245,
+            "close_kernel": 3
+          }
+        },
+        "coverage": 0.8,
+        "algorithm": "f50d5ea890ad35035690426f3e365a351b3d9a583ca4354a40345e3f245b5df5"
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:59:39.997331+00:00"
+    },
+    "contour_roles": {
+      "file": "contour_roles.json",
+      "signature": "af9a02481a5573f1e1bc066ddcb34ff908bc679ff49a5537346dc3637b7b2b42",
+      "data_hash": "5e566a0f61293b0b11e775e231ee60bac149636ef33862de7485dd52fc11634a",
+      "settings": {
+        "magi": {
+          "signature": "b9265bf8d8e6117743a22224f2951772232150b5f04de7a0619e9e0ce6f8f064",
+          "data_hash": "08236859ead66310f7f040d46eec26beb5d570fef320654bd22a5ef8c8c6899d"
+        },
+        "selector": {
+          "signature": "7a2462b2fcb1739f67c53ee6152a1ee8434d72cbde71768fbc9ba7e55eadd030",
+          "data_hash": "34ca16a2abbd8c28314d161af06c77a4af9107055c9f846a2395644e6f35853e"
+        },
+        "filter": {
+          "signature": "23c0b773734aabaa1f86f21dfa6c192fed78a03837910c56b7596cdf847caaa3",
+          "data_hash": "b0bc2d581a84792b523003d05337aefd6fbd3b4d306194a1295d2e7ef124b57d"
+        },
+        "bubbles": {
+          "signature": "31529c22f8658316e92df2486c5441603ed9003eb032cb4e6de51f941af2547f",
+          "data_hash": "01bb2772e5d2338e92e904df3a9943b3295ea152b884c253a40573fcbed462b0"
+        },
+        "contour": {
+          "module_sha256": "d3762e035328fa996247aad9583ac6dc600c61c5d360788d5f99f0f8e7ad6a0b",
+          "grouping_sha256": "bfeac1c6433f3e6490e18bc61e472485eab9907511ccfc0d4de6ac9c0224f971",
+          "check": {
+            "expand": 0.2,
+            "dark_threshold": 180,
+            "white_threshold": 210,
+            "close_kernel": 3,
+            "text_padding": 2,
+            "min_text_coverage": 0.95,
+            "min_white_fraction": 0.85,
+            "min_border_dark_fraction": 0.2,
+            "min_candidate_iou": 0.35,
+            "max_area_ratio": 1.7,
+            "rectangle_fill": 0.88,
+            "rounded_max_fill": 0.9,
+            "min_solidity": 0.85,
+            "boundary_samples": 256,
+            "curve_window": 12,
+            "straight_tolerance_px": 0.8,
+            "straight_tolerance_fraction": 0.015,
+            "sharp_turn_deg": 18,
+            "mixed_min_flat": 0.15,
+            "mixed_min_curved": 0.12,
+            "crop_edge_margin_px": 1,
+            "max_crop_edge_fraction": 0.02,
+            "min_supported_boundary_fraction": 0.85,
+            "max_unsupported_fraction": 0.1
+          },
+          "region": {
+            "min_text_coverage": 0.9,
+            "min_outside_fraction": 0.15,
+            "min_area_ratio": 1.15,
+            "min_white_fraction": 0.85,
+            "min_solid_fraction": 0.85,
+            "color_tolerance": 25,
+            "min_visible_points": 16,
+            "min_curved_fraction": 0.12,
+            "min_curve_run": 6,
+            "min_sharp_fraction": 0.12,
+            "min_sharp_run": 6,
+            "curve_arc_text_scale": 0.35,
+            "curve_arc_min_px": 10,
+            "curve_turn_min_deg": 20,
+            "curve_direction_consistency": 0.65,
+            "curve_bulge_text_scale": 0.025,
+            "rectangle_fill": 0.94,
+            "box_axis_tolerance_deg": 12,
+            "box_axis_fraction": 0.9,
+            "edge_margin": 2
+          },
+          "faint_region": {
+            "local_window": 15,
+            "min_contrast": 7,
+            "max_line_gray": 245,
+            "close_kernel": 3,
+            "canny_low": 8,
+            "canny_high": 24,
+            "suspicious_crop_fraction": 0.25,
+            "min_visible_support": 0.65,
+            "caption_crop_fraction": 0.1,
+            "caption_visible_fraction": 0.8
+          },
+          "group_faint": {
+            "enabled": true,
+            "local_window": 15,
+            "min_local_contrast": 7,
+            "max_line_gray": 245,
+            "close_kernel": 3
+          }
+        },
+        "algorithm": "dbc47ff380e9b8b17029779da97e1ccb3f3a1057845cf6d4420cca5f04559ff8",
+        "adapter": "c05f1bad85eaf6dc28195eb6674a6de67a4e3838011d234f81a8468917560046"
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:59:41.486964+00:00"
+    },
+    "contour_speakers": {
+      "file": "contour_speakers.json",
+      "signature": "0bec968a6750d7bf1c2d67d17e5aed78b82d34abf1675ae947dcf4ab70e213fc",
+      "data_hash": "48d763a46fe7f396e87595376c7c27476dde08f82ea13848962ff2159c94b4b6",
+      "settings": {
+        "roles": {
+          "signature": "af9a02481a5573f1e1bc066ddcb34ff908bc679ff49a5537346dc3637b7b2b42",
+          "data_hash": "5e566a0f61293b0b11e775e231ee60bac149636ef33862de7485dd52fc11634a"
+        },
+        "associations": {
+          "signature": "6e6b1aa65761e2d29e3eb9dd10264e4e08247ed9b9c4b5a73e8e959fea816039",
+          "data_hash": "54f475b602db1310a5cafa036bbc4f02a6eb5ccf6ef343649127fa377661bd6a"
+        },
+        "filter": {
+          "signature": "23c0b773734aabaa1f86f21dfa6c192fed78a03837910c56b7596cdf847caaa3",
+          "data_hash": "b0bc2d581a84792b523003d05337aefd6fbd3b4d306194a1295d2e7ef124b57d"
+        },
+        "algorithm": "94a6d63d1eefcac1ece6fe0a3da72de80fbd43501233778468d1650265bbb2ce",
+        "routing": "37e6ec87dbf0e25a96f2fd35d87848ab13fee1b338c9f7d396c3d0be5ec74742"
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T11:59:41.837893+00:00"
+    },
+    "gemma_transcript": {
+      "file": "gemma_transcript.json",
+      "signature": "f4c4b0be92b4163cee9ccceddca43fa79ba0f9a0435eb44ed902987c2425eea2",
+      "data_hash": "23b92dec41dd949e54e5fff6178a2fd66ecabc86bee28498515ef1d63463aead",
+      "settings": {
+        "input_transcript": "a4f89fa5b1fefc1bce80acd8ffb5607b14ef2b00066372bbc807360bcea38fe3",
+        "enabled": true,
+        "model": {
+          "path": "C:\\MODELS\\gemma-3-4b-it",
+          "files": {
+            "added_tokens.json": {
+              "size": 35,
+              "mtime_ns": 1791875062145788000,
+              "sha256": "50b2f405ba56a26d4913fd772089992252d7f942123cc0a034d96424221ba946"
+            },
+            "chat_template.json": {
+              "size": 1615,
+              "mtime_ns": 1791875062110519500,
+              "sha256": "fe16baf728db49457cde32802cd7efc0ac8a7a9877dbe22fe3322b2d9dc6ccd9"
+            },
+            "config.json": {
+              "size": 855,
+              "mtime_ns": 1791875062131300400,
+              "sha256": "9059f680f4dbd1957f35cb44b9fdd6948f4792db7a7a35ee353ea42e68adf7ff"
+            },
+            "generation_config.json": {
+              "size": 215,
+              "mtime_ns": 1791875062111024200,
+              "sha256": "fd9324becc53c4be610db39e13a613006f09fd6ef71a95fb6320dc33157490a3"
+            },
+            "model-00001-of-00002.safetensors": {
+              "size": 4961251752,
+              "mtime_ns": 1791876735697633300,
+              "sha256": null
+            },
+            "model-00002-of-00002.safetensors": {
+              "size": 3639026128,
+              "mtime_ns": 1791876345346965700,
+              "sha256": null
+            },
+            "model.safetensors.index.json": {
+              "size": 90558,
+              "mtime_ns": 1791875062184167800,
+              "sha256": "77f4b67de084c31c7bcd373b039908108eee6c6181607e6d53da730e5f0bc659"
+            },
+            "preprocessor_config.json": {
+              "size": 570,
+              "mtime_ns": 1791875062589246400,
+              "sha256": "f688d6bb20c5017601c4011de7ca656da8485b540b05013efdaf986c0fcc918d"
+            },
+            "processor_config.json": {
+              "size": 70,
+              "mtime_ns": 1791875062624605200,
+              "sha256": "3ffd5f11778dc73e2b69b3c00535e4121e1badf7018136263cd17b5b34fbaa53"
+            },
+            "special_tokens_map.json": {
+              "size": 662,
+              "mtime_ns": 1791875062601103700,
+              "sha256": "2f7b0adf4fb469770bb1490e3e35df87b1dc578246c5e7e6fc76ecf33213a397"
+            },
+            "tokenizer.json": {
+              "size": 33384568,
+              "mtime_ns": 1791875065820501000,
+              "sha256": "4667f2089529e8e7657cfb6d1c19910ae71ff5f28aa7ab2ff2763330affad795"
+            },
+            "tokenizer.model": {
+              "size": 4689074,
+              "mtime_ns": 1791875065306063200,
+              "sha256": null
+            },
+            "tokenizer_config.json": {
+              "size": 1156999,
+              "mtime_ns": 1791875062719203800,
+              "sha256": "bfe25c2735e395407beb78456ea9a6984a1f00d8c16fa04a8b75f2a614cf53e1"
+            }
+          }
+        },
+        "prompt": [
+          {
+            "role": "system",
+            "content": "You restore English manga dialogue corrupted by OCR. Repair obvious broken words. Preserve legitimate names, valid single-letter words such as I and A, Preserve Punctutaion and Punctuation Only SentencesRemove nonsensical inserted letter sequences and accidental isolated letters that interrupt a sentence. capitalization, meaning, punctuation and unfinished sentences. Do not rewrite the dialogue, complete it or answer it. Preserve numbers, amounts, times and units; never delete a number while repairing nearby words. Repair obvious O/0 OCR confusion inside a numeric amount, such as 17O GRAND to 170 GRAND. any single character repeated multiple times could be punctuations mis interpreted Return only the restored text, with no explanation or quotation marks."
+          },
+          {
+            "role": "user",
+            "content": "PLEASE Q OPEN THE WINDOW."
+          },
+          {
+            "role": "assistant",
+            "content": "PLEASE OPEN THE WINDOW."
+          },
+          {
+            "role": "user",
+            "content": "I CAN HEAR XZQWZXQ SOMEONE OUTSIDE..."
+          },
+          {
+            "role": "assistant",
+            "content": "I CAN HEAR SOMEONE OUTSIDE..."
+          },
+          {
+            "role": "user",
+            "content": "AH... SHIROGANE, WAIT!"
+          },
+          {
+            "role": "assistant",
+            "content": "AH... SHIROGANE, WAIT!"
+          },
+          {
+            "role": "user",
+            "content": "....."
+          },
+          {
+            "role": "assistant",
+            "content": "....."
+          },
+          {
+            "role": "user",
+            "content": "PLEASE S OPEN THE WINDOW."
+          },
+          {
+            "role": "assistant",
+            "content": "PLEASE OPEN THE WINDOW."
+          },
+          {
+            "role": "user",
+            "content": "I'M TAKING OHT 17O GRAND tO COVER YOUR LOAN AND INTEREST PAYMENTS."
+          },
+          {
+            "role": "assistant",
+            "content": "I'M TAKING OUT 170 GRAND TO COVER YOUR LOAN AND INTEREST PAYMENTS."
+          },
+          {
+            "role": "user",
+            "content": "im worlkng in 20 minutes"
+          },
+          {
+            "role": "assistant",
+            "content": "im working in 20 minutes"
+          },
+          {
+            "role": "user",
+            "content": "WE HAVE 3 MINUTFS LEFT!"
+          },
+          {
+            "role": "assistant",
+            "content": "WE HAVE 3 MINUTES LEFT!"
+          },
+          {
+            "role": "user",
+            "content": "HE PA1D 500 YEN FOR IT."
+          },
+          {
+            "role": "assistant",
+            "content": "HE PAID 500 YEN FOR IT."
+          },
+          {
+            "role": "user",
+            "content": "I OWE YOU 170 GRAND."
+          },
+          {
+            "role": "assistant",
+            "content": "I OWE YOU 170 GRAND."
+          }
+        ],
+        "quantization": "nf4",
+        "generation": "greedy_dynamic_max_tokens_v1",
+        "transformers": "4.57.6",
+        "bitsandbytes": "0.50.2",
+        "algorithm": "d61f0d4dd147c0bdcacc688ad8e995ff9381d58f48ab2c2b64e043aa9ef636ba",
+        "corrector": "a0fa037a3a664328938dbb6634195e15983a957b097b1f692a4486286b183bca"
+      },
+      "algorithm_version": 1,
+      "created_at": "2026-10-16T12:22:50.783879+00:00"
+    }
+  },
+  "transcript_cleanup": {
+    "model": {
+      "path": "C:\\MODELS\\gemma-3-4b-it",
+      "files": {
+        "added_tokens.json": {
+          "size": 35,
+          "mtime_ns": 1791875062145788000,
+          "sha256": "50b2f405ba56a26d4913fd772089992252d7f942123cc0a034d96424221ba946"
+        },
+        "chat_template.json": {
+          "size": 1615,
+          "mtime_ns": 1791875062110519500,
+          "sha256": "fe16baf728db49457cde32802cd7efc0ac8a7a9877dbe22fe3322b2d9dc6ccd9"
+        },
+        "config.json": {
+          "size": 855,
+          "mtime_ns": 1791875062131300400,
+          "sha256": "9059f680f4dbd1957f35cb44b9fdd6948f4792db7a7a35ee353ea42e68adf7ff"
+        },
+        "generation_config.json": {
+          "size": 215,
+          "mtime_ns": 1791875062111024200,
+          "sha256": "fd9324becc53c4be610db39e13a613006f09fd6ef71a95fb6320dc33157490a3"
+        },
+        "model-00001-of-00002.safetensors": {
+          "size": 4961251752,
+          "mtime_ns": 1791876735697633300,
+          "sha256": null
+        },
+        "model-00002-of-00002.safetensors": {
+          "size": 3639026128,
+          "mtime_ns": 1791876345346965700,
+          "sha256": null
+        },
+        "model.safetensors.index.json": {
+          "size": 90558,
+          "mtime_ns": 1791875062184167800,
+          "sha256": "77f4b67de084c31c7bcd373b039908108eee6c6181607e6d53da730e5f0bc659"
+        },
+        "preprocessor_config.json": {
+          "size": 570,
+          "mtime_ns": 1791875062589246400,
+          "sha256": "f688d6bb20c5017601c4011de7ca656da8485b540b05013efdaf986c0fcc918d"
+        },
+        "processor_config.json": {
+          "size": 70,
+          "mtime_ns": 1791875062624605200,
+          "sha256": "3ffd5f11778dc73e2b69b3c00535e4121e1badf7018136263cd17b5b34fbaa53"
+        },
+        "special_tokens_map.json": {
+          "size": 662,
+          "mtime_ns": 1791875062601103700,
+          "sha256": "2f7b0adf4fb469770bb1490e3e35df87b1dc578246c5e7e6fc76ecf33213a397"
+        },
+        "tokenizer.json": {
+          "size": 33384568,
+          "mtime_ns": 1791875065820501000,
+          "sha256": "4667f2089529e8e7657cfb6d1c19910ae71ff5f28aa7ab2ff2763330affad795"
+        },
+        "tokenizer.model": {
+          "size": 4689074,
+          "mtime_ns": 1791875065306063200,
+          "sha256": null
+        },
+        "tokenizer_config.json": {
+          "size": 1156999,
+          "mtime_ns": 1791875062719203800,
+          "sha256": "bfe25c2735e395407beb78456ea9a6984a1f00d8c16fa04a8b75f2a614cf53e1"
+        }
+      }
+    },
+    "stage": {
+      "signature": "f4c4b0be92b4163cee9ccceddca43fa79ba0f9a0435eb44ed902987c2425eea2",
+      "data_hash": "23b92dec41dd949e54e5fff6178a2fd66ecabc86bee28498515ef1d63463aead"
+    },
+    "changed_entries": 6,
+    "raw_export": "transcript_raw.jsonl"
+  }
+}

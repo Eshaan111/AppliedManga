@@ -1,0 +1,200 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "YOU GUYS GROUPIES, TOO?",
+    "cleaned_text": "YOU GUYS GROUPIES, TOO?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "RELAX... IJUST CAME TO TALK.",
+    "cleaned_text": "RELAX... I JUST CAME TO TALK.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "NOT TO PICK A FIGHT.",
+    "cleaned_text": "NOT TO PICK A FIGHT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character6",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "PAPA.",
+    "cleaned_text": "PAPA.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "ASH IS HERE.",
+    "cleaned_text": "ASH IS HERE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "COME IN.",
+    "cleaned_text": "COME IN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character4",
+    "raw_text": "WHY, GOOD MORNING, ASH.",
+    "cleaned_text": "WHY, GOOD MORNING, ASH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character7",
+    "raw_text": "YOU KNOW, |THOUGHT YOU MIGHT COME BUT I WASN'T EXPECTING YOU QUITE SO EARLY",
+    "cleaned_text": "YOU KNOW, I THOUGHT YOU MIGHT COME BUT I WASN'T EXPECTING YOU QUITE SO EARLY",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "IWAS JUST HAVING BREAK- FAST.",
+    "cleaned_text": "I WAS JUST HAVING BREAK- FAST.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "UNKNOWN",
+    "raw_text": "WOULD YOU CARE TO JOIN ME?",
+    "cleaned_text": "WOULD YOU CARE TO JOIN ME?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "NO, THANKS.",
+    "cleaned_text": "NO, THANKS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "ARE YOU SURE? THE BACON'S WONDERFUL. A FARM IN SURRY.",
+    "cleaned_text": "ARE YOU SURE? THE BACON\u2019S WONDERFUL. A FARM IN SURRY.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "I DIDN'T COME ALL THE WAY OUT HERE TO EAT.",
+    "cleaned_text": "I DIDN'T COME ALL THE WAY OUT HERE TO EAT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "UNKNOWN",
+    "raw_text": "YOU CAN TAKE IT AWAY. I'M DONE.",
+    "cleaned_text": "YOU CAN TAKE IT AWAY. I'M DONE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character8",
+    "raw_text": "I'VE TOLD YOU BEFORE. KEEP YOUR HANDS OUT OF YOUR POCKETS WHEN YOU TALK TO ME.",
+    "cleaned_text": "I'VE TOLD YOU BEFORE. KEEP YOUR HANDS OUT OF YOUR POCKETS WHEN YOU TALK TO ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character8",
+    "raw_text": "TAKE OFF HIS VEST",
+    "cleaned_text": "TAKE OFF HIS VEST",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "ICAN DO IT MY- SELF.",
+    "cleaned_text": "ICAN DO IT MY- SELF.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "YOU CAN'T RELAX UNTIL YOU'VE COMPLETELY STRIPPED ME?",
+    "cleaned_text": "YOU CAN'T RELAX UNTIL YOU'VE COMPLETELY STRIPPED ME?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "HA, HA.",
+    "cleaned_text": "HA, HA.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character8",
+    "raw_text": "NOTHING LIKE THAT. IT'S JUST A POLICY OF MINE.",
+    "cleaned_text": "NOTHING LIKE THAT. IT\u2019S JUST A POLICY OF MINE.",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

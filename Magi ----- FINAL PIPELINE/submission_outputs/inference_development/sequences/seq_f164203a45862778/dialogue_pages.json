@@ -1,0 +1,359 @@
+[
+  [
+    {
+      "group_id": "PG1:T1",
+      "box_ids": [
+        "PG1:T1"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...RIGHT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T2",
+      "box_ids": [
+        "PG1:T2"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "MHMM...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M2",
+      "box_ids": [
+        "PG1:T3",
+        "PG1:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OKAY. ITS HARD, BUT I CAN TOUCH THE FISH. BUT...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T4",
+        "PG1:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IFI CUT IT, THEN...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'LL HAVE BLOD SPRAYING EVERY- WHERE!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T8",
+      "box_ids": [
+        "PG1:T8"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'LL BEE LIKE WAAA HH!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T9",
+      "box_ids": [
+        "PG1:T9"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BLOOD'S THE ONE THING I CAN'T DEAL WITH!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HOW MANY ONE THINGS YOU CAN'T DEAL WITH ARE THERE!!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M3",
+      "box_ids": [
+        "PG1:T11",
+        "PG1:T12"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "OKAY THEN... I DIDN'T WANT TO HAVE TO RESORT TO THIS...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T13",
+      "box_ids": [
+        "PG1:T13"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BuT I DON'T HAVE A CHOICE.,",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T14",
+      "box_ids": [
+        "PG1:T14"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THE NEXT DAY",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "ALLAS, HAINJIGSAW",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T3",
+      "box_ids": [
+        "PG2:T3"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "MANIA",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T4",
+        "PG2:T5"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THIS IS MY BIG SISTER'S PRIZED STASH. IF YOU CAN MAKE IT THROUGH THESE SLASHER MOVIES, ONE OR TWO FISH WILL BE NOTHING!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "OH, I SEE!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M2",
+      "box_ids": [
+        "PG2:T7",
+        "PG2:T8"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I DON'T LIKE SCARY STUFF EITHER.. BUT I CAN'T JUST LEAVE YOU HERE, SO I'LL STAY...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T9",
+      "box_ids": [
+        "PG2:T9"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SORRY....",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T10",
+      "box_ids": [
+        "PG2:T10"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "LET'S GET STARTED.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:M3",
+      "box_ids": [
+        "PG2:T11",
+        "PG2:T12"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...IT'S COMING. THERE'S GONNA BE BLOOD EVERY- WHERE!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T13",
+      "box_ids": [
+        "PG2:T13"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "EEEEEEK! IT'S HEEEKE!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M4",
+      "box_ids": [
+        "PG2:T14",
+        "PG2:T16"
+      ],
+      "speaker": "E3",
+      "speaker_status": "partially_linked",
+      "text_role": "SPOKEN",
+      "text": "HUH? YOU'RE NOT MOVING AT ALL, PRESI- DENT?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T15",
+      "box_ids": [
+        "PG2:T15"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "10",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THIS IS A LOT EASIER THaN I THOUGHT IT'D  BE.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THAT'S BECAUSE YOU'RE NOT LOOKING!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DON'T COVER YOUR EYES!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T4",
+        "PG3:T5"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I'M SCARED TOO!! YOU'RE THE WHOLE REASON WE'RE DOING THI5, 50 YOU CAN'T COVER YOUR EYES!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HUUH!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M2",
+      "box_ids": [
+        "PG3:T7",
+        "PG3:T8"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "LOOK, MY EYES ARE WIDE OPEN!! JUST LIKE A FISH!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T9",
+      "box_ids": [
+        "PG3:T9"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "t B",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M3",
+      "box_ids": [
+        "PG3:T10",
+        "PG3:T11"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THEN KEEP THEM THAT WAY!! DON'T CLOSE THEM AN INCH!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T12",
+      "box_ids": [
+        "PG3:T12"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "AND SO...",
+      "needs_review": false
+    }
+  ]
+]

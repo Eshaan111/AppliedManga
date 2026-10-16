@@ -1,0 +1,369 @@
+{
+  "sequence_id": "seq_7db7a000adeceacf",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "If you want to put it another way, you're easy to read."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "He didn't realize that...?"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Don't worry about it! That just means that we know we can rely on you!"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "When people have problems, it's easy for them to confide in you!"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "You can be in charge of being stupidly honest! Just leave the rest to me!"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "We'll balance each other out!"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "right... \"Stupid,\" again..."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Oh, but don't take this the wrong way. We aren't saying that the other first years aren't trust- worthy."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "We considered making Mikage the Vice- President for a long time."
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "She's very talented and she's honest too, but... how do I put it...?"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Even though she's definitely honest, it seems like she's always holding something back. It's almost like she won't let people take that last step and truly connect with her."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "... you think so?"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Are you sure?"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "It's women's intuition."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "You really can't count on that."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "But still, I really think Mikage is way better suited for this than I am..."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Hachiken, have some confidence!"
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "Ever since you made that pizza and then all that bacon, some people started calling you \"the guy who won't refuse you.\""
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "Me!?"
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "What? Really? That makes you sound pretty cool!"
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "So, you're like a guy who never turns down people who come asking for help?"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "That's how much people put their trust in you!"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Patients are"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "C'mon, be the new Vice- President!"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "All right ..."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Good luck, \"Guy who can't refuse you!\""
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "What!? One of your words is wrong! That makes me sound like I let people walk all over me!!"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "see you later. We'll come visit you guys every once in a while."
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Okay!"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "Good luck job hunting!"
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "Looks like it's going to rain."
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "I'd better hurry back to the dorms ..."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL8",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL7",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL8",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL9",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL10",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL6",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL7",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL7"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL10"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T8",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T9",
+      "tail_id": "PG2:TAIL9"
+    },
+    {
+      "text_id": "PG2:T10",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG2:T11",
+      "tail_id": "PG2:TAIL8"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL6"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL7"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T11",
+      "tail_id": "PG3:TAIL3"
+    }
+  ]
+}

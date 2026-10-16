@@ -1,0 +1,209 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "YOU'RE VERY SMART, ASH. FAR TOO SMART TO NEVER BE MORE THAN BOSS TO A PACK OF PUNKS.",
+    "cleaned_text": "YOU\u2019RE VERY SMART, ASH. FAR TOO SMART TO NEVER BE MORE THAN BOSS TO A PACK OF PUNKS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "I DO WISH YOU'D PUT THAT RIGHT HAND OF YOURS TO WORK FOR ME.",
+    "cleaned_text": "I DO WISH YOU\u2019D PUT THAT RIGHT HAND OF YOURS TO WORK FOR ME.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "IS THAT A JOKE, OR HAVE YOU ACTUALLY GONE SENILE?",
+    "cleaned_text": "IS THAT A JOKE, OR HAVE YOU ACTUALLY GONE SENILE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "YOU'VE CERTAINLY GOT TOO SMART A MOUTH, HAVEN'T YOU, ASH?",
+    "cleaned_text": "YOU\u2019VE CERTAINLY GOT TOO SMART A MOUTH, HAVEN\u2019T YOU, ASH?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "HM?",
+    "cleaned_text": "HM?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "UNKNOWN",
+    "raw_text": "YOU USED TO CRY OVER EVERY ASSIGNMENT I GAVE YOU.",
+    "cleaned_text": "YOU USED TO CRY OVER EVERY ASSIGNMENT I GAVE YOU.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "HAVE YOU FOR- GOTTEN?",
+    "cleaned_text": "HAVE YOU FOR- GOTTEN?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "UNFORTUN ATELY, I'VE GOT A BAD",
+    "cleaned_text": "UNFORTUNATELY, I'VE GOT A BAD",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "IS THAT SO?",
+    "cleaned_text": "IS THAT SO?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "BUT THERE'S SOMETHING YOU MUST NEVER FORGET.",
+    "cleaned_text": "BUT THERE'S SOMETHING YOU MUST NEVER FORGET.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "ASH.",
+    "cleaned_text": "ASH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "IT WAS I WHO TOOK YOU IN.",
+    "cleaned_text": "IT WAS I WHO TOOK YOU IN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "YOU KNOW, ASH...",
+    "cleaned_text": "YOU KNOW, ASH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "..I HEAR YOU'VE BEEN SPENDING A LOT LATELY.",
+    "cleaned_text": "..I HEAR YOU'VE BEEN SPENDING A LOT LATELY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "DID YOU FINALLY FIND A GIRL- FRIEND?",
+    "cleaned_text": "DID YOU FINALLY FIND A GIRL- FRIEND?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "NONE OF YOUR BUSINESS!",
+    "cleaned_text": "NONE OF YOUR BUSINESS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "DON'T FORGET ME, ASH.",
+    "cleaned_text": "DON'T FORGET ME, ASH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character3",
+    "raw_text": "YOU KNOW LOVE YOU, SWEET- HEART.",
+    "cleaned_text": "YOU KNOW LOVE YOU, SWEET-HEART.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "THANK YOU FOR YOUR CONCERN.",
+    "cleaned_text": "THANK YOU FOR YOUR CONCERN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "HEY, MAN.",
+    "cleaned_text": "HEY, MAN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "I HEARD YOU WERE WRESTLING WITH PORKCHOP MARVIN AGAIN.",
+    "cleaned_text": "I HEARD YOU WERE WRESTLING WITH PORKCHOP MARVIN AGAIN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "NAH. THAT WASN'T WRESTLING.",
+    "cleaned_text": "NAH. THAT WASN'T WRESTLING.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

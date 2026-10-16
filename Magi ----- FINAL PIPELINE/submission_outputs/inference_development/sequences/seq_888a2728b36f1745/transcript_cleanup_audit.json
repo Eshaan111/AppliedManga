@@ -1,0 +1,101 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "MY LORD.",
+    "cleaned_text": "MY LORD.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "LADY MAO.",
+    "cleaned_text": "LADY MAO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "THE PALANQUIN IS HERE.",
+    "cleaned_text": "THE PALANQUIN IS HERE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "GRANDFATHER.",
+    "cleaned_text": "GRANDFATHER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character5",
+    "raw_text": "FORGIVE ME.",
+    "cleaned_text": "FORGIVE ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "UNCLE.",
+    "cleaned_text": "UNCLE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "SFX: AH HA HA HA HA",
+    "cleaned_text": "SFX: AH HA HA HA HA",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character24",
+    "raw_text": "KAYO!",
+    "cleaned_text": "KAYO!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character24",
+    "raw_text": "WHAT IN THE WORLD ARE YOU DOING AT A TIME LIKE THIS?!",
+    "cleaned_text": "WHAT IN THE WORLD ARE YOU DOING AT A TIME LIKE THIS?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character29",
+    "raw_text": "M-MISS SATO!",
+    "cleaned_text": "M-MISS SATO!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "UNKNOWN",
+    "raw_text": "UM, THIS IS.",
+    "cleaned_text": "UM, THIS IS.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

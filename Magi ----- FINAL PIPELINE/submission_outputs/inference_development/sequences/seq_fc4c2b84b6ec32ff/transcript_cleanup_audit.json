@@ -1,0 +1,182 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "P-p- PLEASE, BOSS! OH, GOD!",
+    "cleaned_text": "P-p- PLEASE, BOSS! OH, GOD!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "OH, GOD, YOU GONNA DO ME NOW, PLEASE DON'T--",
+    "cleaned_text": "OH, GOD, YOU GONNA DO ME NOW, PLEASE DON'T--",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "OH, THANK YOU, MAN... OH,I'M SORRY...",
+    "cleaned_text": "OH, THANK YOU, MAN... OH, I'M SORRY...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "OH SWEET JESUS, THANK YOU THANK YOU...",
+    "cleaned_text": "OH SWEET JESUS, THANK YOU THANK YOU...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "THANK YOU... THANK YOU...",
+    "cleaned_text": "THANK YOU... THANK YOU...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "see",
+    "cleaned_text": "see",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "ENOUGH,",
+    "cleaned_text": "ENOUGH,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "I WANT YOU TO GET UP.. AND I WANT YOU TO WALK AWAY.",
+    "cleaned_text": "I WANT YOU TO GET UP.. AND I WANT YOU TO WALK AWAY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "AND LET ME EXPLAIN SOMETHING BEFORE YOU GO.",
+    "cleaned_text": "AND LET ME EXPLAIN SOMETHING BEFORE YOU GO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "YOU'RE OUT OF HERE. FOR GOOD",
+    "cleaned_text": "YOU\u2019RE OUT OF HERE. FOR GOOD",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "SEE YOU AROUND, HEAR YOU AROUND...",
+    "cleaned_text": "SEE YOU AROUND, HEAR YOU AROUND...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "..YOU DIE THAT VERY DAY.",
+    "cleaned_text": "..YOU DIE THAT VERY DAY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "N-NO! BOSS!",
+    "cleaned_text": "N-NO! BOSS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "YOU GOTTA FORGIVEUS, BOSS! WE AIN'T GONNA EVER--",
+    "cleaned_text": "YOU GOTTA FORGIVE US, BOSS! WE AIN'T GONNA EVER--",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "RINGGGG Nor",
+    "cleaned_text": "RINGGGG Nor",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "YAAA!",
+    "cleaned_text": "YAAA!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "YOU'RE OUT.",
+    "cleaned_text": "YOU\u2019RE OUT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "ASH...",
+    "cleaned_text": "ASH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "OH SHIT, OH SHIT",
+    "cleaned_text": "OH SHIT, OH SHIT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "LISTEN UP.",
+    "cleaned_text": "LISTEN UP.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

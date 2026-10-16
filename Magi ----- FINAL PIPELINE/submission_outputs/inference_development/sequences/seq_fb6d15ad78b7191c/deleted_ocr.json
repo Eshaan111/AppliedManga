@@ -1,0 +1,48 @@
+[
+  {
+    "sequence_id": "seq_fb6d15ad78b7191c",
+    "page_index": 2,
+    "page_file": "03.png",
+    "text_index": 16,
+    "text_id": "T17",
+    "box": [
+      391.53179931640625,
+      1191.63916015625,
+      440.30908203125,
+      1259.7208251953125
+    ],
+    "text": "BARK BARK BARK BARK",
+    "entity_id": "E6",
+    "entity_ids": [
+      "E6"
+    ],
+    "character_links": [
+      {
+        "character_index": 0,
+        "character_id": "PG3:C1",
+        "entity_id": "E6"
+      }
+    ],
+    "association_status": "linked",
+    "ocr_source": "paddle",
+    "ocr_reason": "paddle",
+    "needs_review": false,
+    "disagreement": true,
+    "box_id": "PG3:T17",
+    "gemma_label": "Artifact",
+    "artifact_label": "Artifact",
+    "gemma_raw_answer": "Artifact",
+    "artifact_reason": "Gemma classification",
+    "ocr_agreement": 0.42105263157894735,
+    "delete_ocr": true,
+    "deletion_reason": "Gemma classification",
+    "punctuation_bubble_checked": false,
+    "punctuation_bubble_found": null,
+    "magi_text": "BARK BARK BARK BARK BARK BARK BARK BARK BARK BARK BARK BARK BARK BARK BARK",
+    "paddle_text": "BARK BARK BARK BARK",
+    "group_id": null,
+    "text_role": null,
+    "speaker": null,
+    "speaker_status": "deleted"
+  }
+]

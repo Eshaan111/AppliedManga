@@ -1,0 +1,26 @@
+{
+  "encoder": "dinov2",
+  "model": "C:\\MODELS\\dinov2-small",
+  "model_files": {
+    "config.json": [
+      547,
+      1790935687595820100
+    ],
+    "model.safetensors": [
+      88249960,
+      1790935706128300600
+    ],
+    "preprocessor_config.json": [
+      436,
+      1790935687704327200
+    ]
+  },
+  "padding_per_side": 0.2,
+  "image_size": 224,
+  "resize": "fit_white_square_no_center_crop",
+  "color": "RGB",
+  "pool": "CLS",
+  "feature_dim": 384,
+  "processor": "local_slow_processor_normalization",
+  "helper_sha256": "3a95a39c354ed258d4c93a31c97faad52666f39c5f8152d45cb3ffcf3aa307dc"
+}

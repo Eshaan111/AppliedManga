@@ -1,0 +1,167 @@
+{
+  "sequence_id": "seq_2032620aa4e4ac7f",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Snap"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Huh? Does komaba seem different than usual?"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "He's doing really well."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "http://www.youtube.com/watch?v=n=n=n-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "It looks like he's been working hard for the fall tournament."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "The second"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "No, that's not it. It's like he's..."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "I"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "out for blood."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": " SFX: HOOFBEATS"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Woah!!"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "OKAWA- Senpai, you look so cool!"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "I am not sure if this is a"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Right here! This is where it happens!"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Click"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "So close !!"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Do you have to keep watching that? It's Embar- rassing."
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "It's all for the sake of our club. We're going to analyze it in detail later."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T7",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T8",
+      "tail_id": "PG3:TAIL3"
+    }
+  ]
+}

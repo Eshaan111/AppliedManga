@@ -1,0 +1,47 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "AND HE CAN'T FIGHT NOW. HOW'S THAT POSSIBLE?",
+    "cleaned_text": "AND HE CAN'T FIGHT NOW. HOW'S THAT POSSIBLE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "HE'D BE BETTER OFF IF HE'D DIED IN BATTLE!",
+    "cleaned_text": "HE\u2019D BE BETTER OFF IF HE\u2019D DIED IN BATTLE!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "AH, TARO WHERE ARE YOU GOING?",
+    "cleaned_text": "AH, TARO WHERE ARE YOU GOING?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "PISS!",
+    "cleaned_text": "PISS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "He'd be better off if he'd died.",
+    "cleaned_text": "He'd be better off if he'd died.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

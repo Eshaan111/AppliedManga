@@ -1,0 +1,1524 @@
+{
+  "errors": [],
+  "warnings": [
+    "Validation OCR uses older filtering rules than training OCR.",
+    "Character numbering derives from reference reading order; the prompt does not specify that numbering rule. Exact-token loss penalizes otherwise equivalent permutations.",
+    "Training requests accepted groups only; validation requests every group, including rejected alignment groups.",
+    "CER alignment verifies text agreement, not visual ground truth of the matched bubble.",
+    "This audit does not train, generate model predictions, or establish visual reasoning accuracy."
+  ],
+  "splits": {
+    "train": {
+      "sequences": 64,
+      "groups": 1671,
+      "alignment": {
+        "accepted": 1277,
+        "rejected": 394
+      },
+      "speakers": {
+        "char1": 487,
+        "char2": 382,
+        "char3": 201,
+        "UNKNOWN": 14,
+        "NARRATION": 56,
+        "char4": 83,
+        "char5": 38,
+        "char6": 15,
+        "char7": 1
+      }
+    },
+    "val": {
+      "sequences": 16,
+      "groups": 421,
+      "alignment": {
+        "accepted": 309,
+        "rejected": 112
+      },
+      "speakers": {
+        "char2": 98,
+        "char1": 100,
+        "char3": 31,
+        "UNKNOWN": 13,
+        "char4": 18,
+        "char5": 16,
+        "NARRATION": 23,
+        "char6": 7,
+        "char8": 2,
+        "char7": 1
+      }
+    }
+  },
+  "tensor_examples": [
+    {
+      "sequence_id": "seq_71033fec4de494fc",
+      "tokens": 3777,
+      "supervised_tokens": 486,
+      "speaker_value_tokens": 92,
+      "grids": [
+        [
+          1,
+          68,
+          44
+        ],
+        [
+          1,
+          68,
+          44
+        ],
+        [
+          1,
+          68,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_d7af6c64ebc22bbe",
+      "tokens": 2709,
+      "supervised_tokens": 142,
+      "speaker_value_tokens": 28,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_fa2eee6269a5dad3",
+      "tokens": 2773,
+      "supervised_tokens": 210,
+      "speaker_value_tokens": 40,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_06ec0acde37dffa4",
+      "tokens": 2900,
+      "supervised_tokens": 192,
+      "speaker_value_tokens": 42,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_f492843aa3a0240c",
+      "tokens": 2643,
+      "supervised_tokens": 142,
+      "speaker_value_tokens": 28,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_cd727990f22c777b",
+      "tokens": 3164,
+      "supervised_tokens": 294,
+      "speaker_value_tokens": 54,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_535e0754d805105b",
+      "tokens": 3307,
+      "supervised_tokens": 294,
+      "speaker_value_tokens": 58,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_f164203a45862778",
+      "tokens": 2918,
+      "supervised_tokens": 218,
+      "speaker_value_tokens": 44,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_58858a2227cf3761",
+      "tokens": 3096,
+      "supervised_tokens": 249,
+      "speaker_value_tokens": 48,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_5c5304b3f7796f8c",
+      "tokens": 2579,
+      "supervised_tokens": 52,
+      "speaker_value_tokens": 10,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_a3d73a93577ffd94",
+      "tokens": 2639,
+      "supervised_tokens": 82,
+      "speaker_value_tokens": 16,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_b251c8e1ba8b91f8",
+      "tokens": 3216,
+      "supervised_tokens": 259,
+      "speaker_value_tokens": 57,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_88c1ad85c0fc1e9a",
+      "tokens": 3169,
+      "supervised_tokens": 276,
+      "speaker_value_tokens": 54,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_dcebdbbf614a9b4d",
+      "tokens": 2841,
+      "supervised_tokens": 200,
+      "speaker_value_tokens": 41,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_888a2728b36f1745",
+      "tokens": 2645,
+      "supervised_tokens": 92,
+      "speaker_value_tokens": 18,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_2022b8c0e1f2d3c0",
+      "tokens": 2711,
+      "supervised_tokens": 136,
+      "speaker_value_tokens": 26,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          68,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_ec05f45d71c43f2c",
+      "tokens": 3236,
+      "supervised_tokens": 306,
+      "speaker_value_tokens": 60,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_07838fb26cd1be54",
+      "tokens": 2612,
+      "supervised_tokens": 92,
+      "speaker_value_tokens": 18,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_4833e23eec54344b",
+      "tokens": 3019,
+      "supervised_tokens": 244,
+      "speaker_value_tokens": 48,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_9032e5551cf1a9d2",
+      "tokens": 3234,
+      "supervised_tokens": 267,
+      "speaker_value_tokens": 49,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_5f407d0064bb4a43",
+      "tokens": 2807,
+      "supervised_tokens": 122,
+      "speaker_value_tokens": 24,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_98544ce821c3f74b",
+      "tokens": 3253,
+      "supervised_tokens": 353,
+      "speaker_value_tokens": 68,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_637459fc880bf35a",
+      "tokens": 3088,
+      "supervised_tokens": 252,
+      "speaker_value_tokens": 50,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_0ef2ec294597f572",
+      "tokens": 2867,
+      "supervised_tokens": 212,
+      "speaker_value_tokens": 42,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_1c1d4f5e71a2f554",
+      "tokens": 3050,
+      "supervised_tokens": 252,
+      "speaker_value_tokens": 48,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_dce8be23c3281228",
+      "tokens": 2552,
+      "supervised_tokens": 82,
+      "speaker_value_tokens": 16,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_f9043534f1171d4e",
+      "tokens": 2609,
+      "supervised_tokens": 111,
+      "speaker_value_tokens": 21,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_210721b0d576149f",
+      "tokens": 2539,
+      "supervised_tokens": 72,
+      "speaker_value_tokens": 14,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_c4448514b6de1ab9",
+      "tokens": 2568,
+      "supervised_tokens": 52,
+      "speaker_value_tokens": 10,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_5e4a9d63617d62bf",
+      "tokens": 2661,
+      "supervised_tokens": 122,
+      "speaker_value_tokens": 24,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_ee880b9612205860",
+      "tokens": 3126,
+      "supervised_tokens": 245,
+      "speaker_value_tokens": 62,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_d8bc3c6ac1bb6017",
+      "tokens": 2563,
+      "supervised_tokens": 93,
+      "speaker_value_tokens": 19,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_27e88136c1812f85",
+      "tokens": 2549,
+      "supervised_tokens": 92,
+      "speaker_value_tokens": 18,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_032cbb4dc8686963",
+      "tokens": 2941,
+      "supervised_tokens": 259,
+      "speaker_value_tokens": 51,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_c2de6cb4b3c91103",
+      "tokens": 2819,
+      "supervised_tokens": 172,
+      "speaker_value_tokens": 34,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_f9248d307dec033f",
+      "tokens": 2763,
+      "supervised_tokens": 122,
+      "speaker_value_tokens": 24,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_91119fd54cd62066",
+      "tokens": 2760,
+      "supervised_tokens": 147,
+      "speaker_value_tokens": 29,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_f9a4e67ae3c018f6",
+      "tokens": 3020,
+      "supervised_tokens": 235,
+      "speaker_value_tokens": 45,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_fc4c2b84b6ec32ff",
+      "tokens": 2785,
+      "supervised_tokens": 172,
+      "speaker_value_tokens": 34,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_720a7023d4f2ffcb",
+      "tokens": 2689,
+      "supervised_tokens": 92,
+      "speaker_value_tokens": 18,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_8e8496c2039c3d5a",
+      "tokens": 2604,
+      "supervised_tokens": 102,
+      "speaker_value_tokens": 20,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_ac5793f8168efdd1",
+      "tokens": 3341,
+      "supervised_tokens": 346,
+      "speaker_value_tokens": 73,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          64,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_98d98dac2a89a339",
+      "tokens": 3251,
+      "supervised_tokens": 287,
+      "speaker_value_tokens": 55,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_aef69e98002294bc",
+      "tokens": 3288,
+      "supervised_tokens": 342,
+      "speaker_value_tokens": 66,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          64,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_2fae297a18af2a57",
+      "tokens": 3054,
+      "supervised_tokens": 233,
+      "speaker_value_tokens": 46,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_fa5b05d0f22bff15",
+      "tokens": 3218,
+      "supervised_tokens": 328,
+      "speaker_value_tokens": 64,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_f1c007d2d64e6aad",
+      "tokens": 2491,
+      "supervised_tokens": 42,
+      "speaker_value_tokens": 8,
+      "grids": [
+        [
+          1,
+          64,
+          46
+        ],
+        [
+          1,
+          64,
+          46
+        ],
+        [
+          1,
+          64,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_eaad741293da2ac1",
+      "tokens": 2930,
+      "supervised_tokens": 222,
+      "speaker_value_tokens": 44,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_83ff2f28f5c13c40",
+      "tokens": 2604,
+      "supervised_tokens": 102,
+      "speaker_value_tokens": 20,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_72fdfff4b4353a42",
+      "tokens": 3286,
+      "supervised_tokens": 310,
+      "speaker_value_tokens": 65,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_f7ee32f1dd417802",
+      "tokens": 2590,
+      "supervised_tokens": 82,
+      "speaker_value_tokens": 16,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_fb6d15ad78b7191c",
+      "tokens": 3660,
+      "supervised_tokens": 427,
+      "speaker_value_tokens": 82,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_0dc2e3d874c804fc",
+      "tokens": 3069,
+      "supervised_tokens": 234,
+      "speaker_value_tokens": 46,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_d62d309820d28efa",
+      "tokens": 2669,
+      "supervised_tokens": 112,
+      "speaker_value_tokens": 22,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_2e4b837ead6b88ae",
+      "tokens": 2800,
+      "supervised_tokens": 157,
+      "speaker_value_tokens": 30,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          64,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_f1f5fb7a11b950f3",
+      "tokens": 3232,
+      "supervised_tokens": 259,
+      "speaker_value_tokens": 54,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_41d68dfc426cc19e",
+      "tokens": 3064,
+      "supervised_tokens": 254,
+      "speaker_value_tokens": 50,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_4e5d126a68879ddf",
+      "tokens": 2968,
+      "supervised_tokens": 211,
+      "speaker_value_tokens": 41,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_7db7a000adeceacf",
+      "tokens": 3413,
+      "supervised_tokens": 304,
+      "speaker_value_tokens": 57,
+      "grids": [
+        [
+          1,
+          64,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_864aaca43a3580bb",
+      "tokens": 3519,
+      "supervised_tokens": 442,
+      "speaker_value_tokens": 84,
+      "grids": [
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ],
+        [
+          1,
+          66,
+          44
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_8f7b98bae85cd5e5",
+      "tokens": 3041,
+      "supervised_tokens": 288,
+      "speaker_value_tokens": 56,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_098e260f231aa789",
+      "tokens": 3335,
+      "supervised_tokens": 306,
+      "speaker_value_tokens": 60,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    },
+    {
+      "sequence_id": "seq_44b9a316b2919cfe",
+      "tokens": 3214,
+      "supervised_tokens": 274,
+      "speaker_value_tokens": 55,
+      "grids": [
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ],
+        [
+          1,
+          66,
+          46
+        ]
+      ]
+    }
+  ],
+  "adapter_module_count": 252,
+  "installed_causal_loss_source": "def ForCausalLMLoss(\n    logits,\n    labels,\n    vocab_size: int,\n    num_items_in_batch: torch.Tensor | None = None,\n    ignore_index: int = -100,\n    shift_labels: torch.Tensor | None = None,\n    **kwargs,\n) -> torch.Tensor:\n    # Upcast to float if we need to compute the loss to avoid potential precision issues\n    logits = logits.float()\n\n    if shift_labels is None:\n        # Shift so that tokens < n predict n\n        labels = nn.functional.pad(labels, (0, 1), value=ignore_index)\n        shift_labels = labels[..., 1:].contiguous()\n\n    # Flatten the tokens\n    logits = logits.view(-1, vocab_size)\n    shift_labels = shift_labels.view(-1)\n    shift_labels = shift_labels.to(logits.device)\n    loss = fixed_cross_entropy(logits, shift_labels, num_items_in_batch, ignore_index, **kwargs)\n    return loss\n",
+  "loss": {
+    "supervised_tokens": 13156,
+    "speaker_value_tokens": 2596,
+    "speaker_value_fraction": 0.19732441471571907,
+    "objective": "Next-token cross entropy over complete assistant JSON and chat ending; prompt and images masked"
+  },
+  "checkpoint": {
+    "tensors": 504,
+    "epoch": 2.0
+  },
+  "evaluation": {
+    "correct": 150,
+    "labelled_groups": 309,
+    "single_character_baseline_correct": 150,
+    "predicted_speakers": {
+      "char1": 414,
+      "char2": 7
+    },
+    "single_label_sequences": 15
+  }
+}

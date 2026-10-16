@@ -1,0 +1,209 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "IF IT AIN'T THE GOLDEN CHILD. NEVER SEEN YOU IN THE SUNSHINE BEFORE.",
+    "cleaned_text": "IF IT AIN'T THE GOLDEN CHILD. NEVER SEEN YOU IN THE SUNSHINE BEFORE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "GOT TO CATCH HIM IN THE DAYLIGHT.",
+    "cleaned_text": "GOT TO CATCH HIM IN THE DAYLIGHT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "OLD FARTS IN THE REST HOME TURN IN EARLY.",
+    "cleaned_text": "OLD FARTS IN THE REST HOME TURN IN EARLY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "HEY! HOW MANY TIMES HAVE I TOLD YOU TO SHOW SOME RESPECT!",
+    "cleaned_text": "HEY! HOW MANY TIMES HAVE I TOLD YOU TO SHOW SOME RESPECT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "YOU CALL HIM \"MISTER, YOU CALL HIM \"PAPA DINO\"",
+    "cleaned_text": "YOU CALL HIM \"MISTER,\" YOU CALL HIM \"PAPA DINO.\"",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "YOU DON'T GET OUT OF MY WAY MARVIN.",
+    "cleaned_text": "YOU DON'T GET OUT OF MY WAY MARVIN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "...AND I'M NOT GONNA CALL HIM AT ALL.",
+    "cleaned_text": "...AND I'M NOT GONNA CALL HIM AT ALL.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "...HEY.",
+    "cleaned_text": "...HEY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "HEY, ASH.",
+    "cleaned_text": "HEY, ASH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "Y'KNOW, I USED TO BE A BIG FAN OF YOURS.",
+    "cleaned_text": "Y\u2019KNOW, I USED TO BE A BIG FAN OF YOURS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "HEY, YOU EVER GONNA MAKE ANY MORE MOVIES? I THINK YOU'RE STILL YOUNG ENOUGH.",
+    "cleaned_text": "HEY, YOU EVER GONNA MAKE ANY MORE MOVIES? I THINK YOU\u2019RE STILL YOUNG ENOUGH.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "DIRTBAG.",
+    "cleaned_text": "DIRTBAG.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "WH- WHAT WAS THAT?!",
+    "cleaned_text": "WH- WHAT WAS THAT?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "ISAID THAT YOU WERE A DIRTBAG MARVIN.",
+    "cleaned_text": "ISAID THAT YOU WERE A DIRTBAG MARVIN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "BUTIWAS THINKING THAT YOU WERE ALSO AFAT PIG.",
+    "cleaned_text": "BUT I WAS THINKING THAT YOU WERE ALSO A FAT PIG.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "I'LL KILL YOU, YOU LITTLE-",
+    "cleaned_text": "I'LL KILL YOU, YOU LITTLE-",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "EASY, MARVIN, EASY!!",
+    "cleaned_text": "EASY, MARVIN, EASY!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "PUNK...",
+    "cleaned_text": "PUNK...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "JUST A PUNK...",
+    "cleaned_text": "JUST A PUNK...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "FUCKIN'.. IF HE WASN'T PAPA'S PET I'D..I'DF- FUCKIN'...",
+    "cleaned_text": "FUCKING.. IF HE WASN'T PAPA'S PET I'D..I'DF- FUCKING...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "JESUS CHRIST, MARV, PULL YOURSELF TOGETHER! HE'S JUST A GODDAMN KID!",
+    "cleaned_text": "JESUS CHRIST, MARV, PULL YOURSELF TOGETHER! HE'S JUST A GODDAMN KID!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "\"KID\"? OH, YEAH... THAT'S ALWAYS BEEN HIS ACT. JUST A KID, RIGHT.",
+    "cleaned_text": "\u201cKID\u201d? OH, YEAH... THAT\u2019S ALWAYS BEEN HIS ACT. JUST A KID, RIGHT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "LEMME TELL YOU, THOUGH.. ONE FINE DAY I SWEAR I'M GONNA SNAP THAT WORTHLESS LITTLE QUEER'S NECK.",
+    "cleaned_text": "LEMME TELL YOU, THOUGH.. ONE FINE DAY I SWEAR I\u2019M GONNA SNAP THAT WORTHLESS LITTLE QUEER\u2019S NECK.",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

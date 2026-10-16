@@ -1,0 +1,47 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character8",
+    "raw_text": "YOU LIKED HIM TOO, DIDN'T YOU DENJI?",
+    "cleaned_text": "YOU LIKED HIM TOO, DIDN'T YOU DENJI?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "WHAT ARE YOU TRYING TO SAY..",
+    "cleaned_text": "WHAT ARE YOU TRYING TO SAY..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character6",
+    "raw_text": "YOU KNOW HIM?",
+    "cleaned_text": "YOU KNOW HIM?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "60",
+    "cleaned_text": "60",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character5",
+    "raw_text": "THE GUN DEVIL WANTS YOUR HEART.",
+    "cleaned_text": "THE GUN DEVIL WANTS YOUR HEART.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

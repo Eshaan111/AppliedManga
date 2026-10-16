@@ -1,0 +1,177 @@
+{
+  "sequence_id": "seq_de542b63e6b19bc2",
+  "page_index": 2,
+  "raw_count": 8,
+  "target_count": 1,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0"
+      ],
+      "text": "KRA",
+      "box": [
+        0.0,
+        47.0,
+        425.0,
+        320.0
+      ],
+      "id": "g0",
+      "score": 0.9995233416557312,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c1"
+      ],
+      "text": "AA",
+      "box": [
+        352.0,
+        70.0,
+        689.0,
+        271.0
+      ],
+      "id": "g1",
+      "score": 0.9916418790817261,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c2",
+        "c7"
+      ],
+      "text": "SHp CRIK",
+      "box": [
+        73.0,
+        754.0,
+        250.0,
+        1018.0
+      ],
+      "id": "g2",
+      "score": 0.8845830261707306,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c3",
+        "c4",
+        "c5",
+        "c6"
+      ],
+      "text": "I THINK YOU DIED PEACEFULLY, GRANDPA.",
+      "box": [
+        596.0,
+        807.0,
+        718.0,
+        892.0
+      ],
+      "id": "g3",
+      "score": 0.9903315305709839,
+      "target_index": 0,
+      "target_text": "I THINK YOU DIED PEACEFULLY, GRANDPA.",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "KRA",
+      "score": 0.9995233416557312,
+      "box": [
+        0.0,
+        47.0,
+        425.0,
+        320.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "AA",
+      "score": 0.9916418790817261,
+      "box": [
+        352.0,
+        70.0,
+        689.0,
+        271.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "SHp",
+      "score": 0.9332497119903564,
+      "box": [
+        73.0,
+        754.0,
+        203.0,
+        894.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "I THINK",
+      "score": 0.9993070960044861,
+      "box": [
+        614.0,
+        807.0,
+        696.0,
+        836.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "YOU DIED",
+      "score": 0.9976324439048767,
+      "box": [
+        609.0,
+        830.0,
+        706.0,
+        854.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "PEACEFULLY,",
+      "score": 0.9644607901573181,
+      "box": [
+        596.0,
+        852.0,
+        718.0,
+        872.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "GRANDPA.",
+      "score": 0.9999257922172546,
+      "box": [
+        610.0,
+        871.0,
+        703.0,
+        892.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "CRIK",
+      "score": 0.8359163403511047,
+      "box": [
+        106.0,
+        899.0,
+        250.0,
+        1018.0
+      ]
+    }
+  ],
+  "transcript": "KRA\nAA\nSHp CRIK\nI THINK YOU DIED PEACEFULLY, GRANDPA.",
+  "sample_index": 15,
+  "preview_file": "sample_15_page_2.html"
+}

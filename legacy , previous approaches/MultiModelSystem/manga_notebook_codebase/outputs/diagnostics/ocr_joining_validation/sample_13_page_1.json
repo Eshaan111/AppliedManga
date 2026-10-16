@@ -1,0 +1,389 @@
+{
+  "sequence_id": "seq_952f154fb1505883",
+  "page_index": 1,
+  "raw_count": 19,
+  "target_count": 5,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c1",
+        "c2",
+        "c3"
+      ],
+      "text": "HACHIKEN. WE'RE COUNTING ON YOU.",
+      "box": [
+        658.0,
+        281.0,
+        794.0,
+        405.0
+      ],
+      "id": "g0",
+      "score": 0.9991489946842194,
+      "target_index": 0,
+      "target_text": "HACHIKEN. WE'RE COUNTING ON YOU.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c4"
+      ],
+      "text": "(C.)",
+      "box": [
+        743.0,
+        722.0,
+        767.0,
+        758.0
+      ],
+      "id": "g1",
+      "score": 0.7197389602661133,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c5",
+        "c6",
+        "c7"
+      ],
+      "text": "GOOD LUCK, HACHIKEN!",
+      "box": [
+        191.0,
+        924.0,
+        283.0,
+        987.0
+      ],
+      "id": "g2",
+      "score": 0.9992501934369405,
+      "target_index": 2,
+      "target_text": "GOOD LUCK, HACHIKEN!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c8",
+        "c11",
+        "c13"
+      ],
+      "text": "WHAAAT!? WAIT JUST A MINUTE!!",
+      "box": [
+        541.0,
+        969.0,
+        659.0,
+        1048.0
+      ],
+      "id": "g3",
+      "score": 0.9985414544741312,
+      "target_index": 1,
+      "target_text": "WHAAAT!? WAIT JUST A MINUTE!!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c9",
+        "c10",
+        "c12"
+      ],
+      "text": "HEY, YOU MADE VICE- PRESIDENT!",
+      "box": [
+        106.0,
+        980.0,
+        185.0,
+        1028.0
+      ],
+      "id": "g4",
+      "score": 0.9992425243059794,
+      "target_index": 3,
+      "target_text": "HEY, YOU MADE VICE-PRESIDENT!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c14"
+      ],
+      "text": "3",
+      "box": [
+        109.0,
+        1154.0,
+        135.0,
+        1185.0
+      ],
+      "id": "g5",
+      "score": 0.4598543643951416,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c15"
+      ],
+      "text": "MOO",
+      "box": [
+        719.0,
+        1157.0,
+        773.0,
+        1196.0
+      ],
+      "id": "g6",
+      "score": 0.9987015724182129,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c17"
+      ],
+      "text": "MOO",
+      "box": [
+        685.0,
+        1194.0,
+        740.0,
+        1233.0
+      ],
+      "id": "g7",
+      "score": 0.9979344010353088,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c16",
+        "c18"
+      ],
+      "text": "CON- GRATS!",
+      "box": [
+        473.0,
+        1198.0,
+        525.0,
+        1230.0
+      ],
+      "id": "g8",
+      "score": 0.9992839395999908,
+      "target_index": 4,
+      "target_text": "CONGRATS!",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "HACHIKEN.",
+      "score": 0.9999709725379944,
+      "box": [
+        658.0,
+        281.0,
+        794.0,
+        315.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "WE'RE",
+      "score": 0.9992237091064453,
+      "box": [
+        686.0,
+        315.0,
+        770.0,
+        344.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "COUNTING",
+      "score": 0.9990355968475342,
+      "box": [
+        663.0,
+        346.0,
+        790.0,
+        374.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "ON YOU.",
+      "score": 0.9983657002449036,
+      "box": [
+        671.0,
+        375.0,
+        781.0,
+        405.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "(C.)",
+      "score": 0.7197389602661133,
+      "box": [
+        743.0,
+        722.0,
+        767.0,
+        758.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "GOOD",
+      "score": 0.9999859929084778,
+      "box": [
+        210.0,
+        924.0,
+        264.0,
+        946.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "LUCK,",
+      "score": 0.9978303909301758,
+      "box": [
+        210.0,
+        945.0,
+        262.0,
+        967.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "HACHIKEN!",
+      "score": 0.999934196472168,
+      "box": [
+        191.0,
+        966.0,
+        283.0,
+        987.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "WHAAAT!?",
+      "score": 0.999793291091919,
+      "box": [
+        543.0,
+        969.0,
+        658.0,
+        994.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "HEY, YOU",
+      "score": 0.9989395141601562,
+      "box": [
+        117.0,
+        980.0,
+        179.0,
+        998.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "MADE VICE-",
+      "score": 0.998989462852478,
+      "box": [
+        106.0,
+        996.0,
+        184.0,
+        1013.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "WAIT JUST",
+      "score": 0.9993723630905151,
+      "box": [
+        542.0,
+        998.0,
+        659.0,
+        1022.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "PRESIDENT!",
+      "score": 0.999798595905304,
+      "box": [
+        108.0,
+        1011.0,
+        185.0,
+        1028.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "A MINUTE!!",
+      "score": 0.9964587092399597,
+      "box": [
+        541.0,
+        1025.0,
+        659.0,
+        1048.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "3",
+      "score": 0.4598543643951416,
+      "box": [
+        109.0,
+        1154.0,
+        135.0,
+        1185.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "MOO",
+      "score": 0.9987015724182129,
+      "box": [
+        719.0,
+        1157.0,
+        773.0,
+        1196.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "CON-",
+      "score": 0.9986095428466797,
+      "box": [
+        476.0,
+        1198.0,
+        513.0,
+        1216.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "MOO",
+      "score": 0.9979344010353088,
+      "box": [
+        685.0,
+        1194.0,
+        740.0,
+        1233.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "GRATS!",
+      "score": 0.999958336353302,
+      "box": [
+        473.0,
+        1214.0,
+        525.0,
+        1230.0
+      ]
+    }
+  ],
+  "transcript": "HACHIKEN. WE'RE COUNTING ON YOU.\n(C.)\nGOOD LUCK, HACHIKEN!\nWHAAAT!? WAIT JUST A MINUTE!!\nHEY, YOU MADE VICE- PRESIDENT!\n3\nMOO\nMOO\nCON- GRATS!",
+  "sample_index": 13,
+  "preview_file": "sample_13_page_1.html"
+}

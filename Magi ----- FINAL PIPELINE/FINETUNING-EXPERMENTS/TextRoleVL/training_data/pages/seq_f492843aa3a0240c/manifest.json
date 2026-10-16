@@ -1,0 +1,143 @@
+{
+  "sequence_id": "seq_f492843aa3a0240c",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "ahh- hh-hhh..."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "I am a little surprised about the"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "ahh"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "ahh"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "ahh"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "ahh"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "ahh"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "...Save you the COUR7- MARTIAL, Mother- FUCKER!"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Wait!"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Griffin... GRIFIN...?!"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "It's me...."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Max. Your friend... Max Lobo."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "bana... na..."
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "...?! What?"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "banana fish..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "...I saw it..."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "..."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "...Hey! You guys ok over there? I heard Gunfire!"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T9",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

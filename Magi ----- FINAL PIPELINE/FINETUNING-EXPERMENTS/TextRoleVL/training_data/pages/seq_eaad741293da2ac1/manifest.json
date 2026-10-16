@@ -1,0 +1,273 @@
+{
+  "sequence_id": "seq_eaad741293da2ac1",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "You look tired. How 'bout I get some coffee?"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "NAW, it's cool. Gonna take a little nap instead."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Guess I'll be on my way then."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Thanks, skip. I really appreciate--"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Klinik"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "WHAT'S UP, ASH?"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "Hm? Nothing..."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Hey, coffee's on me, then."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "All right."
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "Um..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "About this trouble with Dino...?"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "1 D/D hear somethin'. I hear it was actually Arthur who gave 'em the word."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "THAT'S WHAT I FIGURED."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Sooner or later, I'm going to have to settle with him."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "You STACKIN' UP ENEMIES IN THE FAMILY, ASH."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "You sure about all this?"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "No."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "See you later, skip."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "PAPA."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "WHAT?"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "What"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "I'd appreciate it if you could open the door a bit more gently."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "I don't want to disturb my orchids."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "N-NEVER MIND THAT!"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL8",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL9",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL8"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL9"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T8",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL3"
+    }
+  ]
+}

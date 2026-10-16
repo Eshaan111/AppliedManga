@@ -1,0 +1,128 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "SNAP",
+    "cleaned_text": "SNAP",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "HUH? DOES KOMABA SEEM DIFFERENT THAN USUAL?",
+    "cleaned_text": "HUH? DOES KOMABA SEEM DIFFERENT THAN USUAL?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "HE'S DOING REALLY WELL. IT LOOKS LIKE HE'S BEEN WORKING HARD FOR THE FALL TOURNAMENT.",
+    "cleaned_text": "HE\u2019S DOING REALLY WELL. IT LOOKS LIKE HE\u2019S BEEN WORKING HARD FOR THE FALL TOURNAMENT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "AAAL M VOSISIHI JOOOSG",
+    "cleaned_text": "AAAL M VOSISIHI JOOOSG",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "THAT'S THE WAY!",
+    "cleaned_text": "THAT\u2019S THE WAY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "NO, THAT'S NOT IT. IT'S LIKE HE'S...",
+    "cleaned_text": "NO, THAT'S NOT IT. IT'S LIKE HE'S...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "SNAP",
+    "cleaned_text": "SNAP",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "OUT FOR BLOOD.",
+    "cleaned_text": "OUT FOR BLOOD.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "WOAH!!",
+    "cleaned_text": "WOAH!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character11",
+    "raw_text": "OKAWA- SENPAI, YOU LOOK sO COOL!",
+    "cleaned_text": "OKAWA- SENPAI, YOU LOOK SO COOL!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character16",
+    "raw_text": "RIGHT HERE! THIS IS WHERE IT HAPPENS!",
+    "cleaned_text": "RIGHT HERE! THIS IS WHERE IT HAPPENS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "so CLOSE !!",
+    "cleaned_text": "SO CLOSE!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character12",
+    "raw_text": "DO YOU HAVE TO KEEP WATCHING THAT? IT'S EMBAR- RASSING.",
+    "cleaned_text": "DO YOU HAVE TO KEEP WATCHING THAT? IT'S EMBARRASSING.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character16",
+    "raw_text": "IT'S ALL FOR THE SAKE OF OUR CLUB. WE'RE GOING TO ANALYZE IT IN DETAIL LATER.",
+    "cleaned_text": "IT\u2019S ALL FOR THE SAKE OF OUR CLUB. WE\u2019RE GOING TO ANALYZE IT IN DETAIL LATER.",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

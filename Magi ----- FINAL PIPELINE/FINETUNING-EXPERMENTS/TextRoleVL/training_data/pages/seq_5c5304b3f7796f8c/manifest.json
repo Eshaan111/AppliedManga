@@ -1,0 +1,67 @@
+{
+  "sequence_id": "seq_5c5304b3f7796f8c",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "And he can't fight now."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "How's that possible?"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "He'd be better off if he'd died in battle!"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Ah, Taro where are you going?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Piss!"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "He'd be better off if he'd died."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL1"
+    }
+  ]
+}

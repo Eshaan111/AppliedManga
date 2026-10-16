@@ -1,0 +1,44 @@
+{
+  "sequence_id": "seq_71033fec4de494fc",
+  "page_number": 2,
+  "page_sha256": "ae6ad019afc32c68bc019c3c53d98781afb96a0933aae8998c27928c263a47dc",
+  "detections_sha256": "f6b0a302277279fd4b034e4dd04883f99bdb44ea03833ee5d3a8d4f35e21be3c",
+  "answer": "character1 - A10, A4, A8, \ncharacter2 - A2, A6\ncharacter3 - A3, A9, A11",
+  "rejected_answer": "A7, A1, A5",
+  "character_appearances": {
+    "character1": [
+      "A10",
+      "A4",
+      "A8"
+    ],
+    "character2": [
+      "A2",
+      "A6"
+    ],
+    "character3": [
+      "A3",
+      "A9",
+      "A11"
+    ]
+  },
+  "rejected_appearances": [
+    "A7",
+    "A1",
+    "A5"
+  ],
+  "unassigned_appearances": [],
+  "bubble_speaker_overrides": {},
+  "appearance_to_detection": {
+    "A1": "C1",
+    "A2": "C2",
+    "A3": "C3",
+    "A4": "C4",
+    "A5": "C5",
+    "A6": "C6",
+    "A7": "C7",
+    "A8": "C8",
+    "A9": "C9",
+    "A10": "C10",
+    "A11": "C11"
+  }
+}

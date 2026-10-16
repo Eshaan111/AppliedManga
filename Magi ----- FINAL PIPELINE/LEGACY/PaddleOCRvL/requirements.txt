@@ -1,0 +1,8 @@
+transformers>=4.57,<5
+huggingface_hub
+Pillow
+accelerate
+safetensors
+sentencepiece
+protobuf
+ipykernel

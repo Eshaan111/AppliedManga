@@ -1,0 +1,21 @@
+[Page 01.png]
+character1: TAKUAN.
+character1: HM?
+character2: HOW MUCH LONGER WILL THAT MAN BE HERE...?
+character2: YOU MEAN MUSASHI?
+character1: I WOULD BE GRATEFUL IF HE LEFT AS SOON AS POSSIBLE.
+character1: WE CANNOT ALLOW SOMEONE WHO HAS SLAIN SO MANY MEN TO STAY HERE FOR FOREVER.
+character1: I SEE •••
+
+[Page 02.png]
+character1: MUSTN'T WE, AS FOLLOWERS OF BUDDHA,
+character1: ACCEPT A MAN EVEN IF • • •
+character1: NO, ESPECIALLY BECAUSE HE IS A CRIMINAL?
+character1: ...
+character2: •
+
+[Page 03.png]
+character6: OH, OH?
+character1: IMPATIENCE WON'T GET YOU WALKING AGAIN.
+character2: HMPH!
+character2: TAKEZO!

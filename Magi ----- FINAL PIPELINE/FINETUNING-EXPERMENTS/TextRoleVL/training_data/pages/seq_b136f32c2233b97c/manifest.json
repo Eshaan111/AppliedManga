@@ -1,0 +1,138 @@
+{
+  "sequence_id": "seq_b136f32c2233b97c",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Hi"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Pochita..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "I'll probably get myself killed fighting devils before long."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "MANGA STREAM,OM DO NOT MIRROR"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "If that happens, I'm worried about what'll happen to you."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "You might starve to death,"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "or maybe get taken out by another devil hunter."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "I heard there are devils who can take over dead people's bodies."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "If you can do that..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Then I'll give ya my body..."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "After I'm in my grave, the Yakuza'LL forget about me."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "You can leave this town..."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "And then..."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Yeah..."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "It'd be nice if you could have a normal life"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "and die a normal death."
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "MANGA STREANDS: Do not mirror"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

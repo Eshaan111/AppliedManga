@@ -1,0 +1,492 @@
+[
+  [
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.9696969696969697,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.9166666666666666,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.9696969696969697,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "",
+      "artifact_reason": "punctuation-only override",
+      "ocr_agreement": null,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    }
+  ],
+  [
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.9285714285714286,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.9090909090909091,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    }
+  ],
+  [
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.9929078014184397,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.27450980392156865,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.2898550724637681,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Artifact",
+      "artifact_label": "Artifact",
+      "gemma_raw_answer": "Artifact",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.42105263157894735,
+      "delete_ocr": true,
+      "deletion_reason": "Gemma classification",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    }
+  ]
+]

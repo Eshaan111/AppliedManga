@@ -1,0 +1,218 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "WELL...",
+    "cleaned_text": "WELL...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "HIS STUBBORN PRIDE WAS DISPELLED!",
+    "cleaned_text": "HIS STUBBORN PRIDE WAS DISPELLED!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "I SUPPOSE CONFESSING Is the DuTy OF THE MAN.",
+    "cleaned_text": "I SUPPOSE CONFESSING IS THE DUTY OF THE MAN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "HIS THOUGHTS BECAME CLOUDED, AND A CRACK IN HIS WILL WAS FORMED!!",
+    "cleaned_text": "HIS THOUGHTS BECAME CLOUDED, AND A CRACK IN HIS WILL WAS FORMED!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "THIS CRACK DID NOT SLIP PAST SHINOMIYA UNNOTICED!! SHE STRUCK!!",
+    "cleaned_text": "THIS CRACK DID NOT SLIP PAST SHINOMIYA UNNOTICED!! SHE STRUCK!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "I AM AT THE AGE WHERE 1 WANT TO TRY FALLING IN LOVE, AFTER ALL...",
+    "cleaned_text": "I AM AT THE AGE WHERE I WANT TO TRY FALLING IN LOVE, AFTER ALL...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "SHE APPROACHED IT AS SHE WOULD A CHESS PUZZLE!",
+    "cleaned_text": "SHE APPROACHED IT AS SHE WOULD A CHESS PUZZLE!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "AS SHE CLOSED IN,",
+    "cleaned_text": "AS SHE CLOSED IN,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "SHIROGANE SEARCHED FRANTICALLY FOR HIS NEXT MOVE!!",
+    "cleaned_text": "SHIROGANE SEARCHED FRANTICALLY FOR HIS NEXT MOVE!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "AS THEIR THOUGHT PROCESSES WERE FOLLOWED TO THEIR NATURAL CONCLUSION,",
+    "cleaned_text": "AS THEIR THOUGHT PROCESSES WERE FOLLOWED TO THEIR NATURAL CONCLUSION,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "A CLEAR VICTOR EMERGED.",
+    "cleaned_text": "A CLEAR VICTOR EMERGED.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character8",
+    "raw_text": "OH, IF YOU DON'T LIKE ROMANCE MOVIES,",
+    "cleaned_text": "OH, IF YOU DON'T LIKE ROMANCE MOVIES,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character8",
+    "raw_text": "I ALSO HAVE TICKETS TO \"the little CHICKEN.\"",
+    "cleaned_text": "I ALSO HAVE TICKETS TO \u201cthe little CHICKEN.\u201d",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character5",
+    "raw_text": "!?",
+    "cleaned_text": "!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "CHAOS THEORY!",
+    "cleaned_text": "CHAOS THEORY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "ON THE VERGE OF COMPLETION,",
+    "cleaned_text": "ON THE VERGE OF COMPLETION,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "A PERFECT IDEA CAN HAVE A SINGLE POINT OF CHAOS INTRODUCED INTO IT.",
+    "cleaned_text": "A PERFECT IDEA CAN HAVE A SINGLE POINT OF CHAOS INTRODUCED INTO IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character8",
+    "raw_text": "BUT THAT ONE POINT",
+    "cleaned_text": "BUT THAT ONE POINT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "CAN CAUSE SOMETHING AS DRASTIC AS THE BIG BANG ITSELF!",
+    "cleaned_text": "CAN CAUSE SOMETHING AS DRASTIC AS THE BIG BANG ITSELF!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "IN ORDER TO PROCESS THE SUDDEN APPEARANCE OF THIS NEW OPTION,",
+    "cleaned_text": "IN ORDER TO PROCESS THE SUDDEN APPEARANCE OF THIS NEW OPTION,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "THEIR BRAINS PUSHED THEMSELVES PAST THEIR LIMITS!",
+    "cleaned_text": "THEIR BRAINS PUSHED THEMSELVES PAST THEIR LIMITS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character8",
+    "raw_text": "UM... DID I SAY SOME- THING WRONG?",
+    "cleaned_text": "UM... DID I SAY SOME- THING WRONG?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "THE RESULT...",
+    "cleaned_text": "THE RESULT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "WAS A SUDDEN DESIRE FOR SUGAR TO FUEL THEIR MENTAL CAPABILITIES!!",
+    "cleaned_text": "WAS A SUDDEN DESIRE FOR SUGAR TO FUEL THEIR MENTAL CAPABILITIES!!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

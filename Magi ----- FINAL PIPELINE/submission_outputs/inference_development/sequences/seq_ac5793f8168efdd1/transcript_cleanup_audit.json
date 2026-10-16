@@ -1,0 +1,290 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "DON'T GET CARELESS.",
+    "cleaned_text": "DON'T GET CARELESS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "SASSAN...",
+    "cleaned_text": "SASSAN...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "RANK 1 SASAKI.",
+    "cleaned_text": "RANK 1 SASAKI.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "WE MADE IT...",
+    "cleaned_text": "WE MADE IT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "I'M GOING TO FINISH HIM OFF.",
+    "cleaned_text": "I'M GOING TO FINISH HIM OFF.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "NO.",
+    "cleaned_text": "NO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character4",
+    "raw_text": "\"DO NOT INFLICT MORE PAIN THAN NECESSARY\" IS A PART OF THE GHOUL COUNTERMEASURES CODE, ISN'T IT? AND WE ALSO MIGHT BE ABLE TO GET INFOR- MATION OUT OF HIM...",
+    "cleaned_text": "\u201cDO NOT INFLICT MORE PAIN THAN NECESSARY\u201d IS A PART OF THE GHOUL COUNTERMEASURES CODE, ISN\u2019T IT? AND WE ALSO MIGHT BE ABLE TO GET INFORMATION OUT OF HIM...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "Clause 2",
+    "cleaned_text": "Clause 2",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character4",
+    "raw_text": "..MORE IMPORTANTLY!",
+    "cleaned_text": "..MORE IMPORTANTLY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "I TOLD you Not to Take ACTION ON yOuR OWN, DIDN'T J.\u2026!?",
+    "cleaned_text": "I TOLD YOU NOT TO TAKE ACTION ON YOUR OWN, DIDN'T J.\u2026!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "I WAS WITH URIE- KUN.",
+    "cleaned_text": "I WAS WITH URIE- KUN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character10",
+    "raw_text": "YEAH.",
+    "cleaned_text": "YEAH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character10",
+    "raw_text": "DON'T MAKE PETTY DIST INCT IONS",
+    "cleaned_text": "DON'T MAKE PETTY DISTINCTIONS",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "Shirazu-Ku you're injured, aren'tyouas",
+    "cleaned_text": "Shirazu-Ku you\u2019re injured, aren\u2019t you?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "WE PRODUCED RESULTS THOUGH.",
+    "cleaned_text": "WE PRODUCED RESULTS THOUGH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "FOR ARGUMENT'S SAKE, EVEN IF WE DO GET HIT, WE'LL HEAL SOONER OR LATER ANYHOW, RIGHT? THOUGH IN MY CASE, THAT'D TAKE SOME TIME.",
+    "cleaned_text": "FOR ARGUMENT\u2019S SAKE, EVEN IF WE DO GET HIT, WE\u2019LL HEAL SOONER OR LATER ANYHOW, RIGHT? THOUGH IN MY CASE, THAT\u2019D TAKE SOME TIME.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "IF WE FOLLOW THINGS LIKE \"ARTICLE 13\", THEN GHOULS WILL NEVER BE ELIMINATED FROM THIS WORLD.",
+    "cleaned_text": "IF WE FOLLOW THINGS LIKE \"ARTICLE 13\", THEN GHOULS WILL NEVER BE ELIMINATED FROM THIS WORLD.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "RANK 1 SASAKI.",
+    "cleaned_text": "RANK 1 SASAKI.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character4",
+    "raw_text": "HOLD ON!",
+    "cleaned_text": "HOLD ON!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character4",
+    "raw_text": "SQUAD LEADER . URIE- KUN\u2026!!",
+    "cleaned_text": "SQUAD LEADER . URIE- KUN\u2026!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "character4",
+    "raw_text": ":",
+    "cleaned_text": ":",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "UNKNOWN",
+    "raw_text": "THE QUINX HAVE \"EXPERIMEN\u2014 TAL BODIES\" SO TO SPEAK. THEY ARE HUMANS WHO HAD THEIR NATURAL EnEMy's \"Ghoul POWER\" INSERT- Ed INTO THEM-",
+    "cleaned_text": "THE QUINX HAVE \u201cEXPERIMEN\u2014 TAL BODIES\u201d SO TO SPEAK. THEY ARE HUMANS WHO HAD THEIR NATURAL Enemy\u2019s \u201cGhoul POWER\u201d INSERT-Ed INTO THEM.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "RANK 1 INVESTI\u2014 GATOR SASAKI.",
+    "cleaned_text": "RANK 1 INVESTI\u2014 GATOR SASAKI.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "\"GHOULS WON'T BE ELIMINATED\" HUH..?",
+    "cleaned_text": "\u201cGHOULS WON\u2019T BE ELIMINATED\u201d HUH\u2026?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "SaSaki Haise (22) [Rank 1 Investigator] 170 cm 58 kg",
+    "cleaned_text": "SaSaki Haise (22) [Rank 1 Investigator] 170 cm 58 kg",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "\u2014 At the same time,",
+    "cleaned_text": "\u2014 At the same time,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "the ghoul named Kobayashi who Rank 2 Urie had suspected of being \"Torso\" and faced off against...",
+    "cleaned_text": "the ghoul named Kobayashi who Rank 2 Urie had suspected of being \"Torso\" and faced off against...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "\"was not\" Torso.",
+    "cleaned_text": "\"was not\" Torso.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "The real Torso was",
+    "cleaned_text": "The real Torso was",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "AHH,",
+    "cleaned_text": "AHH,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "LOVER",
+    "cleaned_text": "LOVER",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "ABSORBED IN THE ADMIRATION OF HIS \"HARVEST\".",
+    "cleaned_text": "ABSORBED IN THE ADMIRATION OF HIS \"HARVEST\".",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

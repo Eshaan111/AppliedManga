@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "page_sha256": "da30293f8472d45543524085a8ddfc1d25cb56b65f0bfc3333804bffa2cb5a1a",
+    "model_dir": "C:\\MODELS\\PaddleOCR-VL-For-Manga",
+    "model_config_sha256": "928aaf78567a273cb73ede3671253ec4e38eb60c27a30e945bcd13b4131a0147",
+    "prompt": "OCR:",
+    "max_new_tokens": 128,
+    "crop_bbox": [
+      75,
+      226,
+      146,
+      344
+    ],
+    "device": "cuda",
+    "dtype": "torch.bfloat16",
+    "max_pixels": 401408,
+    "max_time_seconds": 60,
+    "attention": "sdpa"
+  },
+  "text": "ＷＨＯ’SＥＶＥＲＳＥＥＮＭＥＬＫＴＴＨＩＳ",
+  "seconds": 2.0189192999969237,
+  "generated_tokens": 63,
+  "hit_token_limit": false,
+  "hit_time_budget": false
+}

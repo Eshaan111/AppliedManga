@@ -1,0 +1,109 @@
+{
+  "sequence_id": "seq_720a7023d4f2ffcb",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "!"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "..."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "That can't be..."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Master can't use a sword anymore ..."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Was the wound that deep?"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "It seems like they're not sure if he'll be able to walk ever again."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Master ..."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "OTSU, you probably don't understand because you're a woman,"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "But Master was born for the sword."
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "He's a living sword."
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "Or so someone said."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL5"
+    }
+  ]
+}

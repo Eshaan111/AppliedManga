@@ -1,0 +1,16 @@
+{
+  "bubble_detection": {
+    "repo": "PSImera/manga_bubbles_detect",
+    "file": "bubbles_detect.pt",
+    "local_path": "C:/MODELS/manga_bubbles/bubbles_detect.pt"
+  },
+  "character_detection": {
+    "repo": "comicbox/comicapp-char-detector",
+    "file": "dass_char_xl_dcm.onnx",
+    "local_path": "C:/MODELS/dass_character_detector/dass_char_xl_dcm.onnx"
+  },
+  "association_first_test": {
+    "repo": "OpenGVLab/InternVL3-2B",
+    "note": "Keep in HF cache initially; move under C:/MODELS later if it earns its place."
+  }
+}

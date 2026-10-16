@@ -1,0 +1,119 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "HEY MONGREL! I'LL GIVE YA 100 YEN IF YA EAT THIS CIGARETTE.",
+    "cleaned_text": "HEY MONGREL! I'LL GIVE YA 100 YEN IF YA EAT THIS CIGARETTE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "REALLY ?!",
+    "cleaned_text": "REALLY ?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "BOT- TOM'S UP!",
+    "cleaned_text": "BOT- TOM'S UP!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "GAHA HAHA HAHA HA!",
+    "cleaned_text": "GAHA HAHA HAHA HA!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "SFX: GULP",
+    "cleaned_text": "SFX: GULP",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "IF ANOTHER DEVIL SHOWS UP, WE'LL CALL YOU. TRY TO RUN AND YOU'LL BE SLEEPING WITH THE FISHES.",
+    "cleaned_text": "IF ANOTHER DEVIL SHOWS UP, WE'LL CALL YOU. TRY TO RUN AND YOU'LL BE SLEEPING WITH THE FISHES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "THIS'LL COVER ANOTHER 3 DAYS OF FOOD!",
+    "cleaned_text": "THIS\u2019LL COVER ANOTHER 3 DAYS OF FOOD!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "THE OTHER DAY I HEARD, THAT PEOPLE NORMALLY EAT BREAD WITH JAM SPREAD ALL OVER IT.",
+    "cleaned_text": "THE OTHER DAY I HEARD, THAT PEOPLE NORMALLY EAT BREAD WITH JAM SPREAD ALL OVER IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "WELL, NORMALITY'S JUST A DREAM FOR HS THOUGH.",
+    "cleaned_text": "WELL, NORMALITY\u2019S JUST A DREAM FOR HS THOUGH.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "I DOUBT I'LL PAY OFF THIS DEBT BEFORE I DIE.",
+    "cleaned_text": "I DOUBT I'LL PAY OFF THIS DEBT BEFORE I DIE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "...I'M GONNA DIE SINGLE AREN'T I? NOT LIKE I COULD BRING A GIRL BACK TO THIS SHITSHACK, DON'T HAVE THE CASH TO BE DATIN' EITHER.",
+    "cleaned_text": "...I'M GONNA DIE SINGLE AREN'T I? NOT LIKE I COULD BRING A GIRL BACK TO THIS SHITSHACK, DON'T HAVE THE CASH TO BE DATIN' EITHER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "WHIMPER",
+    "cleaned_text": "WHIMPER",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "IF I COULD GET ANY WISH GRANTED, I'D WANNA BE WITH A GIRL BEFORE I DIE...",
+    "cleaned_text": "IF I COULD GET ANY WISH GRANTED, I\u2019D WANNA BE WITH A GIRL BEFORE I DIE...",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "\"THOSE GUYS AND MADO'S DAUGHTER ARE THE DISGRAC- ES OF THE CCG\"",
+    "cleaned_text": "\u201cTHOSE GUYS AND MADO\u2019S DAUGHTER ARE THE DISGRAC- ES OF THE CCG\u201d",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "Mado Akira (24) [First Class Investigator]",
+    "cleaned_text": "Mado Akira (24) [First Class Investigator]",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character5",
+    "raw_text": "...IS WHAT'S BEING SAID, IT SEEMS.",
+    "cleaned_text": "...IS WHAT\u2019S BEING SAID, IT SEEMS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "Nddo Akil 164 cm 49 kg",
+    "cleaned_text": "Nddo Akil 164 cm 49 kg",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "....",
+    "cleaned_text": "....",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "IF WE'RE COMPARED TO THE PRESENT HIRAKO SQUAD,",
+    "cleaned_text": "IF WE\u2019RE COMPARED TO THE PRESENT HIRAKO SQUAD,",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character5",
+    "raw_text": "THEN TRUTH- FULLY IT SEEMS WE'RE GETTING RESULTS FOR LESS THAN ONE IN THREE.",
+    "cleaned_text": "THEN TRUTH-FULLY IT SEEMS WE'RE GETTING RESULTS FOR LESS THAN ONE THIRD.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character4",
+    "raw_text": "\"",
+    "cleaned_text": "\"",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "UNKNOWN",
+    "raw_text": "OH MAN... THAT NAN SURE DOES LOOK DELICIOUS. \"WHAT'S THE SEASNANING OF THAT NAN?\" IS THE NANCHALANT THOUGHT I WAS HAVING. HOW IS IT?",
+    "cleaned_text": "OH MAN... THAT SURE DOES LOOK DELICIOUS. \u201cWHAT\u2019S THE SEASONING OF THAT NAN?\u201d IS THE NAN\u2014CHALANT THOUGHT I WAS HAVING. HOW IS IT?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "T/N: This is a bit loosely translated to put in all the nan-puns. 18",
+    "cleaned_text": "T/N: This is a bit loosely translated to put in all the nan-puns. 18",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character5",
+    "raw_text": "THAT WAS A SPICY JOKE, HUH? SEEMS LIKE YOU NEED TO \"YMPROVE\" YOUR EDUCA- TION.",
+    "cleaned_text": "THAT WAS A SPICY JOKE, HUH? SEEMS LIKE YOU NEED TO IMPROVE YOUR EDUCATION.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 11,
+    "speaker": "character3",
+    "raw_text": "SASAKI,",
+    "cleaned_text": "SASAKI,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "NUMEROUS MONTHS EARLIER...",
+    "cleaned_text": "NUMEROUS MONTHS EARLIER...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "WHENYOU WERE LEFT IN CHARGE OF THE \"QUINX'B",
+    "cleaned_text": "WHEN YOU WERE LEFT IN CHARGE OF THE \"QUINX'B",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "THE BUREAU DIRECTOR TOLD YOU",
+    "cleaned_text": "THE BUREAU DIRECTOR TOLD YOU",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "To \"create investigators who would surpass Arima Kishou\", didn't he?",
+    "cleaned_text": "To \"create investigators who would surpass Arima Kishou\", didn't he?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "Anima- san.",
+    "cleaned_text": "Anima- san.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "\"Arima Kishou\"",
+    "cleaned_text": "\u201cArima Kishou\u201d",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "is a ghoul investigator with the highest rank of \"Special Class\".",
+    "cleaned_text": "is a ghoul investigator with the highest rank of \"Special Class\".",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "His achievements are numerous.",
+    "cleaned_text": "His achievements are numerous.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "He is praised as the strongest within the CCG and is undefeated.",
+    "cleaned_text": "He is praised as the strongest within the CCG and is undefeated.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character10",
+    "raw_text": "...YOU UNDERSTAND THE PLACE THAT WE, AT THE CCG, HAVE BEEN PUT INTO RIGHT NOW, DON'T YOU?",
+    "cleaned_text": "...YOU UNDERSTAND THE PLACE THAT WE, AT THE CCG, HAVE BEEN PUT INTO RIGHT NOW, DON'T YOU?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "THE AFOREMENTIONED GHOUL ORGANIZA- TION IS CONTINUING TO INCREASE THEIR STRENGTH.",
+    "cleaned_text": "THE AFOREMENTIONED GHOUL ORGANIZATION IS CONTINUING TO INCREASE THEIR STRENGTH.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character9",
+    "raw_text": "WE ALSO HAVE TO FIGHT AGAINST THOSE GUYS, IN ADDITION TO DOING THE NORMAL INVESTIGATIONS.",
+    "cleaned_text": "WE ALSO HAVE TO FIGHT AGAINST THOSE GUYS, IN ADDITION TO DOING THE NORMAL INVESTIGATIONS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character9",
+    "raw_text": "INVESTIGA- TORS THAT RIVAL SPECIAL CLASS ARIMA... SECURING NEW, STRONG, BATTLE-CAPABLE PEOPLE IS URGENT BUSINESS.",
+    "cleaned_text": "INVESTIGATORS THAT RIVAL SPECIAL CLASS ARIMA... SECURING NEW, STRONG, BATTLE-CAPABLE PEOPLE IS URGENT BUSINESS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character9",
+    "raw_text": "THE QUINX MEMBERS THAT YOU'RE COMMANDING CAN BECOME AN EARNEST HOPE FOR THE CCG.",
+    "cleaned_text": "THE QUINX MEMBERS THAT YOU\u2019RE COMMANDING CAN BECOME AN EARNEST HOPE FOR THE CCG.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character14",
+    "raw_text": "IN ORDER TO MAKE \"INVESTIGATORS WHO SURPASS ARIMA KISHOU\"",
+    "cleaned_text": "IN ORDER TO MAKE \u201cINVESTIGATORS WHO SURPASS ARIMA KISHOU\u201d",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character14",
+    "raw_text": "YOU YOURSELF HAVE TO SURPASS HIM TOO.",
+    "cleaned_text": "YOU YOURSELF HAVE TO SURPASS HIM TOO.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

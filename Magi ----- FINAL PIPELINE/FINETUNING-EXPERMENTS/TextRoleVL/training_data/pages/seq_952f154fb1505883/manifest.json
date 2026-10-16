@@ -1,0 +1,386 @@
+{
+  "sequence_id": "seq_952f154fb1505883",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "man, I was doing so well. I really thought I had it nailed."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "But I guess there's nothing I can do about it now."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "See!? That right there!"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "OKAWA, YOU'RE ALWAYS SO LAID BACK! WHERE'S YOUR THIRST FOR BLOOD?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Well, it's finally time. Us third years are retiring from the Equestrian Club today!"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "The first years' first competition is in October, so continue doing your best and make the club proud!"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "Right!"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Yoda, we'd like you to take over as the next club president."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Thank you!"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "And for the Vice- Presi- Dent..."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "I guess that makes sense. Yoda-san is the only second year here..."
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "They're going to make one of us first years the vice- president?"
+    },
+    {
+      "id": "PG1:T13",
+      "page": 1,
+      "text": "I bet it's going to be mikage."
+    },
+    {
+      "id": "PG1:T14",
+      "page": 1,
+      "text": "She's the best out of all of us here."
+    },
+    {
+      "id": "PG1:T15",
+      "page": 1,
+      "text": "One in five odds... Please don't let it be me ..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "hachicken. We're counting on you."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "MOO"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Moo"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "What!? Wait just a minute!!"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Con-grats!"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Good luck, Hachiken!"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Hey, you made Vice- President!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Good luck!"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Good work today, every- body!"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Yeah, great job guys!"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Yoda. Hachiken. You're taking over, so can you hang back for a minute?"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Sure."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Ehhh H!!!!?"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Why did you choose me?"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Yero Agricultural EQUESTR JOURN"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "There's no way you can tell me that Mikage isn't way better than I am!"
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "This is about being a team manager. It has nothing to do with how good you are."
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "Hachiken, you're honest with yourself and others, no matter what the situation is, aren't you?"
+    },
+    {
+      "id": "PG3:T12",
+      "page": 3,
+      "text": "Hmm?"
+    },
+    {
+      "id": "PG3:T13",
+      "page": 3,
+      "text": "I guess... but I'm still against this, you know. I'm not even completely sure why I chose this school, either..."
+    },
+    {
+      "id": "PG3:T14",
+      "page": 3,
+      "text": "See? That's exactly the honesty I was talking about."
+    },
+    {
+      "id": "PG3:T15",
+      "page": 3,
+      "text": "But don't go bragging about things like that!"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL8",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL9",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL10",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL11",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL6",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL7",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T11",
+      "tail_id": "PG1:TAIL8"
+    },
+    {
+      "text_id": "PG1:T13",
+      "tail_id": "PG1:TAIL11"
+    },
+    {
+      "text_id": "PG1:T14",
+      "tail_id": "PG1:TAIL10"
+    },
+    {
+      "text_id": "PG1:T15",
+      "tail_id": "PG1:TAIL9"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T9",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T10",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T11",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T12",
+      "tail_id": "PG3:TAIL7"
+    },
+    {
+      "text_id": "PG3:T13",
+      "tail_id": "PG3:TAIL6"
+    },
+    {
+      "text_id": "PG3:T14",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T15",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

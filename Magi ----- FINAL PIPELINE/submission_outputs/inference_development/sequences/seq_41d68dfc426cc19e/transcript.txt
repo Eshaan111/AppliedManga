@@ -1,0 +1,28 @@
+[Page 01.png]
+character1: I MADE SOME OKAYU WITH POTATOES TODAY.
+character1: THERE'S A WHOLE LOT!
+character1: HMPH.
+character3: OH, WORKING HARD THERE, OTSU? BE CAREFUL
+character2: Otsu’s all happy because she can be with Master more since he can’t fight.
+character1: NOT HUNGRY.
+character1: HUH!?
+character1: IF-- IF YOU DON'T EAT
+character1: NOT HUNGRY RIGHT NOW.
+
+[Page 02.png]
+character3: MUSASHI.
+UNKNOWN: WILL YOU NOT EAT? IT WAS DELICIOUS. A bit salty though...
+character1: I'LL... HAVE SOME LATER.
+character1: I DON'T WANT ANY RIGHT NOW.
+character5: HERE.
+character1: AH. Latet
+character3: THERE WE GO.
+character3: ARE YOU IN PAIN?
+UNKNOWN: A SINGLE STROKE OF THE SWORD WITH EVERYTHING HE HAD FROM BEHIND... EVEN THE YOSHIOKA COULDN'T CARE ABOUT HOW THEY LOOK TO OTHERS.
+character3: STAY HERE A WHILE AND RECUPERATE.
+
+[Page 03.png]
+character6: OTSU WILL STAY HERE BY YOUR SIDE.
+character1: EH.
+character3: OH?
+character3: LISTEN, MUSASHI.

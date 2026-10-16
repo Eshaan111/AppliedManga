@@ -1,0 +1,37 @@
+{
+  "no_tail": {
+    "macro_f1": 0.7443294428539968,
+    "balanced_accuracy": 0.6997863247863247,
+    "spoken_precision": 0.9426229508196722,
+    "spoken_recall": 0.9829059829059829,
+    "spoken_f1": 0.9623430962343096,
+    "spoken_support": 117,
+    "spoken_p_true_mean": 0.853730041475288,
+    "spoken_p_true_p10": 0.7461605275956613,
+    "narrated_precision": 0.7142857142857143,
+    "narrated_recall": 0.4166666666666667,
+    "narrated_f1": 0.5263157894736842,
+    "narrated_support": 12,
+    "narrated_p_true_mean": 0.48285497227572866,
+    "narrated_p_true_p10": 0.1748012451433592,
+    "true_positives": 5,
+    "false_positives": 2,
+    "false_negatives": 7
+  },
+  "overall": {
+    "macro_f1": 0.7544538328412909,
+    "balanced_accuracy": 0.7044270833333334,
+    "spoken_precision": 0.9731800766283525,
+    "spoken_recall": 0.9921875,
+    "spoken_f1": 0.9825918762088974,
+    "spoken_support": 256,
+    "spoken_p_true_mean": 0.9331500580180028,
+    "spoken_p_true_p10": 0.8204700982319064,
+    "narrated_precision": 0.7142857142857143,
+    "narrated_recall": 0.4166666666666667,
+    "narrated_f1": 0.5263157894736842,
+    "narrated_support": 12,
+    "narrated_p_true_mean": 0.48285497227572866,
+    "narrated_p_true_p10": 0.1748012451433592
+  }
+}

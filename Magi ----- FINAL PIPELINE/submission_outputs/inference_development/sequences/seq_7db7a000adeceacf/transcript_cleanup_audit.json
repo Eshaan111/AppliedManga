@@ -1,0 +1,263 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "IF YOU WANT TO PUIT IT ANOTHER WAY, YOU'RE EASY TO READ.",
+    "cleaned_text": "IF YOU WANT TO PUT IT ANOTHER WAY, YOU\u2019RE EASY TO READ.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character6",
+    "raw_text": "HE DIDN'T REALIZE THAT...?",
+    "cleaned_text": "HE DIDN'T REALIZE THAT...?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "DON'T WORRY ABOUT IT! THAT JUST MEANS THAT WE KNOW WE CAN RELY ON YOU!",
+    "cleaned_text": "DON'T WORRY ABOUT IT! THAT JUST MEANS THAT WE KNOW WE CAN RELY ON YOU!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "WHEN PEOPLE HAVE PROBLEMS, IT'S EASY FOR THEM TO CONFIDE IN YOU!",
+    "cleaned_text": "WHEN PEOPLE HAVE PROBLEMS, IT\u2019S EASY FOR THEM TO CONFIDE IN YOU!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character5",
+    "raw_text": "YOU CAN BE IN CHARGE OF BEING STUPIDLY HONEST! JUST LEAVE THE REST TO ME! WE'LL BALANCE EACH OTHER OUT!",
+    "cleaned_text": "YOU CAN BE IN CHARGE OF BEING STUPIDLY HONEST! JUST LEAVE THE REST TO ME! WE'LL BALANCE EACH OTHER OUT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "RIGHT... \"STUPID,\" AGAIN...",
+    "cleaned_text": "RIGHT... \"STUPID,\" AGAIN...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character4",
+    "raw_text": "OH, BUT DON'T TAKE THIS THE WRONG WAY. WE AREN'T SAYING THAT THE OTHER FIRST YEARS AREN'T TRUST- WORTHY.",
+    "cleaned_text": "OH, BUT DON'T TAKE THIS THE WRONG WAY. WE AREN'T SAYING THAT THE OTHER FIRST YEARS AREN'T TRUST-WORTHY.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "WE CONSIDERED MAKING MIKAGE THE VICE- PRESIDENT FOR A LONG TIME.",
+    "cleaned_text": "WE CONSIDERED MAKING MIKAGE THE VICE-PRESIDENT FOR A LONG TIME.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "SHE'S VERY TALENTED AND SHE'S HONEST TOO, BUT... HOW DO I PUT IT...?",
+    "cleaned_text": "SHE\u2019S VERY TALENTED AND SHE\u2019S HONEST TOO, BUT... HOW DO I PUT IT...?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "EVEN THOUGH SHE'S DEFINITELY HONEST, IT SEEMS LIKE SHE'S ALWAYS HOLDING SOMETHING BACK. IT'S ALMOST LIKE SHE WON'T LET PEOPLE TAKE THAT LAST STEP AND TRULY CONNECT WITH HER.",
+    "cleaned_text": "EVEN THOUGH SHE'S DEFINITELY HONEST, IT SEEMS LIKE SHE'S ALWAYS HOLDING SOMETHING BACK. IT'S ALMOST LIKE SHE WON'T LET PEOPLE TAKE THAT LAST STEP AND TRULY CONNECT WITH HER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "YOU THINK SO?",
+    "cleaned_text": "YOU THINK SO?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character8",
+    "raw_text": "ARE YOU SURE?",
+    "cleaned_text": "ARE YOU SURE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "IT'S WOMEN'S INTUITION.",
+    "cleaned_text": "IT\u2019S WOMEN\u2019S INTUITION.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "YOU REALLY CAN'T COUNT ON THAT.",
+    "cleaned_text": "YOU REALLY CAN'T COUNT ON THAT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "BUT STILL, I REALLY THINK MIKAGE IS WAY BETTER SUITED FOR THIS THAN I AM...",
+    "cleaned_text": "BUT STILL, I REALLY THINK MIKAGE IS WAY BETTER SUITED FOR THIS THAN I AM...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character4",
+    "raw_text": "HACHIKEN, HAVE SOME CONFIDENCE!",
+    "cleaned_text": "HACHIKEN, HAVE SOME CONFIDENCE!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character4",
+    "raw_text": "EVER SINCE YOL MADE THAT PIZZA AND THEN ALL THAT BACON, SOME PEOPLE STARTED CALLING YOU \"THE GUY WHO WON'T REFUSE YOU.\"",
+    "cleaned_text": "EVER SINCE YOU MADE THAT PIZZA AND THEN ALL THAT BACON, SOME PEOPLE STARTED CALLING YOU \"THE GUY WHO WON'T REFUSE YOU.\"",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "ME!?",
+    "cleaned_text": "ME!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "WHAT? REALLY? THAT MAKES YOU SOUND PRETTY COOL!",
+    "cleaned_text": "WHAT? REALLY? THAT MAKES YOU SOUND PRETTY COOL!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character8",
+    "raw_text": "SO, YOU'RE LIKE A GUY WHO NEVER TURNS DOWN PEOPLE WHO COME ASKING FOR HELP?",
+    "cleaned_text": "SO, YOU\u2019RE LIKE A GUY WHO NEVER TURNS DOWN PEOPLE WHO COME ASKING FOR HELP?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "THAT'S HOW MUCH PEOPLE PUT THEIR TRUST IN YOU!",
+    "cleaned_text": "THAT\u2019S HOW MUCH PEOPLE PUT THEIR TRUST IN YOU!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "C'MON, BE THE NEW VICE- PRESIDENT!",
+    "cleaned_text": "C\u2019MON, BE THE NEW VICE-PRESIDENT!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "ALL RIGHT **\u2022",
+    "cleaned_text": "ALL RIGHT \u2022",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "GOOD LUCK, \"GLY WHO CAN'T REFUSE YOU!\"",
+    "cleaned_text": "GOOD LUCK, \"GLY WHO CAN'T REFUSE YOU!\"",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "WHAT!? ONE OF YOUR WORDS IS WRONG! THAT MAKES ME SOUND LIKE ILET PEOPLE WALK ALL OVER ME!!",
+    "cleaned_text": "WHAT!? ONE OF YOUR WORDS IS WRONG! THAT MAKES ME SOUND LIKE ILET PEOPLE WALK ALL OVER ME!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "SEE YOU LATER, WE'LL COME VISIT YOU GUYS EVERY ONCE IN A WHILE.",
+    "cleaned_text": "SEE YOU LATER, WE'LL COME VISIT YOU GUYS EVERY ONCE IN A WHILE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "OKAY! GOOD LUCK JOB HUNTING!",
+    "cleaned_text": "OKAY! GOOD LUCK JOB HUNTING!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "LOOKS LIKE IT'S GOING TO RAIN.",
+    "cleaned_text": "LOOKS LIKE IT\u2019S GOING TO RAIN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "I'D BETTER HURRY BACK TO THE DORMS",
+    "cleaned_text": "I\u2019D BETTER HURRY BACK TO THE DORMS",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

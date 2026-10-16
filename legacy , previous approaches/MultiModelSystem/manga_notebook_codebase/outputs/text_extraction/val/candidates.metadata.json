@@ -1,0 +1,212 @@
+{
+  "split": "val",
+  "sequence_ids": [
+    "seq_b8b5563330fdc89d",
+    "seq_e8b4f75454f9491f",
+    "seq_5f9ee35846b7e635",
+    "seq_b9b5a9ad9a64ced9",
+    "seq_84541a1f4b159018",
+    "seq_d749b853cf795b6a",
+    "seq_2032620aa4e4ac7f",
+    "seq_b136f32c2233b97c",
+    "seq_d8afceb0e8f9122d",
+    "seq_96839890d69d7698",
+    "seq_45c9871f52e99417",
+    "seq_f7f9d9dbf5b05cb5",
+    "seq_da71f7a842c91090",
+    "seq_952f154fb1505883",
+    "seq_a3bd36201a0cd61b",
+    "seq_de542b63e6b19bc2"
+  ],
+  "raw_sources": [
+    {
+      "path": "C:\\Users\\ESHAAN\\BYTE\\Applied-Task\\MultiModelSystem\\manga_notebook_codebase\\outputs\\ocr\\paddleocr\\candidates.jsonl",
+      "sha256": "794eff4aeb295c7eb9679927b9997be1bf7be48ff3c95cccef1048ac067a1060",
+      "provenance_status": "legacy_cache_without_image_or_runtime_provenance"
+    }
+  ],
+  "images": {
+    "seq_b8b5563330fdc89d": [
+      "6ff1d98c48cc2c73b7915a9fb59d6bf2991550bb760a49d37584c41865867529",
+      "0d2a772d8c959daa7f9ed43e70650774dbcddbe42342101345ddfbc37e59d6d3",
+      "a0c420015eb1e0ad305f96fa4d6f7ffe1bad0806971a0f7707e942484bc7b97f"
+    ],
+    "seq_e8b4f75454f9491f": [
+      "a50cff083db4d1fe812c85106df23a9fcf29765660132f4b212e9328fe0d099a",
+      "276e68512c51c9f369c7d8dcf05544d6bf61eef8456635e591538f2eb493aa9b",
+      "9a2abfb50cb3977a7adbdbbebd7e10301b0129a6d99082b3807a336a1adb8381"
+    ],
+    "seq_5f9ee35846b7e635": [
+      "af1b2b90649e4c74e8cbe36e652e0639dfef9119471b38681ca6b7af6ac174e2",
+      "49449fc06f1ccd986c0506adc44b601a00ca6993c1e9b3634728e80d3da7d14b",
+      "c7e9b665bcca790160481c2d3b1430c0ce58eb87ba4fe7ee0eec70122b72cad3"
+    ],
+    "seq_b9b5a9ad9a64ced9": [
+      "7ee478c9c71cd25124b6a139499dba304e73c3c99fb471daab0c9a1575462af0",
+      "83442e5409323487fcd54119ff26a3bbf9aa642ff7d5907fea4c0d0d00dcf580",
+      "cc22526c555a5614f18abe7bfa8aae5a9d70feeefcfdb18db46b56ad00e0477b"
+    ],
+    "seq_84541a1f4b159018": [
+      "72a7807386e8774501395ca4b830c8ba8cec80db2a9eb9d68bcac5a98744db81",
+      "98a463801f316cb3499b9079e9d1cfb88e154ef52c74871d6b095c30bfc9db60",
+      "f9f3292a18c689ff0b6958140fd8174b5cb5391c6f4d83dbc8120aeb4d0476a1"
+    ],
+    "seq_d749b853cf795b6a": [
+      "76e2c0e5f59e332784bce6d78b4ade087eac7d49af84de2f7e23794df3c9f639",
+      "85b64837a993350c76f9595a559d6338a3c850898ace2af8067ddd596cb78699",
+      "ac7d94617c22d80eae23fc3efa2285412e0dfd9a20898a19c3fc8e3b2ed1d2d5"
+    ],
+    "seq_2032620aa4e4ac7f": [
+      "952423eefaf0862b89c7cad32e3231b1701e11577d4ef7009dfd5485c3acb30b",
+      "804e744dd2df7b4bab94048b4ef77756d3e6a03230445f87c18edbcb9917c74d",
+      "5563f80a96793a5e037eaabb320ec79b2bb7d387ba93970b5ce996561b0868d8"
+    ],
+    "seq_b136f32c2233b97c": [
+      "3a519ca5e3febb59cf430d1fa6723a492e7cb64416bf4a7d28f8374b3aa18226",
+      "9870ab90a02d6aa36f93200e7f24ea9b6191af76645c2f4749444fa47fc39831",
+      "e82a2f4a60b6535e40a512a508faf94f69dfd2ee3bb90c0b9100051db6088569"
+    ],
+    "seq_d8afceb0e8f9122d": [
+      "38dff5177ce617b85ddfc09eb6ba68f5035278271c7a1fd60c8331162cbbd11b",
+      "020fa4c6664d585fca1bde4b0ba032b873531fa19aadcfbfb48b02b63b6f3f8e",
+      "7483f1421af14d3a22f45e058a0b204c897227056271e3bdeef495e6265127b0"
+    ],
+    "seq_96839890d69d7698": [
+      "5f83442d0d757e0ea8a527824e93fe25f0d14bc2369d9f94e845fb3b5de1654b",
+      "b95389c3489a99a9c964802c8292efee758fdd48230b74520301967c01ef1698",
+      "1daf3f9f584bac83ae7e78e55dc2396f488498301c364b48214f067c0f2c3968"
+    ],
+    "seq_45c9871f52e99417": [
+      "9472cb2e1d3294d16bcf106d88878832d9dd01f3342977059a71afe8effd3325",
+      "27c1c95b1f0d4ac145956f1fa313323c19f4bb20a85153645e5a3fc4ad3ccf61",
+      "1d0579dfb2929433574fee18dc2ce85683af9dda622223e43511ddc230e55475"
+    ],
+    "seq_f7f9d9dbf5b05cb5": [
+      "43c263709015e9c53727c0ee9fc753ff779a98b4beedb09e323dd86d3a3bdf4a",
+      "dedaaac0e515a73ff97682084028bea51b97299afd13633c79be2832f8f5f7f7",
+      "910f9ea8d94c77ed4a99145934154483b9b95fa7c13428b79ba017daed554c4c"
+    ],
+    "seq_da71f7a842c91090": [
+      "08202fee7daccecc903d13d2c4025585a9cfb8f64513f089ce9187e2a67d3d23",
+      "cc3a6035b69d36c2cbc5f9ffe06e13d81d64a47a3352f24502b2fda95af6a76e",
+      "e3437cdf041e0c130fe24ba17541635ca98fd01ba4d547eb0b97ec53b3cca9ec"
+    ],
+    "seq_952f154fb1505883": [
+      "cbdac97fe8119e014566bfded813a2e91f35bdb9500169deadf59b3a905ac9f5",
+      "ebd276940107c59f4ec565b02bc78ed952acb9fd4173e47a337433d662a86ed5",
+      "458fc9b3cc693228cfcdd7c6fc513589086020a40605ab83e2689bb87c20872f"
+    ],
+    "seq_a3bd36201a0cd61b": [
+      "e2c28f3cc7e9039461a287f155dd8e9361450c09f24bc4b1858eb608db7dd57a",
+      "92c284c26f855a60bb751ef35841a084335ea569e2612072ff34446fe16f27f0",
+      "7a39c95942ec70a14817d2073ea57d0faa4011978e220d0c5a9f708d482643a8"
+    ],
+    "seq_de542b63e6b19bc2": [
+      "bc2bf2adffbc16a6ceb2444f7e99700f05e318857e2b22728b8c511214f7b647",
+      "8dbb7dd9d1a98341d97d83b1d09aaf65b00148cff5536fd97b499ebd3d90bd91",
+      "f2e11c3e9b002480e1feb5a799100024b23dbc9df057719b51da995311dabdd5"
+    ]
+  },
+  "config": {
+    "min_score": 0.0,
+    "max_gap": 1.25,
+    "center_tolerance": 1.5,
+    "english_only": true,
+    "page_number_margin": 0.08,
+    "page_number_max_width": 0.08,
+    "page_number_max_height": 0.05
+  },
+  "code": {
+    "text_extraction_pipeline.py": "b8dce35a8d6a1aa46b8fc53899a63184ae2643046278fbaffdb1950c528e9758",
+    "ocr_joining.py": "b312f3001071b9dbcd39acc9dd164182b27ec471b3a38911feb0e383ee08ed5a",
+    "ocr_utils.py": "4b7e031f9c52ef0f5d8e1b37c3b1a6e8a30c3583e1e099ad3293c302fff14836"
+  },
+  "output_sha256": "790b0cb210ed67b3dd80e94d15bc7c29a03b4ce1424187a1a478f5df91547f0b",
+  "audit_sha256": "0de4a12cbea152cd95ec0d16c7b8fd1f06b05c255c5dec920207b50d6a4e3372",
+  "sound_effects_sha256": "df6c2ff2dd2016f67034a9566cf3b3542108e5a0a0d41fad1762064ae93a5b4a",
+  "sound_effect_words": [
+    "BAM",
+    "BANG",
+    "BOOM",
+    "BUZZ",
+    "BZZT",
+    "CHAK",
+    "CHOMP",
+    "CLACK",
+    "CLANG",
+    "CLICK",
+    "CLUNK",
+    "COM",
+    "CRACK",
+    "CRASH",
+    "CREAK",
+    "DING",
+    "DO NOT MIRROR",
+    "DOINK",
+    "DONOTMIRROR",
+    "DRIP",
+    "FSHH",
+    "FWIP",
+    "GLUB",
+    "GLUB GLUB",
+    "GULP",
+    "K-CHAK",
+    "KABOOM",
+    "KLIK",
+    "KLINK",
+    "KNOUK",
+    "KRAKDOW",
+    "KRAKKRAKKRAK",
+    "KREAK",
+    "KREEK",
+    "KREPT",
+    "KRICH",
+    "KRIK",
+    "MANGA",
+    "PING",
+    "PINGGGG",
+    "PLIP",
+    "POW",
+    "RUSTL",
+    "RUSTLE",
+    "SFX: GULP",
+    "SFX: HOOFBEATS",
+    "SHIK",
+    "SHOOP",
+    "SKRSH",
+    "SLAM",
+    "SMASH",
+    "SNAP",
+    "SPLASH",
+    "STREAM.COM",
+    "SWISH",
+    "SWOOSH",
+    "TAP",
+    "TAPT",
+    "THUD",
+    "THUNK",
+    "TICK",
+    "TOCK",
+    "TOK",
+    "VROOM",
+    "WHACK",
+    "WHAM",
+    "WHOOSH",
+    "WHOSSH",
+    "ZAP"
+  ],
+  "watermark_phrases": [
+    "COM",
+    "DO NOT MIRROR",
+    "DO NOT MIRRORT",
+    "DO NOTMIRROR",
+    "DONOT MIRROR",
+    "DONOTMIRROR",
+    "MANGA",
+    "STREAM",
+    "STREAM.COM",
+    "STREAM.OM"
+  ],
+  "filtering_scope": "Before joining: non-English fragments, watermarks, listed/repeated sounds, SFX captions, margin page numbers, and OCR cleanup; no visual classification",
+  "split_sha256": "1f3a380537f410558ba5307bd4195531a9c0f20a354104a8861c137e3747422f"
+}

@@ -1,0 +1,255 @@
+{
+  "sequence_id": "seq_2022b8c0e1f2d3c0",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "?."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Slide::"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Ah..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "WH... W-WHAT'S WRONG, MIKAGE!?"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Ah.."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Oh, it's nothing!"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "\"Nothing!?!\" Komaba, did you do something!?"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "It's nothing!"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "It's none of your business!"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Wait in"
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "Hey!!"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "Ah... um.."
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "Are you all right?"
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "Um... Um..."
+    },
+    {
+      "id": "PG2:T12",
+      "page": 2,
+      "text": "Sorry, it's nothing."
+    },
+    {
+      "id": "PG2:T13",
+      "page": 2,
+      "text": "I'm fine, really!"
+    },
+    {
+      "id": "PG2:T14",
+      "page": 2,
+      "text": "Don't worry about it!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "A young magazine's teams are able to read a young and informative definitely happened, but Michaelis left wondering...."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "7 K 12"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Sniff"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Click"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "and"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "What the heck happened ....?"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Drip"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Drop"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "To be continued in issue 15,"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL7",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL8",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL9",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL10",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL11",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL12",
+      "page": 2
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL11"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL8"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL9"
+    },
+    {
+      "text_id": "PG2:T8",
+      "tail_id": "PG2:TAIL12"
+    },
+    {
+      "text_id": "PG2:T9",
+      "tail_id": "PG2:TAIL10"
+    },
+    {
+      "text_id": "PG2:T10",
+      "tail_id": "PG2:TAIL10"
+    },
+    {
+      "text_id": "PG2:T12",
+      "tail_id": "PG2:TAIL7"
+    },
+    {
+      "text_id": "PG2:T13",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T14",
+      "tail_id": "PG2:TAIL2"
+    }
+  ]
+}

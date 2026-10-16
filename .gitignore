@@ -1,0 +1,111 @@
+# Repository root: Applied-Task (final Magi pipeline plus pre-Magi experiments).
+# Local Python environments and machine-specific secrets
+.venv*/
+venv/
+node_modules/
+env/
+godfather.venv/
+.env
+.env.*
+!.env.example
+!.env.template
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Downloaded/trained weights and serialized feature data: host models separately.
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+*.gguf
+*.pdparams
+*.pdopt
+*.pdiparams
+*.pdiparams.info
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.cbm
+*.joblib
+*.sqlite
+*.sqlite3
+**/models/
+**/checkpoints/
+**/checkpoint-*/
+# Ignore run contents but allow selected small reports below.
+**/training_runs/**
+!**/training_runs/**/
+**/runs/**
+!**/runs/**/
+**/runs_*/**
+!**/runs_*/**/
+
+# Input manga pages and reference labels; retain TaskData tools/manifests/sample submission.
+**/TaskData/*/images/
+**/TaskData/*/labels.jsonl
+
+# Generated stage caches. Traverse subdirectories so final exports below remain uploadable.
+**/cache*/**
+!**/cache*/**/
+**/*_cache/**
+!**/*_cache/**/
+!**/cache*/**/transcript.jsonl
+!**/cache*/**/transcript_raw.jsonl
+!**/cache*/**/predictions.jsonl
+!**/cache*/**/predicted_labels.jsonl
+!**/cache*/**/submission.jsonl
+!**/cache*/**/score.json
+!**/cache*/**/scores.json
+!**/cache*/**/score_report.json
+!**/cache*/**/score_results.json
+
+# Small experiment reports referenced by the documentation.
+# These exceptions do not include weights, tensors or per-box training predictions.
+!**/runs/**/evaluation.json
+!**/runs/**/evaluation_metrics.json
+!**/runs/**/seed_summary.csv
+!**/runs/**/per_seed_metrics.csv
+!**/runs/**/previous_vs_joint_summary.csv
+!**/runs/**/comparison.csv
+!**/runs_*/**/evaluation_metrics.json
+!**/runs_*/**/best_params.json
+!**/training_runs/**/metrics.json
+
+# Machine-local download metadata, generated scratch files and editor files.
+**/.cache/
+**/.paddlex/
+**/.ipynb_checkpoints/
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite3-wal
+*.sqlite3-shm
+*.bak
+*.swp
+/temp.ipynb
+/Magi ----- FINAL PIPELINE/temp.json
+/Magi ----- FINAL PIPELINE/venvtest.ipynb
+
+# Generated pre-Magi input copies, crops and intermediate data; keep legacy source.
+**/data/input/**
+!**/data/input/**/
+!**/data/input/**/.gitkeep
+**/data/intermediate/**
+!**/data/intermediate/**/
+!**/data/intermediate/**/.gitkeep
+**/character_crops/
+
+# Keep final test predictions and score.py reports here, outside caches/training runs.
+# No blanket *.json, *.jsonl, *.csv or outputs/ exclusion is intentional.

@@ -1,0 +1,209 @@
+{
+  "sequence_id": "seq_d8afceb0e8f9122d",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Hey Mongirl! I'll give ya 100 yen if ya eat this cigarette."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "MANGA STREAN, DO NOT NIRROR"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Really?!"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Bot- Tom's up!"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Gaha haha haha ha!"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "SPX: GULP"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "If another devil shows up, we'll call you."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Try to run and you'll be sleeping with the fishes."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "MAN GA STREAMLAD: Don't mirror"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "This'll cover another 3 days of food!"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "The other day I heard,"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "that people normally eat bread with jam spread all over it."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Well, normally's just a dream for us though."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Just R us"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "I doubt I'll pay off this debt before I die."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "...I'm gonna die single aren't I?"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Not like I could bring a girl back to this shitshack. Don't have the cash to be Latin' either."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "whimper"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "If I could get any wish granted, I'd wanna be with a girl before I die..."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "LANGAS SIRLAN: Do not mirror"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

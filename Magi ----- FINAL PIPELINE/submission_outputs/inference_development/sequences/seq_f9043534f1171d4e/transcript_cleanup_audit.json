@@ -1,0 +1,128 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "GUH ...",
+    "cleaned_text": "GUH ...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "INCANTATION'S TIME!RAN OUT.",
+    "cleaned_text": "INCANTATION\u2019S TIME! RAN OUT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "DAMMIT, I'CAN'T THINK STRAIGHT.",
+    "cleaned_text": "DAMMIT, I\u2019CAN\u2019T THINK STRAIGHT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "WHAT RAW STRENGTH!",
+    "cleaned_text": "WHAT RAW STRENGTH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "YOU OKAY?!",
+    "cleaned_text": "YOU OKAY?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "THOUGHT I TOLD YOU TO RUN.",
+    "cleaned_text": "THOUGHT I TOLD YOU TO RUN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "FORGET IT!",
+    "cleaned_text": "FORGET IT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "I'D BE HAVING NIGHT- MARES IF I LEFT NOW!",
+    "cleaned_text": "I\u2019D BE HAVING NIGHT-MARES IF I LEFT NOW!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character4",
+    "raw_text": "BESIDES",
+    "cleaned_text": "BESIDES",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "HELP PEOPLE.",
+    "cleaned_text": "HELP PEOPLE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "I'VE ACTUALLY",
+    "cleaned_text": "I'VE ACTUALLY",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character4",
+    "raw_text": "GOT QUITE THE CURSE MYSELF",
+    "cleaned_text": "GOT QUITE THE CURSE MYSELF",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "Tp",
+    "cleaned_text": "Tp",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "MATTER HOW STRONG",
+    "cleaned_text": "MATTER HOW STRONG",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

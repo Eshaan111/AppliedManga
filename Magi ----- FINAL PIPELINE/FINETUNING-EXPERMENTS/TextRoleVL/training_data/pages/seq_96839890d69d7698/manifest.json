@@ -1,0 +1,149 @@
+{
+  "sequence_id": "seq_96839890d69d7698",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "MANIA SIREANLA don't mirror"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "one's still alive."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Hmph..."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "You're a strange one."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "You don't smell like a devil or a human."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Did you do this?"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "NANIAN: SIRLAY DO NOT NIRROR"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "H-..."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Hold me..."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "It's a human..."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Could he be taken over by a devil?"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "No, you can tell take-overs by looking at their face."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL3"
+    }
+  ]
+}

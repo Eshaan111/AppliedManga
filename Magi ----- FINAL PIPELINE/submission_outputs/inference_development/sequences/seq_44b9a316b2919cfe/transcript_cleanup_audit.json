@@ -1,0 +1,227 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "HUH? WHERE ARE THE OTHER TWO?",
+    "cleaned_text": "HUH? WHERE ARE THE OTHER TWO?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "WELL...",
+    "cleaned_text": "WELL...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "SQUAD LEADER URIE AND RANK 3 SHIRAZU...",
+    "cleaned_text": "SQUAD LEADER URIE AND RANK 3 SHIRAZU...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "ARE PERFORMING SOLO INVESTI- GATIONS... IT SEEMS THEY ARE INVESTIGATING ABOUT THE GHOUL CALLED \"TORSO\".\u2026.",
+    "cleaned_text": "ARE PERFORMING SOLO INVESTI- GATIONS... IT SEEMS THEY ARE INVESTIGATING ABOUT THE GHOUL CALLED \"TORSO\"...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "WHAAAT!?",
+    "cleaned_text": "WHAAAT!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "\"Torso\" is estimated to be a dangerous A rate ghoul...",
+    "cleaned_text": "\u201cTorso\u201d is estimated to be a dangerous A rate ghoul...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "WERE YOU ABLE TO GET IN TOUCH WITH THOSE TWO?",
+    "cleaned_text": "WERE YOU ABLE TO GET IN TOUCH WITH THOSE TWO?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "EVEN THOUGH THOSE INEXPERIENCED TWO SHOULD BE BEHAVING MODESTLY...",
+    "cleaned_text": "EVEN THOUGH THOSE INEXPERIENCED TWO SHOULD BE BEHAVING MODESTLY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "I-I WAS NOT ABLE TO.",
+    "cleaned_text": "I-I WAS NOT ABLE TO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "LET'S GO GET THE INVESTI- GATION DATA FROM THE TEAM INVESTIGATING TORSO.",
+    "cleaned_text": "LET\u2019S GO GET THE INVESTIGATION DATA FROM THE TEAM INVESTIGATING TORSO.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "MUT SUKI- KUN, you COME YOO!",
+    "cleaned_text": "MUT SUKI- KUN, you COME!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "okAy.",
+    "cleaned_text": "okAy.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "THOSE IDIOTS",
+    "cleaned_text": "THOSE IDIOTS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "..................",
+    "cleaned_text": "..................",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "WHERE IS SAIKO-CHAN TODAY?",
+    "cleaned_text": "WHERE IS SAIKO-CHAN TODAY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "UMM... I GREETED HER WHEN I WAS LEAVING BUT...",
+    "cleaned_text": "UMM... I GREETED HER WHEN I WAS LEAVING BUT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "IT SEEMS SHE WAS UP LATE LAST NIGHT\u2026.",
+    "cleaned_text": "IT SEEMS SHE WAS UP LATE LAST NIGHT\u2026.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "I UNDER- STAND... WHEN I GET BACK I'LL GIVE HER A LECTURE.",
+    "cleaned_text": "I UNDERSTAND... WHEN I GET BACK I'LL GIVE HER A LECTURE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character3",
+    "raw_text": "AKIRA-SAN, IT...",
+    "cleaned_text": "AKIRA-SAN, IT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "is taking my best efforts just to unify the team",
+    "cleaned_text": "is taking my best efforts just to unify the team",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "to say nothing of creating investigators like Special Class Arima...",
+    "cleaned_text": "to say nothing of creating investigators like Special Class Arima...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character5",
+    "raw_text": "THE DATA?",
+    "cleaned_text": "THE DATA?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "YOU GUYS AREN'T RESPONSIBLE FOR TORSO, ARE YOU?",
+    "cleaned_text": "YOU GUYS AREN'T RESPONSIBLE FOR TORSO, ARE YOU?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "UNKNOWN",
+    "raw_text": "I UNDER- STAND THAT YOU'RE GETTING DESPERATE BECAUSE HIRAKO'S SQUAD HAS A BIG LEAD ON YOU BUT I REALLY WONDER ABOUT YOU GOING SO FAR",
+    "cleaned_text": "I UNDERSTAND THAT YOU'RE GETTING DESPERATE BECAUSE HIRAKO'S SQUAD HAS A BIG LEAD ON YOU BUT I REALLY WONDER ABOUT YOU GOING SO FAR.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character5",
+    "raw_text": "AS TO SNATCH UP ANOTHER GROUP'S JOB...",
+    "cleaned_text": "AS TO SNATCH UP ANOTHER GROUP'S JOB...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

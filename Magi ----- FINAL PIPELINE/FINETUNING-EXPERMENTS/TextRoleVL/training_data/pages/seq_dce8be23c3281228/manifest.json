@@ -1,0 +1,114 @@
+{
+  "sequence_id": "seq_dce8be23c3281228",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "...?"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "HEY, MURPHY. WHAT'RE YOU GONNA DO WHEN YOU GET BACK HOME?"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Ha, ha, ha! what am gonna DO?"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "...GRiff... is something wrong, or...? I'm not sure if I'm a fan of the game, but I'm not sure if I'm not a fan of the game. I'm not sure if I'm not a fan of a fan of the game, but I'm not sure I'm"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "...Griff... is something wrong, or...?"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Chak"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "!?"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Organizations"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Eeeyayayayayaya!"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Shit! SHI?!"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "GRIFF!"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Stay BACK, man! He's lost it!"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Ping spak ping"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Krak"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Damnit!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "...HNG!"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Chak"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "!!!",
+    "cleaned_text": "!!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "THE PRESENCE OF THE CURSED OBJECT! I CAN FEEL IT EVEN STRONGER NOW!",
+    "cleaned_text": "THE PRESENCE OF THE CURSED OBJECT! I CAN FEEL IT EVEN STRONGER NOW!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "HEY, YOU!",
+    "cleaned_text": "HEY, YOU!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "GAH! HOW THE HECK IS HE SO FAST?!",
+    "cleaned_text": "GAH! HOW THE HECK IS HE SO FAST?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "APPARENTLY HE RUNS THE 50-METER DASH IN THREE SECONDS...",
+    "cleaned_text": "APPARENTLY HE RUNS THE 50-METER DASH IN THREE SECONDS...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "CRAP!",
+    "cleaned_text": "CRAP!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "WHAT IS HE, A CAR?",
+    "cleaned_text": "WHAT IS HE, A CAR?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "SUGISAWA HOSPITAL",
+    "cleaned_text": "SUGISAWA HOSPITAL",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "YUJI... I HAVE SOME FINAL WORDS FOR YOU.",
+    "cleaned_text": "YUJI... I HAVE SOME FINAL WORDS FOR YOU.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "IT'S ABOUT YOUR PARENTS STOP,I DON'T CARE!",
+    "cleaned_text": "IT\u2019S ABOUT YOUR PARENTS STOP, I DON\u2019T CARE!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "IT'S ABOUT...",
+    "cleaned_text": "IT\u2019S ABOUT...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "...YOUR PARENTS!",
+    "cleaned_text": "...YOUR PARENTS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "LIKE I SAID, I DON'T CARE, GRANDPA.",
+    "cleaned_text": "LIKE I SAID, I DON'T CARE, GRANDPA.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "WILL YOU STOP TRYING TO ACT ALL COOL BEFORE YOU DIE?",
+    "cleaned_text": "WILL YOU STOP TRYING TO ACT ALL COOL BEFORE YOU DIE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "JUST BE YOUR USUAL SELF. OKAY?",
+    "cleaned_text": "JUST BE YOUR USUAL SELF. OKAY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "y- YOU...",
+    "cleaned_text": "y- YOU...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "A MAN WANTS TO GO OUT IN STYLE, YOU KNOW!",
+    "cleaned_text": "A MAN WANTS TO GO OUT IN STYLE, YOU KNOW!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "YOU BRAT!",
+    "cleaned_text": "YOU BRAT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character2",
+    "raw_text": "DON'T YOU GET IT?!",
+    "cleaned_text": "DON'T YOU GET IT?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "DON'T BE BUYING FLOWERS ALL THE TIME. SAVE YOUR MONEY.",
+    "cleaned_text": "DON'T BE BUYING FLOWERS ALL THE TIME. SAVE YOUR MONEY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "THEY'RE NOT FOR YOU. THEY'RE FOR THE NURSES.",
+    "cleaned_text": "THEY'RE NOT FOR YOU. THEY'RE FOR THE NURSES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "EVEN MORE so THEN, YOU IDIOT!",
+    "cleaned_text": "EVEN MORE SO THEN, YOU IDIOT!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "HEY, WHAT ABOUT YOUR SCHOOL CLUB? DON'T GO WASTING YOUR TIME AT A SAD PLACE LIKE THIS.",
+    "cleaned_text": "HEY, WHAT ABOUT YOUR SCHOOL CLUB? DON'T GO WASTING YOUR TIME AT A SAD PLACE LIKE THIS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "THAT'S ENOUGH! MY CLUB FINISHES BEFORE FIVE!",
+    "cleaned_text": "THAT\u2019S ENOUGH! MY CLUB FINISHES BEFORE FIVE!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "SNAP",
+    "cleaned_text": "SNAP",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "I WOULDN'T COME HERE SO OFTEN IF I WASN'T SO BORED!",
+    "cleaned_text": "I WOULDN'T COME HERE SO OFTEN IF I WASN'T SO BORED!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "STRESS- A FREE LIFE, HUH? TCH...",
+    "cleaned_text": "STRESS - A FREE LIFE, HUH? TCH...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "YUJI...",
+    "cleaned_text": "YUJI...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "YEAH?",
+    "cleaned_text": "YEAH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character2",
+    "raw_text": "YOU'RE A STRONG KID, SO...",
+    "cleaned_text": "YOU\u2019RE A STRONG KID, SO...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character18",
+    "raw_text": "...HELP PEOPLE.",
+    "cleaned_text": "...HELP PEOPLE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 12,
+    "speaker": "NARRATION",
+    "raw_text": "IT DOESN'T HAVE TO BE ALL THE TIME. JUST WHENEVER YOU CAN.",
+    "cleaned_text": "IT DOESN'T HAVE TO BE ALL THE TIME. JUST WHENEVER YOU CAN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 13,
+    "speaker": "NARRATION",
+    "raw_text": "YOU MAY FEEL LOST. DON'T EXPECT GRATITUDE.",
+    "cleaned_text": "YOU MAY FEEL LOST. DON'T EXPECT GRATITUDE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 14,
+    "speaker": "character18",
+    "raw_text": "JUST HELP THEM.",
+    "cleaned_text": "JUST HELP THEM.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

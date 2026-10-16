@@ -1,0 +1,65 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "EATING BREAD WITH JAM SMOTHERED ALL OVER IT WITH YOU POCHITA, MAKIN' OUT WITH A GIRL, PLAYIN' GAMES TOGETHER IN OUR ROOM... AND FALLIN' ASLEEP IN HER ARMS...",
+    "cleaned_text": "EATING BREAD WITH JAM SMOTHERED ALL OVER IT WITH YOU POCHITA, MAKIN' OUT WITH A GIRL, PLAYIN' GAMES TOGETHER IN OUR ROOM... AND FALLING ASLEEP IN HER ARMS...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "PRETTY GREAT DREAM, DON'T YOU THINK?",
+    "cleaned_text": "PRETTY GREAT DREAM, DON'T YOU THINK?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "wOOF",
+    "cleaned_text": "wOOF",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "WOOF",
+    "cleaned_text": "WOOF",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "MY MOM... DIED FROM A HEART ISSUE THAT MADE HER COUGH UP BLOOD...",
+    "cleaned_text": "MY MOM... DIED FROM A HEART ISSUE THAT MADE HER COUGH UP BLOOD...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "DENJI, WE'VE GOT ANOTHER DEVIL. TIME TO WORK.",
+    "cleaned_text": "DENJI, WE'VE GOT ANOTHER DEVIL. TIME TO WORK.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "AT LEAST LET ME DREAM A LITTLE...",
+    "cleaned_text": "AT LEAST LET ME DREAM A LITTLE...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

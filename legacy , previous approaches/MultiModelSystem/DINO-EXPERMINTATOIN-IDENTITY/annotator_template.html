@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><title>DINO manual character crops</title>
+<style>
+body{font:15px system-ui;margin:0;background:#edf0f4;color:#182233}header{padding:18px;background:#182233;color:white}
+main{display:grid;grid-template-columns:320px 1fr;gap:20px;padding:20px}aside{position:sticky;top:12px;align-self:start;background:white;padding:18px;border-radius:10px}
+label{display:block;margin:12px 0 4px}select,input,button{box-sizing:border-box;width:100%;padding:9px;margin:3px 0;font:inherit}
+button{background:#185fd0;color:white;border:0;border-radius:5px;cursor:pointer}button.secondary{background:#475467}canvas{width:100%;height:auto;touch-action:none;background:white;cursor:crosshair}
+#status{white-space:pre-wrap;margin-top:12px}small{display:block;color:#536175}.danger{background:#9e342c}h1{font-size:22px;margin:0}#work{max-width:1300px}
+</style>
+<header><h1>DINOv2 character identity — manual annotation</h1><p>Choose a crop style, then draw characters in the same order on every page: A, B, C… Boxes save automatically in drawing-order mode.</p></header>
+<main><aside>
+<label>Sequence</label><select id="sequence"></select><small id="split"></small>
+<label>Page</label><select id="page"></select>
+<label>Drawing mode</label><select id="mode"><option value="order">Add boxes in matching order</option><option value="edit">Edit selected appearance</option></select>
+<label>Next character position</label><select id="slot"></select><button id="skip" class="secondary">Skip this character on this page</button>
+<small>Position 1 = A, 2 = B, etc. Use the same character order across pages and crop styles within a sequence. Skip missing characters to keep later positions aligned.</small>
+<label>Appearance</label><select id="appearance"></select><button id="add" class="secondary">New appearance (manual)</button>
+<label>Character name / identity</label><input id="identity" placeholder="Enter a consistent character name">
+<label>Crop style</label><select id="strategy"><option value="face">Face only</option><option value="head_hair">Head + hair</option><option value="upper_body">Upper body</option></select>
+<small>Earlier crop styles for the selected position are highlighted: purple = face, blue = head + hair. After each box, enter the character's name in the popup to save.</small>
+<button id="save">Save drawn box and label</button><button id="remove" class="danger">Remove selected crop style</button>
+<button id="export">Export characters.json</button><label>Import saved characters.json</label><input type="file" id="import" accept=".json">
+<small>Export to disk before closing. Replace this experiment's annotations/characters.json with your export. A browser autosave is also kept on this machine.</small>
+<div id="status"></div></aside><div id="work"><canvas id="canvas"></canvas></div></main>
+<script>
+const initial=__DATA__, assets=__ASSETS__;
+const $=id=>document.getElementById(id), canvas=$('canvas'), ctx=canvas.getContext('2d');
+const storageKey='DINO-EXPERMINTATOIN-IDENTITY-annotations-reset-f9e16e4ad5b847c59132bcdeeebdbb35';
+let data=initial, box=null, start=null, image=new Image(), generation=0;
+try{const cached=JSON.parse(localStorage.getItem(storageKey));if(cached && cached.schema_version===1 && cached.sequences.every(s=>s.pages.every(p=>assets[p.image])))data=cached;}catch(e){}
+function seq(){return data.sequences[Number($('sequence').value)]}
+function page(){return seq().pages[Number($('page').value)]}
+function character(){return page().characters.find(c=>c.crop_id===$('appearance').value)}
+function orderLabel(index){let label='';for(let n=index+1;n>0;n=Math.floor((n-1)/26))label=String.fromCharCode(65+(n-1)%26)+label;return label}
+function ensureSlot(index){while(page().characters.length<=index){const used=new Set(page().characters.map(c=>c.crop_id));let n=page().characters.length;while(used.has('p'+page().page_index+'_c'+n))n++;page().characters.push({crop_id:'p'+page().page_index+'_c'+n,identity_label:orderLabel(page().characters.length),boxes:{}})}return page().characters[index]}
+function refreshSlots(index){const chars=page().characters;options($('slot'),Array.from({length:chars.length+1},(_,i)=>[i,'Position '+(i+1)+' — '+(chars[i]?.identity_label||orderLabel(i))]));if(index===undefined){index=chars.findIndex(c=>!c.boxes[$('strategy').value]);if(index<0)index=chars.length}$('slot').value=index;slotChanged()}
+function slotChanged(){if($('mode').value!=='order')return;const index=Number($('slot').value),c=page().characters[index];$('appearance').value=c?.crop_id||'';$('identity').value=c?.identity_label??orderLabel(index);box=null;if(image.complete&&image.naturalWidth)redraw()}
+function options(el,values){el.replaceChildren();values.forEach(([value,text])=>{const option=document.createElement('option');option.value=value;option.textContent=text;el.append(option)})}
+function autosave(){try{localStorage.setItem(storageKey,JSON.stringify(data));}catch(e){alert('Browser autosave unavailable. Export your annotations.')}status()}
+function status(){const chars=data.sequences.flatMap(s=>s.pages.flatMap(p=>p.characters));$('status').textContent=chars.length+' appearances / '+chars.reduce((n,c)=>n+Object.keys(c.boxes).length,0)+' crop variants\n'+(box?'Selected box: '+box.join(', '):'Drag on the page to draw a box.');}
+function drawEarlierCrops(){const c=$('mode').value==='order'?page().characters[Number($('slot').value)]:character();if(!c)return;const styles=['face','head_hair','upper_body'],colors=['#9333ea','#0284c7'],names=['Face','Head + hair'];ctx.save();for(let i=0;i<styles.indexOf($('strategy').value);i++){const b=c.boxes[styles[i]];if(!b)continue;ctx.strokeStyle=colors[i];ctx.fillStyle=colors[i];ctx.lineWidth=Math.max(3,canvas.width/300);ctx.globalAlpha=0.12;ctx.fillRect(b[0],b[1],b[2]-b[0],b[3]-b[1]);ctx.globalAlpha=1;ctx.setLineDash([10,6]);ctx.strokeRect(b[0],b[1],b[2]-b[0],b[3]-b[1]);ctx.setLineDash([]);ctx.font=Math.max(14,canvas.width/70)+'px sans-serif';ctx.fillText(names[i]+' — '+(c.identity_label||'?'),b[0],Math.max(20,b[1]-4));}ctx.restore();}
+function redraw(){ctx.clearRect(0,0,canvas.width,canvas.height);ctx.drawImage(image,0,0);drawEarlierCrops();for(const c of page().characters){const b=c.boxes[$('strategy').value];if(!b)continue;ctx.strokeStyle=c===character()?'#ff8a00':'#00a87a';ctx.lineWidth=Math.max(2,canvas.width/400);ctx.strokeRect(b[0],b[1],b[2]-b[0],b[3]-b[1]);ctx.font=Math.max(14,canvas.width/70)+'px sans-serif';ctx.fillStyle=ctx.strokeStyle;ctx.fillText(c.crop_id+' '+(c.identity_label||'?'),b[0],Math.max(20,b[1]-4));}if(box){ctx.strokeStyle='#f02c5a';ctx.lineWidth=Math.max(3,canvas.width/350);ctx.strokeRect(box[0],box[1],box[2]-box[0],box[3]-box[1]);}status();}
+function appearanceChanged(){const c=character();$('identity').value=c?.identity_label||'';box=c?.boxes[$('strategy').value]?.slice()||null;if(image.complete&&image.naturalWidth)redraw();}
+function refreshCharacters(selectId){options($('appearance'),page().characters.map(c=>[c.crop_id,c.crop_id+' ('+(c.identity_label||'?')+')']));if(selectId)$('appearance').value=selectId;appearanceChanged();}
+function loadPage(){const g=++generation;box=null;start=null;refreshCharacters();refreshSlots();const next=new Image();next.onload=()=>{if(g!==generation)return;image=next;canvas.width=image.naturalWidth;canvas.height=image.naturalHeight;redraw()};image=next;next.src=assets[page().image];}
+function loadSequence(){options($('page'),seq().pages.map((p,i)=>[i,'Page '+p.page_index]));$('split').textContent='Experiment split: '+seq().split;loadPage()}
+function init(){options($('sequence'),data.sequences.map((s,i)=>[i,s.sequence_id]));loadSequence()}
+$('sequence').onchange=loadSequence;$('page').onchange=loadPage;$('appearance').onchange=()=>{$('mode').value='edit';appearanceChanged()};$('strategy').onchange=()=>{start=null;appearanceChanged();refreshSlots()};
+$('slot').onchange=slotChanged;$('mode').onchange=()=>{start=null;if($('mode').value==='order')refreshSlots();else appearanceChanged()};
+$('skip').onclick=()=>{if($('mode').value!=='order')return;const index=Number($('slot').value);ensureSlot(index);refreshCharacters();refreshSlots(index+1);autosave()};
+$('add').onclick=()=>{$('mode').value='edit';const used=new Set(page().characters.map(c=>c.crop_id));let n=0;while(used.has('p'+page().page_index+'_c'+n))n++;const id='p'+page().page_index+'_c'+n;page().characters.push({crop_id:id,identity_label:null,boxes:{}});refreshCharacters(id);refreshSlots();autosave()};
+function point(e){const r=canvas.getBoundingClientRect();return [Math.round(Math.max(0,Math.min(canvas.width,(e.clientX-r.left)*canvas.width/r.width))),Math.round(Math.max(0,Math.min(canvas.height,(e.clientY-r.top)*canvas.height/r.height)))];}
+canvas.onpointerdown=e=>{if(!image.complete||!image.naturalWidth)return;if($('mode').value==='edit'&&!character()){alert('Select or create an appearance first.');return}start=point(e);box=null;canvas.setPointerCapture(e.pointerId)};
+canvas.onpointermove=e=>{if(!start)return;const p=point(e);box=[Math.min(start[0],p[0]),Math.min(start[1],p[1]),Math.max(start[0],p[0]),Math.max(start[1],p[1])];redraw()};
+function saveAnnotation(askName){if(!box||box[0]>=box[2]||box[1]>=box[3]){redraw();return}const ordered=$('mode').value==='order',index=Number($('slot').value);let c=ordered?page().characters[index]:character();if(!ordered&&!c)return;let name=$('identity').value;if(askName){name=prompt('Character name for '+$('strategy').selectedOptions[0].text+' (position '+(ordered?index+1:page().characters.indexOf(c)+1)+'). Use the same name across pages and crop styles. Blank = uncertain.',c?.identity_label||name);if(name===null){box=null;redraw();return}}if(!c)c=ensureSlot(index);c.identity_label=name.trim()||null;c.boxes[$('strategy').value]=box.slice();refreshCharacters(c.crop_id);refreshSlots(ordered?index+1:undefined);autosave();}
+canvas.onpointerup=e=>{if(!start)return;const p=point(e);box=[Math.min(start[0],p[0]),Math.min(start[1],p[1]),Math.max(start[0],p[0]),Math.max(start[1],p[1])];start=null;if(canvas.hasPointerCapture(e.pointerId))canvas.releasePointerCapture(e.pointerId);saveAnnotation(true)};
+canvas.onpointercancel=()=>{start=null;box=null;redraw()};
+$('save').onclick=()=>{if(!box||box[0]>=box[2]||box[1]>=box[3]){alert('Select an appearance or draw a nonempty box.');return}saveAnnotation(false)};
+$('remove').onclick=()=>{const c=character();if(!c)return;delete c.boxes[$('strategy').value];box=null;redraw();autosave()};
+$('export').onclick=()=>{autosave();const url=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=url;a.download='characters.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)};
+$('import').onchange=async e=>{try{const loaded=JSON.parse(await e.target.files[0].text());if(loaded.schema_version!==1||!loaded.sequences.every(s=>s.pages.every(p=>assets[p.image])))throw Error('Expected schema 1 and pages embedded in this annotator.');data=loaded;init();autosave()}catch(err){alert(err.message)}};
+init();
+</script></html>

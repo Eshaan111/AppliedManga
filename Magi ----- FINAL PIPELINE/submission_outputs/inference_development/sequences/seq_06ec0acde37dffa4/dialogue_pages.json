@@ -1,0 +1,269 @@
+[
+  [
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WE'LL BE FILLETING AND GRILLING FISH.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T5",
+        "PG1:T6"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "UM... OUR NEXT CLASS WILL BE COOKING PRACTICE.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E7",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ThE FIsh WIll BE PREPARED HERE, SO MAKE SURE TO BRING YOUR APRONS.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "COOKING PRACTICE...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T11",
+      "box_ids": [
+        "PG1:T11"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "Home Economics",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T13",
+      "box_ids": [
+        "PG1:T13"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I HOPE I DO WELL.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M2",
+      "box_ids": [
+        "PG1:T14",
+        "PG1:T15"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WELL, YOU SHOULD BE FINE, PRESIDENT. YOU'RE GOOD AT COOKING, RIGHT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T16",
+      "box_ids": [
+        "PG1:T16"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "FILLETING FISH SHOULD BE NOTHING...",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T5",
+        "PG2:T6"
+      ],
+      "speaker": "E10",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHAT'S WRONG, PRESI- DENT!? WHY AKE YOU HYPERVENTI- LATING!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M2",
+      "box_ids": [
+        "PG2:T7",
+        "PG2:T8"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ICANT... MIYUKISHIROGANE Wants to PrePARe",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T11",
+      "box_ids": [
+        "PG2:T11"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I kNOW I'M GOOD AT COOKING.....",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T12",
+      "box_ids": [
+        "PG2:T12"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BUT NOT THIS!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T13",
+      "box_ids": [
+        "PG2:T13"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "ANYTHING BUT FISH!!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T14",
+      "box_ids": [
+        "PG2:T14"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HUuH!?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T15",
+      "box_ids": [
+        "PG2:T15"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "COOKING PRACTICE!!",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "WHILE SHUCHI'IN ACADEMY PLACED A HEAVY EMPHASIS ON ACADEMICS, IT OFFERED LESSONS IN HOME ECONOMICS AS WELL!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "IN ORDER TO TEACH STUDENTS WHO LIVED ON TAKEOUT",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T3",
+        "PG3:T4"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "THE BASICS OF COOKING AND NUTRITION, THE HOME ECONOMICS PROFESSORS HAD THE AUTHORITY TO HAVE THEM PRACTICE PREPARING FOOD IN CLASS!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M2",
+      "box_ids": [
+        "PG3:T5",
+        "PG3:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I MEAN, I LOVE SUSHI, AND I LIKE GRILLED FISH,",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T7",
+      "box_ids": [
+        "PG3:T7"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "COOKING PRACTL AISHFLLET",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M3",
+      "box_ids": [
+        "PG3:T8",
+        "PG3:T9"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BUT WE'RE FILLETING THEM... AND YOU NEED RAW FISH TO DO THAT.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T10",
+      "box_ids": [
+        "PG3:T10"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WHICH MEANS YOU HAVE TO TOUCH THE FISH!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M4",
+      "box_ids": [
+        "PG3:T11",
+        "PG3:T12"
+      ],
+      "speaker": "NARRATION",
+      "speaker_status": "narrator",
+      "text_role": "NARRATED",
+      "text": "SHIROGANE WAS THE KIND OF MAN WHO COULD NOT TOUCH FISH!!",
+      "needs_review": false
+    }
+  ]
+]

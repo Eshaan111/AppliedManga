@@ -1,0 +1,377 @@
+{
+  "sequence_id": "seq_b136f32c2233b97c",
+  "page_index": 1,
+  "raw_count": 22,
+  "target_count": 3,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5"
+      ],
+      "text": "IF THAT HAPPENS, I'M WORRIED ABOUT WHAT'LL HAPPEN TO YOU.",
+      "box": [
+        299.0,
+        36.0,
+        456.0,
+        190.0
+      ],
+      "id": "g0",
+      "score": 0.9990879694620768,
+      "target_index": 0,
+      "target_text": "IF THAT HAPPENS, I'M WORRIED ABOUT WHAT'LL HAPPEN TO YOU.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c6"
+      ],
+      "text": "MANGA",
+      "box": [
+        794.0,
+        355.0,
+        863.0,
+        394.0
+      ],
+      "id": "g1",
+      "score": 0.9993779063224792,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c7",
+        "c8"
+      ],
+      "text": "STREAM DO NOT MIRROR",
+      "box": [
+        795.0,
+        366.0,
+        887.0,
+        416.0
+      ],
+      "id": "g2",
+      "score": 0.9563858509063721,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c9",
+        "c10",
+        "c12",
+        "c14",
+        "c16"
+      ],
+      "text": "OR MAYBE GET TAKEN OUIT BY ANOTHER DEVIL HUNTER.",
+      "box": [
+        531.0,
+        712.0,
+        674.0,
+        827.0
+      ],
+      "id": "g3",
+      "score": 0.9880144476890564,
+      "target_index": 1,
+      "target_text": "YOU MIGHT STARVE TO DEATH, OR MAYBE GET TAKEN OUT BY ANOTHER DEVIL HUNTER.",
+      "similarity": 0.7755102040816326
+    },
+    {
+      "candidate_ids": [
+        "c11",
+        "c13",
+        "c15"
+      ],
+      "text": "YOLUI MIGHT STARVE TO DEATH,",
+      "box": [
+        685.0,
+        729.0,
+        794.0,
+        801.0
+      ],
+      "id": "g4",
+      "score": 0.9726751844088236,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c17",
+        "c18",
+        "c19",
+        "c20",
+        "c21"
+      ],
+      "text": "I HEARD THERE ARE DEVILS WHO CAN TAKE OVER DEAD PEOPLE'S BODIES.",
+      "box": [
+        142.0,
+        1014.0,
+        418.0,
+        1177.0
+      ],
+      "id": "g5",
+      "score": 0.996280038356781,
+      "target_index": 2,
+      "target_text": "I HEARD THERE ARE DEVILS WHO CAN TAKE OVER DEAD PEOPLE'S BODIES.",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "IF THAT",
+      "score": 0.9995629191398621,
+      "box": [
+        333.0,
+        36.0,
+        426.0,
+        64.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "HAPPENS,",
+      "score": 0.999771773815155,
+      "box": [
+        324.0,
+        61.0,
+        432.0,
+        89.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "I'M WORRIED",
+      "score": 0.9996282458305359,
+      "box": [
+        304.0,
+        89.0,
+        451.0,
+        113.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "ABOUT WHAT'LL",
+      "score": 0.9990174174308777,
+      "box": [
+        299.0,
+        115.0,
+        456.0,
+        139.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "HAPPEN TO",
+      "score": 0.9998281002044678,
+      "box": [
+        318.0,
+        140.0,
+        439.0,
+        164.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "YOU.",
+      "score": 0.9967193603515625,
+      "box": [
+        350.0,
+        163.0,
+        406.0,
+        190.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "MANGA",
+      "score": 0.9993779063224792,
+      "box": [
+        794.0,
+        355.0,
+        863.0,
+        394.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "STREAM",
+      "score": 0.9996300339698792,
+      "box": [
+        795.0,
+        366.0,
+        887.0,
+        409.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "DO NOT MIRROR",
+      "score": 0.913141667842865,
+      "box": [
+        801.0,
+        385.0,
+        870.0,
+        416.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "OR",
+      "score": 0.9999706149101257,
+      "box": [
+        586.0,
+        712.0,
+        622.0,
+        737.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "MAYBE GET",
+      "score": 0.9997570514678955,
+      "box": [
+        547.0,
+        734.0,
+        659.0,
+        758.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "YOLUI MIGHT",
+      "score": 0.9181140661239624,
+      "box": [
+        685.0,
+        729.0,
+        794.0,
+        753.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "TAKEN OUIT BY",
+      "score": 0.9408483505249023,
+      "box": [
+        534.0,
+        760.0,
+        672.0,
+        781.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "STARVE TO",
+      "score": 0.999950647354126,
+      "box": [
+        685.0,
+        753.0,
+        794.0,
+        777.0
+      ]
+    },
+    {
+      "id": "c14",
+      "text": "ANOTHER DEVIL",
+      "score": 0.9997960329055786,
+      "box": [
+        531.0,
+        784.0,
+        674.0,
+        805.0
+      ]
+    },
+    {
+      "id": "c15",
+      "text": "DEATH,",
+      "score": 0.9999608397483826,
+      "box": [
+        704.0,
+        776.0,
+        773.0,
+        801.0
+      ]
+    },
+    {
+      "id": "c16",
+      "text": "HUNTER.",
+      "score": 0.9997001886367798,
+      "box": [
+        561.0,
+        807.0,
+        644.0,
+        827.0
+      ]
+    },
+    {
+      "id": "c17",
+      "text": "I HEARD",
+      "score": 0.9994034767150879,
+      "box": [
+        216.0,
+        1014.0,
+        341.0,
+        1049.0
+      ]
+    },
+    {
+      "id": "c18",
+      "text": "THERE ARE DEVILS",
+      "score": 0.9999563097953796,
+      "box": [
+        145.0,
+        1047.0,
+        413.0,
+        1079.0
+      ]
+    },
+    {
+      "id": "c19",
+      "text": "WHO CAN TAKE OVER",
+      "score": 0.9823064208030701,
+      "box": [
+        142.0,
+        1082.0,
+        418.0,
+        1112.0
+      ]
+    },
+    {
+      "id": "c20",
+      "text": "DEAD PEOPLE'S",
+      "score": 0.9997555017471313,
+      "box": [
+        173.0,
+        1114.0,
+        385.0,
+        1144.0
+      ]
+    },
+    {
+      "id": "c21",
+      "text": "BODIES.",
+      "score": 0.9999784827232361,
+      "box": [
+        220.0,
+        1145.0,
+        338.0,
+        1177.0
+      ]
+    }
+  ],
+  "transcript": "IF THAT HAPPENS, I'M WORRIED ABOUT WHAT'LL HAPPEN TO YOU.\nMANGA\nSTREAM DO NOT MIRROR\nOR MAYBE GET TAKEN OUIT BY ANOTHER DEVIL HUNTER.\nYOLUI MIGHT STARVE TO DEATH,\nI HEARD THERE ARE DEVILS WHO CAN TAKE OVER DEAD PEOPLE'S BODIES.",
+  "sample_index": 7,
+  "preview_file": "sample_7_page_1.html"
+}

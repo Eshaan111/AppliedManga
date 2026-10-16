@@ -1,0 +1,110 @@
+{
+  "sequence_id": "seq_c4448514b6de1ab9",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "SPX: Chi-Chi (hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "SPX: CHILCH! (hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "........."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Hey there, apothecary."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Today is our lady's wedding day."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "You can't sell your wares."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Hey."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "SFX: Click!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "........"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "A4-HA..."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "The following"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "The new"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "PSFX: Ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

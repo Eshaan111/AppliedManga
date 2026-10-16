@@ -1,0 +1,8 @@
+{
+  "magi_model": "C:/MODELS/magiv2",
+  "gemma_model": "C:/MODELS/gemma-3-4b-it",
+  "bubble_model": "C:/MODELS/manga_bubbles/bubbles_detect.pt",
+  "character_checkpoint": "C:/Users/ESHAAN/BYTE/Applied-Task/Magi/FINETUNING-EXPERMENTS/fineTuningMagiCharSimHeads2/magi_crop_last_2_blocks.pt",
+  "paddle_detector": "C:/Users/ESHAAN/.paddlex/official_models/PP-OCRv5_server_det",
+  "paddle_recognizer": "C:/Users/ESHAAN/.paddlex/official_models/en_PP-OCRv5_mobile_rec"
+}

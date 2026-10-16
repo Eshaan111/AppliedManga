@@ -1,0 +1,101 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "IF IT'S HIM YOU'RE WORRIED ABOUT, VE TOOK CARE OF THAT LAST NIGHT. WE I'D ALSO APPRECIATE IT IF YOU COULD BE A BIT MORE CAUTIOUS IN THE FUTURE.",
+    "cleaned_text": "IF IT\u2019S HIM YOU\u2019RE WORRIED ABOUT, WE TOOK CARE OF THAT LAST NIGHT. WE\u2019D ALSO APPRECIATE IT IF YOU COULD BE A BIT MORE CAUTIOUS IN THE FUTURE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "IT.",
+    "cleaned_text": "IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "...IT'S GONE.",
+    "cleaned_text": "...IT\u2019S GONE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "WHAT IS GONE?",
+    "cleaned_text": "WHAT IS GONE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "TH-THE AMOUNTS DON'T ADD UP. IT'S JUST A TINY BIT SHORT... BUT...",
+    "cleaned_text": "TH-THE AMOUNTS DON'T ADD UP. IT'S JUST A TINY BIT SHORT... BUT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "YOU'RE POSITIVE?",
+    "cleaned_text": "YOU\u2019RE POSITIVE?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "\"here... in my hand..",
+    "cleaned_text": "\u201chere... in my hand..",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "HOLLOW.",
+    "cleaned_text": "HOLLOW.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "?",
+    "cleaned_text": "?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "\"forty-two westwood, Los Angeles..",
+    "cleaned_text": "\"forty-two Westwood, Los Angeles...\"",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

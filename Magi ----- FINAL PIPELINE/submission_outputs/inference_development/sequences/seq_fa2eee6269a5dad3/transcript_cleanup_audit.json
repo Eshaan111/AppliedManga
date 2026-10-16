@@ -1,0 +1,191 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "ahh...",
+    "cleaned_text": "ahh...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "HEY...",
+    "cleaned_text": "HEY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "h-h-help me...",
+    "cleaned_text": "h-h-help me...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "-",
+    "cleaned_text": "-",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "ARE YOU...",
+    "cleaned_text": "ARE YOU...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "NO. YOU'RE DEFINITELY NOT ALL RIGHT.",
+    "cleaned_text": "NO. YOU'RE DEFINITELY NOT ALL RIGHT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "here... in my hand.",
+    "cleaned_text": "here... in my hand.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "WHAT...",
+    "cleaned_text": "WHAT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "forty-two westwood, Los Angeles..",
+    "cleaned_text": "forty-two Westwood, Los Angeles..",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character6",
+    "raw_text": "go see... banana fish...",
+    "cleaned_text": "go see... banana fish...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "!",
+    "cleaned_text": "!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "WHAT DID YOU SAY?!",
+    "cleaned_text": "WHAT DID YOU SAY?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "LITTLE STAR",
+    "cleaned_text": "LITTLE STAR",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "HOW DO YOU KNOW... WHO ARE YOU?!",
+    "cleaned_text": "HOW DO YOU KNOW... WHO ARE YOU?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "HEY!",
+    "cleaned_text": "HEY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "--RAN THIS WAY!",
+    "cleaned_text": "--RAN THIS WAY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "HERE!",
+    "cleaned_text": "HERE!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "!",
+    "cleaned_text": "!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character7",
+    "raw_text": "..UH.",
+    "cleaned_text": "..UH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "NARRATION",
+    "raw_text": "LITTLE STAR",
+    "cleaned_text": "LITTLE STAR",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

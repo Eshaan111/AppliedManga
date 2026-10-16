@@ -1,0 +1,86 @@
+[
+  [
+    {
+      "gemma_label": "Artifact",
+      "artifact_label": "Artifact",
+      "gemma_raw_answer": "Artifact",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.7450980392156863,
+      "delete_ocr": true,
+      "deletion_reason": "Gemma classification",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Artifact",
+      "artifact_label": "Artifact",
+      "gemma_raw_answer": "Artifact",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.05263157894736842,
+      "delete_ocr": true,
+      "deletion_reason": "Gemma classification",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Text",
+      "gemma_raw_answer": "Text",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 1.0,
+      "delete_ocr": false,
+      "deletion_reason": "",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    }
+  ],
+  [
+    {
+      "gemma_label": "Artifact",
+      "artifact_label": "Artifact",
+      "gemma_raw_answer": "Artifact",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": null,
+      "delete_ocr": true,
+      "deletion_reason": "Gemma classification",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    },
+    {
+      "gemma_label": "Artifact",
+      "artifact_label": "Artifact",
+      "gemma_raw_answer": "Artifact",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.7083333333333334,
+      "delete_ocr": true,
+      "deletion_reason": "Gemma classification",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    }
+  ],
+  [
+    {
+      "gemma_label": "Text",
+      "artifact_label": "Artifact",
+      "gemma_raw_answer": "",
+      "artifact_reason": "Magi punctuation fallback: Paddle OCR empty",
+      "ocr_agreement": null,
+      "delete_ocr": true,
+      "deletion_reason": "Empty Paddle + Magi punctuation has no qualifying bubble mask",
+      "punctuation_bubble_checked": true,
+      "punctuation_bubble_found": false,
+      "punctuation_candidate_id": null
+    },
+    {
+      "gemma_label": "Artifact",
+      "artifact_label": "Artifact",
+      "gemma_raw_answer": "Artifact",
+      "artifact_reason": "Gemma classification",
+      "ocr_agreement": 0.5217391304347826,
+      "delete_ocr": true,
+      "deletion_reason": "Gemma classification",
+      "punctuation_bubble_checked": false,
+      "punctuation_bubble_found": null
+    }
+  ]
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character7",
+    "raw_text": "WE'LL BE FILLETING AND GRILLING FISH.",
+    "cleaned_text": "WE\u2019LL BE FILLETING AND GRILLING FISH.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "UM... OUR NEXT CLASS WILL BE COOKING PRACTICE.",
+    "cleaned_text": "UM... OUR NEXT CLASS WILL BE COOKING PRACTICE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character7",
+    "raw_text": "ThE FIsh WIll BE PREPARED HERE, SO MAKE SURE TO BRING YOUR APRONS.",
+    "cleaned_text": "THE FISH WILL BE PREPARED HERE, SO MAKE SURE TO BRING YOUR APRONS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "COOKING PRACTICE...",
+    "cleaned_text": "COOKING PRACTICE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "Home Economics",
+    "cleaned_text": "Home Economics",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "I HOPE I DO WELL.",
+    "cleaned_text": "I HOPE I DO WELL.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character4",
+    "raw_text": "WELL, YOU SHOULD BE FINE, PRESIDENT. YOU'RE GOOD AT COOKING, RIGHT?",
+    "cleaned_text": "WELL, YOU SHOULD BE FINE, PRESIDENT. YOU'RE GOOD AT COOKING, RIGHT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "FILLETING FISH SHOULD BE NOTHING...",
+    "cleaned_text": "FILLETING FISH SHOULD BE NOTHING...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character10",
+    "raw_text": "WHAT'S WRONG, PRESI- DENT!? WHY AKE YOU HYPERVENTI- LATING!?",
+    "cleaned_text": "WHAT\u2019S WRONG, PRESIDENT!? WHY ARE YOU HYPERVENTILATING!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character9",
+    "raw_text": "ICANT... MIYUKISHIROGANE Wants to PrePARe",
+    "cleaned_text": "ICANT... MIYUKISHIROGANE Wants to PREPARE",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "I kNOW I'M GOOD AT COOKING.....",
+    "cleaned_text": "I KNOW I\u2019M GOOD AT COOKING.....",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "BUT NOT THIS!",
+    "cleaned_text": "BUT NOT THIS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character9",
+    "raw_text": "ANYTHING BUT FISH!!",
+    "cleaned_text": "ANYTHING BUT FISH!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character9",
+    "raw_text": "HUuH!?",
+    "cleaned_text": "HUH!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "COOKING PRACTICE!!",
+    "cleaned_text": "COOKING PRACTICE!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "WHILE SHUCHI'IN ACADEMY PLACED A HEAVY EMPHASIS ON ACADEMICS, IT OFFERED LESSONS IN HOME ECONOMICS AS WELL!",
+    "cleaned_text": "WHILE SUCHI\u2019IN ACADEMY PLACED A HEAVY EMPHASIS ON ACADEMICS, IT OFFERED LESSONS IN HOME ECONOMICS AS WELL!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "IN ORDER TO TEACH STUDENTS WHO LIVED ON TAKEOUT",
+    "cleaned_text": "IN ORDER TO TEACH STUDENTS WHO LIVED ON TAKEOUT",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "THE BASICS OF COOKING AND NUTRITION, THE HOME ECONOMICS PROFESSORS HAD THE AUTHORITY TO HAVE THEM PRACTICE PREPARING FOOD IN CLASS!",
+    "cleaned_text": "THE BASICS OF COOKING AND NUTRITION, THE HOME ECONOMICS PROFESSORS HAD THE AUTHORITY TO HAVE THEM PRACTICE PREPARING FOOD IN CLASS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "I MEAN, I LOVE SUSHI, AND I LIKE GRILLED FISH,",
+    "cleaned_text": "I MEAN, I LOVE SUSHI, AND I LIKE GRILLED FISH,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "COOKING PRACTL AISHFLLET",
+    "cleaned_text": "COOKING PRACTICE AISHFLETT",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "BUT WE'RE FILLETING THEM... AND YOU NEED RAW FISH TO DO THAT.",
+    "cleaned_text": "BUT WE\u2019RE FILLETING THEM... AND YOU NEED RAW FISH TO DO THAT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "WHICH MEANS YOU HAVE TO TOUCH THE FISH!",
+    "cleaned_text": "WHICH MEANS YOU HAVE TO TOUCH THE FISH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "SHIROGANE WAS THE KIND OF MAN WHO COULD NOT TOUCH FISH!!",
+    "cleaned_text": "SHIROGANE WAS THE KIND OF MAN WHO COULD NOT TOUCH FISH!!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

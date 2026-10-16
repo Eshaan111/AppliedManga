@@ -1,0 +1,209 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "SUGISAWA HOSPITAL",
+    "cleaned_text": "SUGISAWA HOSPITAL",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "HOW IS IGUCHI DOING?",
+    "cleaned_text": "HOW IS IGUCHI DOING?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "THE DOCTORS SAY HE'S FINE, BUT ... HE'S STILL UNCON- sCIOUS.",
+    "cleaned_text": "THE DOCTORS SAY HE\u2019S FINE, BUT\u2026 HE\u2019S STILL UNCONSCIOUS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "IT'S ALL MY FAULT.",
+    "cleaned_text": "IT\u2019S ALL MY FAULT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "IT'S BECAUSE I TOLD HIM TO COME TO SCHOOL THAT NIGHT...",
+    "cleaned_text": "IT\u2019S BECAUSE I TOLD HIM TO COME TO SCHOOL THAT NIGHT...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "YOU PROBABLY WON'T BELIEVE ME.",
+    "cleaned_text": "YOU PROBABLY WON'T BELIEVE ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "...BUT WE WERE ATTACKED BY A STRANGE MONSTER.. ...AND I WAS CAPTURED TOO.",
+    "cleaned_text": "...BUT WE WERE ATTACKED BY A STRANGE MONSTER... ...AND I WAS CAPTURED TOO.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "I BELIEVE YOU.",
+    "cleaned_text": "I BELIEVE YOU.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "THOSE WEREN'T MONSTERS. THEY WERE CURSES.",
+    "cleaned_text": "THOSE WEREN'T MONSTERS. THEY WERE CURSES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "THAT FINGERIS SOMETHING CALLED A SPECIAL- GRADE CURSED OBJECT. IT WAS ABLE TO GATHER CURSES AND MAKE ITSELF STRONGER.",
+    "cleaned_text": "THAT FINGER IS SOMETHING CALLED A SPECIAL-GRADE CURSED OBJECT. IT WAS ABLE TO GATHER CURSES AND MAKE ITSELF STRONGER.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "ITA- DORI?",
+    "cleaned_text": "ITA- DORI?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "SO IT'S NOT YOUR FAULT. I'M THE ONE WHO PICKED IT UP IN THE FIRST PLACE.",
+    "cleaned_text": "SO IT\u2019S NOT YOUR FAULT. I\u2019M THE ONE WHO PICKED IT UP IN THE FIRST PLACE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "I'M SORRY, BUT DON'T WORRY.",
+    "cleaned_text": "I'M SORRY, BUT DON'T WORRY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "THERE'S SOMEONE COMING TOMORROW WHO CAN HELP IGUCHI.",
+    "cleaned_text": "THERE'S SOMEONE COMING TOMORROW WHO CAN HELP IGUCHI.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "I'M SORRY SASAKI.",
+    "cleaned_text": "I'M SORRY SASAKI.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "THERE'S SOMEWHERE I NEED TO GO.",
+    "cleaned_text": "THERE'S SOMEWHERE I NEED TO GO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "I'LL SEE YA LATER.",
+    "cleaned_text": "I'LL SEE YA LATER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "WHO PASSED AWAY?",
+    "cleaned_text": "WHO PASSED AWAY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "MY GRANDPA. BUT I GUESS HE'S MORE LIKE A DAD.",
+    "cleaned_text": "MY GRANDPA. BUT I GUESS HE'S MORE LIKE A DAD.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "I SEE. SORRY TO BOTHER YOU AT A TIME LIKE THIS.",
+    "cleaned_text": "I SEE. SORRY TO BOTHER YOU AT A TIME LIKE THIS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character6",
+    "raw_text": "SO, HAVE YOU MADE A DECISION?",
+    "cleaned_text": "SO, HAVE YOU MADE A DECISION?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": ".",
+    "cleaned_text": ".",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "ARE THERE A LOT OF CASUALTIES WITH CURSES LIKE THIS?",
+    "cleaned_text": "ARE THERE A LOT OF CASUALTIES WITH CURSES LIKE THIS?",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

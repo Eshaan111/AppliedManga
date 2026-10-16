@@ -1,0 +1,188 @@
+{
+  "sequence_id": "seq_f9043534f1171d4e",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "HOOO"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Guh ..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Think"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Wham"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Thud"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "-My : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "URCH:"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Dammit, I can't think straight."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Who"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "I"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "What raw strength!"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "You okay?!"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "I thought I told you to run."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Forget it!"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "I'd be having night- mares if I left now!"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Besides ..."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "help people."
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "I'VE ACTUALLY ..."
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "...Got quite the curse myself."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "I have a"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "TP"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "!?"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "It doesn't matter how strong you are..."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL7",
+      "page": 2
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T9",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG2:T10",
+      "tail_id": "PG2:TAIL7"
+    }
+  ]
+}

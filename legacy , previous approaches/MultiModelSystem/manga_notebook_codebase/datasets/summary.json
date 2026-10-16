@@ -1,0 +1,8 @@
+{
+  "train": 64,
+  "val": 16,
+  "test": 15,
+  "image_count": 285,
+  "seed": 42,
+  "labels_sha256": "b27eda235e856f396ab9c1860a3059256cb833bbe6bd831a8ef819f78339c29a"
+}

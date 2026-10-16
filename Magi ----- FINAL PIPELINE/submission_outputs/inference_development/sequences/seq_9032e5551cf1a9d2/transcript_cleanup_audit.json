@@ -1,0 +1,263 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "Gehe hehe hehe",
+    "cleaned_text": "Gehe hehe hehe",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "Uhebehe bebebe",
+    "cleaned_text": "Uhebehe bebebe",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "OH, HACHIKEN- KUN. YOU FINISHED WITH CLUB ALREADY?",
+    "cleaned_text": "OH, HACHIKEN- KUN. YOU FINISHED WITH CLUB ALREADY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "WHAT ARE YOU GUYS DOING!?",
+    "cleaned_text": "WHAT ARE YOU GUYS DOING!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "WE'RE CLEANING UP THE COWS AND GETTING THEM READY FOR THE COMPETITION.",
+    "cleaned_text": "WE'RE CLEANING UP THE COWS AND GETTING THEM READY FOR THE COMPETITION.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "COM- PETI- TION?",
+    "cleaned_text": "COM- PETITION?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character5",
+    "raw_text": "IT'S LIKE A COW BEAUITY CONTEST. HERE, LOOK AT THIS.",
+    "cleaned_text": "IT\u2019S LIKE A COW BEAUTY CONTEST. HERE, LOOK AT THIS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "OH, THIS IS THAT EROTIC COW BOOK.",
+    "cleaned_text": "OH, THIS IS THAT EROTIC COW BOOK.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "ERO- TIC?",
+    "cleaned_text": "ERO- TIC?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "HMM... YOUR COW'S BACK LOOKS A BIT ROUNDED, DON'T YOU THINK?",
+    "cleaned_text": "HMM... YOUR COW'S BACK LOOKS A BIT ROUNDED, DON'T YOU THINK?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "OH, HOLD ON JUST A SECOND.",
+    "cleaned_text": "OH, HOLD ON JUST A SECOND.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character14",
+    "raw_text": "THERE ARE A LOT OF DIFFERENT TECHNIQUIES TO SHOW THEM OFF THE BEST WAY POSSIBLE.",
+    "cleaned_text": "THERE ARE A LOT OF DIFFERENT TECHNIQUES TO SHOW THEM OFF THE BEST WAY POSSIBLE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "UNKNOWN",
+    "raw_text": "FOR EXAMPLE, IF YOU MAKE THEM STAND ON SLIGHTLY HIGHER GROUND WITH THEIR FRONT LEGS LIKE THIS.. SEE? NOW HER BACK LOOKS STRAIGHT, DOESN'T IT?",
+    "cleaned_text": "FOR EXAMPLE, IF YOU MAKE THEM STAND ON SLIGHTLY HIGHER GROUND WITH THEIR FRONT LEGS LIKE THIS\u2026 SEE? NOW HER BACK LOOKS STRAIGHT, DOESN\u2019T IT?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "UNKNOWN",
+    "raw_text": "WOW! YOU'RE RIGHT!",
+    "cleaned_text": "WOW! YOU\u2019RE RIGHT!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "CUTTING THE HAIR ON THEIR BACK JUST RIGHT HELPS MAKE IT LOOK STRAIGHT AS WELL.",
+    "cleaned_text": "CUTTING THE HAIR ON THEIR BACK JUST RIGHT HELPS MAKE IT LOOK STRAIGHT AS WELL.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "IN THE SPOTS WHERE THEIR BACK CURVES IN, YOU LEAVE THE HAIR LONGER, AND WHERE THEIR BACK STICKS OUIT MORE, YOU CUT THE HAIR SHORTER.",
+    "cleaned_text": "IN THE SPOTS WHERE THEIR BACK CURVES IN, YOU LEAVE THE HAIR LONGER, AND WHERE THEIR BACK STICKS OUT MORE, YOU CUT THE HAIR SHORTER.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "OH, I SEE.",
+    "cleaned_text": "OH, I SEE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "straight",
+    "cleaned_text": "straight",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "hair",
+    "cleaned_text": "hair",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "so YOU'RE JUST MAKING THEM LOOK BETTER THAN THEY REALLY ARE.",
+    "cleaned_text": "SO YOU\u2019RE JUST MAKING THEM LOOK BETTER THAN THEY REALLY ARE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "Huh...",
+    "cleaned_text": "Huh...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character5",
+    "raw_text": "CALL IT COMMITMENT TO SHOWING HOW BEAUTI- FUL THEY CAN TRULY BE!! ITS NO DIFFERENT THAN PUTTING ON MAKEUP!!",
+    "cleaned_text": "CALL IT COMMITMENT TO SHOWING HOW BEAUTIFUL THEY CAN TRULY BE!! ITS NO DIFFERENT THAN PUTTING ON MAKEUP!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "I'M SORRY II",
+    "cleaned_text": "I'M SORRY II",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "so BEA UTI FUL !!",
+    "cleaned_text": "SO BEAU UTIFUL!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character15",
+    "raw_text": "YOU'RE THE BEST!!",
+    "cleaned_text": "YOU\u2019RE THE BEST!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character5",
+    "raw_text": "THERE ARE ALWAYS A LOT OF COWS AT THESE COMPETITIONS, SO YOU HAVE TO DO WHATEVER YOU CAN TO MAKE THEM LOOK BETTER.",
+    "cleaned_text": "THERE ARE ALWAYS A LOT OF COWS AT THESE COMPETITIONS, SO YOU HAVE TO DO WHATEVER YOU CAN TO MAKE THEM LOOK BETTER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "NARRATION",
+    "raw_text": "WE'LL NEVER LET ANY OTHER EVER MAN LAY HIS FILTHY HANDS ON YOU!",
+    "cleaned_text": "WE\u2019LL NEVER LET ANY OTHER EVER MAN LAY HIS FILTHY HANDS ON YOU!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 12,
+    "speaker": "character5",
+    "raw_text": "BUT EVEN SO JUST PUTTING ON AIRS LIKE THAT DOESN'T FOOL THE JUDGES.",
+    "cleaned_text": "BUT EVEN SO JUST PUTTING ON AIRS LIKE THAT DOESN'T FOOL THE JUDGES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 13,
+    "speaker": "character3",
+    "raw_text": "I SEE \u2022\u2022\u2022",
+    "cleaned_text": "I SEE \u2022\u2022\u2022",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "WELL, THIS IS A PRETTY UNUSUAL CIRCUM- STANCE...",
+    "cleaned_text": "WELL, THIS IS A PRETTY UNUSUAL CIRCUMSTANCE...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "...BUT IF YOU'RE TALKING ABOUT POTENTIAL DAMAGE, YES.",
+    "cleaned_text": "...BUT IF YOU'RE TALKING ABOUT POTENTIAL DAMAGE, YES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "YOU'RE LUCKY IF YOU CAN DIE A NORMAL DEATH AFTER RUNNING INTO A CURSE.",
+    "cleaned_text": "YOU\u2019RE LUCKY IF YOU CAN DIE A NORMAL DEATH AFTER RUNNING INTO A CURSE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "EVEN IF THEY FIND YOUR BODY ALL TORN APART, THAT STILL MIGHT BE CONSIDERED ALL RIGHT.",
+    "cleaned_text": "EVEN IF THEY FIND YOUR BODY ALL TORN APART, THAT STILL MIGHT BE CONSIDERED ALL RIGHT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "IF YOU WERE TO START INVESTIGATING THE REMAINS OF SUKUNA, YOU'D PROBABLY WITNESS SOME GRUESOME SCENES.",
+    "cleaned_text": "IF YOU WERE TO START INVESTIGATING THE REMAINS OF SUKUNA, YOU\u2019D PROBABLY WITNESS SOME GRUESOME SCENES.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "I CAN'T GUARANTEE THAT YOU WON'T BE A VICTIM ONE DAY.",
+    "cleaned_text": "I CAN'T GUARANTEE THAT YOU WON'T BE A VICTIM ONE DAY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "ANY- WAY...",
+    "cleaned_text": "ANY- WAY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "PICK YOUR HELL.",
+    "cleaned_text": "PICK YOUR HELL.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "YOU'RE A STRONG KID, SO HELP PEOPLE.",
+    "cleaned_text": "YOU\u2019RE A STRONG KID, SO HELP PEOPLE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "IF SUKUNA IS COMPLETELY ELIMINATED",
+    "cleaned_text": "IF SUKUNA IS COMPLETELY ELIMINATED",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "UNKNOWN",
+    "raw_text": "...WIIL THERE BE FEWER PEOPLE KILLED BY CURSES?",
+    "cleaned_text": "...WILL THERE BE FEWER PEOPLE KILLED BY CURSES?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "OF COURSE.",
+    "cleaned_text": "OF COURSE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character7",
+    "raw_text": "DO YOU STILL HAVE THAT FINGER?",
+    "cleaned_text": "DO YOU STILL HAVE THAT FINGER?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character6",
+    "raw_text": "YEAH.",
+    "cleaned_text": "YEAH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "NOW THAT I LOOK AT IT AGAIN, IT'S PRETTY DISGUSTING.",
+    "cleaned_text": "NOW THAT I LOOK AT IT AGAIN, IT\u2019S PRETTY DISGUSTING.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "CHOMP",
+    "cleaned_text": "CHOMP",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "GULP",
+    "cleaned_text": "GULP",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "THATS NUMBER:TWO. ONE-TENTH OFITHE WAY THERE, HUH?",
+    "cleaned_text": "THAT\u2019S NUMBER: TWO. ONE-TENTH OF IT THE WAY THERE, HUH?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "WHAT'S GONNA HAPPEN?",
+    "cleaned_text": "WHAT'S GONNA HAPPEN?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "HEH",
+    "cleaned_text": "HEH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character8",
+    "raw_text": "HEH HEH \"..",
+    "cleaned_text": "HEH HEH...",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

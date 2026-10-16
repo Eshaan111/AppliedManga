@@ -1,0 +1,60 @@
+# Core numerical / ML
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+pyyaml
+
+# PyTorch stack
+# Install torch/torchvision separately using the command matching your CUDA version:
+# https://pytorch.org/get-started/locally/
+torch
+torchvision
+
+# Hugging Face / VLM
+transformers
+accelerate
+datasets
+tokenizers
+safetensors
+sentencepiece
+huggingface_hub
+
+# Fine-tuning / PEFT
+peft
+trl
+bitsandbytes
+
+# Image / CV
+pillow
+opencv-python
+scikit-image
+
+# OCR options
+paddleocr
+easyocr
+pytesseract
+
+# Detection / embeddings / utilities
+ultralytics
+timm
+
+# Structured data / validation
+pydantic
+jsonschema
+
+# Experimentation
+tensorboard
+mlflow
+
+# Notebook / dev
+jupyter
+ipykernel
+nbformat
+rich
+
+# Optional but useful
+einops
+rapidfuzz
+networkx

@@ -1,0 +1,325 @@
+{
+  "sequence_id": "seq_98d98dac2a89a339",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "I'm trying my best to not just cause problems..."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "For sense!, but..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "How about your \"friends\"?"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "It seems none of the others except the \"Squad leader\" have come to have their blood drawn?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "...the same as usual."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Everyone is going at their own pace."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "I'll tell everyone."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Tell sasaki-kun properly too."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "Okay."
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "The squad leader and Shirazu-kun are both on independent investigations, aren't they...?"
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "I wonder if saiko-chan... oversleept again..."
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "Even though sensei told everyone to cooperate..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "WELL, BUT, EVEN IF I TELL THEM THEY WON'T LISTEN TO ME ANYHOW..."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Ouch!"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "AH..."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "!!"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "I'm sorry ..."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "...a guy from the \"Newly established unit\"?"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "...Looks so weak."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Those guys are our, the Hirako Squad's, rivals?"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "I don't want them looking down on us."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Now, now, I told you \"please get along\", since they are our com- rades."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "But,"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "THEY ARE A SCARY SQUAD IN \"SEVERAL WAYS\"..."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Well,"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "I don't know what the higher ups are thinking."
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "So, how about it?"
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "What about that \"newly established unit\"?"
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "“The problem is that we are not going to be able to"
+    },
+    {
+      "id": "PG3:T12",
+      "page": 3,
+      "text": "Nah."
+    },
+    {
+      "id": "PG3:T13",
+      "page": 3,
+      "text": "Considering all the fanfare when it was established,"
+    },
+    {
+      "id": "PG3:T14",
+      "page": 3,
+      "text": "It seems like it isn't going to produce any results at all."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL8",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL5",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL6",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL8"
+    },
+    {
+      "text_id": "PG1:T11",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T12",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL5"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T8",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T11",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T12",
+      "tail_id": "PG3:TAIL6"
+    }
+  ]
+}

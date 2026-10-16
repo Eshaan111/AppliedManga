@@ -1,0 +1,101 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "LIQUORS",
+    "cleaned_text": "LIQUORS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "RESTAURANT-BAR",
+    "cleaned_text": "RESTAURANT-BAR",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "UNKNOWN",
+    "raw_text": "MARCH 4, 1985. JEROME PARK, THE BRONX, NYC",
+    "cleaned_text": "MARCH 4, 1985. JEROME PARK, THE BRONX, NYC",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "GOD!",
+    "cleaned_text": "GOD!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "OH...",
+    "cleaned_text": "OH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "MA'AM!?",
+    "cleaned_text": "MA'AM!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "JERRY...",
+    "cleaned_text": "JERRY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "C-CALL... CALL AN AMBU... AMBU...",
+    "cleaned_text": "C-CALL... CALL AN AMBU... AMBU...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character15",
+    "raw_text": "WHADDYA THINK, JENKINS?",
+    "cleaned_text": "WHADDYA THINK, JENKINS?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character26",
+    "raw_text": "SUICIDE?",
+    "cleaned_text": "SUICIDE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character26",
+    "raw_text": "...PARDON ME.",
+    "cleaned_text": "...PARDON ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "sequence_id": "seq_dce8be23c3281228",
+  "pages": [
+    [
+      {
+        "speaker": "character1",
+        "text": "...?"
+      },
+      {
+        "speaker": "character1",
+        "text": "HEY, MURPHY. WHAT'RE YOU GONNA DO WHEN YOU GET BACK HOME?"
+      },
+      {
+        "speaker": "character1",
+        "text": "HA, HA, HA! WHAT AM GONNA DO?"
+      },
+      {
+        "speaker": "character1",
+        "text": "...GRIFF...IS SOMETHING WRONG, OR...?"
+      },
+      {
+        "speaker": "character1",
+        "text": "...GRIFF...IS SOMETHING WRONG OR...?"
+      },
+      {
+        "speaker": "NARRATION",
+        "text": "!?"
+      },
+      {
+        "speaker": "NARRATION",
+        "text": "REYAAANAA"
+      }
+    ],
+    [
+      {
+        "speaker": "character8",
+        "text": "SHIT! SHIT!"
+      },
+      {
+        "speaker": "character1",
+        "text": "STAY BACK, MAN! HE'S LOST IT!"
+      },
+      {
+        "speaker": "NARRATION",
+        "text": "DAMNIT!"
+      }
+    ],
+    [
+      {
+        "speaker": "character1",
+        "text": "HNG!"
+      }
+    ]
+  ]
+}

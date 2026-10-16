@@ -1,0 +1,55 @@
+{
+  "sequence_id": "seq_f9248d307dec033f",
+  "pages": [
+    [
+      {
+        "speaker": "character1",
+        "text": "HEY, KAYO!"
+      },
+      {
+        "speaker": "character1",
+        "text": "WHY ARE YOU TAKING SO LONG TO PUT AWAY THE OIL? HURRY UP!"
+      },
+      {
+        "speaker": "character1",
+        "text": "YES, MA'AM..."
+      },
+      {
+        "speaker": "character1",
+        "text": "I\u2019LL GET IT DONE RIGHT AWAY."
+      },
+      {
+        "speaker": "character1",
+        "text": "MY GOODNESS."
+      }
+    ],
+    [
+      {
+        "speaker": "character1",
+        "text": "OH, OOPS. A DELIVERY? I DIDN'T KNOW WE WERE EXPECTING ONE."
+      },
+      {
+        "speaker": "character4",
+        "text": "NO... I AM AN APOTHECARY."
+      },
+      {
+        "speaker": "character4",
+        "text": "OH, WAIT A MINUTE! WE DON'T HAVE TIME FOR THAT SORT OF THING TODAY!"
+      },
+      {
+        "speaker": "character5",
+        "text": "BECAUSE OF THE WEDDING?"
+      }
+    ],
+    [
+      {
+        "speaker": "character18",
+        "text": "YES, YES."
+      },
+      {
+        "speaker": "character18",
+        "text": "LADY MAO IS BEING WED TO LORD SHIONO."
+      }
+    ]
+  ]
+}

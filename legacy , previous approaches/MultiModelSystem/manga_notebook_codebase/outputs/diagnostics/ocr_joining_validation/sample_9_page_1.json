@@ -1,0 +1,205 @@
+{
+  "sequence_id": "seq_96839890d69d7698",
+  "page_index": 1,
+  "raw_count": 9,
+  "target_count": 3,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "text": "DID YOU DO THIS?",
+      "box": [
+        669.0,
+        117.0,
+        804.0,
+        238.0
+      ],
+      "id": "g0",
+      "score": 0.97559654712677,
+      "target_index": 0,
+      "target_text": "DID YOU DO THIS?",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c3"
+      ],
+      "text": "MANGA",
+      "box": [
+        1.0,
+        525.0,
+        81.0,
+        572.0
+      ],
+      "id": "g1",
+      "score": 0.9995131492614746,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c4",
+        "c5"
+      ],
+      "text": "STREAM.com DO NOT MIRRORT",
+      "box": [
+        7.0,
+        539.0,
+        99.0,
+        590.0
+      ],
+      "id": "g2",
+      "score": 0.9501168429851532,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c6"
+      ],
+      "text": "H-...",
+      "box": [
+        624.0,
+        914.0,
+        712.0,
+        972.0
+      ],
+      "id": "g3",
+      "score": 0.9916588664054871,
+      "target_index": 1,
+      "target_text": "H-...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c7",
+        "c8"
+      ],
+      "text": "HOLD ME...",
+      "box": [
+        446.0,
+        1170.0,
+        551.0,
+        1276.0
+      ],
+      "id": "g4",
+      "score": 0.9982554018497467,
+      "target_index": 2,
+      "target_text": "HOLD ME...",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "DID",
+      "score": 0.9999826550483704,
+      "box": [
+        702.0,
+        117.0,
+        774.0,
+        160.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "YOU DO",
+      "score": 0.9268541932106018,
+      "box": [
+        669.0,
+        154.0,
+        804.0,
+        199.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "THIS?",
+      "score": 0.9999527931213379,
+      "box": [
+        682.0,
+        195.0,
+        792.0,
+        238.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "MANGA",
+      "score": 0.9995131492614746,
+      "box": [
+        1.0,
+        525.0,
+        81.0,
+        572.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "STREAM.com",
+      "score": 0.9425943493843079,
+      "box": [
+        7.0,
+        539.0,
+        99.0,
+        584.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "DO NOT MIRRORT",
+      "score": 0.9576393365859985,
+      "box": [
+        13.0,
+        559.0,
+        84.0,
+        590.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "H-...",
+      "score": 0.9916588664054871,
+      "box": [
+        624.0,
+        914.0,
+        712.0,
+        972.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "HOLD",
+      "score": 0.9999634027481079,
+      "box": [
+        446.0,
+        1170.0,
+        551.0,
+        1232.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "ME...",
+      "score": 0.9965474009513855,
+      "box": [
+        446.0,
+        1219.0,
+        544.0,
+        1276.0
+      ]
+    }
+  ],
+  "transcript": "DID YOU DO THIS?\nMANGA\nSTREAM.com DO NOT MIRRORT\nH-...\nHOLD ME...",
+  "sample_index": 9,
+  "preview_file": "sample_9_page_1.html"
+}

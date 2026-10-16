@@ -1,0 +1,166 @@
+[
+  {
+    "id": "PG1:T1",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T2",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T3",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T4",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T5",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T6",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T7",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T8",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T9",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T10",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T11",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T12",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T13",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T14",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG1:T15",
+    "role": "SPOKEN"
+  },
+  {
+    "id": "PG2:T1",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T2",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T3",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T4",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T5",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T6",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T7",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T8",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T9",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T10",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T11",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T12",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T13",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG2:T14",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T1",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T2",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T3",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T4",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T5",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T6",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T7",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T8",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T9",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T10",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T11",
+    "role": "NARRATED"
+  },
+  {
+    "id": "PG3:T12",
+    "role": "NARRATED"
+  }
+]

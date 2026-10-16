@@ -1,0 +1,245 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "SHUCHIIN PRIVATE ACADEMY!!",
+    "cleaned_text": "SHUCHIIN PRIVATE ACADEMY!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "AN INCREDIBLY PRESTIGIOUS ACADEMY, ORIGINALLY ESTABLISHED TO EDUCATE THE CHILDREN OF NOBLES AND SAMURAI!",
+    "cleaned_text": "AN INCREDIBLY PRESTIGIOUS ACADEMY, ORIGINALLY ESTABLISHED TO EDUCATE THE CHILDREN OF NOBLES AND SAMURAI!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "IN MODERN TIMES, NOW THAT THE ARISTOCRACY NO LONGER EXISTS,",
+    "cleaned_text": "IN MODERN TIMES, NOW THAT THE ARISTOCRACY NO LONGER EXISTS,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "ITS STUDENTS ARE THE CHILDREN OF WEALTHY FAMILIES,",
+    "cleaned_text": "ITS STUDENTS ARE THE CHILDREN OF WEALTHY FAMILIES,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "WHO WILL GO ON TO BECOME THE NEW LEADERS OF JAPAN!",
+    "cleaned_text": "WHO WILL GO ON TO BECOME THE NEW LEADERS OF JAPAN!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "CANNOT BY ANYIMEANING OF THE WORD, BEREFERRED TO AS ORDINARY\" PEOPLE!",
+    "cleaned_text": "CANNOT BY ANY MEANS OF THE WORD, BE REFERRED TO AS ORDINARY \u201cPEOPLE!\u201d",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "AND THE ONES WHO LEAD THEM",
+    "cleaned_text": "AND THE ONES WHO LEAD THEM",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "UNKNOWN",
+    "raw_text": "EVERY- ONE, LOOK!!",
+    "cleaned_text": "EVERYONE, LOOK!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character13",
+    "raw_text": "IT'S THE STUDENT COUNCIL!!",
+    "cleaned_text": "IT\u2019S THE STUDENT COUNCIL!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "SHUCHI'IN ACADEMY VICE- PRESIDENT:",
+    "cleaned_text": "SHUCHI\u2019IN ACADEMY VICE-PRESIDENT:",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "KAGUYA SHINOMIYA",
+    "cleaned_text": "KAGUYA SHINOMIYA",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "HER FAMILY'S ASSETS TOTAL TWO HUNDRED TRILLION YEN.",
+    "cleaned_text": "HER FAMILY'S ASSETS TOTAL TWO HUNDRED TRILLION YEN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "TRAINS.",
+    "cleaned_text": "TRAINS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "BANKS.",
+    "cleaned_text": "BANKS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "WITH EASILY OVER ONE THOUSAND CHILD COM- PANIES, THE SHINOMIYA GROUP IS COUNTED AMONG THE BIG FOUR ZAIBATSU.",
+    "cleaned_text": "WITH EASILY OVER ONE THOUSAND CHILD COMPANIES, THE SHINOMIYA GROUP IS COUNTED AMONG THE BIG FOUR ZAIBATSU.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "CARS.",
+    "cleaned_text": "CARS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "AND SHE IS THE DAUGHTER OF GAN'AN SHINOMIYA,",
+    "cleaned_text": "AND SHE IS THE DAUGHTER OF GAN'AN SHINOMIYA,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "THE LEADER OF THE ENTIRE GROUP.",
+    "cleaned_text": "THE LEADER OF THE ENTIRE GROUP.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "AND AS BEFITS ONE WITH SUCH A DISTIN- GUISHED LINEAGE,",
+    "cleaned_text": "AND AS BEFITS ONE WITH SUCH A DISTIN- GUISHED LINEAGE,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "SHE EXCELS IN THEATER, MUSIC, MARTIAL ARTS, AND COUNTLESS OTHER SUBJECTS. A TRUE GENIUS.",
+    "cleaned_text": "SHE EXCELS IN THEATER, MUSIC, MARTIAL ARTS, AND COUNTLESS OTHER SUBJECTS. A TRUE GENIUS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "THAT IS KAGUYA SHINOMIYA.",
+    "cleaned_text": "THAT IS KAGUYA SHINOMIYA.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character12",
+    "raw_text": "AND HE IS THE MAN SHE SUPPORTS.",
+    "cleaned_text": "AND HE IS THE MAN SHE SUPPORTS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "SHUCHIIN ACADEMY PRESIDENT: MIYUKI SHIROGANE",
+    "cleaned_text": "SHUCHIIN ACADEMY PRESIDENT: MIYUKI SHIROGANE",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character18",
+    "raw_text": "A MAN OF UNPARALLELED WISDOM AND INTELLECT.",
+    "cleaned_text": "A MAN OF UNPARALLELED WISDOM AND INTELLECT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "500 Miyuki Shirogan",
+    "cleaned_text": "500 Miyuki Shirogane",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "7 Kaguya Shinor",
+    "cleaned_text": "7 Kaguya Shinor",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character18",
+    "raw_text": "CONSTANTLY TAKING FIRST PLACE IN MOCK EXAMINATIONS! A GENIUS AMONG GENIUSES, THE TOP SCORER IN THE ENTIRE COUNTRY!",
+    "cleaned_text": "CONSTANTLY TAKING FIRST PLACE IN MOCK EXAMINATIONS! A GENIUS AMONG GENIUSES, THE TOP SCORER IN THE ENTIRE COUNTRY!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

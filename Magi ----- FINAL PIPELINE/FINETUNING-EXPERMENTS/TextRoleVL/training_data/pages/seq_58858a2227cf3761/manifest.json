@@ -1,0 +1,262 @@
+{
+  "sequence_id": "seq_58858a2227cf3761",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Where are you headed?"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "to West Park,"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "...."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Soon I'll have exhausted my funds."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "If push comes to shove, should I just ride for free under the pretext of an investigation?"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "....."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "You make candy?"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Huh?"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "I mean, your hobby."
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "Think you very much for this"
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "Shou"
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "Information"
+    },
+    {
+      "id": "PG1:T13",
+      "page": 1,
+      "text": "Making Candy"
+    },
+    {
+      "id": "PG1:T14",
+      "page": 1,
+      "text": "Kobayashi"
+    },
+    {
+      "id": "PG1:T15",
+      "page": 1,
+      "text": "Hobby"
+    },
+    {
+      "id": "PG1:T16",
+      "page": 1,
+      "text": "Oh... yeah, though it's embarrassing."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "I make things like cream puffs in the oven."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "that fluffy and flaky texture, and that whip cream spilling out."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Ohh-?"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Yeah, yeah."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "From the shell?"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Stuffing your mouth with the piping hot ones right out of the oven is supreme bliss."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "Hmm, how nice."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "Today, I made some for lunch too."
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "\"Today\"?"
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "Yeah,"
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "I do whenever I have some free time."
+    },
+    {
+      "id": "PG2:T12",
+      "page": 2,
+      "text": "I'm surprisingly addicted to it. It claims me down somehow."
+    },
+    {
+      "id": "PG2:T13",
+      "page": 2,
+      "text": "How about you, onii-san?"
+    },
+    {
+      "id": "PG2:T14",
+      "page": 2,
+      "text": "Nah, I hate sweet things."
+    },
+    {
+      "id": "PG2:T15",
+      "page": 2,
+      "text": "...U"
+    },
+    {
+      "id": "PG2:T16",
+      "page": 2,
+      "text": "Right now, I have to say that the"
+    },
+    {
+      "id": "PG2:T17",
+      "page": 2,
+      "text": "KU-N."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Okay, this is good."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "I'm not a fan of credit card"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Um... Right here is okay?"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "!?"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T12",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T13",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T17",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

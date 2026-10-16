@@ -1,0 +1,73 @@
+[
+  {
+    "box_id": "PG1:T3",
+    "box_ids": [
+      "PG1:T3"
+    ],
+    "member_text_boxes": [
+      [
+        18.219331741333008,
+        618.91015625,
+        170.32691955566406,
+        767.3060913085938
+      ]
+    ],
+    "text_index": 2,
+    "text": "THE CALM BEFORE THE STORM.",
+    "magi_text": "The calm before the storm...",
+    "paddle_text": "THE CALM BEFORE THE STORM.",
+    "text_box": [
+      18.219331741333008,
+      618.91015625,
+      170.32691955566406,
+      767.3060913085938
+    ],
+    "text_role": "NARRATED",
+    "reason": "no YOLO bubble matched this surviving Magi text",
+    "candidate_id": null,
+    "candidate_ids": [],
+    "grouping_source": "standalone",
+    "needs_review": false,
+    "contour_points": [],
+    "visible_segments": [],
+    "crop_bounds": null,
+    "ocr_agreement": 1.0,
+    "member_ocr_agreement": [
+      1.0
+    ],
+    "detection_pass": "group_background_region",
+    "region_predictions": [],
+    "sequence_id": "seq_b3247b4b3a2f591b",
+    "page_index": 0,
+    "page_file": "01.png",
+    "contour_text_role": "NARRATED",
+    "contour_original_reason": "no YOLO bubble matched this surviving Magi text",
+    "tail_ids": [],
+    "tail_member_box_ids": [],
+    "tail_override": false,
+    "speaker": "NARRATION",
+    "speaker_status": "narrator",
+    "speaker_needs_review": false,
+    "candidate_entity_ids": [
+      "E3"
+    ],
+    "unlinked_member_ids": [],
+    "member_associations": [
+      {
+        "box_id": "PG1:T3",
+        "entity_ids": [
+          "E3"
+        ],
+        "character_links": [
+          {
+            "character_index": 2,
+            "character_id": "PG1:C3",
+            "entity_id": "E3"
+          }
+        ],
+        "association_status": "linked"
+      }
+    ],
+    "ocr_needs_review": false
+  }
+]

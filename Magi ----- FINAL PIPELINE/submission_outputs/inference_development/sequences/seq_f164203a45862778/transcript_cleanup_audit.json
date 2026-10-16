@@ -1,0 +1,281 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "...RIGHT?",
+    "cleaned_text": "...RIGHT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "MHMM...",
+    "cleaned_text": "MHMM...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "OKAY. ITS HARD, BUT I CAN TOUCH THE FISH. BUT...",
+    "cleaned_text": "OKAY. ITS HARD, BUT I CAN TOUCH THE FISH. BUT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "IFI CUT IT, THEN...",
+    "cleaned_text": "IFI CUT IT, THEN...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "IT'LL HAVE BLOD SPRAYING EVERY- WHERE!!",
+    "cleaned_text": "IT\u2019LL HAVE BLOOD SPRAYING EVERYWHERE!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "IT'LL BEE LIKE WAAA HH!",
+    "cleaned_text": "IT\u2019LL BE LIKE WAAA HH!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "BLOOD'S THE ONE THING I CAN'T DEAL WITH!!",
+    "cleaned_text": "BLOOD\u2019S THE ONE THING I CAN\u2019T DEAL WITH!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "HOW MANY ONE THINGS YOU CAN'T DEAL WITH ARE THERE!!?",
+    "cleaned_text": "HOW MANY ONE THINGS YOU CAN'T DEAL WITH ARE THERE!!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "OKAY THEN... I DIDN'T WANT TO HAVE TO RESORT TO THIS...",
+    "cleaned_text": "OKAY THEN... I DIDN'T WANT TO HAVE TO RESORT TO THIS...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "BuT I DON'T HAVE A CHOICE.,",
+    "cleaned_text": "BUT I DON'T HAVE A CHOICE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "NARRATION",
+    "raw_text": "THE NEXT DAY",
+    "cleaned_text": "THE NEXT DAY",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "ALLAS, HAINJIGSAW",
+    "cleaned_text": "ALLAS, HAINJIGSAW",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "MANIA",
+    "cleaned_text": "MANIA",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "THIS IS MY BIG SISTER'S PRIZED STASH. IF YOU CAN MAKE IT THROUGH THESE SLASHER MOVIES, ONE OR TWO FISH WILL BE NOTHING!",
+    "cleaned_text": "THIS IS MY BIG SISTER\u2019S PRIZED STASH. IF YOU CAN MAKE IT THROUGH THESE SLASHER MOVIES, ONE OR TWO FISH WILL BE NOTHING!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "OH, I SEE!",
+    "cleaned_text": "OH, I SEE!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "I DON'T LIKE SCARY STUFF EITHER.. BUT I CAN'T JUST LEAVE YOU HERE, SO I'LL STAY...",
+    "cleaned_text": "I DON'T LIKE SCARY STUFF EITHER.. BUT I CAN'T JUST LEAVE YOU HERE, SO I'LL STAY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "SORRY....",
+    "cleaned_text": "SORRY....",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "UNKNOWN",
+    "raw_text": "LET'S GET STARTED.",
+    "cleaned_text": "LET\u2019S GET STARTED.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "...IT'S COMING. THERE'S GONNA BE BLOOD EVERY- WHERE!",
+    "cleaned_text": "...IT\u2019S COMING. THERE\u2019S GONNA BE BLOOD EVERYWHERE!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "EEEEEEK! IT'S HEEEKE!!",
+    "cleaned_text": "EEEEEEK! IT'S HEEEKE!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character3",
+    "raw_text": "HUH? YOU'RE NOT MOVING AT ALL, PRESI- DENT?",
+    "cleaned_text": "HUH? YOU'RE NOT MOVING AT ALL, PRESIDENT?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "NARRATION",
+    "raw_text": "10",
+    "cleaned_text": "10",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "THIS IS A LOT EASIER THaN I THOUGHT IT'D  BE.",
+    "cleaned_text": "THIS IS A LOT EASIER THAN I THOUGHT IT\u2019D BE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "THAT'S BECAUSE YOU'RE NOT LOOKING!!",
+    "cleaned_text": "THAT\u2019S BECAUSE YOU\u2019RE NOT LOOKING!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "DON'T COVER YOUR EYES!",
+    "cleaned_text": "DON'T COVER YOUR EYES!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "I'M SCARED TOO!! YOU'RE THE WHOLE REASON WE'RE DOING THI5, 50 YOU CAN'T COVER YOUR EYES!!",
+    "cleaned_text": "I'M SCARED TOO!! YOU\u2019RE THE WHOLE REASON WE\u2019RE DOING THIS, 50 YOU CAN\u2019T COVER YOUR EYES!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "HUUH!?",
+    "cleaned_text": "HUUH!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character7",
+    "raw_text": "LOOK, MY EYES ARE WIDE OPEN!! JUST LIKE A FISH!!",
+    "cleaned_text": "LOOK, MY EYES ARE WIDE OPEN!! JUST LIKE A FISH!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "t B",
+    "cleaned_text": "t B",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character7",
+    "raw_text": "THEN KEEP THEM THAT WAY!! DON'T CLOSE THEM AN INCH!!",
+    "cleaned_text": "THEN KEEP THEM THAT WAY!! DON'T CLOSE THEM AN INCH!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "AND SO...",
+    "cleaned_text": "AND SO...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

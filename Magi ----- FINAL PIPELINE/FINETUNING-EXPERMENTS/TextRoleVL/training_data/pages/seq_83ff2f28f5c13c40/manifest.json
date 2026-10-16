@@ -1,0 +1,123 @@
+{
+  "sequence_id": "seq_83ff2f28f5c13c40",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "1... I've been listening to you for years."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "It's all I ever get out of you."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "But I never know what it means."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "not when he said it either."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "\"go see... banana fish...\""
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "He said it and died."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "And you say it and you might as well be dead."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Who did this to you?"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "...GRIFF."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Please tell me, big brother."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "!?!"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "[10:9] <prjkt>"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "..."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Pingcco"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL1"
+    }
+  ]
+}

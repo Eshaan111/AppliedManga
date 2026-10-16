@@ -1,0 +1,281 @@
+{
+  "sequence_id": "seq_2032620aa4e4ac7f",
+  "page_index": 1,
+  "raw_count": 10,
+  "target_count": 0,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0"
+      ],
+      "text": "2",
+      "box": [
+        626.0,
+        507.0,
+        639.0,
+        516.0
+      ],
+      "id": "g0",
+      "score": 0.13149034976959229,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c1"
+      ],
+      "text": "SFX: HOOFBEATS",
+      "box": [
+        194.0,
+        553.0,
+        323.0,
+        574.0
+      ],
+      "id": "g1",
+      "score": 0.9964080452919006,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c2",
+        "c9"
+      ],
+      "text": "チッ H",
+      "box": [
+        708.0,
+        566.0,
+        824.0,
+        920.0
+      ],
+      "id": "g2",
+      "score": 0.23392735421657562,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c4"
+      ],
+      "text": "LAST",
+      "box": [
+        863.0,
+        583.0,
+        884.0,
+        628.0
+      ],
+      "id": "g3",
+      "score": 0.9999324083328247,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c3"
+      ],
+      "text": "TIME",
+      "box": [
+        846.0,
+        584.0,
+        868.0,
+        628.0
+      ],
+      "id": "g4",
+      "score": 0.9999449253082275,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c6"
+      ],
+      "text": "BEGAN... AND HACHIKEN USED THE MONEY HE EARNED TO BUY PORK BOWL'S MEAT, BUT HE'S",
+      "box": [
+        852.0,
+        631.0,
+        875.0,
+        1237.0
+      ],
+      "id": "g5",
+      "score": 0.9943010210990906,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c7"
+      ],
+      "text": "SUMMER VACATION... HACHIKEN SPENT THE WHOLE TIME WORKING AT AKI'S. THE NEW TERM",
+      "box": [
+        870.0,
+        632.0,
+        891.0,
+        1233.0
+      ],
+      "id": "g6",
+      "score": 0.991659939289093,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c5"
+      ],
+      "text": "STILL NOT SURE OF HIS CHOICES. NOW, THE SEASONS CHANGE AND AUTUMN BEGINS...",
+      "box": [
+        834.0,
+        633.0,
+        854.0,
+        1192.0
+      ],
+      "id": "g7",
+      "score": 0.9991817474365234,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c8"
+      ],
+      "text": "ギッが",
+      "box": [
+        542.0,
+        802.0,
+        646.0,
+        1005.0
+      ],
+      "id": "g8",
+      "score": 0.1781304031610489,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "2",
+      "score": 0.13149034976959229,
+      "box": [
+        626.0,
+        507.0,
+        639.0,
+        516.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "SFX: HOOFBEATS",
+      "score": 0.9964080452919006,
+      "box": [
+        194.0,
+        553.0,
+        323.0,
+        574.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "チッ",
+      "score": 0.2543712854385376,
+      "box": [
+        710.0,
+        566.0,
+        824.0,
+        739.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "TIME",
+      "score": 0.9999449253082275,
+      "box": [
+        846.0,
+        584.0,
+        868.0,
+        628.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "LAST",
+      "score": 0.9999324083328247,
+      "box": [
+        863.0,
+        583.0,
+        884.0,
+        628.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "STILL NOT SURE OF HIS CHOICES. NOW, THE SEASONS CHANGE AND AUTUMN BEGINS...",
+      "score": 0.9991817474365234,
+      "box": [
+        834.0,
+        633.0,
+        854.0,
+        1192.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "BEGAN... AND HACHIKEN USED THE MONEY HE EARNED TO BUY PORK BOWL'S MEAT, BUT HE'S",
+      "score": 0.9943010210990906,
+      "box": [
+        852.0,
+        631.0,
+        875.0,
+        1237.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "SUMMER VACATION... HACHIKEN SPENT THE WHOLE TIME WORKING AT AKI'S. THE NEW TERM",
+      "score": 0.991659939289093,
+      "box": [
+        870.0,
+        632.0,
+        891.0,
+        1233.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "ギッが",
+      "score": 0.1781304031610489,
+      "box": [
+        542.0,
+        802.0,
+        646.0,
+        1005.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "H",
+      "score": 0.21348342299461365,
+      "box": [
+        708.0,
+        797.0,
+        824.0,
+        920.0
+      ]
+    }
+  ],
+  "transcript": "2\nSFX: HOOFBEATS\nチッ H\nLAST\nTIME\nBEGAN... AND HACHIKEN USED THE MONEY HE EARNED TO BUY PORK BOWL'S MEAT, BUT HE'S\nSUMMER VACATION... HACHIKEN SPENT THE WHOLE TIME WORKING AT AKI'S. THE NEW TERM\nSTILL NOT SURE OF HIS CHOICES. NOW, THE SEASONS CHANGE AND AUTUMN BEGINS...\nギッが",
+  "sample_index": 6,
+  "preview_file": "sample_6_page_1.html"
+}

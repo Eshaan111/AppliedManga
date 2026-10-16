@@ -1,0 +1,16 @@
+[Page 01.png]
+character2: IF IT'S HIM YOU'RE WORRIED ABOUT, VE TOOK CARE OF THAT LAST NIGHT. WE I'D ALSO APPRECIATE IT IF YOU COULD BE A BIT MORE CAUTIOUS IN THE FUTURE.
+character1: IT.
+character1: ...IT'S GONE.
+character2: WHAT IS GONE?
+character1: TH-THE AMOUNTS DON'T ADD UP. IT'S JUST A TINY BIT SHORT... BUT...
+character2: YOU'RE POSITIVE?
+
+[Page 02.png]
+character3: "here... in my hand..
+character3: HOLLOW.
+character3: ?
+
+[Page 03.png]
+character3: "forty-two westwood, Los Angeles..
+character3: ...

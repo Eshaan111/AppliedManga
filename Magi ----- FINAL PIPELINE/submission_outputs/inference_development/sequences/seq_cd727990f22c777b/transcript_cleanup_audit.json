@@ -1,0 +1,290 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "DOINK!",
+    "cleaned_text": "DOINK!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "ALL RIGHT!",
+    "cleaned_text": "ALL RIGHT!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "I WIN.",
+    "cleaned_text": "I WIN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "30 METERS",
+    "cleaned_text": "30 METERS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "GOAL",
+    "cleaned_text": "GOAL",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "GOAL",
+    "cleaned_text": "GOAL",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character17",
+    "raw_text": "I KNOW HIS NAMESAKE IS TIGER, BUT IT SHOULD BE MORE LIKE GORILLA.",
+    "cleaned_text": "I KNOW HIS NAMESAKE IS TIGER, BUT IT SHOULD BE MORE LIKE GORILLA.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character17",
+    "raw_text": "HE THREW IT LIKE A BASEBALL PITCH.",
+    "cleaned_text": "HE THREW IT LIKE A BASEBALL PITCH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character6",
+    "raw_text": "ALL RIGHT, TEACH, I GOTTA GO. NICE THROW.",
+    "cleaned_text": "ALL RIGHT, TEACH, I GOTTA GO. NICE THROW.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character13",
+    "raw_text": "ITADORI, YOU DON'T HAVE TO FEEL OBLIGATED TO STAY IN THE OCCULT RESEARCH CLUB, YOU KNOW?",
+    "cleaned_text": "ITADORI, YOU DON'T HAVE TO FEEL OBLIGATED TO STAY IN THE OCCULT RESEARCH CLUB, YOU KNOW?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character6",
+    "raw_text": "HUH?",
+    "cleaned_text": "HUH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character6",
+    "raw_text": "A SPORTS CLUB WOULD PROBABLY BE A BETTER FIT...",
+    "cleaned_text": "A SPORTS CLUB WOULD PROBABLY BE A BETTER FIT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character6",
+    "raw_text": "WELL, I'VE GOT MY REASONS, AND I NEED TO BE HOME BY FIVE.",
+    "cleaned_text": "WELL, I'VE GOT MY REASONS, AND I NEED TO BE HOME BY FIVE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "character6",
+    "raw_text": "EVERYONE BESIDES, NEEDS TO BE IN A CLUB, RIGHT?",
+    "cleaned_text": "EVERYONE BESIDES, NEEDS TO BE IN A CLUB, RIGHT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "character12",
+    "raw_text": "so THAT'S WHY...",
+    "cleaned_text": "so THAT'S WHY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 13,
+    "speaker": "NARRATION",
+    "raw_text": "YOU DON'T HAVE TO DO ANYTHING!YOU CAN-BE'LIKE A'PHANTOM MEMBER=KINDA FITTING FOR THE'OCCULT RESEARCH CLUB HUH?",
+    "cleaned_text": "YOU DON'T HAVE TO DO ANYTHING! YOU CAN\u2014BE\u2019LIKE A\u2019PHANTOM MEMBER=KINDA FITTING FOR THE\u2019OCCULT RESEARCH CLUB HUH?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 14,
+    "speaker": "NARRATION",
+    "raw_text": "FOR REAL?",
+    "cleaned_text": "FOR REAL?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character6",
+    "raw_text": "BESIDES, YOU GUYS CAN'T EVEN GO TO HAUNTED SPOTS WITHOUT ME. EVEN STUFF",
+    "cleaned_text": "BESIDES, YOU GUYS CAN'T EVEN GO TO HAUNTED SPOTS WITHOUT ME. EVEN STUFF",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "GUH!",
+    "cleaned_text": "GUH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "WE'RE SCARED BECAUSE WE LIKE IT.",
+    "cleaned_text": "WE'RE SCARED BECAUSE WE LIKE IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character6",
+    "raw_text": "IF IT'S OKAY WITH YOU GUYS, I'D LIKE TO STAY.",
+    "cleaned_text": "IF IT\u2019S OKAY WITH YOU GUYS, I\u2019D LIKE TO STAY.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character6",
+    "raw_text": "THE OCCULT RESEARCH CLUB IS REALLY GROWING ON ME.",
+    "cleaned_text": "THE OCCULT RESEARCH CLUB IS REALLY GROWING ON ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character12",
+    "raw_text": "WELL,SUIT YOURSELF WE DON'T CARE.",
+    "cleaned_text": "WELL, SUIT YOURSELF WE DON'T CARE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character4",
+    "raw_text": "YEAH.",
+    "cleaned_text": "YEAH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "DAWWW",
+    "cleaned_text": "DAWWW",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character6",
+    "raw_text": "WHOA, THAT'S IMPRESSIVE. HE DID THAT WITHOUT CURSED ENERGY, JUST NATURAL ABILITY!",
+    "cleaned_text": "WHOA, THAT\u2019S IMPRESSIVE. HE DID THAT WITHOUT CURSED ENERGY, JUST NATURAL ABILITY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character24",
+    "raw_text": "?",
+    "cleaned_text": "?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character6",
+    "raw_text": "I WONDER IF HE'S LIKE ZENIN SENPAI?",
+    "cleaned_text": "I WONDER IF HE'S LIKE ZENIN SENPAI?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character6",
+    "raw_text": "I'VE WASTED TOO MUCH TIME WATCHING.",
+    "cleaned_text": "I'VE WASTED TOO MUCH TIME WATCHING.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 12,
+    "speaker": "character6",
+    "raw_text": "AH!",
+    "cleaned_text": "AH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 13,
+    "speaker": "character6",
+    "raw_text": "IT'S ALREADY HALF PAST FOUR!",
+    "cleaned_text": "IT\u2019S ALREADY HALF PAST FOUR!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 14,
+    "speaker": "NARRATION",
+    "raw_text": "GOTTA HURRY!",
+    "cleaned_text": "GOTTA HURRY!",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

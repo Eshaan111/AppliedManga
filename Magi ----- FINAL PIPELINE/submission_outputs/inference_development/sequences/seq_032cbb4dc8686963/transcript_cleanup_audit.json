@@ -1,0 +1,236 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "I MEAN.",
+    "cleaned_text": "I MEAN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "YOU'RE THE ONLY ONE",
+    "cleaned_text": "YOU\u2019RE THE ONLY ONE",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "WHO'S EVER SEEN ME LIKE THIS.",
+    "cleaned_text": "WHO'S EVER SEEN ME LIKE THIS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "TH...",
+    "cleaned_text": "TH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "THE ONLY ONE..?",
+    "cleaned_text": "THE ONLY ONE..?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "SO I CAN'T ASK ANYONE ELSE",
+    "cleaned_text": "SO I CAN\u2019T ASK ANYONE ELSE",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "UNKNOWN",
+    "raw_text": "IT HAS TO BE YOU... I...",
+    "cleaned_text": "IT HAS TO BE YOU... I...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "UM...",
+    "cleaned_text": "UM...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "UH...",
+    "cleaned_text": "UH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "WOW...",
+    "cleaned_text": "WOW...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "THEN...",
+    "cleaned_text": "THEN...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "JUST THIS ONCE...",
+    "cleaned_text": "JUST THIS ONCE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "YOU WILL!?",
+    "cleaned_text": "YOU WILL!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "CHIKA FUJIWARA WAS THE KIND OF GIRL WHO COULD NOT SAY NO TO SOMEONE COUNTING ON HER!!",
+    "cleaned_text": "CHIKA FUJIWARA WAS THE KIND OF GIRL WHO COULD NOT SAY NO TO SOMEONE COUNTING ON HER!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "I Got A LIVE ONE. LET'S START BY HAVING You TOUCH HIM WITH YOUR BARE HANDS.",
+    "cleaned_text": "I Got A LIVE ONE. LET'S START BY HAVING YOU TOUCH HIM WITH YOUR BARE HANDS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "........",
+    "cleaned_text": "........",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "LOOK, ISN'T HE CUTE? you ALMOST CAN'T IMAGINE EATING HIM.",
+    "cleaned_text": "LOOK, ISN'T HE CUTE? you ALMOST CAN'T IMAGINE EATING HIM.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "...ARE YOU SURE?",
+    "cleaned_text": "...ARE YOU SURE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "IT WON'T BITE OFF MY FINGER?",
+    "cleaned_text": "IT WON'T BITE OFF MY FINGER?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "DO YOU THINK ALL FISH ARE PIRANHAS?",
+    "cleaned_text": "DO YOU THINK ALL FISH ARE PIRANHAS?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "AWAH!",
+    "cleaned_text": "AWAH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "EEEK!",
+    "cleaned_text": "EEEK!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "wOW...",
+    "cleaned_text": "wOW...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "I'M SEEING A WHOLE DIFFERENT SIDE OF YOU NOW...",
+    "cleaned_text": "I\u2019M SEEING A WHOLE DIFFERENT SIDE OF YOU NOW...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "COME ON, LIKE THIS!",
+    "cleaned_text": "COME ON, LIKE THIS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "THAT'S NOT SO SCARY, IS IT?",
+    "cleaned_text": "THAT\u2019S NOT SO SCARY, IS IT?",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

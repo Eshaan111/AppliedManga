@@ -1,0 +1,317 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "WHA-?!",
+    "cleaned_text": "WHA-?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "WHAT'RE YOU DOING HERE?!",
+    "cleaned_text": "WHAT\u2019RE YOU DOING HERE?!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "YO!",
+    "cleaned_text": "YO!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "I WASN'T GONNA COME AT FIRST...",
+    "cleaned_text": "I WASN'T GONNA COME AT FIRST...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "MAN, _YOU'RE REALLY MESSED IUP.",
+    "cleaned_text": "MAN, YOU\u2019RE REALLY MESSED UP.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "SHOULD SHOW SECOND YEARS ...BUT THE HIGHER- UPS GOT INVOLVED AFTER HEARING THAT A SPECIAL-GRADE CURSED OBJECT WENT MISSING I AGREED TO COME AS LONG AS THEY ALSO GAVE ME TIME TO SEE THE SIGHTS.",
+    "cleaned_text": "SHOULD SHOW SECOND YEARS...BUT THE HIGHER-UPS GOT INVOLVED AFTER HEARING THAT A SPECIAL-GRADE CURSED OBJECT WENT MISSING I AGREED TO COME AS LONG AS THEY ALSO GAVE ME TIME TO SEE THE SIGHTS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "sO...",
+    "cleaned_text": "SO...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "DID YOU FIND IT?",
+    "cleaned_text": "DID YOU FIND IT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "UM...",
+    "cleaned_text": "UM...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "SORRY .\u2022.",
+    "cleaned_text": "SORRY .\u2022.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "I ATE IT.",
+    "cleaned_text": "I ATE IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "FOR REAL?",
+    "cleaned_text": "FOR REAL?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "FOR REAL.",
+    "cleaned_text": "FOR REAL.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "HM?",
+    "cleaned_text": "HM?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "CAN HE EVEN SEE?",
+    "cleaned_text": "CAN HE EVEN SEE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "HA HA! YOU'RE NOT KIDDING THEY'RE COMBINED",
+    "cleaned_text": "HA HA! YOU'RE NOT KIDDING THEY'RE COMBINED",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "THAT'S HILARIOUS.",
+    "cleaned_text": "THAT\u2019S HILARIOUS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "HOW DOES YOUR BODY FEEL?",
+    "cleaned_text": "HOW DOES YOUR BODY FEEL?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "OKAY...",
+    "cleaned_text": "OKAY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "CAN YOU SWITCH TO SUKUNA?",
+    "cleaned_text": "CAN YOU SWITCH TO SUKUNA?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "SUKUNA?",
+    "cleaned_text": "SUKUNA?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "NARRATION",
+    "raw_text": "THE CURSED OBJECT YOU ATE.",
+    "cleaned_text": "THE CURSED OBJECT YOU ATE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "character1",
+    "raw_text": "OH, YEAH. PROBABLY...",
+    "cleaned_text": "OH, YEAH. PROBABLY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "TEN SECONDS.",
+    "cleaned_text": "TEN SECONDS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "GUH GUH",
+    "cleaned_text": "GUH GUH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "TAKE CONTROL AGAIN AFTER TEN SECONDS.",
+    "cleaned_text": "TAKE CONTROL AGAIN AFTER TEN SECONDS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "I DUNNO ABOUT THIS..",
+    "cleaned_text": "I DON\u2019T KNOW ABOUT THIS\u2026",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "DON'T WORRY!",
+    "cleaned_text": "DON'T WORRY!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "I'M THE STRONG- EST JUJUTSU SOR- CERER!",
+    "cleaned_text": "I\u2019M THE STRONG- EST JUJUTSU SORCERER!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "MEGUMI HOLD ON TO THIS, WILL YA?",
+    "cleaned_text": "MEGUMI HOLD ON TO THIS, WILL YA?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "WHAT'S THIS?",
+    "cleaned_text": "WHAT\u2019S THIS?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "KIKUFUKU MOCHI.",
+    "cleaned_text": "KIKUFUKU MOCHI.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "KIKUSUIAN SHOP'S KIKUFUKU MOCHI A SENDAI CITY SPECIALTY. KIKUSUIAN SHOP'S KIKUFUKU MOCHI GOJO'S RECOMMENDATION IS THE EDAMAME AND CREAM FLAVOR.",
+    "cleaned_text": "KIKUSUIAN SHOP'S KIKUFUKU MOCHI A SENDAI CITY SPECIALTY. KIKUSUIAN SHOP'S KIKUFUKU MOCHI GOJO'S RECOMMENDATION IS THE EDAMAME AND CREAM FLAVOR.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character2",
+    "raw_text": "THIS GUY WENT TO BUY SOUVENIRS!",
+    "cleaned_text": "THIS GUY WENT TO BUY SOUVENIRS!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character2",
+    "raw_text": "EVEN THOUGH PEOPLE ARE DYING OVER HERE.",
+    "cleaned_text": "EVEN THOUGH PEOPLE ARE DYING OVER HERE.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "SO LAME... GUYS WHO TRY TO SHOW OFF, BOW DOWN AND GET REFUSED ARE SO LAME... How embar: rassing",
+    "cleaned_text": "SO LAME... GUYS WHO TRY TO SHOW OFF, BOW DOWN AND GET REFUSED ARE SO LAME... How embarrassing",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "RATHER, you WERE REALLY COOL!",
+    "cleaned_text": "RATHER, you WERE REALLY COOL!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "No... THERE'S No way I'D THINK THAT !",
+    "cleaned_text": "No... THERE'S No way I'D THINK THAT!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "...OH YEAH?",
+    "cleaned_text": "...OH YEAH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "Well then, that good?",
+    "cleaned_text": "Well then, that good?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "YEP!",
+    "cleaned_text": "YEP!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "This'is no time to be ashamed.",
+    "cleaned_text": "This\u2019is no time to be ashamed.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "..EVEN IF WE DON'T HAVE THE DATA,",
+    "cleaned_text": "..EVEN IF WE DON'T HAVE THE DATA,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "HEAD- QUARTERS SHOULD HAVE THE INVESTI- GATION'S PROGRESS REPORTS.",
+    "cleaned_text": "HEAD-QUARTERS SHOULD HAVE THE INVESTIGATION\u2019S PROGRESS REPORTS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character3",
+    "raw_text": "WE'LL DO SOMETHING SOMEHOW",
+    "cleaned_text": "WE\u2019LL DO SOMETHING SOMEHOW",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "NARRATION",
+    "raw_text": "OKAy!",
+    "cleaned_text": "OKAY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "...WHERE ARE YOU HEADED?",
+    "cleaned_text": "...WHERE ARE YOU HEADED?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "TO THE COMMISSION OF COUNTER- GHOUL, PLEASE.",
+    "cleaned_text": "TO THE COMMISSION OF COUNTER- GHOUL, PLEASE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "Urie Kuki (19) [Rank 2 Investigator. 173.5 cm 60 kg Quinx Squad Leader Urie Kuki (19) 173.5 cm 60 kg Quinx Squad Leader",
+    "cleaned_text": "Urie Kuki (19) [Rank 2 Investigator. 173.5 cm 60 kg Quinx Squad Leader Urie Kuki (19) 173.5 cm 60 kg Quinx Squad Leader",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "EH?",
+    "cleaned_text": "EH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "SOMETHING WRONG?",
+    "cleaned_text": "SOMETHING WRONG?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character6",
+    "raw_text": "NO...",
+    "cleaned_text": "NO...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "naka Tetsu",
+    "cleaned_text": "naka Tetsu",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "Hobby",
+    "cleaned_text": "Hobby",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "Fishing",
+    "cleaned_text": "Fishing",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "Taxi",
+    "cleaned_text": "Taxi",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character4",
+    "raw_text": "TO THINK YOU'D HAVE SOME BUSINESS AT SUCH A PLACE EVEN THOUGH YOU'RE SO YOUNG...",
+    "cleaned_text": "TO THINK YOU\u2019D HAVE SOME BUSINESS AT SUCH A PLACE EVEN THOUGH YOU\u2019RE SO YOUNG...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character4",
+    "raw_text": "\"*",
+    "cleaned_text": "\"*",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character4",
+    "raw_text": ": (HE IGNORED ME...? MAN, KIDS THESE DAYS...)",
+    "cleaned_text": ": (HE IGNORED ME...? MAN, KIDS THESE DAYS...)",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

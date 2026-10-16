@@ -1,0 +1,263 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "PROB'LY TAKIN' ADVANTAGE OF THE CONFUSION...",
+    "cleaned_text": "PROB\u2019LY TAKIN\u2019 ADVANTAGE OF THE CONFUSION...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "...T' TORCH ANOTHER VILLAGE.",
+    "cleaned_text": "...T' TORCH ANOTHER VILLAGE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "WELL, SHIT.",
+    "cleaned_text": "WELL, SHIT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "TIMES LIKE THIS. YOU ALMOST WISH YOU WERE BACK IN THE STATES.",
+    "cleaned_text": "TIMES LIKE THIS. YOU ALMOST WISH YOU WERE BACK IN THE STATES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "...HEY, WHERE'D GRIFF GO?",
+    "cleaned_text": "...HEY, WHERE\u2019D GRIFF GO?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "HE WENT TO TAKE A LEAK.",
+    "cleaned_text": "HE WENT TO TAKE A LEAK.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "UNKNOWN",
+    "raw_text": "HEY.... YOU HEAR THAT STORY 'BOUT BILLY?",
+    "cleaned_text": "HEY.... YOU HEAR THAT STORY \u2018BOUT BILLY?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "HE TRIPPED RIGHT OFF HIS HEAD, MAN. ALL THE WAY OFF",
+    "cleaned_text": "HE TRIPPED RIGHT OFF HIS HEAD, MAN. ALL THE WAY OFF",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "THEY SAID HE WAS SCREAMIN' LIKE HE WAS IN HEL.. FOR HOURS N' HOURS... '\"TILL I GUESS HE FINALLY GOT THERE. IFIGURE THEY MUSTA PALMED SOME BAD SHIT ON HIM, YKNOW? OH, MY DARLIN, OH, MY DARLIN'..",
+    "cleaned_text": "THEY SAID HE WAS SCREAMING LIKE HE WAS IN HELL\u2026 FOR HOURS AND HOURS\u2026 \u201cTILL I GUESS HE FINALLY GOT THERE. I FIGURE THEY MUSTA PALMED SOME BAD SHIT ON HIM, YKNOW? OH, MY DARLIN\u2019, OH, MY DARLIN\u2019.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "THERE THEY GO AGAIN.",
+    "cleaned_text": "THERE THEY GO AGAIN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "BRIGHT AS THE NIGHT IS LONG.",
+    "cleaned_text": "BRIGHT AS THE NIGHT IS LONG.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "DON'T CONCERN YOURSELF, SOLDIER... IT'S ALWAYS LIKE THIS IN THESE PARTS.",
+    "cleaned_text": "DON'T CONCERN YOURSELF, SOLDIER... IT'S ALWAYS LIKE THIS IN THESE PARTS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "OH. MY DARLIN' CLE-MEN- TINE...",
+    "cleaned_text": "OH. MY DARLIN' CLEM-EN-TINE...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character10",
+    "raw_text": "OH, MY DARLIN', OH, MY DARLIN', OH, MY DARLIN CLE-MEN-TINE... r",
+    "cleaned_text": "OH, MY DARLIN\u2019, OH, MY DARLIN\u2019, OH, MY DARLIN\u2019 CLEMEN TINE...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character10",
+    "raw_text": "MAN, YOUEVER NOTICE THE WAY YOU REPEAT YOURSELF?",
+    "cleaned_text": "MAN, YOUEVER NOTICE THE WAY YOU REPEAT YOURSELF?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "IDON'T KNOW THE REST OF THE SONG, SERGEANT.",
+    "cleaned_text": "IDON'T KNOW THE REST OF THE SONG, SERGEANT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character13",
+    "raw_text": "AHHH... JUST TWO MORE DAYS ANDIKISS THIS MUDHOLE GOODBYE.",
+    "cleaned_text": "AHHH... JUST TWO MORE DAYS AND I KISS THIS MUDHOLE GOODBYE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character10",
+    "raw_text": "WHERE YOU FROM, KID?",
+    "cleaned_text": "WHERE YOU FROM, KID?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "PHILA- DELPHIA, SARGE.",
+    "cleaned_text": "PHILA- DELPHIA, SARGE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "FAMILY?",
+    "cleaned_text": "FAMILY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "TWO PARENTS AND ONE FAT-ASSED SISTER, SARGE.",
+    "cleaned_text": "TWO PARENTS AND ONE FAT-ASSED SISTER, SARGE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "IF SHE'S BLACK, INTRODUCE ME TO HER.",
+    "cleaned_text": "IF SHE\u2019S BLACK, INTRODUCE ME TO HER.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "SKRSH",
+    "cleaned_text": "SKRSH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "!",
+    "cleaned_text": "!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "SKRSH",
+    "cleaned_text": "SKRSH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "SHIT, MAN.",
+    "cleaned_text": "SHIT, MAN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "DON'T SCARE ME LIKE THAT.",
+    "cleaned_text": "DON'T SCARE ME LIKE THAT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "SHEESH!",
+    "cleaned_text": "SHEESH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "THAT WAS A TRUE EPIC PISS, GRIFF",
+    "cleaned_text": "THAT WAS A TRUE EPIC PISS, GRIFF",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

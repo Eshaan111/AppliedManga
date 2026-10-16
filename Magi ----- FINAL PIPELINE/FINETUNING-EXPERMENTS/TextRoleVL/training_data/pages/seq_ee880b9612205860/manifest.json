@@ -1,0 +1,217 @@
+{
+  "sequence_id": "seq_ee880b9612205860",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Well...."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "His stubborn pride was dispelled!"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "I suppose confessing is the duty of the man..."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "His thoughts became clouded,"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "and a crack in his will was formed!!"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "This crack did not slip past shinomiya unnoticed!!"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "SHE STRUCK!!"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "I am at the age where I want to try falling in love, after all..."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "#C.???!!"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "She approached it as she would a chess puzzle!"
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "As she closed in,"
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "SHIROGANE SEARCH FRANTICALLY FOR HIS NEXT MOVE!!"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "As their thought processes were followed to their natural conclusion,"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "A clear Victor emerged..."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Oh,"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "If you don't like romance movies,"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "I also have tickets to \"The Little Chicken.\""
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "!?"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Just because of the most"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Chaos theory!"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "On the verge of completion,"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "A perfect idea can have a single point of chaos introduced into it."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "But that one point"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Can cause something as drastic as the big bang itself!"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "In order to process the sudden appearance of this new option,"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "Their brains pushed themselves past their limits!"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "??"
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "..."
+    },
+    {
+      "id": "PG3:T11",
+      "page": 3,
+      "text": "UM..."
+    },
+    {
+      "id": "PG3:T12",
+      "page": 3,
+      "text": "Did I say some- thing wrong?"
+    },
+    {
+      "id": "PG3:T13",
+      "page": 3,
+      "text": "The result..."
+    },
+    {
+      "id": "PG3:T14",
+      "page": 3,
+      "text": "Was a sudden desire for sugar to fuel their mental capabilities!!"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T12",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T11",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T12",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

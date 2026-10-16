@@ -1,0 +1,81 @@
+{
+  "sequence_id": "seq_f1c007d2d64e6aad",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "You liked him too, didn't you denji?"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "MANC STREAD do not need"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "WHAT ARE YOU TRYING TO SAY..."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "You know him?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Go"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "The gun devil wants your heart."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "MAN GA STREAMLAD DO NOT NIRROR"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "MAN STREAS do not make"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL4"
+    }
+  ]
+}

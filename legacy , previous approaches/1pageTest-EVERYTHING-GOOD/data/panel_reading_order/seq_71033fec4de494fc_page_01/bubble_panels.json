@@ -1,0 +1,164 @@
+{
+  "page": {
+    "name": "01.png",
+    "sha256": "0fc4aa5db3b4ef4b232bc1b7dabefefc7fe38adcd5045697fc8468c39119de49",
+    "width": 956,
+    "height": 1500
+  },
+  "records": [
+    {
+      "box": [
+        744,
+        88,
+        898,
+        405
+      ],
+      "confidence": 0.9119239449501038,
+      "bubble_id": "B1",
+      "panel_id": "PN1"
+    },
+    {
+      "box": [
+        410,
+        99,
+        569,
+        334
+      ],
+      "confidence": 0.9447628855705261,
+      "bubble_id": "B2",
+      "panel_id": "PN1"
+    },
+    {
+      "box": [
+        270,
+        111,
+        399,
+        341
+      ],
+      "confidence": 0.8994061946868896,
+      "bubble_id": "B3",
+      "panel_id": "PN7"
+    },
+    {
+      "box": [
+        63,
+        430,
+        163,
+        565
+      ],
+      "confidence": 0.5934946537017822,
+      "bubble_id": "B4",
+      "panel_id": "PN7"
+    },
+    {
+      "box": [
+        382,
+        624,
+        491,
+        805
+      ],
+      "confidence": 0.9160802960395813,
+      "bubble_id": "B6",
+      "panel_id": "PN3"
+    },
+    {
+      "box": [
+        31,
+        727,
+        152,
+        925
+      ],
+      "confidence": 0.9473932981491089,
+      "bubble_id": "B7",
+      "panel_id": "PN3"
+    },
+    {
+      "box": [
+        355,
+        733,
+        455,
+        885
+      ],
+      "confidence": 0.9385347962379456,
+      "bubble_id": "B8",
+      "panel_id": "PN3"
+    },
+    {
+      "box": [
+        770,
+        952,
+        898,
+        1138
+      ],
+      "confidence": 0.951434850692749,
+      "bubble_id": "B9",
+      "panel_id": "PN4"
+    },
+    {
+      "box": [
+        310,
+        954,
+        437,
+        1253
+      ],
+      "confidence": 0.9305466413497925,
+      "bubble_id": "B10",
+      "panel_id": "PN2"
+    },
+    {
+      "box": [
+        0,
+        954,
+        125,
+        1180
+      ],
+      "confidence": 0.956044614315033,
+      "bubble_id": "B11",
+      "panel_id": "PN2"
+    },
+    {
+      "box": [
+        450,
+        990,
+        557,
+        1148
+      ],
+      "confidence": 0.949148952960968,
+      "bubble_id": "B12",
+      "panel_id": "PN4"
+    },
+    {
+      "box": [
+        791,
+        1179,
+        900,
+        1376
+      ],
+      "confidence": 0.9484745860099792,
+      "bubble_id": "B13",
+      "panel_id": "PN5"
+    },
+    {
+      "box": [
+        543,
+        1202,
+        635,
+        1325
+      ],
+      "confidence": 0.9427345991134644,
+      "bubble_id": "B14",
+      "panel_id": "PN5"
+    },
+    {
+      "box": [
+        447,
+        1265,
+        550,
+        1439
+      ],
+      "confidence": 0.9439302682876587,
+      "bubble_id": "B15",
+      "panel_id": "PN5"
+    }
+  ]
+}

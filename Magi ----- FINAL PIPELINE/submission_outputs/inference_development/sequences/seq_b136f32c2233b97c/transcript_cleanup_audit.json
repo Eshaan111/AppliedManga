@@ -1,0 +1,101 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "HI",
+    "cleaned_text": "HI",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "POCHITA... I'LL PROBABLY GET MYSELF KILLED FIGHTING DEVILS BEFORE LONG.",
+    "cleaned_text": "POCHITA... I'LL PROBABLY GET MYSELF KILLED FIGHTING DEVILS BEFORE LONG.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "IF THAT HAPPENS, I'M WORRIED ABOUT WHAT'LL HAPPEN TO YOU.",
+    "cleaned_text": "IF THAT HAPPENS, I'M WORRIED ABOUT WHAT'LL HAPPEN TO YOU.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "YOU MIGHT STARVE TO DEATH, OR MAYBE GET TAKEN OUT BY ANOTHER DEVIL HUNTER.",
+    "cleaned_text": "YOU MIGHT STARVE TO DEATH, OR MAYBE GET TAKEN OUT BY ANOTHER DEVIL HUNTER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "I HEARD THERE ARE DEVILS WHO CAN TAKE OVER DEAD PEOPLE'S BODIES.",
+    "cleaned_text": "I HEARD THERE ARE DEVILS WHO CAN TAKE OVER DEAD PEOPLE'S BODIES.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "IF YOU CAN DO THAT... THEN I'LL GIVE YA MY BODY...",
+    "cleaned_text": "IF YOU CAN DO THAT... THEN I'LL GIVE YA MY BODY...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "AFTER I'M IN MY GRAVE, THE YAKUIZA'LL FORGET ABOLIT ME. YOU CAN LEAVE THIS TOWN...",
+    "cleaned_text": "AFTER I\u2019M IN MY GRAVE, THE YAKUIZA\u2019LL FORGET ABOUT ME. YOU CAN LEAVE THIS TOWN...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "AND THEN...",
+    "cleaned_text": "AND THEN...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "YEAH...",
+    "cleaned_text": "YEAH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "IT'D BE NICE IF YOU COULD HAVE A NORMAL LIFE",
+    "cleaned_text": "IT\u2019D BE NICE IF YOU COULD HAVE A NORMAL LIFE",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "AND DIE A NORMAL DEATH.",
+    "cleaned_text": "AND DIE A NORMAL DEATH.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

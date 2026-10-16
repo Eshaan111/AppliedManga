@@ -1,0 +1,11 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "THE CALM BEFORE THE STORM.",
+    "cleaned_text": "THE CALM BEFORE THE STORM.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

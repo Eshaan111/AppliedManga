@@ -1,0 +1,33 @@
+[Page 01.png]
+NARRATION: 'Ghouls'...
+NARRATION: although they have human forms,
+NARRATION: they have organs characteristic of their predation.
+NARRATION: They are beings who can survive only by consuming the meat of humans.
+character1: They are the natural enemy humanity
+NARRATION: CCG Gomivesion of Ganter Chuul
+character2: "...AND WE, THE CCG, ARE THE SOLE AGENCY WHICH PERFORMS INVESTIGATIONS AND SHOULD SETTLE ALL CASES WHICH OCCUR AROUND THE WORLD THAT INVOLVE GHOULS".….
+
+[Page 02.png]
+character3: HOW'S THAT FEEL?
+NARRATION: Oow
+character3: AS EXPECTED OF SASAKI-KUN! YOU'RE SO RELIABLE.
+NARRATION: woo
+character2: IT’S LIKE “WE’RE SEEK-ING FUTURE INVESTI- GATORS!!”
+character3: WONDER WHICH IS GOOD?
+NARRATION: “RUFFIANS WILL RECEIVE A WARM WELCOME” OR SOMETHING. working with them Ah, but would be scary though.
+character2: SORRY TO HOLD YOU UP DURING SUCH A BUSY TIME,
+character2: NO PROBLEM. PUBLIC RELATIONS IS A PRAISEWORTHY JOB FOR THE CCG TOO. AH...
+character2: IS FIRST CLASS MADO HERE?
+character3: OH, IF YOU WANT HER, SHE’S ALREADY GONE OUT.
+character3: AH, A NEAR MISS, HUH.…?
+character2: DO YOU KNOW WHERE SHE'S HEADED?
+character2: YEP.
+NARRATION: IT’S TUESDAY, SO SHE’S PROBABLY AT THE USUAL CURRY SHOP. It’s free nan day.
+
+[Page 03.png]
+character5: —HYAAH...
+character6: YOU’RE AS BAD AT THIS AS USUAL. MUTSUKI- KUN.
+NARRATION: CAN YOU FUNCTION PROPERLY AS AN INVESTIGATOR LIKE THAT?
+character5: NO... WELL...
+character5: IT’S NO GOOD... UGH... NO MATTER WHAT, WHENEVER I SEE BLOOD I...
+NARRATION: Mutsuki Tooru (19) Rank 3 Investigator 165 cm 48 kg

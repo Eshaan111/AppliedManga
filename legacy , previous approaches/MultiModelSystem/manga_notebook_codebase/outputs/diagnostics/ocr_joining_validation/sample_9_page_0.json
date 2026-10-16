@@ -1,0 +1,281 @@
+{
+  "sequence_id": "seq_96839890d69d7698",
+  "page_index": 0,
+  "raw_count": 14,
+  "target_count": 4,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0"
+      ],
+      "text": "MANGA",
+      "box": [
+        796.0,
+        19.0,
+        871.0,
+        62.0
+      ],
+      "id": "g0",
+      "score": 0.9998911619186401,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c1",
+        "c2"
+      ],
+      "text": "STREAM.com DONOTMIRROR",
+      "box": [
+        798.0,
+        32.0,
+        891.0,
+        82.0
+      ],
+      "id": "g1",
+      "score": 0.9581462442874908,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c3",
+        "c4",
+        "c5"
+      ],
+      "text": "ONE'S STILL ALIVE.",
+      "box": [
+        101.0,
+        308.0,
+        190.0,
+        404.0
+      ],
+      "id": "g2",
+      "score": 0.9998894532521566,
+      "target_index": 0,
+      "target_text": "ONE'S STILL ALIVE.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c6"
+      ],
+      "text": "HMPH...",
+      "box": [
+        183.0,
+        867.0,
+        277.0,
+        896.0
+      ],
+      "id": "g3",
+      "score": 0.9994397759437561,
+      "target_index": 1,
+      "target_text": "HMPH...",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c7",
+        "c8",
+        "c9"
+      ],
+      "text": "YOU'RE A STRANGE ONE.",
+      "box": [
+        634.0,
+        1048.0,
+        789.0,
+        1163.0
+      ],
+      "id": "g4",
+      "score": 0.977968672911326,
+      "target_index": 2,
+      "target_text": "YOU'RE A STRANGE ONE.",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "text": "YOU DON'T SMELL LIKE A DEVIL OR A HUMAN.",
+      "box": [
+        298.0,
+        1153.0,
+        450.0,
+        1270.0
+      ],
+      "id": "g5",
+      "score": 0.9838861972093582,
+      "target_index": 3,
+      "target_text": "YOU DON'T SMELL LIKE A DEVIL OR A HUMAN.",
+      "similarity": 1.0
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "MANGA",
+      "score": 0.9998911619186401,
+      "box": [
+        796.0,
+        19.0,
+        871.0,
+        62.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "STREAM.com",
+      "score": 0.9187218546867371,
+      "box": [
+        798.0,
+        32.0,
+        891.0,
+        76.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "DONOTMIRROR",
+      "score": 0.9975706338882446,
+      "box": [
+        807.0,
+        52.0,
+        875.0,
+        82.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "ONE'S",
+      "score": 0.9998095631599426,
+      "box": [
+        105.0,
+        308.0,
+        190.0,
+        344.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "STILL",
+      "score": 0.9999867677688599,
+      "box": [
+        107.0,
+        337.0,
+        188.0,
+        374.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "ALIVE.",
+      "score": 0.9998720288276672,
+      "box": [
+        101.0,
+        363.0,
+        190.0,
+        404.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "HMPH...",
+      "score": 0.9994397759437561,
+      "box": [
+        183.0,
+        867.0,
+        277.0,
+        896.0
+      ]
+    },
+    {
+      "id": "c7",
+      "text": "YOU'RE A",
+      "score": 0.9339451789855957,
+      "box": [
+        634.0,
+        1048.0,
+        789.0,
+        1094.0
+      ]
+    },
+    {
+      "id": "c8",
+      "text": "STRANGE",
+      "score": 0.9999944567680359,
+      "box": [
+        637.0,
+        1087.0,
+        785.0,
+        1126.0
+      ]
+    },
+    {
+      "id": "c9",
+      "text": "ONE.",
+      "score": 0.9999663829803467,
+      "box": [
+        668.0,
+        1123.0,
+        750.0,
+        1163.0
+      ]
+    },
+    {
+      "id": "c10",
+      "text": "YOU DON'T",
+      "score": 0.9891394376754761,
+      "box": [
+        306.0,
+        1153.0,
+        445.0,
+        1184.0
+      ]
+    },
+    {
+      "id": "c11",
+      "text": "SMELL LIKE",
+      "score": 0.9999475479125977,
+      "box": [
+        301.0,
+        1184.0,
+        449.0,
+        1212.0
+      ]
+    },
+    {
+      "id": "c12",
+      "text": "A DEVIL OR",
+      "score": 0.9731267094612122,
+      "box": [
+        298.0,
+        1212.0,
+        450.0,
+        1243.0
+      ]
+    },
+    {
+      "id": "c13",
+      "text": "A HUMAN.",
+      "score": 0.973331093788147,
+      "box": [
+        311.0,
+        1243.0,
+        433.0,
+        1270.0
+      ]
+    }
+  ],
+  "transcript": "MANGA\nSTREAM.com DONOTMIRROR\nONE'S STILL ALIVE.\nHMPH...\nYOU'RE A STRANGE ONE.\nYOU DON'T SMELL LIKE A DEVIL OR A HUMAN.",
+  "sample_index": 9,
+  "preview_file": "sample_9_page_0.html"
+}

@@ -1,0 +1,23 @@
+[Page 01.png]
+character3: ?
+character2: AH
+
+[Page 02.png]
+character3: WH... W-WHAT'S WRONG, MIKAGE!?
+character2: AH
+character2: OH, IT’S NOTHING!
+character3: “NOTHING!?” KOMABA, DID YOU DO SOMETHING!?
+character1: IT’S NOTHING!
+character1: IT’S NONE OF YOUR BUSINESS!
+character3: WAIT
+character3: HEY!!
+character3: AH... UM.. ARE YOU ALL RIGHT?
+NARRATION: um.
+character4: SORRY, IT’S NOTHING.
+character2: I’M FINE, REALLY!
+character2: DON'T WORRY ABOUT IT!
+
+[Page 03.png]
+NARRATION: A YOUNG WOMAN'S TEARS ARE SURE TO LEAD A YOUNG MAN ASTRAY…. SOMETHING DEFINITELY HAPPENED, BUT HACHIKEN IS LEFT WONDERING..
+NARRATION: SNIFF
+character3: WHAT THE HECK HAPPENED...?

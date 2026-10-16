@@ -1,0 +1,236 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "COME.",
+    "cleaned_text": "COME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "LET'S TALK IN THE DEN.",
+    "cleaned_text": "LET\u2019S TALK IN THE DEN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "WELL?",
+    "cleaned_text": "WELL?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character3",
+    "raw_text": "A DRINK, THEN?",
+    "cleaned_text": "A DRINK, THEN?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "BOOZE AT THIS TIME OF DAY?",
+    "cleaned_text": "BOOZE AT THIS TIME OF DAY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "IT'S NOT \"BOOZE. IT'S A COCKTAIL. MY NEWEST CONCOCTION.",
+    "cleaned_text": "IT\u2019S NOT \u201cBOOZE. IT\u2019S A COCKTAIL. MY NEWEST CONCOCTION.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "HAVE A SEAT.",
+    "cleaned_text": "HAVE A SEAT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "YOU ADD LEMON JUICE AND A DASH OF GINGER TO BASE OF VODKA.",
+    "cleaned_text": "YOU ADD LEMON JUICE AND A DASH OF GINGER TO THE BASE OF VODKA.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "THE ACHIEVEMENT HERE IS IN THE PROPOR- TIONS.",
+    "cleaned_text": "THE ACHIEVEMENT HERE IS IN THE PROPORTIONS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "UNKNOWN",
+    "raw_text": "PLEASE TRY IT. I HOPE IT'S TO YOUR LIKING.",
+    "cleaned_text": "PLEASE TRY IT. I HOPE IT\u2019S TO YOUR LIKING.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 11,
+    "speaker": "character1",
+    "raw_text": "WHY DID YOU PUT THOSE TWO UP TO THAT..?",
+    "cleaned_text": "WHY DID YOU PUT THOSE TWO UP TO THAT?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "AND... WHY DIDN'T I TELL YOU..? WELL, ASH, I WOULDN'T THINK IT NECESSARY TO TROUBLE YOU WITH A MATTER SO TRIVIAL.",
+    "cleaned_text": "AND... WHY DIDN'T I TELL YOU..? WELL, ASH, I WOULDN'T THINK IT NECESSARY TO TROUBLE YOU WITH A MATTER SO TRIVIAL.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "YOU CALL KILLING A MAN TRIVIAL?!",
+    "cleaned_text": "YOU CALL KILLING A MAN TRIVIAL?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character8",
+    "raw_text": "PAPA ?!",
+    "cleaned_text": "PAPA ?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "IT'S NOTHING.",
+    "cleaned_text": "IT\u2019S NOTHING.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character7",
+    "raw_text": "ANGIE, TOUSSAINT, YOU BOYS STAY IN THE NEXT ROOM.",
+    "cleaned_text": "ANGIE, TOUSSAINT, YOU BOYS STAY IN THE NEXT ROOM.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "CALM YOURSELF ASH.",
+    "cleaned_text": "CALM YOURSELF ASH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "IF IVE PUT YOU OUT IN ANY WAY, APOLOGIZE. I HOPE YOU DON'T THINK THAT I TAKE YOUR POSITION LIGHTLY.",
+    "cleaned_text": "IF IVE PUT YOU OUT IN ANY WAY, APOLOGIZE. I HOPE YOU DON'T THINK THAT I TAKE YOUR POSITION LIGHTLY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "THAT'S NOT WHAT I'M TALKING ABOUT.",
+    "cleaned_text": "THAT\u2019S NOT WHAT I\u2019M TALKING ABOUT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "ump",
+    "cleaned_text": "ump",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "WE HAD AN AGREE- MENT! YOU PROMISED NOT TO USE MY BOYS TO KILL!",
+    "cleaned_text": "WE HAD AN AGREEMENT! YOU PROMISED NOT TO USE MY BOYS TO KILL!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "UNKNOWN",
+    "raw_text": "THE CIRCUM- STANCES WERE EXTRA- ORDINARY. ANYWAY, HE WASN'T A MEMBER OF THE SYNDICATE. JUST A VERY TINY MOUSE THAT WANTED STEPPING A CHORE FOR POCKET MONEY, AS IT WERE.",
+    "cleaned_text": "THE CIRCUM-STANCES WERE EXTRA-ORDINARY. ANYWAY, HE WASN'T A MEMBER OF THE SYNDICATE. JUST A VERY TINY MOUSE THAT WANTED STEPPING A CHORE FOR POCKET MONEY, AS IT WERE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "THAT'S WHY I'M SURPRISED YOU EVEN CAME TO KNOW ABOUT IT.",
+    "cleaned_text": "THAT\u2019S WHY I\u2019M SURPRISED YOU EVEN CAME TO KNOW ABOUT IT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "THEY'D BEEN ACTING STRANGE LATELY, SOIWAS KEEPING TABS",
+    "cleaned_text": "THEY'D BEEN ACTING STRANGE LATELY, SO I WAS KEEPING TABS",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "ONCE AGAIN, I'VE UNDER- ESTIMATED YOU. AND YET I'VE KNOWN FROM THE START YOU WERE BORN TO LEAD.",
+    "cleaned_text": "ONCE AGAIN, I'VE UNDER-ESTIMATED YOU. AND YET I'VE KNOWN FROM THE START YOU WERE BORN TO LEAD.",
+    "changed": true,
+    "empty_output_fallback": false
+  }
+]

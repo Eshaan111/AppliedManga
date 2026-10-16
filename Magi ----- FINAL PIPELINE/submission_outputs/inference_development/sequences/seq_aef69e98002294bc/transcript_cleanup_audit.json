@@ -1,0 +1,254 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "NARRATION",
+    "raw_text": "'Ghouls\"\u2026",
+    "cleaned_text": "'Ghouls'...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "although they have human forms,",
+    "cleaned_text": "although they have human forms,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "they have organs characteristic of their predation.",
+    "cleaned_text": "they have organs characteristic of their predation.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "They are beings who can survive only by consuming the meat of humans.",
+    "cleaned_text": "They are beings who can survive only by consuming the meat of humans.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "They arethe natural enemy humanity",
+    "cleaned_text": "They are the natural enemy humanity",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "CCG Gomivesion of Ganter Chuul",
+    "cleaned_text": "CCG Gomivesion of Ganter Chuul",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "\"...AND  WE, THE CCG, ARE THE SOLE AGENCY WHICH PERFORMS INVESTIGATIONS AND SHOULD SETTLE ALL CASES WHICH OCCUR AROUND THE WORLD THAT INVOLVE GHOULS\".\u2026.",
+    "cleaned_text": "\"...AND WE, THE CCG, ARE THE SOLE AGENCY WHICH PERFORMS INVESTIGATIONS AND SHOULD SETTLE ALL CASES WHICH OCCUR AROUND THE WORLD THAT INVOLVE GHOULS\".\u2026.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": ".HOW'S THAT FEEL?",
+    "cleaned_text": "HOW'S THAT FEEL?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "Oow",
+    "cleaned_text": "Oow",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "AS EXPECT- ED OF SASAKI- KUN! YOU'RE SO RELIA-} BLE.",
+    "cleaned_text": "AS EXPECTED OF SASAKI-KUN! YOU'RE SO RELIABLE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "woo",
+    "cleaned_text": "woo",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "IT'S LIKE \"WE'RE SEEK- ING FUTURE INVESTI- GATORS!!.",
+    "cleaned_text": "IT\u2019S LIKE \u201cWE\u2019RE SEEK-ING FUTURE INVESTI- GATORS!!\u201d",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character3",
+    "raw_text": "WONDER WHICH IS GOOD?",
+    "cleaned_text": "WONDER WHICH IS GOOD?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "\"RUFFIANS WILL RECEIVE A WARM WELCOME\" OR SOMETHING. working with them Ah, but would be scary though.",
+    "cleaned_text": "\u201cRUFFIANS WILL RECEIVE A WARM WELCOME\u201d OR SOMETHING. working with them Ah, but would be scary though.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "SORRY TO HOLD YOU UP DURING SUCH A BUSY TIME,",
+    "cleaned_text": "SORRY TO HOLD YOU UP DURING SUCH A BUSY TIME,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "NO PROBLEM. PUBLIC RELATIONS IS A PRAISEWORTHY JOB FOR THE CCG TOO. AH...",
+    "cleaned_text": "NO PROBLEM. PUBLIC RELATIONS IS A PRAISEWORTHY JOB FOR THE CCG TOO. AH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character2",
+    "raw_text": "IS FIRST CLASS MADO HERE?",
+    "cleaned_text": "IS FIRST CLASS MADO HERE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character3",
+    "raw_text": "OH, IF YOU WANT HER, SHE'S ALREADY GONE OUT.",
+    "cleaned_text": "OH, IF YOU WANT HER, SHE\u2019S ALREADY GONE OUT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "character3",
+    "raw_text": "AH, A NEAR MISS, HUH.\u2026?",
+    "cleaned_text": "AH, A NEAR MISS, HUH.\u2026?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "character2",
+    "raw_text": "DO YOU KNOW WHERE SHE'S HEADED?",
+    "cleaned_text": "DO YOU KNOW WHERE SHE'S HEADED?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 13,
+    "speaker": "character2",
+    "raw_text": "YEP.",
+    "cleaned_text": "YEP.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 14,
+    "speaker": "NARRATION",
+    "raw_text": "IT'S TUESDAY, SO SHE'S PROBABLY AT THE USUAL CURRY SHOP. It's free nan day.",
+    "cleaned_text": "IT\u2019S TUESDAY, SO SHE\u2019S PROBABLY AT THE USUAL CURRY SHOP. It\u2019s free nan day.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "\u2014HYAAH...",
+    "cleaned_text": "\u2014HYAAH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character6",
+    "raw_text": "YOU'RE AS BAD AT THIS AS USUAL. MUTSUKI- KUN.",
+    "cleaned_text": "YOU\u2019RE AS BAD AT THIS AS USUAL. MUTSUKI- KUN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "CAN YOU FUNCTION PROPERLY AS AN INVESTIGATOR LIKE THAT?",
+    "cleaned_text": "CAN YOU FUNCTION PROPERLY AS AN INVESTIGATOR LIKE THAT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "NO... WELL..",
+    "cleaned_text": "NO... WELL...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character5",
+    "raw_text": "IT'S NO GOOD... UGH... NO MATTER WHAT, WHENEVER I SEE BLOOD I..",
+    "cleaned_text": "IT\u2019S NO GOOD... UGH... NO MATTER WHAT, WHENEVER I SEE BLOOD I...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "Mutsuki Tooru (19) Rank 3 Investigator 165 cm 48 kg",
+    "cleaned_text": "Mutsuki Tooru (19) Rank 3 Investigator 165 cm 48 kg",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

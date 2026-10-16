@@ -1,0 +1,269 @@
+[
+  [
+    {
+      "group_id": "PG1:M2",
+      "box_ids": [
+        "PG1:T1",
+        "PG1:T2"
+      ],
+      "speaker": "E8",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT WILL BE DANGEROUS IF THE NEWCOMERS WERE TO HAVE A STANDOFF WITH THE TARGET GHOUL.. I MUST GO AHEAD AND STOP THEM EVEN MORE THAN I'D HAVE TO GO FOR A SUBORDINATE...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T3",
+      "box_ids": [
+        "PG1:T3"
+      ],
+      "speaker": "E4",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "WE HAVE OUR OWN WAY OF DOING THINGS, SO PLEASE GIVE UP.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T4",
+      "box_ids": [
+        "PG1:T4"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "BUT .!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M3",
+      "box_ids": [
+        "PG1:T5",
+        "PG1:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "...OR PERHAPS I SHOULD SAY RANK 1 SASAKI, WAS IT? THE SOURCE OF ALL THIS FROM THE START WAS",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T7",
+      "box_ids": [
+        "PG1:T7"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "THAT YOU COULDN'T CONTROL YOUR SUBORDINATES, WASN'T IT?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M4",
+      "box_ids": [
+        "PG1:T8",
+        "PG1:T9"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AND WITH THAT REASON DEMANDING \"HAND OVER YOUR DATA\"... IS NOTHING MORE THAN TYRANNY, DON'T YOU THINK?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:T10",
+      "box_ids": [
+        "PG1:T10"
+      ],
+      "speaker": null,
+      "speaker_status": "unassociated",
+      "text_role": "SPOKEN",
+      "text": "SENSEI... LET'S GO ALREADY... WE DON'T HAVE TIME FOR...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG1:T11",
+      "box_ids": [
+        "PG1:T11"
+      ],
+      "speaker": "E3",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'S JUST AS YOU SAID; I MISMANAGED CONTROL...",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG1:M1",
+      "box_ids": [
+        "PG1:T12",
+        "PG1:T13",
+        "PG1:T14"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "AGREE THAT TELLING YOU TO FREELY SHOW ME YOUR PRECIOUS DATA CAN ONLY BE CALLED TYRANNI- CAL... BUT...",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG2:T1",
+      "box_ids": [
+        "PG2:T1"
+      ],
+      "speaker": "E11",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "I DO NOT WANT TO EXPOSE MY SUBORDINATES TO DANGER DUE TO MY CARELESSNESS..!",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M1",
+      "box_ids": [
+        "PG2:T2",
+        "PG2:T3"
+      ],
+      "speaker": null,
+      "speaker_status": "conflicting_entities",
+      "text_role": "SPOKEN",
+      "text": "IF WE MAKE AN ACHIEVEMENT THEN WE WILL HAND THAT OVER TO YOU. IF YOU'D JUST GIVE US THE DATA...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T4",
+      "box_ids": [
+        "PG2:T4"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SIGH",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T5",
+      "box_ids": [
+        "PG2:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "DID YOU THINK IT'D TURN OUT ALRIGHT IF YOU JUST BOWED YOUR HEAD..?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T6",
+      "box_ids": [
+        "PG2:T6"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HOW TROUBLESOME. DOING THINGS LIKE THIS.\u2026..",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:T7",
+      "box_ids": [
+        "PG2:T7"
+      ],
+      "speaker": "E9",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IS THAT SORT OF THING FITTING FOR A GHOUL INVESTIGA- TOR?",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG2:M2",
+      "box_ids": [
+        "PG2:T8",
+        "PG2:T9"
+      ],
+      "speaker": null,
+      "speaker_status": "conflicting_entities",
+      "text_role": "SPOKEN",
+      "text": "LISTEN TO ME. YOU, ALL OF YOU GUYS, WELL...",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG2:T10",
+      "box_ids": [
+        "PG2:T10"
+      ],
+      "speaker": "E2",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "\"YOU\" IN PARTICULAR.",
+      "needs_review": false
+    }
+  ],
+  [
+    {
+      "group_id": "PG3:T1",
+      "box_ids": [
+        "PG3:T1"
+      ],
+      "speaker": "E11",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "EVEN IF IT WERE A HUMAN THAT'S AN \"UPRIGHT INVESTIGATOR\" DOING THIS SORT OF THING,",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T2",
+      "box_ids": [
+        "PG3:T2"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "IT'D BE NO GOOD.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:T3",
+      "box_ids": [
+        "PG3:T3"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "Talk- inglike that.",
+      "needs_review": false
+    },
+    {
+      "group_id": "PG3:M1",
+      "box_ids": [
+        "PG3:T4",
+        "PG3:T5"
+      ],
+      "speaker": "E1",
+      "speaker_status": "partially_linked",
+      "text_role": "SPOKEN",
+      "text": "WE HAVE AN INVESTIGA- TION. PLEASE ACCEPT IT.",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T6",
+      "box_ids": [
+        "PG3:T6"
+      ],
+      "speaker": "E1",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "HOW'S THE SITUATION LOOKING?",
+      "needs_review": true
+    },
+    {
+      "group_id": "PG3:T7",
+      "box_ids": [
+        "PG3:T7"
+      ],
+      "speaker": "E5",
+      "speaker_status": "linked",
+      "text_role": "SPOKEN",
+      "text": "SENSEI...",
+      "needs_review": false
+    }
+  ]
+]

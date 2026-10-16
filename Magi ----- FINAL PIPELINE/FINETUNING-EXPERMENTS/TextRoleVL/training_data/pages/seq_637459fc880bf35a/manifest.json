@@ -1,0 +1,272 @@
+{
+  "sequence_id": "seq_637459fc880bf35a",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "IF IT AIN'T THE GOLDEN CHILD."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "never seen YCV in the sunshine before."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Got to catch him in the daylight."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "old farts in the rest home turn in early."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "MEX! how many times have i told you to show some RESPECT!"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "You call him \"mister,\" you call him \"PAFA Dino\"..."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "You don't get out of my way. Marvin..."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "...and I'm not gonna call him at all."
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "WHH--"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "...Hey."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Hey, Ash."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "Y'know, I used to be a big fan of yours."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Hey, you ever gonna make any more movies? I think you're still young enough."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "DIRTBAG."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Wm- what was that?!"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "i SAID that you were a DIR7BAG, marvin."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "but i was 7MMKING that you were also a FAT PIG."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "I'll KWE you, you little--"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "EASY, MARVIN, EASY!!"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Slam"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "PUNK..."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Just a punk..."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "FUCKW'... if he wasn't papa's pet, I'd...I'd F- Fuckin'..."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Jesus C#R/S7, marry, full yourself together! He's just a goddamn kid!"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "\"Kid\"? Oh, yeah... that's always been his act. Just a kid, right."
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "Lemme tell you, though... one fine day, I swear I'm gonna snap that worthless little queer's neck."
+    },
+    {
+      "id": "PG3:T10",
+      "page": 3,
+      "text": "!!!!!"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T6",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T8",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

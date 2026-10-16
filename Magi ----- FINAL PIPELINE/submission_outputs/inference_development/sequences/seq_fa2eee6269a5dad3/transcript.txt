@@ -1,0 +1,26 @@
+[Page 01.png]
+character2: ...
+character1: ahh...
+character2: HEY...
+character1: h-h-help me...
+character2: -
+
+[Page 02.png]
+NARRATION: ARE YOU...
+character2: NO. YOU'RE DEFINITELY NOT ALL RIGHT.
+character2: here... in my hand.
+character2: WHAT...
+character2: forty-two Westwood, Los Angeles..
+
+[Page 03.png]
+character6: go see... banana fish...
+character2: !
+character2: WHAT DID YOU SAY?!
+NARRATION: LITTLE STAR
+character2: HOW DO YOU KNOW... WHO ARE YOU?!
+character2: HEY!
+character2: --RAN THIS WAY!
+character2: HERE!
+character2: !
+character7: ..UH.
+NARRATION: LITTLE STAR

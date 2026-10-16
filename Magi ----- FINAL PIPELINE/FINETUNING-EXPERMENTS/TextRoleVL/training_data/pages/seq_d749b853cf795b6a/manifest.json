@@ -1,0 +1,259 @@
+{
+  "sequence_id": "seq_d749b853cf795b6a",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "You're very smart, ash. Far too smart to never be more than boss to a pack of punks."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "I do wish you'd put that right hand of yours to work for me."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Is that a joke, or have you ACTUALLY gone sense sense sense sense sense sense sense sense smile?"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "YOU'VE  CERTAINLY GOT TOO SMART A MOUTH, HAVEN'T YOU, ASH?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Hm?"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "You used to cry over every assignment I gave you."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "HAVE YOU FOR- GOTTEN?"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "unfortun- lately, I've got a bad memory."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "ISAT TO?"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "But there's something you must never forget."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "Ash."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "It was 1 who took you in."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "You know, Ash..."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "...I HEAR YOU'VE BEEN SPENDING A LOT LATELY."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "fich"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "Did you finally find a girl- friend?"
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "None of your business!"
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "Don't forget me, Ash."
+    },
+    {
+      "id": "PG2:T12",
+      "page": 2,
+      "text": "You know I love you, sweet- heart."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Bay"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Thank you for your concern."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "..."
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "HEY, MAN."
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "I HEARD YOU WERE WRESTLING WITH FORKCHOP MARVIN AGAIN."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Food"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "Nah. That wasn't wrestling."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL7",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL4",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL7"
+    },
+    {
+      "text_id": "PG2:T10",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL3"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T5",
+      "tail_id": "PG3:TAIL4"
+    },
+    {
+      "text_id": "PG3:T7",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

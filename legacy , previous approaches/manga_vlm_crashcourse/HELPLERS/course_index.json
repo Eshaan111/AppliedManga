@@ -1,0 +1,20 @@
+{
+  "course": "Manga VLM Crash Course",
+  "notebooks": [
+    "00_environment_and_sanity.ipynb",
+    "01_huggingface_vlm_inference.ipynb",
+    "02_how_vlms_work.ipynb",
+    "03_vit_basics.ipynb",
+    "04_lora_peft.ipynb",
+    "05_vlm_supervised_finetuning.ipynb",
+    "06_ocr_pipelines.ipynb",
+    "07_bounding_boxes_opencv.ipynb",
+    "08_manga_reading_order.ipynb",
+    "09_visual_embeddings_clip_dino.ipynb",
+    "10_character_clustering_matching.ipynb",
+    "11_structured_json_generation.ipynb",
+    "12_evaluation_error_analysis.ipynb"
+  ],
+  "python_recommended": "3.11",
+  "notes": "Install the correct PyTorch build for your CUDA system before installing the rest."
+}

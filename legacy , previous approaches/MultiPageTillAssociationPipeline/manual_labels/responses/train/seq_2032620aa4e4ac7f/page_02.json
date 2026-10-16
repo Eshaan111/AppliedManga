@@ -1,0 +1,40 @@
+{
+  "sequence_id": "seq_2032620aa4e4ac7f",
+  "page_number": 2,
+  "split": "train",
+  "stage_fingerprint": {
+    "bubbles_clean.json": "94cf1fa31c1d31d9d07d6214222987987c1aa9b8e582b5fa94e61bf06aa97b72",
+    "ocr_clean.json": "86a1b71615b5346240c93674e625d395ce8022fe3abfbf9b8ac15ce495c2d15f",
+    "bubble_gt_labels.json": "120688dd78de763ce259699e2bdbe6dd68d3790bb40dbbd83c93af0842eb1271",
+    "characters.json": "e5b0b2586c341f985ff3d35fb8e9bb380093307420159401d8a766350d7e82b5"
+  },
+  "detections_sha256": "e5b0b2586c341f985ff3d35fb8e9bb380093307420159401d8a766350d7e82b5",
+  "page_sha256": "804e744dd2df7b4bab94048b4ef77756d3e6a03230445f87c18edbcb9917c74d",
+  "answer": "",
+  "rejected_answer": "A1, A2, A3, A4, A5, A6, A7",
+  "character_appearances": {},
+  "rejected_appearances": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5",
+    "A6",
+    "A7"
+  ],
+  "unassigned_appearances": [],
+  "bubble_speaker_overrides": {
+    "B1": "UNKNOWN",
+    "B2": "UNKNOWN"
+  },
+  "added_appearances": [],
+  "appearance_to_detection": {
+    "A1": "C1",
+    "A2": "C2",
+    "A3": "C3",
+    "A4": "C4",
+    "A5": "C5",
+    "A6": "C6",
+    "A7": "C7"
+  }
+}

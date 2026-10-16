@@ -1,0 +1,281 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "hagh",
+    "cleaned_text": "hagh",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "haah.",
+    "cleaned_text": "haah.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "WHAT ..?",
+    "cleaned_text": "WHAT ..?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "..?",
+    "cleaned_text": "..?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "hah.",
+    "cleaned_text": "hah.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "WHAT THE HELL? hah",
+    "cleaned_text": "WHAT THE HELL? hah",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "hah.",
+    "cleaned_text": "hah.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "hah",
+    "cleaned_text": "hah",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "hah.",
+    "cleaned_text": "hah.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "MY LEG WON'T \u2022\u2022\u2022",
+    "cleaned_text": "MY LEG WON'T \u2026",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "MASTER",
+    "cleaned_text": "MASTER",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "WHAT'S WRONG .?",
+    "cleaned_text": "WHAT\u2019S WRONG .?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "JOTARO.",
+    "cleaned_text": "JOTARO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "YOU",
+    "cleaned_text": "YOU",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "YOU CAN'T STAND ..!?",
+    "cleaned_text": "YOU CAN\u2019T STAND ..!?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "DON'T PUSH YOUR- SELF!",
+    "cleaned_text": "DON'T PUSH YOURSELF!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "YOUR WOUNDS WILL OPEN BACK UP!",
+    "cleaned_text": "YOUR WOUNDS WILL OPEN BACK UP!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "nah",
+    "cleaned_text": "nah",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "haah.",
+    "cleaned_text": "haah.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "hah.",
+    "cleaned_text": "hah.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "hagh.",
+    "cleaned_text": "hagh.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "UNKNOWN",
+    "raw_text": "hagh",
+    "cleaned_text": "hagh",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "UNKNOWN",
+    "raw_text": "haah.",
+    "cleaned_text": "haah.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 13,
+    "speaker": "UNKNOWN",
+    "raw_text": "...DID TAKUAN DO THIS?",
+    "cleaned_text": "...DID TAKUAN DO THIS?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "AT FIRST \u2022\u2022\u2022",
+    "cleaned_text": "AT FIRST \u2022\u2022\u2022",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "HAD A PHYSICIAN COME.",
+    "cleaned_text": "HAD A PHYSICIAN COME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "WHAT DID HE SAY?",
+    "cleaned_text": "WHAT DID HE SAY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "HE WAS PROBABLY ONE OF THE TOP TWG PHYSICIANS IN KYOTO.",
+    "cleaned_text": "HE WAS PROBABLY ONE OF THE TOP TWG PHYSICIANS IN KYOTO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character4",
+    "raw_text": "HE SAID YOUR FIGHTING DAYS ARE OVER.",
+    "cleaned_text": "HE SAID YOUR FIGHTING DAYS ARE OVER.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

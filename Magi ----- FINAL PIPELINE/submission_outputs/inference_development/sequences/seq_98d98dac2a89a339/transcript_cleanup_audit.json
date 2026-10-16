@@ -1,0 +1,182 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "I'M TRYING MY BEST TO NOT JUST CAUSE PROBLEMS.. FOR SENSEI, BUT...",
+    "cleaned_text": "I\u2019M TRYING MY BEST TO NOT JUST CAUSE PROBLEMS\u2026 FOR SENSEI, BUT\u2026",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "HOW ABOUT YOUR \"FRIENDS\"?",
+    "cleaned_text": "HOW ABOUT YOUR \"FRIENDS\"?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "IT SEEMS NONE OF THE OTHERS EXCEPT THE \"SQUAD LEADER\" HAVE COME TO HAVE THEIR BLOOD DRAWN?",
+    "cleaned_text": "IT SEEMS NONE OF THE OTHERS EXCEPT THE \u201cSQUAD LEADER\u201d HAVE COME TO HAVE THEIR BLOOD DRAWN?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "...THE SAME AS USUAL. EVERYONE IS GOING AT THEIR OWN PACE.",
+    "cleaned_text": "...THE SAME AS USUAL. EVERYONE IS GOING AT THEIR OWN PACE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "I'LL TELL EVERYONE.",
+    "cleaned_text": "I'LL TELL EVERYONE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "TELL SASAKI-KUN PROPERLY TOO.",
+    "cleaned_text": "TELL SASAKI-KUN PROPERLY TOO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "OKAY.",
+    "cleaned_text": "OKAY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "THE SQUAD LEADER AND SHIRAZU-KUN ARE BOTH ON INDEPENDENT INVESTIGATIONS, AREN'T THEY\u2026?",
+    "cleaned_text": "THE SQUAD LEADER AND SHIRAZU-KUN ARE BOTH ON INDEPENDENT INVESTIGATIONS, AREN'T THEY\u2026?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character3",
+    "raw_text": "1 WONDER IF SAIKO-CHAN... OVERSLEPT AGAIN... EVEN THOUGH SENSEI TOLD EVERYONE TO COOPERATE...",
+    "cleaned_text": "1 WONDER IF SAIKO-CHAN... OVERSLEPT AGAIN... EVEN THOUGH SENSEI TOLD EVERYONE TO COOPERATE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "WELL, BUT, EVEN IF I TELL THEM THEY WON'T LISTEN TO ME ANYHOW... OUCH!",
+    "cleaned_text": "WELL, BUT, EVEN IF I TELL THEM THEY WON'T LISTEN TO ME ANYHOW... OUCH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "AH...",
+    "cleaned_text": "AH...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character3",
+    "raw_text": "I'M SORRY",
+    "cleaned_text": "I'M SORRY",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "..A GUY FROM THE \"NEWLY ESTABLISHED UNIT\"?",
+    "cleaned_text": "..A GUY FROM THE \"NEWLY ESTABLISHED UNIT\"?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "...LOOKS SO WEAK. THOSE GUYS ARE OUR THE HIRAKO SQUAD'S, RIVALS?",
+    "cleaned_text": "...LOOKS SO WEAK. THOSE GUYS ARE OUR THE HIRAKO SQUAD\u2019S, RIVALS?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "I DON'T WANT THEM LOOKING DOWN ON US.",
+    "cleaned_text": "I DON'T WANT THEM LOOKING DOWN ON US.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character8",
+    "raw_text": "NOW, NOW, I TOLD YOU \"PLEASE GET ALONG\", SINCE THEY ARE OUR COM- RADES.",
+    "cleaned_text": "NOW, NOW, I TOLD YOU \"PLEASE GET ALONG\", SINCE THEY ARE OUR COM-RADES.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character8",
+    "raw_text": "BUT, THEY ARE A SCARY SQUAD IN \"SEVERAL WAYS\"...",
+    "cleaned_text": "BUT, THEY ARE A SCARY SQUAD IN \u201cSEVERAL WAYS\u201d\u2026",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character8",
+    "raw_text": "WELL, I DON'T KNOW WHAT THE HIGHER UPS ARE THINKING.",
+    "cleaned_text": "WELL, I DON'T KNOW WHAT THE HIGHER UPS ARE THINKING.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "UNKNOWN",
+    "raw_text": "SO, HOW ABOUT IT? WHAT ABOUT THAT \"NEWLY ESTABLISHED UNIT\"?",
+    "cleaned_text": "SO, HOW ABOUT IT? WHAT ABOUT THAT \"NEWLY ESTABLISHED UNIT\"?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "UNKNOWN",
+    "raw_text": "NAH. CONSIDERING ALL THE FANFARE WHEN IT WAS ESTABLISHED IT SEEMS LIKE IT ISN'T GOING TO PRODUCE ANY RESULTS AT ALL.",
+    "cleaned_text": "NAH. CONSIDERING ALL THE FANFARE WHEN IT WAS ESTABLISHED IT SEEMS LIKE IT ISN'T GOING TO PRODUCE ANY RESULTS AT ALL.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

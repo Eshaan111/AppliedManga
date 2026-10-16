@@ -1,0 +1,11 @@
+torch>=2.2
+torchvision
+transformers>=4.40,<6
+huggingface-hub
+safetensors
+pillow
+numpy
+scikit-learn
+matplotlib
+nbformat
+ipykernel

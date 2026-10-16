@@ -1,0 +1,126 @@
+{
+  "sequence_id": "seq_d7af6c64ebc22bbe",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "MAN GA STREANLAD DO NOT MIRROR"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Pochita!"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "MANGA SPREAN: Do not mirror"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Hmm?"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "You're still alive after getting out to pieces?"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "GROSS!"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "I really hate you devil hunters!"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "You guys! Eat him up!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Why did they want a better life"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "When they were already so well off?"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "...was that how I was?"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "As long as I had pochita that was enough,"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "But I still dreamed of a better life."
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "I get it. Everyone's got their own dreams."
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "MANGA STREAMLAD do not mirror"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "There's nothin' wrong with that,"
+    },
+    {
+      "id": "PG3:T9",
+      "page": 3,
+      "text": "There's nothin' wrong with that, but..."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL2"
+    }
+  ]
+}

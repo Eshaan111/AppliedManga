@@ -1,0 +1,92 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": ".",
+    "cleaned_text": ".",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "THAT CAN'T BE...",
+    "cleaned_text": "THAT CAN'T BE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "MASTER CAN'T USE A SWORD ANYMORE",
+    "cleaned_text": "MASTER CAN'T USE A SWORD ANYMORE",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character4",
+    "raw_text": "WAS THE WOUND THAT DEEP?",
+    "cleaned_text": "WAS THE WOUND THAT DEEP?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "IT SEEMS LIKE THEY'RE NOT SURE IF HE'LL BE ABLE TO WALK EVER AGAIN.",
+    "cleaned_text": "IT SEEMS LIKE THEY'RE NOT SURE IF HE'LL BE ABLE TO WALK EVER AGAIN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character1",
+    "raw_text": "OTSU, YOU PROBABLY DON'T UNDERSTAND BECAUSE YOU'RE A WOMAN,",
+    "cleaned_text": "OTSU, YOU PROBABLY DON'T UNDERSTAND BECAUSE YOU'RE A WOMAN,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "BUT MASTER WAS BORN FOR THE SWORD. HE'S A LIVING SWORD.",
+    "cleaned_text": "BUT MASTER WAS BORN FOR THE SWORD. HE'S A LIVING SWORD.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "OR SO SOMEONE SAID.",
+    "cleaned_text": "OR SO SOMEONE SAID.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

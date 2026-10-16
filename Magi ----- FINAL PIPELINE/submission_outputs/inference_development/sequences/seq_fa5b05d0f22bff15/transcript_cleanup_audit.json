@@ -1,0 +1,272 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "A SUSPENDED SENTENCE?",
+    "cleaned_text": "A SUSPENDED SENTENCE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "sO... IT'S ON HOLD FOR NOW?",
+    "cleaned_text": "SO... IT\u2019S ON HOLD FOR NOW?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "YUP.",
+    "cleaned_text": "YUP.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "LET ME EXPLAIN FROM THE TOP.",
+    "cleaned_text": "LET ME EXPLAIN FROM THE TOP.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "THIS IS THE SAME AS THE CURSED OBJECT YOU ATE.",
+    "cleaned_text": "THIS IS THE SAME AS THE CURSED OBJECT YOU ATE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "THERE'RE 2O IN ALL. WE'RE IN POSSESSION OF SIX.",
+    "cleaned_text": "THERE\u2019RE 20 IN ALL. WE\u2019RE IN POSSESSION OF SIX.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "TWENTY? OH, COUNT- ING BOTH FINGERS AND TOES.",
+    "cleaned_text": "TWENTY? OH, COUNTING BOTH FINGERS AND TOES.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "NOPE, SUKUNA HAS FOUR ARMS.",
+    "cleaned_text": "NOPE, SUKUNA HAS FOUR ARMS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "OM!",
+    "cleaned_text": "OM!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "!!",
+    "cleaned_text": "!!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "AS YOU CAN SEE...",
+    "cleaned_text": "AS YOU CAN SEE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "... YOU CAN'T DESTROY THEM.",
+    "cleaned_text": "... YOU CAN'T DESTROY THEM.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "character3",
+    "raw_text": "IT'S THAT POWERFUL OF A CURSE.",
+    "cleaned_text": "IT\u2019S THAT POWERFUL OF A CURSE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "WITH EACH PASSING DAY, THEY GET EVEN STRONGER.",
+    "cleaned_text": "WITH EACH PASSING DAY, THEY GET EVEN STRONGER.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "OOPS, I'MADE A,HOLE IN THE",
+    "cleaned_text": "OOPS, I\u2019MADE A,HOLE IN THE",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "WE ACTUALLY DON'T HAVE ANYONE THAT CAN SEAL THEM PROPERLY RIGHT NOW.",
+    "cleaned_text": "WE ACTUALLY DON'T HAVE ANYONE THAT CAN SEAL THEM PROPERLY RIGHT NOW.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "NARRATION",
+    "raw_text": "THAT'S WHERE YOU COME IN.",
+    "cleaned_text": "THAT\u2019S WHERE YOU COME IN.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character3",
+    "raw_text": "IF YOU DIE...",
+    "cleaned_text": "IF YOU DIE...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "...THE CURSE INSIDE YOU, SUKUNA, WILL DIE AS WELL!",
+    "cleaned_text": "...THE CURSE INSIDE YOU, SUKUNA, WILL DIE AS WELL!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "OUR ELDERS ARE COWARDS.",
+    "cleaned_text": "OUR ELDERS ARE COWARDS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "THEY'RE MAKING A FUSS ABOUT KILLING YOU RIGHT AWAY.",
+    "cleaned_text": "THEY\u2019RE MAKING A FUSS ABOUT KILLING YOU RIGHT AWAY.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "BUT THAT WOULD BE A WASTE, RIGHT?",
+    "cleaned_text": "BUT THAT WOULD BE A WASTE, RIGHT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 11,
+    "speaker": "character1",
+    "raw_text": "A WASTE?",
+    "cleaned_text": "A WASTE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 12,
+    "speaker": "character2",
+    "raw_text": "THERE'S NO GUARANTEE THAT A VESSEL CAPABLE OF CONTROLLING SUKUNA WILL EVER COME AROUND AGAIN.",
+    "cleaned_text": "THERE'S NO GUARANTEE THAT A VESSEL CAPABLE OF CONTROLLING SUKUNA WILL EVER COME AROUND AGAIN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 13,
+    "speaker": "character2",
+    "raw_text": "SO THIS WAS MY PROPOSAL",
+    "cleaned_text": "SO THIS WAS MY PROPOSAL",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character3",
+    "raw_text": "\"IF WE'RE GONNA KILL HIM... ...WHY NOT KILL HIM AFTER HE CONSUMES THE REST OF SUKUNA?\"",
+    "cleaned_text": "\u201cIF WE\u2019RE GONNA KILL HIM... ...WHY NOT KILL HIM AFTER HE CONSUMES THE REST OF SUKUNA?\u201d",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "THE HIGHER- UPS AGREED.",
+    "cleaned_text": "THE HIGHER-UPS AGREED.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "so NOW YOU HAVE TWO OPTIONS.",
+    "cleaned_text": "SO NOW YOU HAVE TWO OPTIONS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "DIE NOW OR..",
+    "cleaned_text": "DIE NOW OR..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "...FIND THE REMAINING PARTS OF SUKUNA... .AND DIE AFTER TAKING THEM ALL INTO YOUR BODY.",
+    "cleaned_text": "...FIND THE REMAINING PARTS OF SUKUNA... .AND DIE AFTER TAKING THEM ALL INTO YOUR BODY.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

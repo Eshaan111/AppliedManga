@@ -1,0 +1,107 @@
+{
+  "sequence_id": "seq_d8bc3c6ac1bb6017",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Liguors"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "125°St"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "GRAi 125.5"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Coat"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Restaurant-Bait"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "March 4, 1985:ieBne-park,thebook.info"
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "GOD!"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Oh..."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "M- MA'AM!?"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "JERRY..."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "Jerry!!!"
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "C-CALL... CALL AN AMBU... AMBU..."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "K-Chak"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "K-Chak"
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "WHADYA THINK, JENKINS?"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Shhrov"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "Suicide?"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "...Fardon ME."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

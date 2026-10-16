@@ -1,0 +1,200 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "WHERE ARE YOU HEADED?",
+    "cleaned_text": "WHERE ARE YOU HEADED?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "TO WEST PARK.",
+    "cleaned_text": "TO WEST PARK.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "Soon I'll have exhausted my funds.",
+    "cleaned_text": "Soon I'll have exhausted my funds.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "IF PUSH COMES TO SHOVE SHOULD I JUST RIDE FOR FREE UNDER THE PRETEXT OF AN INVESTIGATION?",
+    "cleaned_text": "IF PUSH COMES TO SHOVE SHOULD I JUST RIDE FOR FREE UNDER THE PRETEXT OF AN INVESTIGATION?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "YOU MAKE CANDY?",
+    "cleaned_text": "YOU MAKE CANDY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "HUH?",
+    "cleaned_text": "HUH?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "I MEAN, YOUR HOBBY.",
+    "cleaned_text": "I MEAN, YOUR HOBBY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "NARRATION",
+    "raw_text": "ank you very mucn ior riun",
+    "cleaned_text": "THANK YOU VERY MUCH FOR RUNNING",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "Making Candy",
+    "cleaned_text": "Making Candy",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "Hobby",
+    "cleaned_text": "Hobby",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 10,
+    "speaker": "character2",
+    "raw_text": "OH... YEAH, THOUGH IT'S EMBARRASSING.",
+    "cleaned_text": "OH... YEAH, THOUGH IT\u2019S EMBARRASSING.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character4",
+    "raw_text": "I MAKE THINGS LIKE CREAM PUFFS IN THE OVEN.",
+    "cleaned_text": "I MAKE THINGS LIKE CREAM PUFFS IN THE OVEN.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "UNKNOWN",
+    "raw_text": "THAT FLUFFY AND FLAKY TEXTURE, AND THAT WHIP CREAM SPILLING OUT. OHH-? FROM THE SHELL?",
+    "cleaned_text": "THAT FLUFFY AND FLAKY TEXTURE, AND THAT WHIP CREAM SPILLING OUT. OHH-? FROM THE SHELL?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character4",
+    "raw_text": "YEAH, YEAH. STUFFING YOUR MOUTH WITH THE PIPING HOT ONES RIGHT OUT OF THE OVEN IS SUPREME BLISS.",
+    "cleaned_text": "YEAH, YEAH. STUFFING YOUR MOUTH WITH THE PIPING HOT ONES RIGHT OUT OF THE OVEN IS SUPREME BLISS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "HMM, HOW NICE.",
+    "cleaned_text": "HMM, HOW NICE.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character2",
+    "raw_text": "TODAY, I MADE SOME FOR LUNCH TOO.",
+    "cleaned_text": "TODAY, I MADE SOME FOR LUNCH TOO.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "\"TODAY\"? YEAH, I DO WHENEVERT I HAVE SOME FREE TIME.",
+    "cleaned_text": "\u201cTODAY\u201d? YEAH, I DO WHENEVER I HAVE SOME FREE TIME.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "I'M SURPRISINGLY ADDICTED TO IT. IT CALMS ME DOWN SOMEHOW. HOW ABOUT YOU, ONII-SAN?",
+    "cleaned_text": "I'M SURPRISINGLY ADDICTED TO IT. IT CALMS ME DOWN SOMEHOW. HOW ABOUT YOU, ONII-SAN?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "NAH, I HATE SWEET THINGS.",
+    "cleaned_text": "NAH, I HATE SWEET THINGS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "OKAY, THIS IS GOOD.",
+    "cleaned_text": "OKAY, THIS IS GOOD.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character6",
+    "raw_text": "UM... RIGHT HERE IS OKAY?",
+    "cleaned_text": "UM... RIGHT HERE IS OKAY?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character6",
+    "raw_text": "?",
+    "cleaned_text": "?",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character8",
+    "raw_text": "IT WILL BE DANGEROUS IF THE NEWCOMERS WERE TO HAVE A STANDOFF WITH THE TARGET GHOUL.. I MUST GO AHEAD AND STOP THEM EVEN MORE THAN I'D HAVE TO GO FOR A SUBORDINATE...",
+    "cleaned_text": "IT WILL BE DANGEROUS IF THE NEWCOMERS WERE TO HAVE A STANDOFF WITH THE TARGET GHOUL.. I MUST GO AHEAD AND STOP THEM EVEN MORE THAN I\u2019D HAVE TO GO FOR A SUBORDINATE...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character4",
+    "raw_text": "WE HAVE OUR OWN WAY OF DOING THINGS, SO PLEASE GIVE UP.",
+    "cleaned_text": "WE HAVE OUR OWN WAY OF DOING THINGS, SO PLEASE GIVE UP.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "BUT .!",
+    "cleaned_text": "BUT.!.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "...OR PERHAPS I SHOULD SAY RANK 1 SASAKI, WAS IT? THE SOURCE OF ALL THIS FROM THE START WAS",
+    "cleaned_text": "...OR PERHAPS I SHOULD SAY RANK 1 SASAKI, WAS IT? THE SOURCE OF ALL THIS FROM THE START WAS",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "THAT YOU COULDN'T CONTROL YOUR SUBORDINATES, WASN'T IT?",
+    "cleaned_text": "THAT YOU COULDN'T CONTROL YOUR SUBORDINATES, WASN'T IT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "AND WITH THAT REASON DEMANDING \"HAND OVER YOUR DATA\"... IS NOTHING MORE THAN TYRANNY, DON'T YOU THINK?",
+    "cleaned_text": "AND WITH THAT REASON DEMANDING \u201cHAND OVER YOUR DATA\u2026\u201d IS NOTHING MORE THAN TYRANNY, DON\u2019T YOU THINK?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "UNKNOWN",
+    "raw_text": "SENSEI... LET'S GO ALREADY... WE DON'T HAVE TIME FOR...",
+    "cleaned_text": "SENSEI... LET'S GO ALREADY... WE DON'T HAVE TIME FOR...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character3",
+    "raw_text": "IT'S JUST AS YOU SAID; I MISMANAGED CONTROL...",
+    "cleaned_text": "IT\u2019S JUST AS YOU SAID; I MISMANAGED CONTROL...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "AGREE THAT TELLING YOU TO FREELY SHOW ME YOUR PRECIOUS DATA CAN ONLY BE CALLED TYRANNI- CAL... BUT...",
+    "cleaned_text": "AGREE THAT TELLING YOU TO FREELY SHOW ME YOUR PRECIOUS DATA CAN ONLY BE CALLED TYRANNI- CAL... BUT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character11",
+    "raw_text": "I DO NOT WANT TO EXPOSE MY SUBORDINATES TO DANGER DUE TO MY CARELESSNESS..!",
+    "cleaned_text": "I DO NOT WANT TO EXPOSE MY SUBORDINATES TO DANGER DUE TO MY CARELESSNESS..!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "UNKNOWN",
+    "raw_text": "IF WE MAKE AN ACHIEVEMENT THEN WE WILL HAND THAT OVER TO YOU. IF YOU'D JUST GIVE US THE DATA...",
+    "cleaned_text": "IF WE MAKE AN ACHIEVEMENT THEN WE WILL HAND THAT OVER TO YOU. IF YOU\u2019D JUST GIVE US THE DATA...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "SIGH",
+    "cleaned_text": "SIGH",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "DID YOU THINK IT'D TURN OUT ALRIGHT IF YOU JUST BOWED YOUR HEAD..?",
+    "cleaned_text": "DID YOU THINK IT\u2019D TURN OUT ALRIGHT IF YOU JUST BOWED YOUR HEAD..?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character9",
+    "raw_text": "HOW TROUBLESOME. DOING THINGS LIKE THIS.\u2026..",
+    "cleaned_text": "HOW TROUBLESOME. DOING THINGS LIKE THIS\u2026..",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character9",
+    "raw_text": "IS THAT SORT OF THING FITTING FOR A GHOUL INVESTIGA- TOR?",
+    "cleaned_text": "IS THAT SORT OF THING FITTING FOR A GHOUL INVESTIGATOR?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "UNKNOWN",
+    "raw_text": "LISTEN TO ME. YOU, ALL OF YOU GUYS, WELL...",
+    "cleaned_text": "LISTEN TO ME. YOU, ALL OF YOU GUYS, WELL...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "\"YOU\" IN PARTICULAR.",
+    "cleaned_text": "\u201cYOU\u201d IN PARTICULAR.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character11",
+    "raw_text": "EVEN IF IT WERE A HUMAN THAT'S AN \"UPRIGHT INVESTIGATOR\" DOING THIS SORT OF THING,",
+    "cleaned_text": "EVEN IF IT WERE A HUMAN THAT\u2019S AN \u201cUPRIGHT INVESTIGATOR\u201d DOING THIS SORT OF THING,",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "IT'D BE NO GOOD.",
+    "cleaned_text": "IT\u2019D BE NO GOOD.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character5",
+    "raw_text": "Talk- inglike that.",
+    "cleaned_text": "Talkinglike that.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "WE HAVE AN INVESTIGA- TION. PLEASE ACCEPT IT.",
+    "cleaned_text": "WE HAVE AN INVESTIGATION. PLEASE ACCEPT IT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "HOW'S THE SITUATION LOOKING?",
+    "cleaned_text": "HOW\u2019S THE SITUATION LOOKING?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character5",
+    "raw_text": "SENSEI...",
+    "cleaned_text": "SENSEI...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

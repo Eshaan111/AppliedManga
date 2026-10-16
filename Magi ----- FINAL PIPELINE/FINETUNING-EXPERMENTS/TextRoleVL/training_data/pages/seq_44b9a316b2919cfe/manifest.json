@@ -1,0 +1,271 @@
+{
+  "sequence_id": "seq_44b9a316b2919cfe",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Huh? Where are the other two?"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Well..."
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Squad Leader Urie and Rank 3 Shirazu..."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "ARE PERFORMING SOLO INVESTI- GATIONS..."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "It seems they are investigating about the Ghoul called \"Torso\"..."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "what!?"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "\"Torso\" is estimated to be a dangerous A rate ghoul..."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Were you able to get in touch with those two?"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "EVEN THOUGH THOSE INEXPERIENCEED TWO SHOULD BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE BE"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "I-I was not able to."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Let's go get the investi- gallon data"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "From the team investigating Torso."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "mutsuki- kun, you come too!"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "The first time I was in the middle of the day, I was"
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "okay."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "Those idiots"
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": ".................."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "Where is Salko-chan today?"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "Umm... I greeted her when I was leaving but..."
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "It seems she was up late last night..."
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "I UNDER- STAND... When I get back I'll give her a lecture."
+    },
+    {
+      "id": "PG2:T12",
+      "page": 2,
+      "text": "Akira-san, it..."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "is taking my best efforts just to unify the team"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "to say nothing of creating investigators like Special Class Arima..."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "The data?"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "You guys aren't responsible for TORSO, are you?"
+    },
+    {
+      "id": "PG3:T5",
+      "page": 3,
+      "text": "I UNDER- STAND that you're getting desperate"
+    },
+    {
+      "id": "PG3:T6",
+      "page": 3,
+      "text": "Because Hirako's squad has a big lead on you"
+    },
+    {
+      "id": "PG3:T7",
+      "page": 3,
+      "text": "But I really wonder about you going so far"
+    },
+    {
+      "id": "PG3:T8",
+      "page": 3,
+      "text": "AS TO SNATCH UP ANOTHER GROUP'S JOB..."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T9",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T4",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T8",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG2:T12",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL1"
+    }
+  ]
+}

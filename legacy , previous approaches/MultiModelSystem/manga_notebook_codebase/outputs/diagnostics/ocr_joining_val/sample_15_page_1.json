@@ -1,0 +1,165 @@
+{
+  "sequence_id": "seq_de542b63e6b19bc2",
+  "page_index": 1,
+  "raw_count": 7,
+  "target_count": 2,
+  "filter_exclusions": [],
+  "excluded_sound_effects": [],
+  "processing_note": "Saved TextExtractionPipeline groups, already filtered and joined. No OCR, filtering, or joining is run by diagnostics. References are comparison only; order is spatial.",
+  "groups": [
+    {
+      "candidate_ids": [
+        "c0",
+        "c1"
+      ],
+      "text": "ITA- DORI?!",
+      "box": [
+        241.0,
+        801.0,
+        323.0,
+        848.0
+      ],
+      "id": "g0",
+      "score": 0.9986958205699921,
+      "target_index": 0,
+      "target_text": "ITADORI?!",
+      "similarity": 1.0
+    },
+    {
+      "candidate_ids": [
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "text": "THIS IS THE FOURTH",
+      "box": [
+        251.0,
+        948.0,
+        320.0,
+        1014.0
+      ],
+      "id": "g1",
+      "score": 0.9880669514338175,
+      "target_index": 1,
+      "target_text": "THIS IS THE FOURTH FLOOR!",
+      "similarity": 0.8571428571428571
+    },
+    {
+      "candidate_ids": [
+        "c5"
+      ],
+      "text": "FLOOR!",
+      "box": [
+        247.0,
+        994.0,
+        316.0,
+        1033.0
+      ],
+      "id": "g2",
+      "score": 0.940851628780365,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    },
+    {
+      "candidate_ids": [
+        "c6"
+      ],
+      "text": "40",
+      "box": [
+        683.0,
+        1120.0,
+        714.0,
+        1146.0
+      ],
+      "id": "g3",
+      "score": 0.9999950528144836,
+      "target_index": null,
+      "target_text": null,
+      "similarity": null
+    }
+  ],
+  "unmatched_targets": [],
+  "raw_ocr": [
+    {
+      "id": "c0",
+      "text": "ITA-",
+      "score": 0.9986625909805298,
+      "box": [
+        254.0,
+        801.0,
+        306.0,
+        828.0
+      ]
+    },
+    {
+      "id": "c1",
+      "text": "DORI?!",
+      "score": 0.9987290501594543,
+      "box": [
+        241.0,
+        820.0,
+        323.0,
+        848.0
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "THIS",
+      "score": 0.999821662902832,
+      "box": [
+        268.0,
+        948.0,
+        314.0,
+        977.0
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "IS THE",
+      "score": 0.964501678943634,
+      "box": [
+        256.0,
+        962.0,
+        320.0,
+        996.0
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "FOURTH",
+      "score": 0.9998775124549866,
+      "box": [
+        251.0,
+        980.0,
+        319.0,
+        1014.0
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "FLOOR!",
+      "score": 0.940851628780365,
+      "box": [
+        247.0,
+        994.0,
+        316.0,
+        1033.0
+      ]
+    },
+    {
+      "id": "c6",
+      "text": "40",
+      "score": 0.9999950528144836,
+      "box": [
+        683.0,
+        1120.0,
+        714.0,
+        1146.0
+      ]
+    }
+  ],
+  "transcript": "ITA- DORI?!\nTHIS IS THE FOURTH\nFLOOR!\n40",
+  "sample_index": 15,
+  "preview_file": "sample_15_page_1.html"
+}

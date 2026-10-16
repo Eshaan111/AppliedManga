@@ -1,0 +1,263 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "WHEN IT'S YOUR TIME TO GO, MAKE SURE YOU'RE SURROUNDED BY OTHERS.",
+    "cleaned_text": "WHEN IT\u2019S YOUR TIME TO GO, MAKE SURE YOU\u2019RE SURROUNDED BY OTHERS.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character1",
+    "raw_text": "DON'T END UP LIKE ME.",
+    "cleaned_text": "DON'T END UP LIKE ME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "character1",
+    "raw_text": "GRANDPA?",
+    "cleaned_text": "GRANDPA?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "YES? HOW MAY I HELP YOU?",
+    "cleaned_text": "YES? HOW MAY I HELP YOU?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "MR. ITA- DORI?",
+    "cleaned_text": "MR. ITA- DORI?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "UNKNOWN",
+    "raw_text": "MY GRANDPA IS DEAD.",
+    "cleaned_text": "MY GRANDPA IS DEAD.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "SUGISAWA HOSPITAL",
+    "cleaned_text": "SUGISAWA HOSPITAL",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "RECEPTION",
+    "cleaned_text": "RECEPTION",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "NARRATION",
+    "raw_text": "YUP, THAT SHOULD BE IT FOR THE DOCUMENTS.",
+    "cleaned_text": "YUP, THAT SHOULD BE IT FOR THE DOCUMENTS.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character3",
+    "raw_text": "OKAY. THANKS FOR EVERY- THING.",
+    "cleaned_text": "OKAY. THANKS FOR EVERYTHING.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character4",
+    "raw_text": "ARE YOU SURE YOU'RE OKAY?",
+    "cleaned_text": "ARE YOU SURE YOU\u2019RE OKAY?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "WELL, IT'S KIND OF MY FIRST TIME EXPERIENCING THIS. IT HASN'T REALLY SUNK IN YET...",
+    "cleaned_text": "WELL, IT\u2019S KIND OF MY FIRST TIME EXPERIENCING THIS. IT HASN\u2019T REALLY SUNK IN YET...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character1",
+    "raw_text": "MY GRANDPA WOULD BE MAD IF I MOPED AROUND...",
+    "cleaned_text": "MY GRANDPA WOULD BE MAD IF I MOPED AROUND...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "...SO I'LL JUST HAVE TO LAUGH WHILE I BURN HIM UP.",
+    "cleaned_text": "...SO I'LL JUST HAVE TO LAUGH WHILE I BURN HIM UP.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 9,
+    "speaker": "character1",
+    "raw_text": "HOW CAN YOU SAY THAT?!",
+    "cleaned_text": "HOW CAN YOU SAY THAT?!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 10,
+    "speaker": "character5",
+    "raw_text": "YUJI ITADORI, CORRECT?",
+    "cleaned_text": "YUJI ITADORI, CORRECT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character5",
+    "raw_text": "I'M FROM JUJUTSU HIGH SCHOOL.",
+    "cleaned_text": "I'M FROM JUJUTSU HIGH SCHOOL.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character5",
+    "raw_text": "SORRY, BUT THERE'S NO TIME.",
+    "cleaned_text": "SORRY, BUT THERE'S NO TIME.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "JUJUTSU HIGH SCHOOL FIRST-YEAR MEGUMI FUSHIGURO",
+    "cleaned_text": "JUJUTSU HIGH SCHOOL FIRST-YEAR MEGUMI FUSHIGURO",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "THE CURSED OBJECT YOU HAVE IS EXTREMELY DANGEROUS. HAND IT OVER RIGHT AWAY.",
+    "cleaned_text": "THE CURSED OBJECT YOU HAVE IS EXTREMELY DANGEROUS. HAND IT OVER RIGHT AWAY.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "NARRATION",
+    "raw_text": "WHO ARE YOU? I'M MOURN-",
+    "cleaned_text": "WHO ARE YOU? I'M MOURN-",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character9",
+    "raw_text": "CURSED OBJECT?",
+    "cleaned_text": "CURSED OBJECT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "FRIEND?",
+    "cleaned_text": "FRIEND?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 7,
+    "speaker": "character5",
+    "raw_text": "THIS. YOU HAVE IT, RIGHT?",
+    "cleaned_text": "THIS. YOU HAVE IT, RIGHT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 8,
+    "speaker": "character1",
+    "raw_text": "HM?",
+    "cleaned_text": "HM?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 9,
+    "speaker": "NARRATION",
+    "raw_text": "OH YEAH! I FOUND IT.",
+    "cleaned_text": "OH YEAH! I FOUND IT.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 10,
+    "speaker": "character1",
+    "raw_text": "I DON'T REALLY MIND GIVING IT BACK, BUT MY FELLOW CLUB MEMBERS HAVE TAKEN A LIKING AM TO IT. I'D AT LEAST LIKE AN EXPLA- NATION.",
+    "cleaned_text": "I DON'T REALLY MIND GIVING IT BACK, BUT MY FELLOW CLUB MEMBERS HAVE TAKEN A LIKING AM TO IT. I'D AT LEAST LIKE AN EXPLANATION.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 11,
+    "speaker": "character5",
+    "raw_text": "...",
+    "cleaned_text": "...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 12,
+    "speaker": "NARRATION",
+    "raw_text": "NATIONALLY, THE AVERAGE NUMBER OF UNEXPLAINED DEATHS AND MISSING PERSONS EXCEEDS 10,000 ANNUALLY.",
+    "cleaned_text": "NATIONALLY, THE AVERAGE NUMBER OF UNEXPLAINED DEATHS AND MISSING PERSONS EXCEEDS 10,000 ANNUALLY.",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

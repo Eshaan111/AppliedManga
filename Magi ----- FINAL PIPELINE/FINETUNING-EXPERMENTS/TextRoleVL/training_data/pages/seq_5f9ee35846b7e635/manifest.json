@@ -1,0 +1,169 @@
+{
+  "sequence_id": "seq_5f9ee35846b7e635",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Takuan."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Hmm?"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "How much longer will that man be here...?"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "You mean Musashi?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "I would be grateful if he left as soon as possible."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "We cannot allow someone who has slain so many men to stay here for forever."
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "I see ..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "mustn't we, as followers of Buddha,"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Accept a man even if ..."
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "No, especially because he is a criminal?"
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "..."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "Oh, oh?"
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "impatience won't get you walking again."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Hmph!"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "TAKEZO!"
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL3",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T6",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T3",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG3:T1",
+      "tail_id": "PG3:TAIL2"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T3",
+      "tail_id": "PG3:TAIL3"
+    }
+  ]
+}

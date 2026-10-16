@@ -1,0 +1,305 @@
+{
+  "sequence_id": "seq_41d68dfc426cc19e",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "I made some okayu with potatoes today."
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "There's a whole lot!"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "Hmph."
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Oh, working hard there, OTSU? Be careful ..."
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Otsu's all happy because she can be with Master more since he can't fight."
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "health- transformation"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "Not hungry."
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Huh!?"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "If--"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "If you don't eat ..."
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "Not hungry right now."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Musashi."
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "Will you not eat?"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "It was delicious."
+    },
+    {
+      "id": "PG2:T4",
+      "page": 2,
+      "text": "A bit salty though..."
+    },
+    {
+      "id": "PG2:T5",
+      "page": 2,
+      "text": "I'll... have some later."
+    },
+    {
+      "id": "PG2:T6",
+      "page": 2,
+      "text": "I don't want any right now."
+    },
+    {
+      "id": "PG2:T7",
+      "page": 2,
+      "text": "here."
+    },
+    {
+      "id": "PG2:T8",
+      "page": 2,
+      "text": "AH. Later"
+    },
+    {
+      "id": "PG2:T9",
+      "page": 2,
+      "text": "There we go."
+    },
+    {
+      "id": "PG2:T10",
+      "page": 2,
+      "text": "Are you in pain?"
+    },
+    {
+      "id": "PG2:T11",
+      "page": 2,
+      "text": "A single stroke of the sword with everything he had from behind..."
+    },
+    {
+      "id": "PG2:T12",
+      "page": 2,
+      "text": "Even the Yoshioka couldn't care about how they look to others."
+    },
+    {
+      "id": "PG2:T13",
+      "page": 2,
+      "text": "Stay here a while and recuperate."
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "OTSU will stay here by your side."
+    },
+    {
+      "id": "PG3:T2",
+      "page": 3,
+      "text": "Eh."
+    },
+    {
+      "id": "PG3:T3",
+      "page": 3,
+      "text": "Oh?"
+    },
+    {
+      "id": "PG3:T4",
+      "page": 3,
+      "text": "Listen, Musashi."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL2",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL3",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL4",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL5",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL6",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL7",
+      "page": 1
+    },
+    {
+      "id": "PG1:TAIL8",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL2",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL3",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL4",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL5",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL6",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL7",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL8",
+      "page": 2
+    },
+    {
+      "id": "PG2:TAIL9",
+      "page": 2
+    },
+    {
+      "id": "PG3:TAIL1",
+      "page": 3
+    },
+    {
+      "id": "PG3:TAIL2",
+      "page": 3
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T1",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG1:T2",
+      "tail_id": "PG1:TAIL2"
+    },
+    {
+      "text_id": "PG1:T3",
+      "tail_id": "PG1:TAIL4"
+    },
+    {
+      "text_id": "PG1:T4",
+      "tail_id": "PG1:TAIL7"
+    },
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL5"
+    },
+    {
+      "text_id": "PG1:T7",
+      "tail_id": "PG1:TAIL3"
+    },
+    {
+      "text_id": "PG1:T8",
+      "tail_id": "PG1:TAIL6"
+    },
+    {
+      "text_id": "PG1:T10",
+      "tail_id": "PG1:TAIL8"
+    },
+    {
+      "text_id": "PG2:T1",
+      "tail_id": "PG2:TAIL8"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL1"
+    },
+    {
+      "text_id": "PG2:T5",
+      "tail_id": "PG2:TAIL4"
+    },
+    {
+      "text_id": "PG2:T6",
+      "tail_id": "PG2:TAIL2"
+    },
+    {
+      "text_id": "PG2:T7",
+      "tail_id": "PG2:TAIL3"
+    },
+    {
+      "text_id": "PG2:T8",
+      "tail_id": "PG2:TAIL9"
+    },
+    {
+      "text_id": "PG2:T9",
+      "tail_id": "PG2:TAIL6"
+    },
+    {
+      "text_id": "PG2:T10",
+      "tail_id": "PG2:TAIL5"
+    },
+    {
+      "text_id": "PG2:T11",
+      "tail_id": "PG2:TAIL7"
+    },
+    {
+      "text_id": "PG2:T12",
+      "tail_id": "PG2:TAIL7"
+    },
+    {
+      "text_id": "PG3:T2",
+      "tail_id": "PG3:TAIL1"
+    },
+    {
+      "text_id": "PG3:T4",
+      "tail_id": "PG3:TAIL2"
+    }
+  ]
+}

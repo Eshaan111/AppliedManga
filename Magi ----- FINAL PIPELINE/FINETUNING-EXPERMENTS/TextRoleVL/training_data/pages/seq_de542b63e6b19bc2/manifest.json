@@ -1,0 +1,115 @@
+{
+  "sequence_id": "seq_de542b63e6b19bc2",
+  "texts": [
+    {
+      "id": "PG1:T1",
+      "page": 1,
+      "text": "Go"
+    },
+    {
+      "id": "PG1:T2",
+      "page": 1,
+      "text": "Go for"
+    },
+    {
+      "id": "PG1:T3",
+      "page": 1,
+      "text": "(20)"
+    },
+    {
+      "id": "PG1:T4",
+      "page": 1,
+      "text": "Is it trying to swallow the cursed object and the students all at once?"
+    },
+    {
+      "id": "PG1:T5",
+      "page": 1,
+      "text": "Crap!"
+    },
+    {
+      "id": "PG1:T6",
+      "page": 1,
+      "text": "Our car"
+    },
+    {
+      "id": "PG1:T7",
+      "page": 1,
+      "text": "Giur"
+    },
+    {
+      "id": "PG1:T8",
+      "page": 1,
+      "text": "Our"
+    },
+    {
+      "id": "PG1:T9",
+      "page": 1,
+      "text": "So"
+    },
+    {
+      "id": "PG1:T10",
+      "page": 1,
+      "text": "I'm too late!"
+    },
+    {
+      "id": "PG1:T11",
+      "page": 1,
+      "text": "He was short- tempered and stubborn."
+    },
+    {
+      "id": "PG1:T12",
+      "page": 1,
+      "text": "no one went to see him besides me."
+    },
+    {
+      "id": "PG1:T13",
+      "page": 1,
+      "text": "\"Don't end up like me,\" huh?"
+    },
+    {
+      "id": "PG1:T14",
+      "page": 1,
+      "text": "I guess so. But..."
+    },
+    {
+      "id": "PG2:T1",
+      "page": 2,
+      "text": "Ask"
+    },
+    {
+      "id": "PG2:T2",
+      "page": 2,
+      "text": "ITA- DOR!?!"
+    },
+    {
+      "id": "PG2:T3",
+      "page": 2,
+      "text": "This is the fourth floor!"
+    },
+    {
+      "id": "PG3:T1",
+      "page": 3,
+      "text": "I think you died peacefully, grandpa."
+    }
+  ],
+  "tails": [
+    {
+      "id": "PG1:TAIL1",
+      "page": 1
+    },
+    {
+      "id": "PG2:TAIL1",
+      "page": 2
+    }
+  ],
+  "text_tail_links": [
+    {
+      "text_id": "PG1:T5",
+      "tail_id": "PG1:TAIL1"
+    },
+    {
+      "text_id": "PG2:T2",
+      "tail_id": "PG2:TAIL1"
+    }
+  ]
+}

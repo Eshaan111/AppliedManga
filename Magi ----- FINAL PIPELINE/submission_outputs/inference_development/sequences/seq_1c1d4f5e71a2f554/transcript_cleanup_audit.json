@@ -1,0 +1,227 @@
+[
+  {
+    "page_index": 0,
+    "row_index": 0,
+    "speaker": "character2",
+    "raw_text": "IS THERE SOME KIND OF PROBLEM WITH THAT? IT'S ONLY FISH. WHY CAN'T YOU JUST TOUCH IT?",
+    "cleaned_text": "IS THERE SOME KIND OF PROBLEM WITH THAT? IT'S ONLY FISH. WHY CAN'T YOU JUST TOUCH IT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "ARE YOU KIDDING ME!?",
+    "cleaned_text": "ARE YOU KIDDING ME!?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 2,
+    "speaker": "UNKNOWN",
+    "raw_text": "IT'S RAW FISH! IT'S ALL SLIMY AND SLIPPERY AND COLD!",
+    "cleaned_text": "IT\u2019S RAW FISH! IT\u2019S ALL SLIMY AND SLIPPERY AND COLD!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 3,
+    "speaker": "character1",
+    "raw_text": "IT FEELS LIKE IT'S ALIVE!",
+    "cleaned_text": "IT FEELS LIKE IT\u2019S ALIVE!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "I CAN'T... JUST THINKING ABOUT IT 15 MAKING ME SICK...",
+    "cleaned_text": "I CAN'T... JUST THINKING ABOUT IT IS MAKING ME SICK...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "I'M GONNA BE HONEST, YOU SOUND KIND OF LIKE A LITTLE GIRL RIGHT NOW...",
+    "cleaned_text": "I\u2019M GONNA BE HONEST, YOU SOUND KIND OF LIKE A LITTLE GIRL RIGHT NOW...",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 6,
+    "speaker": "character2",
+    "raw_text": "It'S NOt LIkE It'LL ACTUALLY BE LIVE FISH, RIGHT? AND IF YOU DON'T USE It, IT'LL JUST GET THROWN AWAY!",
+    "cleaned_text": "IT\u2019S NOT LIKE IT\u2019LL ACTUALLY BE LIVE FISH, RIGHT? AND IF YOU DON\u2019T USE IT, IT\u2019LL JUST GET THROWN AWAY!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 7,
+    "speaker": "character2",
+    "raw_text": "THAT WOULD BE RUDE TO THE FISH!",
+    "cleaned_text": "THAT WOULD BE RUDE TO THE FISH!",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 0,
+    "row_index": 8,
+    "speaker": "character2",
+    "raw_text": "I DON'T EVEN KNOW HOW TO RESPOND TO THAT..",
+    "cleaned_text": "I DON'T EVEN KNOW HOW TO RESPOND TO THAT..",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "WELL, IF IT ISN'T ALIVE THEN I GUESS I COULD JUST BARELY DO IT...",
+    "cleaned_text": "WELL, IF IT ISN'T ALIVE THEN I GUESS I COULD JUST BARELY DO IT...",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 1,
+    "speaker": "NARRATION",
+    "raw_text": "SOMEONE TOLD ME",
+    "cleaned_text": "SOMEONE TOLD ME",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 2,
+    "speaker": "NARRATION",
+    "raw_text": "THAT THEY EVEN GOT A FISH TANK LAST YEAR.",
+    "cleaned_text": "THAT THEY EVEN GOT A FISH TANK LAST YEAR.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 3,
+    "speaker": "character5",
+    "raw_text": "WOW, THEY'RE REALLY GOING ALL- OUT.",
+    "cleaned_text": "WOW, THEY'RE REALLY GOING ALL-OUT.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 4,
+    "speaker": "character4",
+    "raw_text": "RIGHT?",
+    "cleaned_text": "RIGHT?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 5,
+    "speaker": "character4",
+    "raw_text": "IT'LL BE KIND OF GROSS, THINK YOU'LL BE OKAY?",
+    "cleaned_text": "IT\u2019LL BE KIND OF GROSS, THINK YOU\u2019LL BE OKAY?",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 6,
+    "speaker": "NARRATION",
+    "raw_text": "DAUGHTER OF THE PRESIDENT OF A SHIP- BUILDING (oMPANY",
+    "cleaned_text": "DAUGHTER OF THE PRESIDENT OF A SHIP-BUILDING COMPANY",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 7,
+    "speaker": "character5",
+    "raw_text": "I'M A DOCTOR'S SON, REMEM- BER? I'LL BE FINE.",
+    "cleaned_text": "I\u2019M A DOCTOR\u2019S SON, REMEMBER? I\u2019LL BE FINE.",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 1,
+    "row_index": 8,
+    "speaker": "NARRATION",
+    "raw_text": "SON OF A HOSPITAL DIRECTOR",
+    "cleaned_text": "SON OF A HOSPITAL DIRECTOR",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 0,
+    "speaker": "character1",
+    "raw_text": "THAT SOUNDS LIKE THEY'RE GOING TO BE ALIVE....",
+    "cleaned_text": "THAT SOUNDS LIKE THEY'RE GOING TO BE ALIVE....",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 1,
+    "speaker": "character2",
+    "raw_text": "WE'RE GOING TO BE CUTTING UP LIVE FISH, AREN'T WE?",
+    "cleaned_text": "WE'RE GOING TO BE CUTTING UP LIVE FISH, AREN'T WE?",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 2,
+    "speaker": "character2",
+    "raw_text": "WELL,",
+    "cleaned_text": "WELL,",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 3,
+    "speaker": "character2",
+    "raw_text": "YOU DO NEED THAT TO KEEP THEM ALIVE.... YEAH.",
+    "cleaned_text": "YOU DO NEED THAT TO KEEP THEM ALIVE.... YEAH.",
+    "changed": false,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 4,
+    "speaker": "character1",
+    "raw_text": "I CAN'T EVEN TOUCH DEAD FISH! AND NOW THEY'RE GOING TO BE ALIVE!!? YOu HAVE GOT TO BE KIDDING ME!!",
+    "cleaned_text": "I CAN'T EVEN TOUCH DEAD FISH! AND NOW THEY'RE GOING TO BE ALIVE!!? YOU HAVE GOT TO BE KIDDING ME!!",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 5,
+    "speaker": "character2",
+    "raw_text": "W.... WELL TELLING MEISN'T GOING TO SOLVE ANY- THING....",
+    "cleaned_text": "W.... WELL TELLING ME ISN'T GOING TO SOLVE ANYTHING....",
+    "changed": true,
+    "empty_output_fallback": false
+  },
+  {
+    "page_index": 2,
+    "row_index": 6,
+    "speaker": "character1",
+    "raw_text": "IF WE DO COOKING PRACTICE LIKE THIS...",
+    "cleaned_text": "IF WE DO COOKING PRACTICE LIKE THIS...",
+    "changed": false,
+    "empty_output_fallback": false
+  }
+]

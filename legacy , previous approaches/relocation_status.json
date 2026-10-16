@@ -1,0 +1,32 @@
+[
+  {
+    "project": "1pageTest",
+    "status": "contents moved; original container retained",
+    "remaining": []
+  },
+  {
+    "project": "1pageTest-EVERYTHING-GOOD",
+    "status": "folder moved",
+    "remaining": []
+  },
+  {
+    "project": "1pageTest-EVERYTHING-ULTRA-GOOD",
+    "status": "folder moved",
+    "remaining": []
+  },
+  {
+    "project": "manga_vlm_crashcourse",
+    "status": "folder moved",
+    "remaining": []
+  },
+  {
+    "project": "MultiModelSystem",
+    "status": "folder moved",
+    "remaining": []
+  },
+  {
+    "project": "MultiPageTillAssociationPipeline",
+    "status": "folder moved",
+    "remaining": []
+  }
+]

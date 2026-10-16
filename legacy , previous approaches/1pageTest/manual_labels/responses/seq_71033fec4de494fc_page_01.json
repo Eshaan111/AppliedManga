@@ -1,0 +1,37 @@
+{
+  "sequence_id": "seq_71033fec4de494fc",
+  "page_number": 1,
+  "page_sha256": "0fc4aa5db3b4ef4b232bc1b7dabefefc7fe38adcd5045697fc8468c39119de49",
+  "detections_sha256": "413c74e109af85430f0d2afda6a92b83f347e1426519456bcde325a10dd69ba0",
+  "answer": "character1 - A1, A4, A7\ncharacter2 - A2, A3\ncharacter3 - A6, A5",
+  "rejected_answer": "",
+  "character_appearances": {
+    "character1": [
+      "A1",
+      "A4",
+      "A7"
+    ],
+    "character2": [
+      "A2",
+      "A3"
+    ],
+    "character3": [
+      "A6",
+      "A5"
+    ]
+  },
+  "rejected_appearances": [],
+  "unassigned_appearances": [],
+  "appearance_to_detection": {
+    "A1": "C1",
+    "A2": "C2",
+    "A3": "C3",
+    "A4": "C4",
+    "A5": "C5",
+    "A6": "C6",
+    "A7": "C7"
+  },
+  "bubble_speaker_overrides": {
+    "B8": "character3"
+  }
+}

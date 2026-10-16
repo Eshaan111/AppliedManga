@@ -1,0 +1,20 @@
+[Page 01.png]
+character4: COLE:
+character5: THAT WAS...
+NARRATION: SFX: SCREECH
+character5: JUST A RAT.
+character3: SHEESH THAT SCARED ME.
+character2: COME TO THINK OF IT...
+
+[Page 02.png]
+character6: ...THERE ARE QUITE A FEW...
+UNKNOWN: RAT TRAPS.. HERE.
+character6: YES, THERE ARE A LOT OF RATS.
+character4: I HATE THEM, REALLY.
+
+[Page 03.png]
+character5: WHY DON'T you GET...
+character5: A CAT?
+character5: A CAT?
+character5: THAT WOULD MAKE SENSE, BUT. THEY SAY SOME OF THE PEOPLE HERE DON'T LIKE CATS, SO...
+character5: AH...
